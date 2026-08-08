@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+<title>Newz</title>
+
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1c1730">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Newz">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="icon" href="icon-192.png">
+
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  html, body {
+    height: 100%;
+    overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #1c1730;
+  }
+
+  .app {
+    position: fixed;
+    inset: 0;
+  }
+
+  .feed {
+    height: 100dvh;
+    width: 100vw;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    scrollbar-width: none;
+  }
+  .feed::-webkit-scrollbar { display: none; }
+
+  .card {
+    scroll-snap-align: start;
+    height: 100dvh;
+    width: 100vw;
+    padding: calc(env(safe-area-inset-top) + 78px) 22px calc(env(safe-area-inset-bottom) + 26px);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .doodle { position: absolute; opacity: .16; pointer-events: none; }
+  .doodle.d1 { top: -30px; right: -30px; width: 160px; height: 160px; border-radius: 50%; border: 8px solid #fff; }
+  .doodle.d2 { bottom: 140px; left: -40px; width: 100px; height: 100px; border-radius: 50%; background: #fff; }
+  .doodle.d3 { top: 45%; right: 16px; font-size: 40px; color: #fff; }
+
+  .badge-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; }
+  .badge {
+    padding: 7px 15px; border-radius: 999px;
+    font-size: 12px; font-weight: 800; color: #1c1730;
+    background: #fff; border: 2px solid #1c1730;
+  }
+  .mascot {
+    width: 54px; height: 54px; border-radius: 50%;
+    background: #fff; border: 3px solid #1c1730;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 25px;
+  }
+
+  .card h2 { font-size: 23px; font-weight: 800; line-height: 1.32; color: #1c1730; margin-bottom: 12px; position: relative; z-index: 1; }
+  .card .teaser p { font-size: 15px; color: #1c1730; opacity: .85; line-height: 1.6; margin-bottom: 18px; font-weight: 600; }
+
+  .spacer { flex: 1; }
+
+  .cta-btn {
+    align-self: flex-start;
+    display: flex; align-items: center; gap: 6px;
+    padding: 13px 22px;
+    border-radius: 999px;
+    border: none;
+    background: #1c1730;
+    color: #fff;
+    font-size: 14.5px; font-weight: 800;
+    cursor: pointer;
+    margin-bottom: 8px;
+    position: relative; z-index: 1;
+  }
+  .read-time { font-size: 12px; color: #1c1730; opacity: .7; font-weight: 700; margin-bottom: 6px; }
+  .source-line { font-size: 11.5px; color: #1c1730; opacity: .6; font-weight: 700; margin-top: 4px; }
+
+  .rate-corner {
+    position: absolute; bottom: calc(env(safe-area-inset-bottom) + 28px); right: 22px;
+    display: flex; flex-direction: column; gap: 12px; z-index: 2;
+  }
+  .rate-icon {
+    width: 46px; height: 46px; border-radius: 50%;
+    background: rgba(255,255,255,.85); border: none;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px; cursor: pointer;
+  }
+  .rate-icon.active-like { background: #1d9e5a; }
+  .rate-icon.active-dislike { background: #e04b4b; }
+
+  .reader {
+    display: none;
+    position: absolute; inset: 10px;
+    top: calc(env(safe-area-inset-top) + 60px);
+    bottom: calc(env(safe-area-inset-bottom) + 16px);
+    background: #fff;
+    border-radius: 24px;
+    padding: 22px;
+    flex-direction: column;
+    z-index: 3;
+    overflow-y: auto;
+  }
+  .card.expanded .teaser, .card.expanded .cta-btn, .card.expanded .read-time, .card.expanded .badge-row, .card.expanded h2, .card.expanded .rate-corner { display: none; }
+  .card.expanded .reader { display: flex; }
+
+  .reader-close {
+    align-self: flex-start;
+    background: none; border: none;
+    color: #9b95a6; font-size: 13px; font-weight: 700;
+    margin-bottom: 14px; cursor: pointer; padding: 0;
+  }
+  .reader h3 { font-size: 18px; font-weight: 800; color: #1c1730; margin-bottom: 12px; line-height: 1.3; }
+  .reader-badge { align-self: flex-start; font-size: 11px; font-weight: 800; color: #fff; padding: 5px 12px; border-radius: 999px; margin-bottom: 12px; }
+  .reader p.body { font-size: 14.5px; color: #3a3450; line-height: 1.75; margin-bottom: 18px; }
+  .reader-footer { display: flex; align-items: center; justify-content: space-between; font-size: 13px; margin-top: auto; padding-top: 12px; border-top: 1.5px solid #f1eef7; }
+  .reader-footer .source { color: #9b95a6; font-weight: 700; }
+  .reader-footer a { color: #1c1730; font-weight: 800; text-decoration: none; }
+
+  .topbar {
+    position: fixed; top: 0; left: 0; right: 0;
+    padding: calc(env(safe-area-inset-top) + 14px) 18px 40px;
+    display: flex; align-items: center; justify-content: space-between;
+    z-index: 5;
+    background: linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,0));
+    pointer-events: none;
+  }
+  .topbar > * { pointer-events: auto; }
+  .menu-btn {
+    width: 40px; height: 40px; border-radius: 50%;
+    background: rgba(255,255,255,.22); border: none;
+    color: #fff; font-size: 18px;
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer;
+  }
+  .logo { color: #fff; font-size: 18px; font-weight: 800; letter-spacing: -0.5px; }
+
+  .sidebar {
+    position: fixed; top: 0; left: -300px; bottom: 0;
+    width: 280px;
+    background: #fff;
+    z-index: 20;
+    padding: calc(env(safe-area-inset-top) + 20px) 20px 20px;
+    transition: left .25s ease;
+    overflow-y: auto;
+  }
+  .sidebar.open { left: 0; }
+  .sidebar-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+  .sidebar h2 { font-size: 18px; font-weight: 800; color: #1c1730; }
+  .sidebar-close {
+    width: 34px; height: 34px; border-radius: 50%;
+    background: #f1eef7; border: none; color: #1c1730; font-size: 16px;
+    cursor: pointer;
+  }
+  .sidebar p.sub { font-size: 12.5px; color: #6b6577; font-weight: 600; margin-bottom: 18px; }
+  .side-topic {
+    display: flex; align-items: center; gap: 10px;
+    width: 100%; text-align: left;
+    padding: 12px 14px; border-radius: 14px; border: 2px solid #f1eef7;
+    background: #fff; color: #1c1730; font-size: 14.5px; font-weight: 700;
+    cursor: pointer; margin-bottom: 10px;
+  }
+  .side-topic.active { background: #1c1730; border-color: #1c1730; color: #fff; }
+  .side-topic .dot { width: 10px; height: 10px; border-radius: 50%; }
+
+  .backdrop {
+    position: fixed; inset: 0; background: rgba(0,0,0,.4);
+    z-index: 15; display: none;
+  }
+  .backdrop.show { display: block; }
+
+  .empty-msg {
+    position: fixed; inset: 0; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; text-align: center;
+    color: #fff; padding: 40px; gap: 10px;
+  }
+</style>
+</head>
+<body>
+
+<div class="app">
+  <div class="topbar">
+    <button class="menu-btn" id="menuBtn" aria-label="Apri menu interessi">☰</button>
+    <span class="logo">Newz</span>
+    <span style="width:40px"></span>
+  </div>
+
+  <div class="feed" id="feed"></div>
+</div>
+
+<div class="backdrop" id="backdrop"></div>
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-header">
+    <h2>I tuoi interessi</h2>
+    <button class="sidebar-close" id="sidebarClose" aria-label="Chiudi">✕</button>
+  </div>
+  <p class="sub">Tocca per mostrare solo quel tipo di notizie</p>
+  <div id="sideTopics"></div>
+</div>
+
+<script>
+const topics = [
+  {id:'politica', label:'Politica', emoji:'🏛️'},
+  {id:'mondo', label:'Mondo', emoji:'🌍'},
+  {id:'sport', label:'Sport', emoji:'⚽'},
+  {id:'scienza', label:'Scienza', emoji:'🔬'},
+  {id:'storia', label:'Storia', emoji:'⏳'},
+  {id:'geografia', label:'Geografia', emoji:'🗺️'},
+  {id:'tech', label:'Tecnologia', emoji:'💻'}
+];
+
+const selected = new Set();
+
+const catMeta = {
+  politica:  { label:'Politica',    color:'#FF7A5C', emoji:'🏛️' },
+  mondo:     { label:'Mondo',       color:'#5B8DEF', emoji:'🌍' },
+  sport:     { label:'Sport',       color:'#7BC142', emoji:'⚽' },
+  scienza:   { label:'Scienza',     color:'#2DD4A7', emoji:'🔬' },
+  storia:    { label:'Storia',      color:'#F5B942', emoji:'⏳' },
+  geografia: { label:'Geografia',   color:'#FF6FA5', emoji:'🗺️' },
+  tech:      { label:'Tecnologia',  color:'#8B5FE8', emoji:'💻' }
+};
+
+const news = [
+  {cat:'mondo', title:'Vertice UE su energia e clima: accordo raggiunto sui nuovi obiettivi 2035', summary:'I leader europei trovano un\'intesa dopo due giorni di negoziati serrati sulle quote di riduzione emissioni.', source:'Demo', url:'#', fullSummary:'Dopo due giorni di negoziati serrati a Bruxelles, i capi di stato e di governo dell\'Unione Europea hanno raggiunto un accordo sui nuovi obiettivi climatici per il 2035. Questo è un contenuto dimostrativo: verrà sostituito dalle notizie reali non appena i feed live vengono caricati.'},
+  {cat:'politica', title:'Nuova manovra: le misure principali su fisco e pensioni', summary:'Il testo passa in consiglio dei ministri, ora l\'esame parlamentare.', source:'Demo', url:'#', fullSummary:'Contenuto dimostrativo in attesa del caricamento delle notizie reali.'},
+  {cat:'scienza', title:'Scoperta una nuova classe di materiali superconduttori', summary:'Il team italiano pubblica i risultati su Nature.', source:'Demo', url:'#', fullSummary:'Contenuto dimostrativo in attesa del caricamento delle notizie reali.'},
+  {cat:'sport', title:'Serie A, colpo di scena nella corsa scudetto', summary:'Ribaltone in classifica all\'ultima giornata.', source:'Demo', url:'#', fullSummary:'Contenuto dimostrativo in attesa del caricamento delle notizie reali.'},
+  {cat:'storia', title:'Ritrovato un archivio inedito sul Risorgimento', summary:'Gli storici rivalutano alcuni eventi chiave.', source:'Demo', url:'#', fullSummary:'Contenuto dimostrativo in attesa del caricamento delle notizie reali.'},
+  {cat:'geografia', title:'Nuova mappatura satellitare delle coste italiane', summary:'Un progetto europeo aggiorna i dati costieri.', source:'Demo', url:'#', fullSummary:'Contenuto dimostrativo: per la geografia non è ancora collegata una fonte live.'},
+  {cat:'tech', title:'Nuovo chip italiano promette il triplo dell\'efficienza energetica', summary:'Una startup di Pisa presenta un prototipo.', source:'Demo', url:'#', fullSummary:'Contenuto dimostrativo in attesa del caricamento delle notizie reali.'}
+];
+
+function renderSidebar(){
+  const el = document.getElementById('sideTopics');
+  el.innerHTML = '';
+  topics.forEach(t => {
+    const meta = catMeta[t.id];
+    const btn = document.createElement('button');
+    btn.className = 'side-topic' + (selected.has(t.id) ? ' active' : '');
+    btn.innerHTML = `<span class="dot" style="background:${meta.color}"></span>${meta.emoji} ${t.label}`;
+    btn.onclick = () => {
+      if (selected.has(t.id)) selected.delete(t.id); else selected.add(t.id);
+      renderSidebar();
+      renderFeed();
+    };
+    el.appendChild(btn);
+  });
+}
+
+let currentItems = [];
+
+function renderFeed(){
+  const feed = document.getElementById('feed');
+  let items = news.filter(n => selected.size === 0 || selected.has(n.cat));
+  currentItems = items;
+
+  if (items.length === 0) {
+    feed.innerHTML = '<div class="empty-msg"><div style="font-size:40px">🤔</div><p style="font-weight:700">Nessuna notizia per questi interessi</p></div>';
+    return;
+  }
+
+  feed.innerHTML = items.map((n, i) => {
+    const meta = catMeta[n.cat];
+    return `
+    <div class="card" id="card-${i}" style="background:${meta.color}">
+      <div class="doodle d1"></div>
+      <div class="doodle d2"></div>
+      <div class="doodle d3">+</div>
+
+      <div class="badge-row">
+        <span class="badge">${meta.label}</span>
+        <span class="mascot">${meta.emoji}</span>
+      </div>
+      <h2>${n.title}</h2>
+      <div class="teaser"><p>${n.summary}</p></div>
+      <div class="spacer"></div>
+      <p class="read-time">${estimateReadTime(n.fullSummary)}</p>
+      <button class="cta-btn" onclick="toggleCard(${i})">📖 Leggi il riassunto</button>
+      <p class="source-line">${n.source}</p>
+
+      <div class="rate-corner">
+        <button class="rate-icon" id="like-${i}" onclick="rate(${i}, 'like')" aria-label="Mi interessa">👍</button>
+        <button class="rate-icon" id="dislike-${i}" onclick="rate(${i}, 'dislike')" aria-label="Non mi interessa">👎</button>
+      </div>
+
+      <div class="reader">
+        <button class="reader-close" onclick="toggleCard(${i})">← Torna alla card</button>
+        <span class="reader-badge" style="background:${meta.color}">${meta.label}</span>
+        <h3>${n.title}</h3>
+        <p class="body" id="body-${i}">${n.fullSummary}</p>
+        <div class="reader-footer">
+          <span class="source">${n.source}</span>
+          <a href="${n.url}" target="_blank">Articolo originale ↗</a>
+        </div>
+      </div>
+    </div>
+  `;
+  }).join('');
+}
+
+function toggleCard(i){
+  document.getElementById('card-' + i).classList.toggle('expanded');
+}
+
+function rate(i, type){
+  const likeBtn = document.getElementById('like-' + i);
+  const dislikeBtn = document.getElementById('dislike-' + i);
+  likeBtn.classList.remove('active-like');
+  dislikeBtn.classList.remove('active-dislike');
+  if (type === 'like') likeBtn.classList.add('active-like');
+  else dislikeBtn.classList.add('active-dislike');
+}
+
+function estimateReadTime(text){
+  const words = (text || '').trim().split(/\s+/).filter(Boolean).length;
+  const minutes = Math.max(1, Math.round(words / 200));
+  return minutes + ' min di lettura';
+}
+
+function stripHtml(html){
+  const tmp = document.createElement('div');
+  tmp.innerHTML = html || '';
+  return (tmp.textContent || tmp.innerText || '').trim();
+}
+
+const menuBtn = document.getElementById('menuBtn');
+const sidebar = document.getElementById('sidebar');
+const backdrop = document.getElementById('backdrop');
+const sidebarClose = document.getElementById('sidebarClose');
+
+function openSidebar(){ sidebar.classList.add('open'); backdrop.classList.add('show'); }
+function closeSidebar(){ sidebar.classList.remove('open'); backdrop.classList.remove('show'); }
+menuBtn.onclick = openSidebar;
+sidebarClose.onclick = closeSidebar;
+backdrop.onclick = closeSidebar;
+
+async function loadRealNews(){
+  try {
+    const res = await fetch('news.json?t=' + Date.now());
+    const data = await res.json();
+    if (!data.items || !data.items.length) throw new Error('news.json vuoto');
+    news.length = 0;
+    news.push(...data.items);
+    renderFeed();
+  } catch (err) {
+    console.log('news.json non disponibile, resto sui dati demo:', err);
+  }
+}
+
+renderSidebar();
+renderFeed();
+loadRealNews();
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  });
+}
+</script>
+</body>
+</html>
