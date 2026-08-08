@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-08T14:07:54.941Z",
+  "generatedAt": "2026-08-08T16:02:37.352Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "L&#8217;invito di Mattarella a rispettare la «dignità delle persone» migranti",
+      "summary": "Lo ha detto per il 70esimo anniversario del disastro di Marcinelle, proprio mentre è in corso uno scontro tra Italia e Spagna sul controllo …",
+      "fullSummary": "Lo ha detto per il 70esimo anniversario del disastro di Marcinelle, proprio mentre è in corso uno scontro tra Italia e Spagna sul controllo dei confini",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/08/mattarella-marcinelle-messaggio-flussi-migratori/"
+    },
     {
       "cat": "politica",
       "title": "Perché Conte è stato ascoltato dalla Commissione d’inchiesta sul Covid",
@@ -26,12 +34,28 @@
       "url": "https://www.ilpost.it/2026/08/06/giorgetti-governo-italiano-clausola-salvaguardia-europa-difesa-energia/"
     },
     {
-      "cat": "politica",
-      "title": "La Camera ha negato l&#8217;accesso alle chat di Delmastro",
-      "summary": "Tra le molte proteste dell'opposizione ha deciso cioè di non renderle accessibili alla procura di Roma, che le chiede da settimane",
-      "fullSummary": "Tra le molte proteste dell'opposizione ha deciso cioè di non renderle accessibili alla procura di Roma, che le chiede da settimane",
+      "cat": "mondo",
+      "title": "Le foto dei parchi di Londra ingialliti dalla siccità",
+      "summary": "A causa dell'assenza di pioggia e delle alte temperature i prati, solitamente verdeggianti, sono diventati aridi",
+      "fullSummary": "A causa dell'assenza di pioggia e delle alte temperature i prati, solitamente verdeggianti, sono diventati aridi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/05/storia-chat-andrea-delmastro-caroccia-procura/"
+      "url": "https://www.ilpost.it/2026/08/08/parchi-londra-gialli-siccita/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Colombia si è insediato il nuovo presidente Abelardo de la Espriella, di estrema destra",
+      "summary": "",
+      "fullSummary": "In Colombia si è insediato il nuovo presidente Abelardo de la Espriella, di estrema destra",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/08/colombia-insediamento-presidente-espriella/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Todd Blanche è il nuovo procuratore generale degli Stati Uniti",
+      "summary": "È molto, molto vicino a Trump, che da sempre prova a controllare il dipartimento di Giustizia minando la sua indipendenza",
+      "fullSummary": "È molto, molto vicino a Trump, che da sempre prova a controllare il dipartimento di Giustizia minando la sua indipendenza",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/08/todd-blanche-procuratore-stati-uniti-trump/"
     },
     {
       "cat": "mondo",
@@ -42,28 +66,20 @@
       "url": "https://www.ilpost.it/2026/08/08/aeroporto-lipsia-sabotaggi-importanza/"
     },
     {
-      "cat": "mondo",
-      "title": "Cosa vuol dire &#8220;reintrodurre i controlli&#8221; tra Italia e Spagna",
-      "summary": "E cosa cambia nella pratica, proprio ora che i viaggi sono molto frequenti",
-      "fullSummary": "E cosa cambia nella pratica, proprio ora che i viaggi sono molto frequenti",
+      "cat": "sport",
+      "title": "Ma come si fa a correre con questo caldo?",
+      "summary": "Una guida per chi non vuole svegliarsi alle 6 del mattino e non ha né un abbonamento in palestra né un tapis roulant a casa",
+      "fullSummary": "Una guida per chi non vuole svegliarsi alle 6 del mattino e non ha né un abbonamento in palestra né un tapis roulant a casa",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/08/controlli-italia-spagna/"
+      "url": "https://www.ilpost.it/2026/08/08/correre-con-il-caldo-cosa-fare-consigli/"
     },
     {
-      "cat": "mondo",
-      "title": "Tre persone sono state uccise in un bombardamento russo vicino a Kyiv",
-      "summary": "",
-      "fullSummary": "Tre persone sono state uccise in un bombardamento russo vicino a Kyiv",
+      "cat": "sport",
+      "title": "Dopo dieci anni un pugile italiano potrebbe diventare campione del mondo",
+      "summary": "Etinosa Oliha combatterà sabato sera a Dublino per il titolo mondiale dei pesi medi IBF",
+      "fullSummary": "Etinosa Oliha combatterà sabato sera a Dublino per il titolo mondiale dei pesi medi IBF",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/08/bombardamento-russo-kyiv-morti-incendio/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il Messico e il Perù hanno ripreso i rapporti diplomatici, interrotti per una disputa riguardante l&#8217;ex presidente peruviano Pedro Castillo",
-      "summary": "",
-      "fullSummary": "Il Messico e il Perù hanno ripreso i rapporti diplomatici, interrotti per una disputa riguardante l&#8217;ex presidente peruviano Pedro Castillo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/07/messico-peru-riprendono-rapporti-diplomatici/"
+      "url": "https://www.ilpost.it/2026/08/08/etinosa-oliha-match-titolo-mondiale-ibf-pugilato/"
     },
     {
       "cat": "sport",
@@ -80,22 +96,6 @@
       "fullSummary": "Per non ripetere la pessima scorsa stagione ha preso tanti calciatori giovani e promettenti, per una volta rischiando un po’",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/07/fiorentina-calciomercato-acquisti-2026-mastantuono-oulai-atta/"
-    },
-    {
-      "cat": "sport",
-      "title": "La prima volta del Tour de France femminile sul Mont Ventoux",
-      "summary": "Un'altra storica salita per una corsa ciclistica sempre più seguita; dopo la scalata c'è una nuova maglia gialla",
-      "fullSummary": "Un'altra storica salita per una corsa ciclistica sempre più seguita; dopo la scalata c'è una nuova maglia gialla",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/07/tour-de-france-femmes-mont-ventoux-2026/"
-    },
-    {
-      "cat": "sport",
-      "title": "Tuffarsi nella Senna da 20 metri d&#8217;altezza, a oltre 70 chilometri orari",
-      "summary": "Agli Europei di nuoto a Parigi tornano i tuffi da grandi altezze, forse la disciplina più spettacolare e pericolosa della manifestazione",
-      "fullSummary": "Agli Europei di nuoto a Parigi tornano i tuffi da grandi altezze, forse la disciplina più spettacolare e pericolosa della manifestazione",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/07/tuffi-senna-20-metri-sport-estremo-europei-nuoto-2026/"
     }
   ]
 }
