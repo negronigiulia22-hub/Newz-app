@@ -108,6 +108,7 @@ async function run() {
         if (articleText) {
           const aiSummary = await summarize(item.title, articleText);
           if (aiSummary) fullSummary = aiSummary;
+          await new Promise(r => setTimeout(r, 5000));
         }
         allNews.push({
           cat: src.cat,
