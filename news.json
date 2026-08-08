@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:57:02.256Z",
+  "generatedAt": "2026-08-08T14:07:54.941Z",
   "items": [
     {
       "cat": "politica",
@@ -67,6 +67,14 @@
     },
     {
       "cat": "sport",
+      "title": "Secondo il Telegraph, la UEFA avrebbe pagato una buonuscita a un&#8217;amante di Gianni Infantino quando era segretario dell&#8217;organizzazione",
+      "summary": "",
+      "fullSummary": "Secondo il Telegraph, la UEFA avrebbe pagato una buonuscita a un&#8217;amante di Gianni Infantino quando era segretario dell&#8217;organizzazione",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/08/inchiesta-uefa-pagamenti-amante-infantino/"
+    },
+    {
+      "cat": "sport",
       "title": "La Fiorentina sta facendo un calciomercato atipico per la Serie A",
       "summary": "Per non ripetere la pessima scorsa stagione ha preso tanti calciatori giovani e promettenti, per una volta rischiando un po’",
       "fullSummary": "Per non ripetere la pessima scorsa stagione ha preso tanti calciatori giovani e promettenti, per una volta rischiando un po’",
@@ -88,14 +96,6 @@
       "fullSummary": "Agli Europei di nuoto a Parigi tornano i tuffi da grandi altezze, forse la disciplina più spettacolare e pericolosa della manifestazione",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/07/tuffi-senna-20-metri-sport-estremo-europei-nuoto-2026/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il quinto oro di Chiara Pellacani agli Europei di nuoto",
-      "summary": "Stavolta insieme a Elisa Pizzini, nei tuffi sincronizzati da 3 metri: nessuna atleta italiana aveva vinto così tante gare in una sola edizio…",
-      "fullSummary": "Stavolta insieme a Elisa Pizzini, nei tuffi sincronizzati da 3 metri: nessuna atleta italiana aveva vinto così tante gare in una sola edizione",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/06/chiara-pellacani-elisa-pizzini-oro-tuffi-sincronizzati-europei-nuoto/"
     }
   ]
 }
