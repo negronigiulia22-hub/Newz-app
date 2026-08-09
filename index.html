@@ -27,19 +27,10 @@
     position: fixed;
     inset: 0;
   }
-  @media (min-width: 640px) {
-    .app {
-      left: 50%;
-      right: auto;
-      width: 480px;
-      transform: translateX(-50%);
-      box-shadow: 0 0 60px rgba(0,0,0,.35);
-    }
-  }
 
   .feed {
     height: 100dvh;
-    width: 100%;
+    width: 100vw;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
     scrollbar-width: none;
@@ -49,7 +40,7 @@
   .card {
     scroll-snap-align: start;
     height: 100dvh;
-    width: 100%;
+    width: 100vw;
     padding: calc(env(safe-area-inset-top) + 78px) 22px calc(env(safe-area-inset-bottom) + 26px);
     display: flex;
     flex-direction: column;
@@ -218,14 +209,7 @@
   <div id="sideTopics"></div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/@mozilla/readability/Readability.js"></script>
 <script>
-
-// Incolla qui la tua chiave gratuita di Google AI Studio (aistudio.google.com/apikey)
-// per attivare i riassunti AI da 2 minuti quando tocchi "Leggi il riassunto".
-const GEMINI_API_KEY = 'INCOLLA_QUI_LA_TUA_CHIAVE';
-const GEMINI_MODELS = ['gemini-2.5-flash', 'gemini-flash-latest', 'gemini-2.5-flash-lite', 'gemini-2.0-flash'];
-
 const topics = [
   {id:'politica', label:'Politica', emoji:'🏛️'},
   {id:'mondo', label:'Mondo', emoji:'🌍'},
@@ -327,67 +311,7 @@ function renderFeed(){
 }
 
 function toggleCard(i){
-  const card = document.getElementById('card-' + i);
-  card.classList.toggle('expanded');
-  if (card.classList.contains('expanded')) enrichSummary(i);
-}
-
-async function fetchArticleText(url){
-  const proxied = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url);
-  const res = await fetch(proxied);
-  const html = await res.text();
-  const doc = new DOMParser().parseFromString(html, 'text/html');
-  if (typeof Readability === 'undefined') throw new Error('estrattore non caricato');
-  const article = new Readability(doc).parse();
-  if (!article || !article.textContent || article.textContent.trim().length < 200) throw new Error('estrazione insufficiente');
-  return article.textContent.trim();
-}
-
-async function callGemini(model, prompt){
-  const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/' + model + ':generateContent?key=' + GEMINI_API_KEY, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
-  });
-  const data = await res.json();
-  if (!res.ok) throw new Error('status ' + res.status);
-  const out = data.candidates && data.candidates[0] && data.candidates[0].content && data.candidates[0].content.parts[0].text;
-  if (!out) throw new Error('risposta vuota');
-  return out.trim();
-}
-
-async function summarizeWithGemini(title, articleText){
-  if (!GEMINI_API_KEY || GEMINI_API_KEY.indexOf('INCOLLA') === 0) throw new Error('nessuna chiave AI configurata');
-  const prompt = 'Riassumi il seguente articolo giornalistico in italiano, in modo chiaro, neutrale e scorrevole, in circa 280-320 parole (lettura di circa 2 minuti). Usa SOLO le informazioni presenti nel testo fornito: non inventare fatti, nomi o numeri che non ci sono. Non aggiungere opinioni personali. Scrivi solo il riassunto, senza titoli o introduzioni.\n\nTitolo: ' + title + '\n\nTesto:\n' + articleText.slice(0, 8000);
-  let lastErr;
-  for (const model of GEMINI_MODELS) {
-    try {
-      return await callGemini(model, prompt);
-    } catch (e) {
-      lastErr = e;
-    }
-  }
-  throw lastErr || new Error('tutti i modelli hanno fallito');
-}
-
-async function enrichSummary(i){
-  const item = currentItems[i];
-  if (!item || item.enriched || !item.url || item.url === '#') return;
-  const bodyEl = document.getElementById('body-' + i);
-  const originalText = item.fullSummary;
-  if (bodyEl) bodyEl.textContent = '✨ Genero un riassunto più completo…';
-  try {
-    const articleText = await fetchArticleText(item.url);
-    const summary = await summarizeWithGemini(item.title, articleText);
-    item.fullSummary = summary;
-    item.enriched = true;
-    if (bodyEl) bodyEl.textContent = summary;
-    const rt = document.querySelector('#card-' + i + ' .read-time');
-    if (rt) rt.textContent = estimateReadTime(summary);
-  } catch (err) {
-    console.log('Arricchimento riassunto non riuscito:', err);
-    if (bodyEl) bodyEl.textContent = originalText;
-  }
+  document.getElementById('card-' + i).classList.toggle('expanded');
 }
 
 function rate(i, type){
