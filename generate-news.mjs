@@ -69,29 +69,42 @@ async function extractArticle(url) {
   return null;
 }
 
+const MODELS = ['gemini-2.5-flash', 'gemini-flash-latest', 'gemini-2.5-flash-lite', 'gemini-2.0-flash'];
+
+async function callGemini(model, prompt) {
+  const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/' + model + ':generateContent?key=' + GEMINI_API_KEY, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+  });
+  const data = await res.json();
+  if (!res.ok) {
+    const err = new Error('status ' + res.status + ' ' + JSON.stringify(data).slice(0, 200));
+    err.status = res.status;
+    throw err;
+  }
+  const out = data.candidates && data.candidates[0] && data.candidates[0].content && data.candidates[0].content.parts[0].text;
+  if (!out) throw new Error('risposta AI vuota');
+  return out.trim();
+}
+
 async function summarize(title, text) {
   if (!GEMINI_API_KEY) {
     console.log('  -> salto riassunto AI: il secret GEMINI_API_KEY non è arrivato allo script');
     return null;
   }
   const prompt = 'Riassumi il seguente articolo giornalistico in italiano, in modo chiaro, neutrale e scorrevole, in circa 280-320 parole (lettura di circa 2 minuti). Usa SOLO le informazioni presenti nel testo: non inventare fatti, nomi o numeri assenti. Nessuna opinione personale. Scrivi solo il riassunto, senza titoli o introduzioni.\n\nTitolo: ' + title + '\n\nTesto:\n' + text.slice(0, 8000);
-  try {
-    const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=' + GEMINI_API_KEY, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
-    });
-    const data = await res.json();
-    if (!res.ok) {
-      console.log('  -> risposta AI non ok, status', res.status, JSON.stringify(data).slice(0, 300));
-      return null;
+
+  for (const model of MODELS) {
+    try {
+      const summary = await callGemini(model, prompt);
+      console.log('  -> riassunto AI ok con modello', model);
+      return summary;
+    } catch (e) {
+      console.log('  -> modello', model, 'fallito:', e.message);
     }
-    const out = data.candidates && data.candidates[0] && data.candidates[0].content && data.candidates[0].content.parts[0].text;
-    return out ? out.trim() : null;
-  } catch (e) {
-    console.log('Riassunto AI fallito:', e.message);
-    return null;
   }
+  return null;
 }
 
 async function run() {
