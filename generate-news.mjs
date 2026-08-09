@@ -1,12 +1,9 @@
 // Script che gira automaticamente su GitHub Actions.
-// Scarica le notizie dalle fonti, estrae il testo completo di ogni articolo,
-// lo fa riassumere dall'AI in circa 2 minuti di lettura, e salva tutto in news.json.
+// Scarica solo i titoli e le anteprime dalle fonti e le salva in news.json.
+// Il riassunto AI da 2 minuti viene generato direttamente nell'app quando l'utente
+// tocca "Leggi il riassunto" (vedi index.html) - niente più chiavi o modelli qui.
 
-import { JSDOM } from 'jsdom';
-import { Readability } from '@mozilla/readability';
 import fs from 'fs';
-
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
 const SOURCES = [
   { cat: 'politica',  name: 'Il Post',  feed: 'https://www.ilpost.it/politica/feed/' },
@@ -17,7 +14,7 @@ const SOURCES = [
   { cat: 'tech',      name: 'Focus.it', feed: 'https://www.focus.it/rss/tecnologia.rss' }
 ];
 
-const ITEMS_PER_SOURCE = 4;
+const ITEMS_PER_SOURCE = 6;
 
 function extractTag(block, tag) {
   const m = block.match(new RegExp('<' + tag + '[^>]*>([\\s\\S]*?)<\\/' + tag + '>'));
@@ -55,60 +52,7 @@ async function fetchText(url) {
   return text;
 }
 
-async function extractArticle(url) {
-  try {
-    const html = await fetchText(url);
-    const dom = new JSDOM(html, { url });
-    const article = new Readability(dom.window.document).parse();
-    if (article && article.textContent && article.textContent.trim().length > 200) {
-      return article.textContent.trim();
-    }
-  } catch (e) {
-    console.log('Estrazione fallita per', url, e.message);
-  }
-  return null;
-}
-
-const MODELS = ['gemini-2.5-flash', 'gemini-flash-latest', 'gemini-2.5-flash-lite', 'gemini-2.0-flash'];
-
-async function callGemini(model, prompt) {
-  const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/' + model + ':generateContent?key=' + GEMINI_API_KEY, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
-  });
-  const data = await res.json();
-  if (!res.ok) {
-    const err = new Error('status ' + res.status + ' ' + JSON.stringify(data).slice(0, 200));
-    err.status = res.status;
-    throw err;
-  }
-  const out = data.candidates && data.candidates[0] && data.candidates[0].content && data.candidates[0].content.parts[0].text;
-  if (!out) throw new Error('risposta AI vuota');
-  return out.trim();
-}
-
-async function summarize(title, text) {
-  if (!GEMINI_API_KEY) {
-    console.log('  -> salto riassunto AI: il secret GEMINI_API_KEY non è arrivato allo script');
-    return null;
-  }
-  const prompt = 'Riassumi il seguente articolo giornalistico in italiano, in modo chiaro, neutrale e scorrevole, in circa 280-320 parole (lettura di circa 2 minuti). Usa SOLO le informazioni presenti nel testo: non inventare fatti, nomi o numeri assenti. Nessuna opinione personale. Scrivi solo il riassunto, senza titoli o introduzioni.\n\nTitolo: ' + title + '\n\nTesto:\n' + text.slice(0, 8000);
-
-  for (const model of MODELS) {
-    try {
-      const summary = await callGemini(model, prompt);
-      console.log('  -> riassunto AI ok con modello', model);
-      return summary;
-    } catch (e) {
-      console.log('  -> modello', model, 'fallito:', e.message);
-    }
-  }
-  return null;
-}
-
 async function run() {
-  console.log('Chiave AI configurata:', GEMINI_API_KEY ? ('sì, lunghezza ' + GEMINI_API_KEY.length) : 'NO - il secret GEMINI_API_KEY è vuoto o non arriva');
   const allNews = [];
   for (const src of SOURCES) {
     try {
@@ -116,18 +60,11 @@ async function run() {
       const items = parseRss(xml).slice(0, ITEMS_PER_SOURCE);
       for (const item of items) {
         const shortDesc = stripHtml(item.description);
-        let fullSummary = shortDesc || item.title;
-        const articleText = await extractArticle(item.link);
-        if (articleText) {
-          const aiSummary = await summarize(item.title, articleText);
-          if (aiSummary) fullSummary = aiSummary;
-          await new Promise(r => setTimeout(r, 5000));
-        }
         allNews.push({
           cat: src.cat,
           title: stripHtml(item.title),
           summary: shortDesc.slice(0, 140) + (shortDesc.length > 140 ? '…' : ''),
-          fullSummary,
+          fullSummary: shortDesc || item.title,
           source: src.name,
           url: item.link
         });
