@@ -76,7 +76,7 @@ async function summarize(title, text) {
   }
   const prompt = 'Riassumi il seguente articolo giornalistico in italiano, in modo chiaro, neutrale e scorrevole, in circa 280-320 parole (lettura di circa 2 minuti). Usa SOLO le informazioni presenti nel testo: non inventare fatti, nomi o numeri assenti. Nessuna opinione personale. Scrivi solo il riassunto, senza titoli o introduzioni.\n\nTitolo: ' + title + '\n\nTesto:\n' + text.slice(0, 8000);
   try {
-    const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=' + GEMINI_API_KEY, {
+    const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=' + GEMINI_API_KEY, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
