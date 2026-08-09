@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-08-09T04:48:40.145Z",
+  "generatedAt": "2026-08-09T08:11:19.182Z",
   "items": [
-    {
-      "cat": "politica",
-      "title": "L&#8217;invito di Mattarella a rispettare la «dignità delle persone» migranti",
-      "summary": "Lo ha detto per il 70esimo anniversario del disastro di Marcinelle, proprio mentre è in corso uno scontro tra Italia e Spagna sul controllo …",
-      "fullSummary": "Lo ha detto per il 70esimo anniversario del disastro di Marcinelle, proprio mentre è in corso uno scontro tra Italia e Spagna sul controllo dei confini",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/08/mattarella-marcinelle-messaggio-flussi-migratori/"
-    },
     {
       "cat": "politica",
       "title": "Perché Conte è stato ascoltato dalla Commissione d’inchiesta sul Covid",
@@ -34,6 +26,38 @@
       "url": "https://www.ilpost.it/2026/08/06/giorgetti-governo-italiano-clausola-salvaguardia-europa-difesa-energia/"
     },
     {
+      "cat": "politica",
+      "title": "La Camera ha negato l&#8217;accesso alle chat di Delmastro",
+      "summary": "Tra le molte proteste dell'opposizione ha deciso cioè di non renderle accessibili alla procura di Roma, che le chiede da settimane",
+      "fullSummary": "Tra le molte proteste dell'opposizione ha deciso cioè di non renderle accessibili alla procura di Roma, che le chiede da settimane",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/05/storia-chat-andrea-delmastro-caroccia-procura/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Almeno 20mila persone sono state evacuate a causa di un grave incendio nel sud-ovest del Canada",
+      "summary": "",
+      "fullSummary": "Almeno 20mila persone sono state evacuate a causa di un grave incendio nel sud-ovest del Canada",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/08/incendi-canada-evacuazioni-british-columbia/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Un drone come quelli usati dall&#8217;esercito ucraino è arrivato in Bulgaria ed è esploso senza conseguenze",
+      "summary": "",
+      "fullSummary": "Un drone come quelli usati dall&#8217;esercito ucraino è arrivato in Bulgaria ed è esploso senza conseguenze",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/08/drone-bulgaria-esplosione-danni/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Perché si parla di una nuova crisi migratoria a Ceuta il 15 agosto",
+      "summary": "È un'eventualità ritenuta plausibile dalle autorità spagnole, basata su molti gruppi social che invitano alla mobilitazione",
+      "fullSummary": "È un'eventualità ritenuta plausibile dalle autorità spagnole, basata su molti gruppi social che invitano alla mobilitazione",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/08/nuova-crisi-migranti-ceuta-15-agosto/"
+    },
+    {
       "cat": "mondo",
       "title": "Le foto dei parchi di Londra ingialliti dalla siccità",
       "summary": "A causa dell'assenza di pioggia e delle alte temperature i prati, solitamente verdeggianti, sono diventati aridi",
@@ -42,28 +66,20 @@
       "url": "https://www.ilpost.it/2026/08/08/parchi-londra-gialli-siccita/"
     },
     {
-      "cat": "mondo",
-      "title": "In Colombia si è insediato il nuovo presidente Abelardo de la Espriella, di estrema destra",
-      "summary": "",
-      "fullSummary": "In Colombia si è insediato il nuovo presidente Abelardo de la Espriella, di estrema destra",
+      "cat": "sport",
+      "title": "Il messaggio della FIFA che difende il presidente della FIFA",
+      "summary": "Parla di uno «sforzo congiunto e prolungato» per danneggiare Infantino, e mette in chiaro che resterà in carica nonostante le moltissime cri…",
+      "fullSummary": "Parla di uno «sforzo congiunto e prolungato» per danneggiare Infantino, e mette in chiaro che resterà in carica nonostante le moltissime critiche",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/08/colombia-insediamento-presidente-espriella/"
+      "url": "https://www.ilpost.it/2026/08/09/messaggio-fifa-infantino/"
     },
     {
-      "cat": "mondo",
-      "title": "Todd Blanche è il nuovo procuratore generale degli Stati Uniti",
-      "summary": "È molto, molto vicino a Trump, che da sempre prova a controllare il dipartimento di Giustizia minando la sua indipendenza",
-      "fullSummary": "È molto, molto vicino a Trump, che da sempre prova a controllare il dipartimento di Giustizia minando la sua indipendenza",
+      "cat": "sport",
+      "title": "Oggi finisce un Tour de France molto incerto",
+      "summary": "Quello femminile: in otto tappe cinque cicliste hanno indossato la maglia gialla, e ci sono solo 8 secondi di distacco tra la prima e la sec…",
+      "fullSummary": "Quello femminile: in otto tappe cinque cicliste hanno indossato la maglia gialla, e ci sono solo 8 secondi di distacco tra la prima e la seconda",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/08/todd-blanche-procuratore-stati-uniti-trump/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Perché proprio l&#8217;aeroporto di Lipsia è preso di mira per i sabotaggi",
-      "summary": "È uno snodo importante per il colosso della logistica DHL, ma anche per quello ucraino Antonov e per la NATO, fra le altre cose",
-      "fullSummary": "È uno snodo importante per il colosso della logistica DHL, ma anche per quello ucraino Antonov e per la NATO, fra le altre cose",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/08/aeroporto-lipsia-sabotaggi-importanza/"
+      "url": "https://www.ilpost.it/2026/08/09/tour-de-france-femminile-2026-finale-incerto-ultima-tappa/"
     },
     {
       "cat": "sport",
@@ -80,22 +96,6 @@
       "fullSummary": "Etinosa Oliha combatterà sabato sera a Dublino per il titolo mondiale dei pesi medi IBF",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/08/etinosa-oliha-match-titolo-mondiale-ibf-pugilato/"
-    },
-    {
-      "cat": "sport",
-      "title": "Secondo il Telegraph, la UEFA avrebbe pagato una buonuscita a un&#8217;amante di Gianni Infantino quando era segretario dell&#8217;organizzazione",
-      "summary": "",
-      "fullSummary": "Secondo il Telegraph, la UEFA avrebbe pagato una buonuscita a un&#8217;amante di Gianni Infantino quando era segretario dell&#8217;organizzazione",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/08/inchiesta-uefa-pagamenti-amante-infantino/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Fiorentina sta facendo un calciomercato atipico per la Serie A",
-      "summary": "Per non ripetere la pessima scorsa stagione ha preso tanti calciatori giovani e promettenti, per una volta rischiando un po’",
-      "fullSummary": "Per non ripetere la pessima scorsa stagione ha preso tanti calciatori giovani e promettenti, per una volta rischiando un po’",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/07/fiorentina-calciomercato-acquisti-2026-mastantuono-oulai-atta/"
     }
   ]
 }
