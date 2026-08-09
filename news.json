@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:23:20.799Z",
+  "generatedAt": "2026-08-09T09:44:19.034Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,14 @@
     },
     {
       "cat": "mondo",
+      "title": "Il primo giorno di controlli in Spagna è stato tranquillo",
+      "summary": "Erano attivi in sette aeroporti e hanno riguardato meno di 200 persone, senza particolari intoppi",
+      "fullSummary": "Erano attivi in sette aeroporti e hanno riguardato meno di 200 persone, senza particolari intoppi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/09/come-sono-andati-controlli-frontiera-spagna-schengen/"
+    },
+    {
+      "cat": "mondo",
       "title": "Almeno 20mila persone sono state evacuate a causa di un grave incendio nel sud-ovest del Canada",
       "summary": "",
       "fullSummary": "Almeno 20mila persone sono state evacuate a causa di un grave incendio nel sud-ovest del Canada",
@@ -56,14 +64,6 @@
       "fullSummary": "È un'eventualità ritenuta plausibile dalle autorità spagnole, basata su molti gruppi social che invitano alla mobilitazione",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/08/nuova-crisi-migranti-ceuta-15-agosto/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Le foto dei parchi di Londra ingialliti dalla siccità",
-      "summary": "A causa dell'assenza di pioggia e delle alte temperature i prati, solitamente verdeggianti, sono diventati aridi",
-      "fullSummary": "A causa dell'assenza di pioggia e delle alte temperature i prati, solitamente verdeggianti, sono diventati aridi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/08/parchi-londra-gialli-siccita/"
     },
     {
       "cat": "sport",
