@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:53:03.543Z",
+  "generatedAt": "2026-08-14T09:46:40.522Z",
   "items": [
     {
       "cat": "politica",
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "Un bel pezzo della Lega lombarda non ne può più di Salvini",
       "summary": "Alcuni importanti dirigenti ne hanno chiesto le dimissioni da segretario e le province con più iscritti sono contro la sua gestione",
-      "fullSummary": "Durante una riunione del direttivo lombardo della Lega svoltasi nella sede di via Bellerio a Milano, convocata dallo stesso Matteo Salvini per chiarire il malcontento interno prima del raduno di Pontida del 20 settembre, una parte consistente della dirigenza locale ha duramente contestato il segretario federale, chiedendogli in diversi casi di farsi da parte. Al centro dei rilievi vi è il crollo elettorale del partito, passato dal 34 per cento delle elezioni europee del 2019 al rischio di scendere sotto il 5 per cento, e la forte disaffezione in province storiche come Bergamo, Brescia e Varese, che da sole rappresentano circa il 70 per cento degli iscritti lombardi, oltre a Sondrio e Cremona.\n\nSu 31 interventi totali, soltanto sei sono stati favorevoli a Salvini, mentre almeno cinque ne hanno sollecitato le dimissioni. Tra i critici più severi figurano Daniele Belotti, che ha posto il problema della credibilità del leader, l’assessore regionale Massimo Sertori, Fabrizio Sala, Giovanmaria Flocchini e Renato Pasinetti. Il governatore lombardo Attilio Fontana ha invece chiesto di rimettere al centro il federalismo e di non appiattire la Lega sul centrodestra. A Salvini è stata rinfacciata anche la gestione di Roberto Vannacci, eletto nel 2024, nominato vicesegretario e poi uscito a febbraio per fondare Futuro Nazionale. Inoltre, la deputata Simona Bordonali ha messo in guardia dall'atteggiamento dei parlamentari che tacciono i problemi per mero interesse legato alle future candidature.\n\nA difendere il segretario sono intervenuti Laura Santin, Luca Toccalini, la ministra Alessandra Locatelli e Silvia Sardone, mentre Gian Marco Centinaio ha tenuto una posizione ambigua. Salvini ha respinto l'ipotesi di dimettersi e ha definito «disgustosi» alcuni interventi. Entro Pontida, il segretario intende istituire una nuova squadra collegiale che lo affianchi, simile alla “cabina di regia” concepita a giugno con Giancarlo Giorgetti, Roberto Calderoli, Attilio Fontana, Luca Zaia, Massimiliano Fedriga e Maurizio Fugatti, rimasta finora inattiva.",
+      "fullSummary": "Alcuni importanti dirigenti ne hanno chiesto le dimissioni da segretario e le province con più iscritti sono contro la sua gestione",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/11/richiesta-dimissioni-salvini-lega-lombardia/"
     },
@@ -35,35 +35,59 @@
     },
     {
       "cat": "mondo",
-      "title": "La Romania sta spegnendo l’unico reattore nucleare ancora attivo nel paese a causa del Danubio in secca",
+      "title": "Nigel Farage ha vinto le elezioni suppletive a Clacton-on-Sea",
+      "summary": "Erano state organizzate dopo le sue dimissioni, ma si era ricandidato: contro di lui c'erano solo candidati farseschi",
+      "fullSummary": "Erano state organizzate dopo le sue dimissioni, ma si era ricandidato: contro di lui c'erano solo candidati farseschi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/14/nigel-farage-vince-elezioni-suppletive-clacton/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Centinaia di persone sono state evacuate per un grosso incendio poco lontano da Salonicco, in Grecia",
       "summary": "",
-      "fullSummary": "La Romania sta spegnendo l’unico reattore nucleare ancora attivo nel paese a causa del Danubio in secca",
+      "fullSummary": "Un grosso incendio sviluppatosi nella giornata di giovedì nell'area situata poco lontano da Salonicco, nel nord est della Grecia, ha reso necessaria l'evacuazione di circa 480 persone, tra cui figurano sia abitanti del posto sia turisti presenti nel villaggio di Siviri. A causa del progressivo e pericoloso avvicinamento delle fiamme alle coste, la guardia costiera greca ha reso noto che è stato indispensabile allontanare e portare via centinaia di persone che si trovavano sulla spiaggia, impiegando per i trasferimenti via mare le barche dei pompieri e diversi pescherecci.\n\nIn base alle informazioni diffuse dall'emittente pubblica greca ERT, il rogo è stato innescato dalla caduta di un palo della rete elettrica e si è rapidamente propagato sul territorio anche per effetto dei forti venti, finendo per bruciare varie case e automobili. Per contenere l'emergenza e condurre le operazioni antincendio sono stati schierati e impiegati nove aerei, sette elicotteri e quasi 150 pompieri; durante le attività di spegnimento due vigili del fuoco hanno riportato ferite e sono stati trasportati in ospedale.\n\nIl fronte dell'incendio è arrivato molto vicino a due resort collocati nelle zone di Siviri e Fourka, motivo per cui i turisti presenti hanno ricevuto un avviso di evacuazione inviato per messaggio direttamente dalla protezione civile greca. Nel tentativo di allontanarsi rapidamente a bordo delle proprie auto, molte persone hanno finito per creare lunghe code di veicoli fuori dai villaggi. Soltanto in serata i vigili del fuoco sono riusciti a porre le fiamme sotto controllo, sebbene sul territorio restino ancora accesi molti focolai che il vento potrebbe ulteriormente ingrossare.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/13/romania-energia-nucleare-reattore-spento-secca-danubio/"
+      "url": "https://www.ilpost.it/2026/08/13/persone-evacaute-siviri-salonicco-grecia-incendio/"
     },
     {
       "cat": "mondo",
-      "title": "Se non sappiamo dov&#8217;è Trump, figuratevi Putin",
-      "summary": "Il presidente russo mente sistematicamente sui suoi spostamenti, e per scoprirlo bisogna fare attenzione anche alle maniglie delle porte",
-      "fullSummary": "Il presidente russo mente sistematicamente sui suoi spostamenti, e per scoprirlo bisogna fare attenzione anche alle maniglie delle porte",
+      "title": "Un treno è deragliato vicino a Brighton, nel Regno Unito: ci sono 20 feriti",
+      "summary": "",
+      "fullSummary": "Un treno è deragliato vicino a Brighton, nel Regno Unito: ci sono 20 feriti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/13/se-non-sappiamo-dove-trump-figuratevi-putin/"
+      "url": "https://www.ilpost.it/2026/08/13/deragliamento-treno-regno-unito-brighton-feriti/"
     },
     {
       "cat": "mondo",
-      "title": "Qualcuno ha rubato più di 200 statuette dorate di Mozart",
-      "summary": "È successo a una mostra dedicata al celebre compositore in Austria, e non è la prima volta che succede all'artista che le ha realizzate",
-      "fullSummary": "È successo a una mostra dedicata al celebre compositore in Austria, e non è la prima volta che succede all'artista che le ha realizzate",
+      "title": "Negli Stati Uniti un giudice ha respinto la causa in cui l&#8217;amministrazione Trump accusava di antisemitismo l&#8217;Università di Harvard",
+      "summary": "",
+      "fullSummary": "Negli Stati Uniti un giudice ha respinto la causa in cui l&#8217;amministrazione Trump accusava di antisemitismo l&#8217;Università di Harvard",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/13/furto-statuette-mozart-austria/"
+      "url": "https://www.ilpost.it/2026/08/13/stati-uniti-harvard-giudice-respinge-accusa-antisemitismo/"
     },
     {
-      "cat": "mondo",
-      "title": "In Cisgiordania i coloni israeliani assediano da giorni due case palestinesi",
-      "summary": "E l'esercito israeliano finora non ha fatto praticamente niente per fermarli, anzi",
-      "fullSummary": "E l'esercito israeliano finora non ha fatto praticamente niente per fermarli, anzi",
+      "cat": "sport",
+      "title": "Un altro oro per l&#8217;Italia agli Europei di atletica leggera",
+      "summary": "Quello di Dariya Derkach nel salto triplo, a 33 anni e dopo una carriera molto complicata",
+      "fullSummary": "Quello di Dariya Derkach nel salto triplo, a 33 anni e dopo una carriera molto complicata",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/13/cisgiordania-assedio-case-palestinesi/"
+      "url": "https://www.ilpost.it/2026/08/13/dariya-derkach-oro-salto-triplo-europei-atletica-leggera/"
+    },
+    {
+      "cat": "sport",
+      "title": "Sara Curtis ha vinto l&#8217;oro e ha fatto un altro record del mondo",
+      "summary": "Nella finale dei 50 metri dorso agli Europei di nuoto ha battuto il record che lei stessa aveva stabilito in semifinale",
+      "fullSummary": "Nella finale dei 50 metri dorso agli Europei di nuoto ha battuto il record che lei stessa aveva stabilito in semifinale",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/13/sara-curtis-oro-50-dorso-europei-di-nuoto-2026-record-del-mondo/"
+    },
+    {
+      "cat": "sport",
+      "title": "Ma parliamo di Sara Curtis",
+      "summary": "La nuotatrice italiana ha appena battuto un record del mondo agli Europei di Parigi e fa cose non banali sia in vasca che fuori",
+      "fullSummary": "La nuotatrice italiana ha appena battuto un record del mondo agli Europei di Parigi e fa cose non banali sia in vasca che fuori",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/13/sara-curtis-nuoto-europei-parigi-2026/"
     },
     {
       "cat": "sport",
@@ -72,30 +96,6 @@
       "fullSummary": "La Nazionale maschile e quella femminile sono tra le prime dieci al mondo, ed entrambe puntano a qualificarsi per le Olimpiadi",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/13/nazionale-italiana-maschile-femminile-mondiali-flag-football/"
-    },
-    {
-      "cat": "sport",
-      "title": "Un po&#8217; football americano, un po&#8217; rubabandiera",
-      "summary": "Il flag football sarà alle Olimpiadi di Los Angeles 2028 e c'è chi lo considera il football del futuro: meglio imparare qualche regola, allo…",
-      "fullSummary": "Il flag football sarà alle Olimpiadi di Los Angeles 2028 e c'è chi lo considera il football del futuro: meglio imparare qualche regola, allora",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/13/flag-football-regole-come-si-gioca/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il Paris Saint-Germain ha vinto la Supercoppa Europea di calcio",
-      "summary": "",
-      "fullSummary": "Il Paris Saint-Germain ha vinto la Supercoppa Europea di calcio",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/12/supercoppa-europea-2026-psg-aston-villa/"
-    },
-    {
-      "cat": "sport",
-      "title": "Sara Fantini ha vinto l&#8217;argento nel lancio del martello agli Europei di atletica leggera",
-      "summary": "",
-      "fullSummary": "Sara Fantini ha vinto l&#8217;argento nel lancio del martello agli Europei di atletica leggera",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/12/italia-medaglie-europei-atletica-12-agosto-fantini-martello-folorunso/"
     }
   ]
 }
