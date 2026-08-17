@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T19:19:15.836Z",
+  "generatedAt": "2026-08-17T21:55:45.908Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,22 @@
     },
     {
       "cat": "mondo",
+      "title": "Sono passati i 60 giorni per fare un accordo con l’Iran",
+      "summary": "Probabilmente non ricordavate questa scadenza, e forse nemmeno Trump",
+      "fullSummary": "Probabilmente non ricordavate questa scadenza, e forse nemmeno Trump",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/17/60-giorni-trump-iran-accordo-superati/"
+    },
+    {
+      "cat": "mondo",
+      "title": "La nave Life Support di Emergency ha soccorso 57 persone migranti al largo della Libia: 7 erano già morte",
+      "summary": "",
+      "fullSummary": "La nave Life Support di Emergency ha soccorso 57 persone migranti al largo della Libia: 7 erano già morte",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/17/emergency-life-support-libia-soccorso-7-morti/"
+    },
+    {
+      "cat": "mondo",
       "title": "In Zambia dopo le elezioni presidenziali sono stati arrestati diversi esponenti dell&#8217;opposizione",
       "summary": "",
       "fullSummary": "In Zambia dopo le elezioni presidenziali sono stati arrestati diversi esponenti dell&#8217;opposizione",
@@ -50,20 +66,12 @@
       "url": "https://www.ilpost.it/2026/08/17/hong-kong-crisi-fine/"
     },
     {
-      "cat": "mondo",
-      "title": "In Marocco sarà il calcio a decidere le elezioni?",
-      "summary": "Il presidente della federazione calcistica Fouzi Lekjaa potrebbe vincerle e diventare primo ministro: gestirebbe i Mondiali del 2030, ma anc…",
-      "fullSummary": "Il presidente della federazione calcistica Fouzi Lekjaa potrebbe vincerle e diventare primo ministro: gestirebbe i Mondiali del 2030, ma anche molti problemi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/marocco-calcio-elezioni/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Belgio un gruppo di operai che stava scavando in una casa ha trovato lingotti e monete d&#8217;oro per un valore di 9 milioni di euro",
+      "cat": "sport",
+      "title": "Il Palio di Siena è stato di nuovo rinviato a causa della pioggia: ora è previsto per martedì 18 agosto",
       "summary": "",
-      "fullSummary": "In Belgio un gruppo di operai che stava scavando in una casa ha trovato lingotti e monete d&#8217;oro per un valore di 9 milioni di euro",
+      "fullSummary": "Il Palio di Siena è stato di nuovo rinviato a causa della pioggia: ora è previsto per martedì 18 agosto",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/belgio-ritrovamento-oro-operai/"
+      "url": "https://www.ilpost.it/2026/08/17/palio-siena-assunta-nuovo-rinvio-pioggia/"
     },
     {
       "cat": "sport",
@@ -88,14 +96,6 @@
       "fullSummary": "Siepi e ostacoli, dischi ed eclissi, abbracci e cadute, medaglie e bandiere",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/17/belle-foto-dagli-europei-di-atletica/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il Camerun ha vinto la Coppa d&#8217;Africa femminile di calcio",
-      "summary": "",
-      "fullSummary": "Il Camerun ha vinto la Coppa d&#8217;Africa femminile di calcio",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/camerun-coppa-africa-femminile-calcio/"
     }
   ]
 }
