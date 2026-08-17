@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T13:58:19.544Z",
+  "generatedAt": "2026-08-17T15:55:58.569Z",
   "items": [
     {
       "cat": "politica",
@@ -35,14 +35,6 @@
     },
     {
       "cat": "mondo",
-      "title": "La nave Life Support di Emergency ha soccorso 57 persone migranti al largo della Libia: 7 erano già morte",
-      "summary": "",
-      "fullSummary": "La nave Life Support di Emergency ha soccorso 57 persone migranti al largo della Libia: 7 erano già morte",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/emergency-life-support-libia-soccorso-7-morti/"
-    },
-    {
-      "cat": "mondo",
       "title": "In Zambia dopo le elezioni presidenziali sono stati arrestati diversi esponenti dell&#8217;opposizione",
       "summary": "",
       "fullSummary": "In Zambia dopo le elezioni presidenziali sono stati arrestati diversi esponenti dell&#8217;opposizione",
@@ -66,12 +58,12 @@
       "url": "https://www.ilpost.it/2026/08/17/marocco-calcio-elezioni/"
     },
     {
-      "cat": "sport",
-      "title": "Il Palio di Siena è stato di nuovo rinviato a causa della pioggia: ora è previsto per martedì 18 agosto",
+      "cat": "mondo",
+      "title": "In Belgio un gruppo di operai che stava scavando in una casa ha trovato lingotti e monete d&#8217;oro per un valore di 9 milioni di euro",
       "summary": "",
-      "fullSummary": "Il Palio di Siena è stato di nuovo rinviato a causa della pioggia: ora è previsto per martedì 18 agosto",
+      "fullSummary": "In Belgio un gruppo di operai che stava scavando in una casa ha trovato lingotti e monete d&#8217;oro per un valore di 9 milioni di euro",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/palio-siena-assunta-nuovo-rinvio-pioggia/"
+      "url": "https://www.ilpost.it/2026/08/17/belgio-ritrovamento-oro-operai/"
     },
     {
       "cat": "sport",
@@ -96,6 +88,14 @@
       "fullSummary": "Siepi e ostacoli, dischi ed eclissi, abbracci e cadute, medaglie e bandiere",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/17/belle-foto-dagli-europei-di-atletica/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il Camerun ha vinto la Coppa d&#8217;Africa femminile di calcio",
+      "summary": "",
+      "fullSummary": "Il Camerun ha vinto la Coppa d&#8217;Africa femminile di calcio",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/17/camerun-coppa-africa-femminile-calcio/"
     }
   ]
 }
