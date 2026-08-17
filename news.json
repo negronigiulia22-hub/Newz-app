@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:43:05.829Z",
+  "generatedAt": "2026-08-17T03:17:49.881Z",
   "items": [
     {
       "cat": "politica",
@@ -67,17 +67,9 @@
     },
     {
       "cat": "sport",
-      "title": "La Juventus del Palio di Siena",
-      "summary": "Per la Contrada dell'Oca vincere è l'unica cosa che conta",
-      "fullSummary": "Per la Contrada dell'Oca vincere è l'unica cosa che conta",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/16/contrada-oca/"
-    },
-    {
-      "cat": "sport",
       "title": "Andy Díaz Hernández ha vinto l&#8217;oro agli Europei nel salto triplo",
       "summary": "Con un salto da 18,15 metri; Andrea Dallavalle ha vinto il bronzo",
-      "fullSummary": "Il saltatore Andy Díaz Hernández ha conquistato la medaglia d’oro nel salto triplo agli Europei di atletica leggera, realizzando un eccezionale salto da 18,15 metri. Grazie a questo risultato, l'atleta ha migliorato di ben 28 centimetri il precedente record italiano, che già gli apparteneva. La sua prestazione ha rappresentato anche la cosiddetta world lead, vale a dire la migliore misura nel salto triplo registrata nel 2026 da qualsiasi atleta a livello mondiale, nonché il quarto salto migliore di sempre nella storia della disciplina. Al secondo posto si è classificato il portoghese Pedro Pichardo, campione olimpico in carica, mentre l’italiano Andrea Dallavalle ha completato il podio ottenendo la medaglia di bronzo con la misura di 17,37 metri.\n\nDíaz Hernández ha 30 anni, è nato a Cuba ed è naturalizzato italiano a partire dal 2021. Nella sua carriera sportiva ha già conquistato l’oro nelle ultime due edizioni dei Mondiali indoor e agli Europei indoor dello scorso anno, mentre alle Olimpiadi di Parigi del 2024 aveva vinto la medaglia di bronzo. La vittoria ottenuta oggi rappresenta il suo primo oro outdoor in una grande competizione internazionale.\n\nL’Italia aveva già vinto la medaglia d’oro anche nella gara femminile di salto triplo grazie a Dariya Derkach. Quello ottenuto da Díaz Hernández è l’ottavo oro complessivo per la formazione italiana, che si trova al primo posto nel medagliere a un solo giorno dalla fine della manifestazione.\n\nDurante la serata di sabato non ci sono state altre medaglie per l’Italia. Nella gara dei 10mila metri Yeman Crippa è arrivato quarto. Nella staffetta maschile 4×100, la squadra italiana si è giocata una medaglia fino agli ultimi metri, momento in cui il quarto frazionista, Samuele Ceccarelli, ha subito un infortunio. Infine, anche la staffetta 4×100 femminile si è classificata al quarto posto, mancando la medaglia per soli 6 centesimi.",
+      "fullSummary": "Con un salto da 18,15 metri; Andrea Dallavalle ha vinto il bronzo",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/15/diaz-hernandez-oro-europei-salto-triplo/"
     },
@@ -96,6 +88,14 @@
       "fullSummary": "L&#8217;Italia ha vinto 4 medaglie in un giorno agli Europei di ginnastica artistica",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/15/medaglie-italia-europei-ginnastica-artistica-esposito-corpo-libero/"
+    },
+    {
+      "cat": "sport",
+      "title": "L&#8217;Italia ha vinto 4 medaglie in 10 minuti agli Europei di nuoto",
+      "summary": "Ed è prima nel medagliere, con 38 totali, di cui 12 d'oro",
+      "fullSummary": "Ed è prima nel medagliere, con 38 totali, di cui 12 d'oro",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/15/italia-medaglie-nuoto-sabato-15-agosto-martinenghi-curtis-cerasuolo/"
     }
   ]
 }
