@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-18T10:05:55.719Z",
+  "generatedAt": "2026-08-18T14:09:05.558Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Per Matteo Salvini agosto è un mese terribile",
+      "summary": "Cos'hanno in comune il Papeete Beach, il green pass, Giorgia Meloni e Attilio Fontana?",
+      "fullSummary": "Cos'hanno in comune il Papeete Beach, il green pass, Giorgia Meloni e Attilio Fontana?",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/17/matteo-salvini-lega-fontana-agosto/"
+    },
     {
       "cat": "politica",
       "title": "Fontana vuole cambiare la Lega, anche a costo di sostituire Salvini",
@@ -26,44 +34,60 @@
       "url": "https://www.ilpost.it/2026/08/14/ex-direttore-agenzia-entrate-ernesto-maria-ruffini-movimento-politico/"
     },
     {
-      "cat": "politica",
-      "title": "È stata archiviata l&#8217;indagine per voto di scambio nei confronti dell&#8217;ex presidente della Liguria Giovanni Toti",
+      "cat": "mondo",
+      "title": "A cosa servono le minacce di Trump, a questo punto?",
+      "summary": "Da mesi le fa e poi le ritratta, e nella guerra contro l'Iran ha ottenuto il contrario di quello che voleva",
+      "fullSummary": "Da mesi le fa e poi le ritratta, e nella guerra contro l'Iran ha ottenuto il contrario di quello che voleva",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/18/minacce-trump-medio-oriente-iran/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Una proposta sui pub di Londra ha fatto arrabbiare tutti",
+      "summary": "Il municipio di Westminster sta provando a limitare le birre bevute in piedi, ma ha dovuto calmare le prevedibili polemiche",
+      "fullSummary": "Il municipio di Westminster sta provando a limitare le birre bevute in piedi, ma ha dovuto calmare le prevedibili polemiche",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/18/pub-londra-bere-in-piedi/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Un attacco missilistico russo ha ucciso 10 persone nella regione di Kharkiv, in Ucraina",
       "summary": "",
-      "fullSummary": "È stata archiviata l&#8217;indagine per voto di scambio nei confronti dell&#8217;ex presidente della Liguria Giovanni Toti",
+      "fullSummary": "Un attacco missilistico russo ha ucciso 10 persone nella regione di Kharkiv, in Ucraina",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/14/indagine-corruzione-elettorale-giovanni-toti-archiviata/"
+      "url": "https://www.ilpost.it/2026/08/18/guerra-russia-ucraina-attacco-missilistico-russo-a-kharkiv/"
     },
     {
       "cat": "mondo",
-      "title": "Sono passati i 60 giorni per fare un accordo con l’Iran",
-      "summary": "Probabilmente non ricordavate questa scadenza, e forse nemmeno Trump",
-      "fullSummary": "Probabilmente non ricordavate questa scadenza, e forse nemmeno Trump",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/60-giorni-trump-iran-accordo-superati/"
-    },
-    {
-      "cat": "mondo",
-      "title": "La nave Life Support di Emergency ha soccorso 57 persone migranti al largo della Libia: 7 erano già morte",
+      "title": "Il governo spagnolo ha annunciato l&#8217;apertura di quattro nuove strutture a Ceuta per ospitare 1.500 persone migranti",
       "summary": "",
-      "fullSummary": "La nave Life Support di Emergency ha soccorso 57 persone migranti al largo della Libia: 7 erano già morte",
+      "fullSummary": "Il governo spagnolo ha annunciato l&#8217;apertura di quattro nuove strutture a Ceuta per ospitare 1.500 persone migranti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/emergency-life-support-libia-soccorso-7-morti/"
+      "url": "https://www.ilpost.it/2026/08/18/spagna-apertura-quattro-nuove-strutture-migranti-ceuta/"
     },
     {
-      "cat": "mondo",
-      "title": "In Zambia dopo le elezioni presidenziali sono stati arrestati diversi esponenti dell&#8217;opposizione",
+      "cat": "sport",
+      "title": "Le tenniste Venus e Serena Williams hanno giocato insieme in doppio per la prima volta dal 2022, ma hanno perso",
       "summary": "",
-      "fullSummary": "In Zambia dopo le elezioni presidenziali sono stati arrestati diversi esponenti dell&#8217;opposizione",
+      "fullSummary": "Le tenniste Venus e Serena Williams hanno giocato insieme in doppio per la prima volta dal 2022, ma hanno perso",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/zambia-elezioni-presidenziali-arresti/"
+      "url": "https://www.ilpost.it/2026/08/18/tennis-ritorno-sorelle-williams-prima-volta-dal-2022/"
     },
     {
-      "cat": "mondo",
-      "title": "Hong Kong sta tornando, ma solo per metà",
-      "summary": "L'economia è in crescita, ma il controllo asfissiante del regime l'ha resa una città cinese simile a molte altre",
-      "fullSummary": "L'economia è in crescita, ma il controllo asfissiante del regime l'ha resa una città cinese simile a molte altre",
+      "cat": "sport",
+      "title": "Kevin Lamour, importante dirigente della FIFA che aveva criticato Gianni Infantino, ha lasciato il suo incarico",
+      "summary": "",
+      "fullSummary": "Kevin Lamour, importante dirigente della FIFA che aveva criticato Gianni Infantino, ha lasciato il suo incarico",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/hong-kong-crisi-fine/"
+      "url": "https://www.ilpost.it/2026/08/18/fifa-kevin-lamour-lascia-incarico-critiche-gianni-infantino/"
+    },
+    {
+      "cat": "sport",
+      "title": "Due Europei, 65 medaglie",
+      "summary": "Le ha vinte l'Italia nell'atletica e nel nuoto, e non è un caso",
+      "fullSummary": "Le ha vinte l'Italia nell'atletica e nel nuoto, e non è un caso",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/17/europei-nuoto-atletica-65-medaglie-italia/"
     },
     {
       "cat": "sport",
@@ -72,30 +96,6 @@
       "fullSummary": "Il Palio di Siena è stato di nuovo rinviato a causa della pioggia: ora è previsto per martedì 18 agosto",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/17/palio-siena-assunta-nuovo-rinvio-pioggia/"
-    },
-    {
-      "cat": "sport",
-      "title": "Thomas Ceccon non ci gira intorno",
-      "summary": "È un nuotatore eccezionale ma anche un tipo sfrontato, e per l'ennesima volta si è fatto notare per come ha commentato le sue gare",
-      "fullSummary": "È un nuotatore eccezionale ma anche un tipo sfrontato, e per l'ennesima volta si è fatto notare per come ha commentato le sue gare",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/thomas-ceccon-socia-interviste-europei-nuoto/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il calciatore del Cagliari Yael Trepy è ricoverato in terapia intensiva dopo un incidente in piscina",
-      "summary": "",
-      "fullSummary": "Il calciatore del Cagliari Yael Trepy è ricoverato in terapia intensiva dopo un incidente in piscina",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/calcio-cagliari-yael-trepy-ricoverato-terapia-intensiva/"
-    },
-    {
-      "cat": "sport",
-      "title": "Belle foto dagli Europei di atletica",
-      "summary": "Siepi e ostacoli, dischi ed eclissi, abbracci e cadute, medaglie e bandiere",
-      "fullSummary": "Siepi e ostacoli, dischi ed eclissi, abbracci e cadute, medaglie e bandiere",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/belle-foto-dagli-europei-di-atletica/"
     }
   ]
 }
