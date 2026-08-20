@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-20T19:48:01.690Z",
+  "generatedAt": "2026-08-20T21:59:56.639Z",
   "items": [
     {
       "cat": "politica",
       "title": "Sull&#8217;economia Vannacci ricicla le proposte insostenibili di Meloni e Salvini",
       "summary": "Nel programma di Futuro Nazionale ci sono molte promesse tradite della destra sovranista, a volte poste in modo più cauto, ma niente di nuov…",
-      "fullSummary": "Il partito Futuro Nazionale di Roberto Vannacci ha pubblicato il proprio documento programmatico, all’interno del quale la sezione economica riprende in larga parte vecchie tesi e battaglie della destra sovranista e della sinistra radicale contro le istituzioni europee e il neoliberismo, molte delle quali accantonate da Fratelli d’Italia e Lega una volta giunti al governo.\n\nRiguardo alla permanenza nell'euro, Vannacci adotta una posizione ambigua: pur richiamando la sovranità monetaria, ammette che un'uscita immediata danneggerebbe il tessuto produttivo, proponendo sia di rinegoziare i parametri della moneta unica sia di mantenere aperta l'opzione di abbandonarla. Al contempo, il programma rilancia l’idea di valutare una moneta fiscale basata sulla circolazione di crediti, rievocando proposte già avanzate dalla Lega con i minibot e da Fratelli d’Italia con i crediti del Superbonus, nonostante la Banca d’Italia abbia chiarito nel 2017 che tale strumento contrasta con i trattati europei e comporta forti rischi per i conti pubblici.\n\nVannacci attacca inoltre Giorgia Meloni per aver sottoscritto il nuovo Patto di Stabilità europeo, che limita la spesa per investimenti, e critica le politiche comunitarie di riarmo, allineandosi su toni vicini a quelli delle opposizioni. Per contrastare i vincoli europei, suggerisce di porre il veto sul bilancio pluriennale dell'Unione Europea per il 2028-2034, riproponendo una strategia negoziale già ipotizzata nel 2018 dal governo Lega-Movimento 5 Stelle, ma mai attuata per via delle pesanti ripercussioni diplomatiche e finanziarie sui mercati.\n\nInfine, le proposte meno estreme del programma — tra cui il taglio del cuneo fiscale e delle aliquote Irpef, la semplificazione tributaria e gli incentivi a famiglie e natalità — risultano sostanzialmente allineate a quanto già promosso, avviato o pianificato dall'attuale esecutivo Meloni.",
+      "fullSummary": "Nel programma di Futuro Nazionale ci sono molte promesse tradite della destra sovranista, a volte poste in modo più cauto, ma niente di nuovo",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/18/vannacci-futuro-nazionale-programma-economia-euro/"
     },
@@ -67,14 +67,6 @@
     },
     {
       "cat": "sport",
-      "title": "Il tennista spagnolo Carlos Alcaraz ha detto che parteciperà agli US Open, dopo quattro mesi in cui non aveva giocato per un infortunio",
-      "summary": "",
-      "fullSummary": "Il tennista spagnolo Carlos Alcaraz ha detto che parteciperà agli US Open, dopo quattro mesi in cui non aveva giocato per un infortunio",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/carlos-alcaraz-partecipera-us-open/"
-    },
-    {
-      "cat": "sport",
       "title": "Una maratona con 674 metri di troppo",
       "summary": "A Edmonton, in Canada, per un errore di misurazione: a proposito, come si misura una maratona e perché ha proprio quella lunghezza?",
       "fullSummary": "A Edmonton, in Canada, per un errore di misurazione: a proposito, come si misura una maratona e perché ha proprio quella lunghezza?",
@@ -96,6 +88,14 @@
       "fullSummary": "Costava migliaia di euro e ne sono nati centinaia di cavalli, qualcuno anche forte ma mai altrettanto",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/19/varenne-figli-sperma/"
+    },
+    {
+      "cat": "sport",
+      "title": "Per certi calciatori il campionato inizia in aeroporto",
+      "summary": "Dove i tifosi vanno ad aspettarli appena arrivano nella nuova città in cui stanno per giocare",
+      "fullSummary": "Dove i tifosi vanno ad aspettarli appena arrivano nella nuova città in cui stanno per giocare",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/19/tifosi-aeroporto-calcio-calciomercato/"
     }
   ]
 }
