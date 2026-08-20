@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-20T16:06:35.249Z",
+  "generatedAt": "2026-08-20T19:48:01.690Z",
   "items": [
     {
       "cat": "politica",
       "title": "Sull&#8217;economia Vannacci ricicla le proposte insostenibili di Meloni e Salvini",
       "summary": "Nel programma di Futuro Nazionale ci sono molte promesse tradite della destra sovranista, a volte poste in modo più cauto, ma niente di nuov…",
-      "fullSummary": "Nel programma di Futuro Nazionale ci sono molte promesse tradite della destra sovranista, a volte poste in modo più cauto, ma niente di nuovo",
+      "fullSummary": "Il partito Futuro Nazionale di Roberto Vannacci ha pubblicato il proprio documento programmatico, all’interno del quale la sezione economica riprende in larga parte vecchie tesi e battaglie della destra sovranista e della sinistra radicale contro le istituzioni europee e il neoliberismo, molte delle quali accantonate da Fratelli d’Italia e Lega una volta giunti al governo.\n\nRiguardo alla permanenza nell'euro, Vannacci adotta una posizione ambigua: pur richiamando la sovranità monetaria, ammette che un'uscita immediata danneggerebbe il tessuto produttivo, proponendo sia di rinegoziare i parametri della moneta unica sia di mantenere aperta l'opzione di abbandonarla. Al contempo, il programma rilancia l’idea di valutare una moneta fiscale basata sulla circolazione di crediti, rievocando proposte già avanzate dalla Lega con i minibot e da Fratelli d’Italia con i crediti del Superbonus, nonostante la Banca d’Italia abbia chiarito nel 2017 che tale strumento contrasta con i trattati europei e comporta forti rischi per i conti pubblici.\n\nVannacci attacca inoltre Giorgia Meloni per aver sottoscritto il nuovo Patto di Stabilità europeo, che limita la spesa per investimenti, e critica le politiche comunitarie di riarmo, allineandosi su toni vicini a quelli delle opposizioni. Per contrastare i vincoli europei, suggerisce di porre il veto sul bilancio pluriennale dell'Unione Europea per il 2028-2034, riproponendo una strategia negoziale già ipotizzata nel 2018 dal governo Lega-Movimento 5 Stelle, ma mai attuata per via delle pesanti ripercussioni diplomatiche e finanziarie sui mercati.\n\nInfine, le proposte meno estreme del programma — tra cui il taglio del cuneo fiscale e delle aliquote Irpef, la semplificazione tributaria e gli incentivi a famiglie e natalità — risultano sostanzialmente allineate a quanto già promosso, avviato o pianificato dall'attuale esecutivo Meloni.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/18/vannacci-futuro-nazionale-programma-economia-euro/"
     },
@@ -35,35 +35,51 @@
     },
     {
       "cat": "mondo",
-      "title": "In Cina è stato condannato all&#8217;ergastolo il capo di Evergrande, che un tempo era la più grande società immobiliare del paese",
+      "title": "Tredici persone sono morte nel crollo di una miniera d&#8217;oro illegale in Colombia",
       "summary": "",
-      "fullSummary": "In Cina è stato condannato all&#8217;ergastolo il capo di Evergrande, che un tempo era la più grande società immobiliare del paese",
+      "fullSummary": "Tredici persone sono morte nel crollo di una miniera d&#8217;oro illegale in Colombia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/capo-evergrande-condannato-cina/"
+      "url": "https://www.ilpost.it/2026/08/20/colombia-morti-miniera-crollo/"
     },
     {
       "cat": "mondo",
-      "title": "Il principe Harry del Regno Unito tornerà a vivere nel Regno Unito",
-      "summary": "Secondo un'esclusiva del Telegraph si trasferirà nelle prossime settimane, dopo sei anni dalla rottura con la famiglia reale",
-      "fullSummary": "Secondo un'esclusiva del Telegraph si trasferirà nelle prossime settimane, dopo sei anni dalla rottura con la famiglia reale",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/principe-harry-trasferimento-regno-unito/"
-    },
-    {
-      "cat": "mondo",
-      "title": "C&#8217;è stato un nuovo grosso bombardamento russo su Kyiv",
-      "summary": "Ha ucciso almeno 12 persone e ne ha ferite più di 30, e fra le strutture colpite c'è un ospedale pediatrico",
-      "fullSummary": "Ha ucciso almeno 12 persone e ne ha ferite più di 30, e fra le strutture colpite c'è un ospedale pediatrico",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/bombardamento-russo-kyiv-morti-feriti-ospedale-pediatrico/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Almeno 100 persone sono morte in un crollo in una miniera d&#8217;oro in Repubblica Centrafricana",
+      "title": "La Romania ha distrutto un drone esplosivo vicino a un importante impianto per l&#8217;estrazione di gas naturale nel mar Nero",
       "summary": "",
-      "fullSummary": "Almeno 100 persone sono morte in un crollo in una miniera d&#8217;oro in Repubblica Centrafricana",
+      "fullSummary": "La Romania ha distrutto un drone esplosivo vicino a un importante impianto per l&#8217;estrazione di gas naturale nel mar Nero",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/19/repubblica-centrafricana-miniera-morti/"
+      "url": "https://www.ilpost.it/2026/08/20/romania-drone-neptun-deep-mar-nero/"
+    },
+    {
+      "cat": "mondo",
+      "title": "La tv pubblica ungherese ha ripreso a trasmettere i telegiornali dopo 44 giorni di interruzione per ripristinarne l&#8217;indipendenza",
+      "summary": "",
+      "fullSummary": "La tv pubblica ungherese ha ripreso a trasmettere i telegiornali dopo 44 giorni di interruzione per ripristinarne l&#8217;indipendenza",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/20/ungheria-televisione-pubblica-notiziari/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Spagna c&#8217;è una grossa polemica su 500 minori non accompagnate a Ceuta",
+      "summary": "Il governo vorrebbe accoglierle ma l'opposizione di centrodestra insiste che vengano rimpatriate (anche se è illegale)",
+      "fullSummary": "Il governo vorrebbe accoglierle ma l'opposizione di centrodestra insiste che vengano rimpatriate (anche se è illegale)",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/20/spagna-ceuta-minorenni/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il tennista spagnolo Carlos Alcaraz ha detto che parteciperà agli US Open, dopo quattro mesi in cui non aveva giocato per un infortunio",
+      "summary": "",
+      "fullSummary": "Il tennista spagnolo Carlos Alcaraz ha detto che parteciperà agli US Open, dopo quattro mesi in cui non aveva giocato per un infortunio",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/20/carlos-alcaraz-partecipera-us-open/"
+    },
+    {
+      "cat": "sport",
+      "title": "Una maratona con 674 metri di troppo",
+      "summary": "A Edmonton, in Canada, per un errore di misurazione: a proposito, come si misura una maratona e perché ha proprio quella lunghezza?",
+      "fullSummary": "A Edmonton, in Canada, per un errore di misurazione: a proposito, come si misura una maratona e perché ha proprio quella lunghezza?",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/20/maratona-troppo-lunga-edmonton/"
     },
     {
       "cat": "sport",
@@ -80,22 +96,6 @@
       "fullSummary": "Costava migliaia di euro e ne sono nati centinaia di cavalli, qualcuno anche forte ma mai altrettanto",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/19/varenne-figli-sperma/"
-    },
-    {
-      "cat": "sport",
-      "title": "Per certi calciatori il campionato inizia in aeroporto",
-      "summary": "Dove i tifosi vanno ad aspettarli appena arrivano nella nuova città in cui stanno per giocare",
-      "fullSummary": "Dove i tifosi vanno ad aspettarli appena arrivano nella nuova città in cui stanno per giocare",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/19/tifosi-aeroporto-calcio-calciomercato/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il tennista australiano Nick Kyrgios è stato sospeso provvisoriamente dopo essere risultato positivo alla cocaina",
-      "summary": "",
-      "fullSummary": "Il tennista australiano Nick Kyrgios è stato sospeso provvisoriamente dopo essere risultato positivo alla cocaina",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/19/tennista-australiano-nick-kyrgios-sospensione-cocaina/"
     }
   ]
 }
