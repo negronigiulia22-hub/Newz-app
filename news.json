@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T10:17:57.609Z",
+  "generatedAt": "2026-08-21T14:08:26.666Z",
   "items": [
     {
       "cat": "politica",
@@ -37,7 +37,7 @@
       "cat": "mondo",
       "title": "Tredici persone sono morte nel crollo di una miniera d&#8217;oro illegale in Colombia",
       "summary": "",
-      "fullSummary": "Nel comune di Policarpa, situato nel territorio sud-occidentale della Colombia all'interno del dipartimento di Nariño, si è verificato un grave incidente dovuto al crollo di una miniera d’oro illegale. Il bilancio accertato dell'evento è di tredici persone che hanno perso la vita e di altre diciassette persone che sono rimaste ferite.\n\nIn base a quanto è stato dichiarato e reso noto dal governo del dipartimento di Nariño, la causa dell'accaduto è direttamente riconducibile ai lavori di estrazione che venivano condotti nel sito. Durante queste attività, infatti, si è verificato il distacco improvviso di una parete della miniera, la quale è crollata finendo per seppellire le persone che in quel momento stavano lavorando al suo interno.\n\nA seguito del crollo, sono intervenuti i soccorritori per prestare aiuto e procedere alle ricerche. Tutte le persone che risultavano inizialmente segnalate come disperse sono state infine trovate e recuperate. Tuttavia, non è stato reso noto né chiarito se tra le persone rimaste ferite vi siano individui che versano in condizioni gravi.\n\nL'articolo evidenzia infine come incidenti e tragedie di questo tipo risultino frequenti nel contesto delle miniere illegali in Colombia. All'interno di queste strutture prive di autorizzazione, infatti, le persone prestano la propria opera in totale assenza di verifiche e controlli da parte dello Stato. Di conseguenza, le attività di estrazione mineraria si svolgono generalmente senza l'adozione delle necessarie precauzioni e senza la presenza di sufficienti dispositivi di sicurezza volti a tutelare l'incolumità dei lavoratori.",
+      "fullSummary": "Tredici persone sono morte nel crollo di una miniera d&#8217;oro illegale in Colombia",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/20/colombia-morti-miniera-crollo/"
     },
@@ -67,14 +67,6 @@
     },
     {
       "cat": "sport",
-      "title": "Il tennista spagnolo Carlos Alcaraz ha detto che parteciperà agli US Open, dopo quattro mesi in cui non aveva giocato per un infortunio",
-      "summary": "",
-      "fullSummary": "Il tennista spagnolo Carlos Alcaraz ha detto che parteciperà agli US Open, dopo quattro mesi in cui non aveva giocato per un infortunio",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/carlos-alcaraz-partecipera-us-open/"
-    },
-    {
-      "cat": "sport",
       "title": "Una maratona con 674 metri di troppo",
       "summary": "A Edmonton, in Canada, per un errore di misurazione: a proposito, come si misura una maratona e perché ha proprio quella lunghezza?",
       "fullSummary": "A Edmonton, in Canada, per un errore di misurazione: a proposito, come si misura una maratona e perché ha proprio quella lunghezza?",
@@ -96,6 +88,14 @@
       "fullSummary": "Costava migliaia di euro e ne sono nati centinaia di cavalli, qualcuno anche forte ma mai altrettanto",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/19/varenne-figli-sperma/"
+    },
+    {
+      "cat": "sport",
+      "title": "Per certi calciatori il campionato inizia in aeroporto",
+      "summary": "Dove i tifosi vanno ad aspettarli appena arrivano nella nuova città in cui stanno per giocare",
+      "fullSummary": "Dove i tifosi vanno ad aspettarli appena arrivano nella nuova città in cui stanno per giocare",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/19/tifosi-aeroporto-calcio-calciomercato/"
     }
   ]
 }
