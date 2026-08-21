@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-21T16:09:00.274Z",
+  "generatedAt": "2026-08-21T19:24:44.276Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "La brutta figura del governo Meloni in Etiopia",
+      "summary": "L'ambasciatore italiano, Sem Fabrizi, è stato richiamato a Roma su pressione del primo ministro Abiy: è un brutto precedente per la diplomaz…",
+      "fullSummary": "L'ambasciatore italiano, Sem Fabrizi, è stato richiamato a Roma su pressione del primo ministro Abiy: è un brutto precedente per la diplomazia italiana",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/21/ambasciatore-etiopia-sem-fabrizi-abiy/"
+    },
     {
       "cat": "politica",
       "title": "Sull&#8217;economia Vannacci ricicla le proposte insostenibili di Meloni e Salvini",
@@ -26,44 +34,36 @@
       "url": "https://www.ilpost.it/2026/08/17/attilio-fontana-lega-matteo-salvini/"
     },
     {
-      "cat": "politica",
-      "title": "La “legge Bove” sul primo soccorso è bloccata",
-      "summary": "È sostenuta da tutti i partiti e costa poco, eppure il governo non trova i soldi: se n'è lamentato anche Edoardo Bove",
-      "fullSummary": "È sostenuta da tutti i partiti e costa poco, eppure il governo non trova i soldi: se n'è lamentato anche Edoardo Bove",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/15/legge-edoardo-bove-bloccata-primo-soccorso-defibrillatori/"
-    },
-    {
       "cat": "mondo",
-      "title": "Tredici persone sono morte nel crollo di una miniera d&#8217;oro illegale in Colombia",
+      "title": "In Svezia un ragazzo ha ferito almeno tre persone con una spada in una scuola",
       "summary": "",
-      "fullSummary": "Tredici persone sono morte nel crollo di una miniera d&#8217;oro illegale in Colombia",
+      "fullSummary": "In Svezia un ragazzo ha ferito almeno tre persone con una spada in una scuola",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/colombia-morti-miniera-crollo/"
+      "url": "https://www.ilpost.it/2026/08/21/svezia-attacco-scuola-fagersta/"
     },
     {
       "cat": "mondo",
-      "title": "La Romania ha distrutto un drone esplosivo vicino a un importante impianto per l&#8217;estrazione di gas naturale nel mar Nero",
+      "title": "Almeno sei persone sono state uccise e oltre cento ferite in un attacco con droni su un centro commerciale nel sud dell&#8217;Ucraina",
       "summary": "",
-      "fullSummary": "La Romania ha distrutto un drone esplosivo vicino a un importante impianto per l&#8217;estrazione di gas naturale nel mar Nero",
+      "fullSummary": "Almeno sei persone sono state uccise e oltre cento ferite in un attacco con droni su un centro commerciale nel sud dell&#8217;Ucraina",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/romania-drone-neptun-deep-mar-nero/"
+      "url": "https://www.ilpost.it/2026/08/21/ucraina-attacco-centro-commerciale-kryvyi-rih/"
     },
     {
       "cat": "mondo",
-      "title": "La tv pubblica ungherese ha ripreso a trasmettere i telegiornali dopo 44 giorni di interruzione per ripristinarne l&#8217;indipendenza",
+      "title": "Il governo del Venezuela ha scaricato Maduro?",
+      "summary": "La presidente Rodríguez non chiede più agli Stati Uniti di liberarlo, e i suoi collaboratori più importanti sono stati allontanati",
+      "fullSummary": "La presidente Rodríguez non chiede più agli Stati Uniti di liberarlo, e i suoi collaboratori più importanti sono stati allontanati",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/21/venezuela-scaricato-maduro/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Germania si sospetta che un deposito di armi scoperto nel 2025 poco fuori Berlino fosse stato usato dalla Russia",
       "summary": "",
-      "fullSummary": "La tv pubblica ungherese ha ripreso a trasmettere i telegiornali dopo 44 giorni di interruzione per ripristinarne l&#8217;indipendenza",
+      "fullSummary": "In Germania si sospetta che un deposito di armi scoperto nel 2025 poco fuori Berlino fosse stato usato dalla Russia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/ungheria-televisione-pubblica-notiziari/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Spagna c&#8217;è una grossa polemica su 500 minori non accompagnate a Ceuta",
-      "summary": "Il governo vorrebbe accoglierle ma l'opposizione di centrodestra insiste che vengano rimpatriate (anche se è illegale)",
-      "fullSummary": "Il governo vorrebbe accoglierle ma l'opposizione di centrodestra insiste che vengano rimpatriate (anche se è illegale)",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/20/spagna-ceuta-minorenni/"
+      "url": "https://www.ilpost.it/2026/08/21/germania-deposito-armi-berlino-sospetti-russia/"
     },
     {
       "cat": "sport",
