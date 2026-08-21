@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:59:56.639Z",
+  "generatedAt": "2026-08-21T03:32:48.303Z",
   "items": [
     {
       "cat": "politica",
@@ -67,6 +67,14 @@
     },
     {
       "cat": "sport",
+      "title": "Il tennista spagnolo Carlos Alcaraz ha detto che parteciperà agli US Open, dopo quattro mesi in cui non aveva giocato per un infortunio",
+      "summary": "",
+      "fullSummary": "Il tennista spagnolo Carlos Alcaraz ha detto che parteciperà agli US Open, dopo quattro mesi in cui non aveva giocato per un infortunio",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/20/carlos-alcaraz-partecipera-us-open/"
+    },
+    {
+      "cat": "sport",
       "title": "Una maratona con 674 metri di troppo",
       "summary": "A Edmonton, in Canada, per un errore di misurazione: a proposito, come si misura una maratona e perché ha proprio quella lunghezza?",
       "fullSummary": "A Edmonton, in Canada, per un errore di misurazione: a proposito, come si misura una maratona e perché ha proprio quella lunghezza?",
@@ -88,14 +96,6 @@
       "fullSummary": "Costava migliaia di euro e ne sono nati centinaia di cavalli, qualcuno anche forte ma mai altrettanto",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/19/varenne-figli-sperma/"
-    },
-    {
-      "cat": "sport",
-      "title": "Per certi calciatori il campionato inizia in aeroporto",
-      "summary": "Dove i tifosi vanno ad aspettarli appena arrivano nella nuova città in cui stanno per giocare",
-      "fullSummary": "Dove i tifosi vanno ad aspettarli appena arrivano nella nuova città in cui stanno per giocare",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/19/tifosi-aeroporto-calcio-calciomercato/"
     }
   ]
 }
