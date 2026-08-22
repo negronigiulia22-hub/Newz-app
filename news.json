@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T03:11:29.666Z",
+  "generatedAt": "2026-08-22T07:48:58.982Z",
   "items": [
     {
       "cat": "politica",
@@ -29,7 +29,7 @@
       "cat": "politica",
       "title": "Fontana vuole cambiare la Lega, anche a costo di sostituire Salvini",
       "summary": "Il presidente della Lombardia ha detto che sta lavorando a un'associazione dentro al partito e ha parlato di una «leadership collettiva»",
-      "fullSummary": "Il presidente della Lombardia ha detto che sta lavorando a un'associazione dentro al partito e ha parlato di una «leadership collettiva»",
+      "fullSummary": "Attilio Fontana, presidente della Regione Lombardia e dirigente della Lega, ha espresso la necessità di un rinnovamento profondo per arrestare il costante calo di consensi che ha colpito il movimento, anche nelle sue roccaforti storiche. Per invertire questa tendenza, Fontana ritiene indispensabile rivedere l’impostazione politica e la dirigenza, non escludendo alcuna soluzione, compresa l'eventualità che il segretario federale Matteo Salvini debba farsi da parte.\n\nIn un'intervista al Corriere della Sera, Fontana ha evidenziato la gravità del momento ricordando il crollo dei voti dal 34 al 5 per cento stimato dai sondaggi più critici. Per superare la fase attuale, ha proposto una «leadership collettiva» fondata su una squadra forte e ha annunciato di essere al lavoro su un’associazione interna al partito, aperta e plurale. Il presidente lombardo non ha escluso nemmeno la futura nascita di una nuova forza politica. Tra le priorità del gruppo figurano il dibattito sui diritti civili, la modernizzazione dello Stato tramite autonomia e federalismo, e la valorizzazione delle aree a forte vocazione economica come la Lombardia.\n\nSalvini è ritenuto da diversi esponenti il principale responsabile delle difficoltà del partito, a causa di una linea considerata debole e poco strategica, come testimoniato dall'abbandono dell'ex vicesegretario Roberto Vannacci, fondatore del movimento Futuro Nazionale. Nonostante una consistente parte della dirigenza lombarda ne abbia sollecitato le dimissioni, Salvini ha respinto l'ipotesi di lasciare la carica, aprendo però alla possibilità di farsi affiancare da una direzione collegiale. Già a giugno il segretario aveva tentato una mediazione istituendo una cabina di regia composta da governatori, sindaci e ministri leghisti per affrontare le questioni territoriali su scala nazionale.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/17/attilio-fontana-lega-matteo-salvini/"
     },
@@ -67,9 +67,17 @@
     },
     {
       "cat": "sport",
-      "title": "Il calciatore argentino Leandro Paredes è stato sospeso per dieci partite per la rissa della finale dei Mondiali contro la Spagna",
-      "summary": "",
-      "fullSummary": "Il calciatore argentino Leandro Paredes è stato sospeso per dieci partite per la rissa della finale dei Mondiali contro la Spagna",
+      "title": "Una delle poche corse che Tadej Pogačar ancora non ha vinto",
+      "summary": "La Vuelta a España, dove quest'anno tutti gli altri ciclisti gareggiano per arrivare secondi",
+      "fullSummary": "La Vuelta a España, dove quest'anno tutti gli altri ciclisti gareggiano per arrivare secondi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/22/vuelta-spagna-tadej-pogacar/"
+    },
+    {
+      "cat": "sport",
+      "title": "Le squalifiche contro l&#8217;Argentina per la rissa della finale dei Mondiali",
+      "summary": "In totale per 21 partite, di cui 10 al solo Leandro Paredes: una delle punizioni più severe mai decise per fatti avvenuti ai Mondiali",
+      "fullSummary": "In totale per 21 partite, di cui 10 al solo Leandro Paredes: una delle punizioni più severe mai decise per fatti avvenuti ai Mondiali",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/21/leandro-paredes-argentina-sospensione-caos-finale-mondiali/"
     },
@@ -88,14 +96,6 @@
       "fullSummary": "Jannik Sinner non parteciperà agli US Open",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/21/jannik-sinner-tennis-salta-us-open/"
-    },
-    {
-      "cat": "sport",
-      "title": "L’uomo più veloce al mondo",
-      "summary": "È ancora lui, Usain Bolt: compie 40 anni e non corre da 9, ma i suoi record resistono dal 2009",
-      "fullSummary": "È ancora lui, Usain Bolt: compie 40 anni e non corre da 9, ma i suoi record resistono dal 2009",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/21/usain-bolt-storia-record/"
     }
   ]
 }
