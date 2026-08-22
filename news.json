@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:50:17.695Z",
+  "generatedAt": "2026-08-22T19:04:23.742Z",
   "items": [
     {
       "cat": "politica",
@@ -35,41 +35,57 @@
     },
     {
       "cat": "mondo",
-      "title": "Uber ha ricevuto una multa da 825 milioni di euro nei Paesi Bassi per una violazione dei diritti dei conducenti",
+      "title": "Il Canada imporrà dazi agli Stati Uniti in risposta ai dazi di Trump, dopo il fallimento dei negoziati",
       "summary": "",
-      "fullSummary": "Uber ha ricevuto una multa da 825 milioni di euro nei Paesi Bassi per una violazione dei diritti dei conducenti",
+      "fullSummary": "Il Canada imporrà dazi agli Stati Uniti in risposta ai dazi di Trump, dopo il fallimento dei negoziati",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/21/uber-multa-825-milioni-euro-paesi-bassi-privacy-unione-europea-conducenti/"
+      "url": "https://www.ilpost.it/2026/08/22/canada-stati-uniti-nuovi-dazi-negoziati-falliti/"
     },
     {
       "cat": "mondo",
-      "title": "In Svezia un ragazzo ha ferito almeno tre persone con una spada in una scuola",
-      "summary": "",
-      "fullSummary": "In Svezia un ragazzo ha ferito almeno tre persone con una spada in una scuola",
+      "title": "Nessuno sa quanto costi proteggere la famiglia reale britannica",
+      "summary": "Se ne sta riparlando per via del ritorno di Harry e Meghan: il Guardian ha provato a capirlo per anni, senza successo",
+      "fullSummary": "Se ne sta riparlando per via del ritorno di Harry e Meghan: il Guardian ha provato a capirlo per anni, senza successo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/21/svezia-attacco-scuola-fagersta/"
+      "url": "https://www.ilpost.it/2026/08/22/quanto-costa-scorta-famiglia-reale-britannica/"
     },
     {
       "cat": "mondo",
-      "title": "Almeno sei persone sono state uccise e oltre cento ferite in un attacco con droni su un centro commerciale nel sud dell&#8217;Ucraina",
+      "title": "In Ucraina almeno 7 persone sono state uccise in attacchi russi su diverse città",
       "summary": "",
-      "fullSummary": "Almeno sei persone sono state uccise e oltre cento ferite in un attacco con droni su un centro commerciale nel sud dell&#8217;Ucraina",
+      "fullSummary": "In Ucraina almeno 7 persone sono state uccise in attacchi russi su diverse città",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/21/ucraina-attacco-centro-commerciale-kryvyi-rih/"
+      "url": "https://www.ilpost.it/2026/08/22/sette-persone-uccise-attacchi-russia-ucraina/"
     },
     {
       "cat": "mondo",
-      "title": "Il governo del Venezuela ha scaricato Maduro?",
-      "summary": "La presidente Rodríguez non chiede più agli Stati Uniti di liberarlo, e i suoi collaboratori più importanti sono stati allontanati",
-      "fullSummary": "La presidente Rodríguez non chiede più agli Stati Uniti di liberarlo, e i suoi collaboratori più importanti sono stati allontanati",
+      "title": "Nessun partito in Israele vuole davvero interrompere le guerre di Netanyahu",
+      "summary": "A due mesi dalle elezioni nessun candidato si oppone alla guerra, anzi",
+      "fullSummary": "A due mesi dalle elezioni nessun candidato si oppone alla guerra, anzi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/21/venezuela-scaricato-maduro/"
+      "url": "https://www.ilpost.it/2026/08/22/elezioni-israele-guerra-opposizione/"
     },
     {
       "cat": "sport",
-      "title": "Il calciatore argentino Leandro Paredes è stato sospeso per dieci partite per la rissa della finale dei Mondiali contro la Spagna",
-      "summary": "",
-      "fullSummary": "Il calciatore argentino Leandro Paredes è stato sospeso per dieci partite per la rissa della finale dei Mondiali contro la Spagna",
+      "title": "Facce nuove e piedi buoni della prossima Serie A",
+      "summary": "Inizia oggi, e rispetto al passato recente molte squadre hanno deciso di puntare su giovani creativi e di talento",
+      "fullSummary": "Inizia oggi, e rispetto al passato recente molte squadre hanno deciso di puntare su giovani creativi e di talento",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/22/serie-a-2026-2027-calciomercato-squadre-calciatori-interessanti/"
+    },
+    {
+      "cat": "sport",
+      "title": "Una delle poche corse che Tadej Pogačar ancora non ha vinto",
+      "summary": "La Vuelta a España, dove quest'anno tutti gli altri ciclisti gareggiano per arrivare secondi",
+      "fullSummary": "La Vuelta a España, dove quest'anno tutti gli altri ciclisti gareggiano per arrivare secondi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/22/vuelta-spagna-tadej-pogacar/"
+    },
+    {
+      "cat": "sport",
+      "title": "Le squalifiche contro l&#8217;Argentina per la rissa della finale dei Mondiali",
+      "summary": "In totale per 21 partite, di cui 10 al solo Leandro Paredes: una delle punizioni più severe mai decise per fatti avvenuti ai Mondiali",
+      "fullSummary": "In totale per 21 partite, di cui 10 al solo Leandro Paredes: una delle punizioni più severe mai decise per fatti avvenuti ai Mondiali",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/21/leandro-paredes-argentina-sospensione-caos-finale-mondiali/"
     },
@@ -80,22 +96,6 @@
       "fullSummary": "Massimiliano Alvini, che allena il Frosinone, arriva da una lunga gavetta ma ha saputo farsi notare",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/21/massimiliano-alvini-frosinone-serie-a-storia/"
-    },
-    {
-      "cat": "sport",
-      "title": "Jannik Sinner non parteciperà agli US Open",
-      "summary": "",
-      "fullSummary": "Jannik Sinner non parteciperà agli US Open",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/21/jannik-sinner-tennis-salta-us-open/"
-    },
-    {
-      "cat": "sport",
-      "title": "L’uomo più veloce al mondo",
-      "summary": "È ancora lui, Usain Bolt: compie 40 anni e non corre da 9, ma i suoi record resistono dal 2009",
-      "fullSummary": "È ancora lui, Usain Bolt: compie 40 anni e non corre da 9, ma i suoi record resistono dal 2009",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/21/usain-bolt-storia-record/"
     }
   ]
 }
