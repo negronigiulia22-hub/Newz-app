@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-24T14:42:13.935Z",
+  "generatedAt": "2026-08-24T17:05:40.644Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Le prime elezioni di Futuro Nazionale",
+      "summary": "Alle suppletive per il collegio di Reggio Calabria il partito di Vannacci candiderà Domenico Giannetta, sottratto a Forza Italia",
+      "fullSummary": "Alle suppletive per il collegio di Reggio Calabria il partito di Vannacci candiderà Domenico Giannetta, sottratto a Forza Italia",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/24/futuro-nazionale-vannacci-suppletive-reggio-calabria-giannetta-forza-italia/"
+    },
+    {
+      "cat": "politica",
+      "title": "La proposta di tassare gli “extraprofitti” delle società energetiche",
+      "summary": "L'Italia e altri cinque paesi lo hanno chiesto di nuovo all'Unione Europea, e allora Elly Schlein ha chiesto al governo di farlo subito a li…",
+      "fullSummary": "L'Italia e altri cinque paesi lo hanno chiesto di nuovo all'Unione Europea, e allora Elly Schlein ha chiesto al governo di farlo subito a livello nazionale",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/24/italia-proposta-tassa-extraprofitti-societa-energetiche-ue/"
+    },
     {
       "cat": "politica",
       "title": "Su cosa si accapiglierà la politica italiana da settembre",
@@ -18,84 +34,68 @@
       "url": "https://www.ilpost.it/2026/08/21/ambasciatore-etiopia-sem-fabrizi-abiy/"
     },
     {
-      "cat": "politica",
-      "title": "Sull&#8217;economia Vannacci ricicla le proposte insostenibili di Meloni e Salvini",
-      "summary": "Nel programma di Futuro Nazionale ci sono molte promesse tradite della destra sovranista, a volte poste in modo più cauto, ma niente di nuov…",
-      "fullSummary": "Nel programma di Futuro Nazionale ci sono molte promesse tradite della destra sovranista, a volte poste in modo più cauto, ma niente di nuovo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/18/vannacci-futuro-nazionale-programma-economia-euro/"
-    },
-    {
-      "cat": "politica",
-      "title": "Per Matteo Salvini agosto è un mese terribile",
-      "summary": "Cos'hanno in comune il Papeete Beach, il green pass, Giorgia Meloni e Attilio Fontana?",
-      "fullSummary": "Cos'hanno in comune il Papeete Beach, il green pass, Giorgia Meloni e Attilio Fontana?",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/17/matteo-salvini-lega-fontana-agosto/"
-    },
-    {
       "cat": "mondo",
-      "title": "La guerra in Medio Oriente è stata un affare per gli aeroporti dell&#8217;Asia",
-      "summary": "Hanno avuto molti più arrivi del solito, compreso quello che è diventato l'aeroporto più trafficato al mondo per passeggeri internazionali",
-      "fullSummary": "Hanno avuto molti più arrivi del solito, compreso quello che è diventato l'aeroporto più trafficato al mondo per passeggeri internazionali",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/23/aeroporti-traffico-asia-medio-oriente-guerra-iran/"
-    },
-    {
-      "cat": "mondo",
-      "title": "È un’estate difficile anche per il Monte Bianco",
-      "summary": "Le ondate di calore stanno sciogliendo il permafrost e aumentando il rischio di frane, cosa che fra l'altro rende le scalate molto pericolos…",
-      "fullSummary": "Le ondate di calore stanno sciogliendo il permafrost e aumentando il rischio di frane, cosa che fra l'altro rende le scalate molto pericolose",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/23/monte-bianco-estate-cambiamento-climatico/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Cina è pieno di &#8220;città antiche&#8221; che non lo sono",
-      "summary": "Hanno un'architettura che imita quella tradizionale ma si vede subito che sono state costruite negli ultimi decenni: sono fatte per i turist…",
-      "fullSummary": "Hanno un'architettura che imita quella tradizionale ma si vede subito che sono state costruite negli ultimi decenni: sono fatte per i turisti, ma non solo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/23/cina-finte-citta-antiche/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Le prime dosi del vaccino contro l&#8217;ebola sono arrivate nella Repubblica Democratica del Congo",
+      "title": "In Kenya sono state arrestate quattro persone sospettate di essere coinvolte nella misteriosa morte di 18 elefanti",
       "summary": "",
-      "fullSummary": "Le prime dosi del vaccino contro l&#8217;ebola sono arrivate nella Repubblica Democratica del Congo",
+      "fullSummary": "In Kenya sono state arrestate quattro persone sospettate di essere coinvolte nella misteriosa morte di 18 elefanti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/23/vaccino-ebola-congo/"
+      "url": "https://www.ilpost.it/2026/08/24/kenya-elefanti-morti-amboseli-arresti/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Le celebrazioni per il 35esimo anniversario dell&#8217;indipendenza dell&#8217;Ucraina",
+      "summary": "Si sono svolte principalmente a Kyiv con la presenza di Andy Burnham e António Costa, mentre altri leader europei si sono collegati in video",
+      "fullSummary": "Si sono svolte principalmente a Kyiv con la presenza di Andy Burnham e António Costa, mentre altri leader europei si sono collegati in video",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/24/foto-35-anni-indipendenza-ucraina-kyiv/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Gli Stati Uniti preparano grosse sanzioni per isolare l&#8217;Iran",
+      "summary": "Le hanno annunciate nei giorni scorsi e le aspettiamo per oggi: dovrebbero essere le più ampie mai viste finora",
+      "fullSummary": "Le hanno annunciate nei giorni scorsi e le aspettiamo per oggi: dovrebbero essere le più ampie mai viste finora",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/24/sanzioni-stati-uniti-iran/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Il governo di Singapore darà ai genitori quasi 50mila euro per ogni figlio",
+      "summary": "È l'ennesimo tentativo per favorire la natalità",
+      "fullSummary": "È l'ennesimo tentativo per favorire la natalità",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/24/singapore-calo-nascite/"
     },
     {
       "cat": "sport",
-      "title": "Lando Norris ha vinto il Gran Premio d&#8217;Olanda di Formula 1",
-      "summary": "",
-      "fullSummary": "Lando Norris ha vinto il Gran Premio d&#8217;Olanda di Formula 1",
+      "title": "Agli Europei di pallavolo in Svezia sono quasi tutti lì per Isabelle Haak",
+      "summary": "Cioè la fenomenale opposta di Conegliano e della nazionale svedese che domenica ha affrontato l’Italia",
+      "fullSummary": "Cioè la fenomenale opposta di Conegliano e della nazionale svedese che domenica ha affrontato l’Italia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/23/lando-norris-mclaren-formula-1-olanda/"
+      "url": "https://www.ilpost.it/2026/08/24/isabelle-bella-haak-pallavolo-svezia/"
     },
     {
       "cat": "sport",
-      "title": "Flavio Cobolli è stato eliminato alle semifinali dal torneo Masters 1000 di tennis di Cincinnati",
-      "summary": "",
-      "fullSummary": "Flavio Cobolli è stato eliminato alle semifinali dal torneo Masters 1000 di tennis di Cincinnati",
+      "title": "Esposito, Cisse e altre cose notevoli dalla prima giornata di Serie A",
+      "summary": "Inter e Milan hanno vinto con i gol dei loro giovani attaccanti, mentre a Spalletti non è piaciuta la partita del suo nuovo centravanti",
+      "fullSummary": "Inter e Milan hanno vinto con i gol dei loro giovani attaccanti, mentre a Spalletti non è piaciuta la partita del suo nuovo centravanti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/23/cobolli-eliminato-semifinale-cincinnati/"
+      "url": "https://www.ilpost.it/2026/08/24/serie-a-calcio-prima-giornata-esposito-cisse-inter-milan-risultati-spalletti-kolo-muani/"
     },
     {
       "cat": "sport",
-      "title": "Facce nuove e piedi buoni della prossima Serie A",
-      "summary": "Inizia oggi, e rispetto al passato recente molte squadre hanno deciso di puntare su giovani creativi e di talento",
-      "fullSummary": "Inizia oggi, e rispetto al passato recente molte squadre hanno deciso di puntare su giovani creativi e di talento",
+      "title": "Bastava poco per ridurre le perdite di tempo in Serie A",
+      "summary": "Grazie alle nuove regole nelle prime partite di questa stagione si sono giocati in media 9 minuti in più rispetto all'anno scorso",
+      "fullSummary": "Grazie alle nuove regole nelle prime partite di questa stagione si sono giocati in media 9 minuti in più rispetto all'anno scorso",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/22/serie-a-2026-2027-calciomercato-squadre-calciatori-interessanti/"
+      "url": "https://www.ilpost.it/2026/08/24/serie-a-perdite-di-tempo-arbitri-regole/"
     },
     {
       "cat": "sport",
-      "title": "Una delle poche corse che Tadej Pogačar ancora non ha vinto",
-      "summary": "La Vuelta a España, dove quest'anno tutti gli altri ciclisti gareggiano per arrivare secondi",
-      "fullSummary": "La Vuelta a España, dove quest'anno tutti gli altri ciclisti gareggiano per arrivare secondi",
+      "title": "Il vistoso errore sulla medaglia della maratona di Sydney",
+      "summary": "Chi l'ha realizzata ha scambiato l'Allianz Stadium con l'Allianz Arena, che però si trova a Monaco, in Germania",
+      "fullSummary": "Chi l'ha realizzata ha scambiato l'Allianz Stadium con l'Allianz Arena, che però si trova a Monaco, in Germania",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/22/vuelta-spagna-tadej-pogacar/"
+      "url": "https://www.ilpost.it/2026/08/24/errore-medaglia-maratona-sydney-allianz-arena/"
     }
   ]
 }
