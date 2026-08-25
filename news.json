@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:26:37.140Z",
+  "generatedAt": "2026-08-25T10:33:25.305Z",
   "items": [
     {
       "cat": "politica",
@@ -67,14 +67,6 @@
     },
     {
       "cat": "sport",
-      "title": "Donyell Malen ha ripreso come aveva finito",
-      "summary": "L'attaccante della Roma ha fatto tre gol alla prima partita di Serie A, tutti su assist di Paulo Dybala",
-      "fullSummary": "L'attaccante della Roma ha fatto tre gol alla prima partita di Serie A, tutti su assist di Paulo Dybala",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/25/roma-malen-dybala-fiorentina/"
-    },
-    {
-      "cat": "sport",
       "title": "Agli Europei di pallavolo in Svezia sono quasi tutti lì per Isabelle Haak",
       "summary": "Cioè la fenomenale opposta di Conegliano e della nazionale svedese che domenica ha affrontato l’Italia",
       "fullSummary": "Cioè la fenomenale opposta di Conegliano e della nazionale svedese che domenica ha affrontato l’Italia",
@@ -96,6 +88,14 @@
       "fullSummary": "Grazie alle nuove regole nelle prime partite di questa stagione si sono giocati in media 9 minuti in più rispetto all'anno scorso",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/24/serie-a-perdite-di-tempo-arbitri-regole/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il vistoso errore sulla medaglia della maratona di Sydney",
+      "summary": "Chi l'ha realizzata ha scambiato l'Allianz Stadium con l'Allianz Arena, che però si trova a Monaco, in Germania",
+      "fullSummary": "Chi l'ha realizzata ha scambiato l'Allianz Stadium con l'Allianz Arena, che però si trova a Monaco, in Germania",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/24/errore-medaglia-maratona-sydney-allianz-arena/"
     }
   ]
 }
