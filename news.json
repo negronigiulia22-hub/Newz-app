@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:17:20.517Z",
+  "generatedAt": "2026-08-25T08:26:37.140Z",
   "items": [
     {
       "cat": "politica",
@@ -11,9 +11,9 @@
     },
     {
       "cat": "politica",
-      "title": "La proposta di tassare gli “extraprofitti” delle società energetiche",
-      "summary": "L'Italia e altri cinque paesi lo hanno chiesto di nuovo all'Unione Europea, e allora Elly Schlein ha chiesto al governo di farlo subito a li…",
-      "fullSummary": "L'Italia e altri cinque paesi lo hanno chiesto di nuovo all'Unione Europea, e allora Elly Schlein ha chiesto al governo di farlo subito a livello nazionale",
+      "title": "La nuova proposta di tassare gli “extraprofitti” delle società energetiche",
+      "summary": "L'hanno fatta l'Italia e altri cinque paesi all'Unione Europea, e allora Elly Schlein ha chiesto al governo di applicarla subito a livello n…",
+      "fullSummary": "L'hanno fatta l'Italia e altri cinque paesi all'Unione Europea, e allora Elly Schlein ha chiesto al governo di applicarla subito a livello nazionale",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/24/italia-proposta-tassa-extraprofitti-societa-energetiche-ue/"
     },
@@ -35,6 +35,22 @@
     },
     {
       "cat": "mondo",
+      "title": "Le prime misure del nuovo presidente della Colombia contro le persone migranti",
+      "summary": "Ha ordinato la ricerca e l'espulsione di quelle senza documenti, stabilendo automaticamente un legame fra immigrazione e criminalità",
+      "fullSummary": "Ha ordinato la ricerca e l'espulsione di quelle senza documenti, stabilendo automaticamente un legame fra immigrazione e criminalità",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/25/abelardo-de-la-espriella-colombia-espulsione-migranti/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Il governo francese ha fatto un accordo con l&#8217;Arabia Saudita per la costruzione di un parco a tema Dragon Ball Z vicino a Parigi",
+      "summary": "",
+      "fullSummary": "Il governo francese ha fatto un accordo con l&#8217;Arabia Saudita per la costruzione di un parco a tema Dragon Ball Z vicino a Parigi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/24/arabia-saudita-parco-a-tema-dragon-ball-z-parigi/"
+    },
+    {
+      "cat": "mondo",
       "title": "In Kenya sono state arrestate quattro persone sospettate di essere coinvolte nella misteriosa morte di 18 elefanti",
       "summary": "",
       "fullSummary": "In Kenya sono state arrestate quattro persone sospettate di essere coinvolte nella misteriosa morte di 18 elefanti",
@@ -50,20 +66,12 @@
       "url": "https://www.ilpost.it/2026/08/24/foto-35-anni-indipendenza-ucraina-kyiv/"
     },
     {
-      "cat": "mondo",
-      "title": "Gli Stati Uniti preparano grosse sanzioni per isolare l&#8217;Iran",
-      "summary": "Le hanno annunciate nei giorni scorsi e le aspettiamo per oggi: dovrebbero essere le più ampie mai viste finora",
-      "fullSummary": "Le hanno annunciate nei giorni scorsi e le aspettiamo per oggi: dovrebbero essere le più ampie mai viste finora",
+      "cat": "sport",
+      "title": "Donyell Malen ha ripreso come aveva finito",
+      "summary": "L'attaccante della Roma ha fatto tre gol alla prima partita di Serie A, tutti su assist di Paulo Dybala",
+      "fullSummary": "L'attaccante della Roma ha fatto tre gol alla prima partita di Serie A, tutti su assist di Paulo Dybala",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/24/sanzioni-stati-uniti-iran/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il governo di Singapore darà ai genitori quasi 50mila euro per ogni figlio",
-      "summary": "È l'ennesimo tentativo per favorire la natalità",
-      "fullSummary": "È l'ennesimo tentativo per favorire la natalità",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/24/singapore-calo-nascite/"
+      "url": "https://www.ilpost.it/2026/08/25/roma-malen-dybala-fiorentina/"
     },
     {
       "cat": "sport",
@@ -88,14 +96,6 @@
       "fullSummary": "Grazie alle nuove regole nelle prime partite di questa stagione si sono giocati in media 9 minuti in più rispetto all'anno scorso",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/24/serie-a-perdite-di-tempo-arbitri-regole/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il vistoso errore sulla medaglia della maratona di Sydney",
-      "summary": "Chi l'ha realizzata ha scambiato l'Allianz Stadium con l'Allianz Arena, che però si trova a Monaco, in Germania",
-      "fullSummary": "Chi l'ha realizzata ha scambiato l'Allianz Stadium con l'Allianz Arena, che però si trova a Monaco, in Germania",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/24/errore-medaglia-maratona-sydney-allianz-arena/"
     }
   ]
 }
