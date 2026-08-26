@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:08:55.468Z",
+  "generatedAt": "2026-08-26T14:32:43.123Z",
   "items": [
     {
       "cat": "politica",
@@ -35,9 +35,17 @@
     },
     {
       "cat": "mondo",
+      "title": "Gli Stati Uniti hanno sospeso tutte le domande per i visti di immigrazione",
+      "summary": "",
+      "fullSummary": "Gli Stati Uniti hanno sospeso tutte le domande per i visti di immigrazione",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/26/visti-stati-uniti-sospensione/"
+    },
+    {
+      "cat": "mondo",
       "title": "Cosa si sa della visita del direttore della CIA a Mosca",
-      "summary": "Praticamente nulla, perché sia la Russia che gli Stati Uniti si sono rifiutati di commentare: non succedeva dal 2021",
-      "fullSummary": "Praticamente nulla, perché sia la Russia che gli Stati Uniti si sono rifiutati di commentare: non succedeva dal 2021",
+      "summary": "Praticamente nulla, a parte che non succedeva dal 2021: sia la Russia che gli Stati Uniti si sono rifiutati di commentare",
+      "fullSummary": "Praticamente nulla, a parte che non succedeva dal 2021: sia la Russia che gli Stati Uniti si sono rifiutati di commentare",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/26/visita-john-ratcliffe-cia-stati-uniti-mosca/"
     },
@@ -58,12 +66,20 @@
       "url": "https://www.ilpost.it/2026/08/25/due-morti-morbillo-stati-uniti-pennsylvania/"
     },
     {
-      "cat": "mondo",
-      "title": "Il Canada ha annunciato dazi fino al 50 per cento su alcuni beni statunitensi, in risposta a quelli imposti da Trump",
+      "cat": "sport",
+      "title": "La Federcalcio ha ritirato il sostegno al presidente della FIFA Gianni Infantino per la sua rielezione",
       "summary": "",
-      "fullSummary": "Il Canada ha annunciato dazi fino al 50 per cento su alcuni beni statunitensi, in risposta a quelli imposti da Trump",
+      "fullSummary": "La Federcalcio ha ritirato il sostegno al presidente della FIFA Gianni Infantino per la sua rielezione",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/25/canada-annuncia-dazi-beni-statunitensi-risposta-trump/"
+      "url": "https://www.ilpost.it/2026/08/26/figc-ritira-sostegno-infantino-presidente-fifa/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il ciclista italiano Lorenzo Finn ha vinto il Tour de l&#8217;Avenir",
+      "summary": "Cioè il Tour de France giovanile, che in passato lanciò ciclisti come Felice Gimondi e Tadej Pogačar",
+      "fullSummary": "Cioè il Tour de France giovanile, che in passato lanciò ciclisti come Felice Gimondi e Tadej Pogačar",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/26/lorenzo-finn-tour-de-l-avenir-vittoria-chi-e/"
     },
     {
       "cat": "sport",
@@ -80,22 +96,6 @@
       "fullSummary": "L'attaccante della Roma ha fatto tre gol alla prima partita di Serie A, tutti su assist di Paulo Dybala",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/25/roma-malen-dybala-fiorentina/"
-    },
-    {
-      "cat": "sport",
-      "title": "Agli Europei di pallavolo in Svezia sono quasi tutti lì per Isabelle Haak",
-      "summary": "Cioè la fenomenale opposta di Conegliano e della nazionale svedese che domenica ha affrontato l’Italia",
-      "fullSummary": "Cioè la fenomenale opposta di Conegliano e della nazionale svedese che domenica ha affrontato l’Italia",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/24/isabelle-bella-haak-pallavolo-svezia/"
-    },
-    {
-      "cat": "sport",
-      "title": "Esposito, Cisse e altre cose notevoli dalla prima giornata di Serie A",
-      "summary": "Inter e Milan hanno vinto con i gol dei loro giovani attaccanti, mentre a Spalletti non è piaciuta la partita del suo nuovo centravanti",
-      "fullSummary": "Inter e Milan hanno vinto con i gol dei loro giovani attaccanti, mentre a Spalletti non è piaciuta la partita del suo nuovo centravanti",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/24/serie-a-calcio-prima-giornata-esposito-cisse-inter-milan-risultati-spalletti-kolo-muani/"
     }
   ]
 }
