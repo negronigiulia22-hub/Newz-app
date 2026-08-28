@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-26T14:32:43.123Z",
+  "generatedAt": "2026-08-28T01:27:01.971Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Vannacci è fissato con le definizioni dei dizionari",
+      "summary": "Le cita regolarmente per far apparire un filo più moderate le cose che dice: e quindi il rastrellamento diventa un termine «tecnico-tattico»",
+      "fullSummary": "Le cita regolarmente per far apparire un filo più moderate le cose che dice: e quindi il rastrellamento diventa un termine «tecnico-tattico»",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/27/roberto-vannacci-definizioni-dizionari/"
+    },
+    {
+      "cat": "politica",
+      "title": "Alla fine l&#8217;Italia userà buona parte dei fondi europei per il riarmo",
+      "summary": "Le spese militari sono sempre un tema politicamente delicato, e i partiti non riuscivano a mettersi d'accordo",
+      "fullSummary": "Le spese militari sono sempre un tema politicamente delicato, e i partiti non riuscivano a mettersi d'accordo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/26/italia-usera-safe-fondi-europei-riarmo/"
+    },
     {
       "cat": "politica",
       "title": "Meloni è sempre più titubante sul sostegno militare all&#8217;Ucraina",
@@ -18,84 +34,68 @@
       "url": "https://www.ilpost.it/2026/08/24/futuro-nazionale-vannacci-suppletive-reggio-calabria-giannetta-forza-italia/"
     },
     {
-      "cat": "politica",
-      "title": "La nuova proposta di tassare gli “extraprofitti” delle società energetiche",
-      "summary": "L'hanno fatta l'Italia e altri cinque paesi all'Unione Europea, e allora Elly Schlein ha chiesto al governo di applicarla subito a livello n…",
-      "fullSummary": "L'hanno fatta l'Italia e altri cinque paesi all'Unione Europea, e allora Elly Schlein ha chiesto al governo di applicarla subito a livello nazionale",
+      "cat": "mondo",
+      "title": "C&#8217;è stato un furto al Museo di arti applicate (MAK) di Vienna",
+      "summary": "",
+      "fullSummary": "C&#8217;è stato un furto al Museo di arti applicate (MAK) di Vienna",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/24/italia-proposta-tassa-extraprofitti-societa-energetiche-ue/"
-    },
-    {
-      "cat": "politica",
-      "title": "Su cosa si accapiglierà la politica italiana da settembre",
-      "summary": "La legge elettorale, la crisi della Lega, il candidato del centrosinistra alle elezioni politiche del 2027 e altro ancora",
-      "fullSummary": "La legge elettorale, la crisi della Lega, il candidato del centrosinistra alle elezioni politiche del 2027 e altro ancora",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/23/legge-elettorale-fine-vita-settembre-pontida/"
+      "url": "https://www.ilpost.it/2026/08/27/furto-museo-arti-applicate-mak-vienna/"
     },
     {
       "cat": "mondo",
-      "title": "Gli Stati Uniti hanno sospeso tutte le domande per i visti di immigrazione",
+      "title": "Donald Trump ha firmato un ordine esecutivo perché negli Stati Uniti il Lago Ontario sia chiamato “Lago America”",
       "summary": "",
-      "fullSummary": "Gli Stati Uniti hanno sospeso tutte le domande per i visti di immigrazione",
+      "fullSummary": "Il presidente degli Stati Uniti Donald Trump ha firmato un ordine esecutivo per ridenominare con effetto immediato il Lago Ontario in “Lago America”. Durante la firma, il presidente ha menzionato la possibilità di modificare in futuro anche i nomi degli oceani Atlantico e Pacifico, richiamando un analogo provvedimento adottato il primo giorno del suo secondo mandato, con cui aveva rinominato il Golfo del Messico in “Golfo d’America”.\n\nIl Lago Ontario è uno dei cinque Grandi Laghi del Nordamerica e si trova tra lo stato di New York e la provincia canadese dell’Ontario, destinazione primaria per le esportazioni di vari stati americani. Il Canada ha già annunciato che non riconoscerà la nuova denominazione stabilita dagli Stati Uniti.\n\nLa decisione si colloca all'interno di una disputa commerciale tra le due nazioni: dopo l'imposizione di dazi statunitensi del 50 per cento su alcune importazioni canadesi, il Canada ha risposto stabilendo che dall’8 settembre applicherà dazi fino al 50 per cento su merci statunitensi per un totale di 27,6 miliardi di dollari canadesi all’anno (circa 17 miliardi di euro). Trump ha motivato l'atto affermando che il Canada approfitta commercialmente degli Stati Uniti da lungo tempo.\n\nSul piano formale, l'ordine esecutivo incarica il segretario dell’Interno Doug Burgum di provvedere all'aggiornamento del Sistema di Informazione sui Nomi Geografici. Il consiglio responsabile di questo archivio federale è composto da geografi e cartografi nominati periodicamente dall’amministrazione e possiede la facoltà di approvare o respingere le richieste di modifica avanzate dal Congresso o dalla presidenza. L'autorità di Trump è limitata all'adozione del nuovo toponimo nei documenti ufficiali del governo federale statunitense, senza alcun potere di imporne l'uso al Canada.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/26/visti-stati-uniti-sospensione/"
+      "url": "https://www.ilpost.it/2026/08/27/donald-trump-ordine-esecutivo-cambiare-nome-lago-ontario-lago-america/"
     },
     {
       "cat": "mondo",
-      "title": "Cosa si sa della visita del direttore della CIA a Mosca",
-      "summary": "Praticamente nulla, a parte che non succedeva dal 2021: sia la Russia che gli Stati Uniti si sono rifiutati di commentare",
-      "fullSummary": "Praticamente nulla, a parte che non succedeva dal 2021: sia la Russia che gli Stati Uniti si sono rifiutati di commentare",
+      "title": "18 miliardi di dollari per Meta sono tanti o pochi?",
+      "summary": "Ha accettato di pagarli per chiudere un enorme processo: un po' di numeri per fare qualche paragone",
+      "fullSummary": "Ha accettato di pagarli per chiudere un enorme processo: un po' di numeri per fare qualche paragone",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/26/visita-john-ratcliffe-cia-stati-uniti-mosca/"
+      "url": "https://www.ilpost.it/2026/08/27/meta-patteggiamento-176-milliardi-dollari-processo/"
     },
     {
       "cat": "mondo",
-      "title": "Le Forze democratiche siriane guidate dai curdi si sono sciolte, integrandosi nell&#8217;esercito regolare",
+      "title": "Il processo contro quattro uomini accusati di aver organizzato gli attacchi dell&#8217;11 settembre è stato fissato per il 2028",
       "summary": "",
-      "fullSummary": "Le Forze democratiche siriane guidate dai curdi si sono sciolte, integrandosi nell&#8217;esercito regolare",
+      "fullSummary": "Il processo contro quattro uomini accusati di aver organizzato gli attacchi dell&#8217;11 settembre è stato fissato per il 2028",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/25/sdf-curdi-scioglimento/"
+      "url": "https://www.ilpost.it/2026/08/27/khalid-sheikh-mohammed-organizzatore-attentati-11-settembre-2001-processato-5-giugno-2028/"
     },
     {
-      "cat": "mondo",
-      "title": "Due persone sono morte di morbillo negli Stati Uniti: sono le prime nel 2026",
+      "cat": "sport",
+      "title": "La UEFA vuole fare causa al presidente della FIFA Gianni Infantino per il suo criticato piano di privatizzazione",
       "summary": "",
-      "fullSummary": "Due persone sono morte di morbillo negli Stati Uniti: sono le prime nel 2026",
+      "fullSummary": "La UEFA vuole fare causa al presidente della FIFA Gianni Infantino per il suo criticato piano di privatizzazione",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/25/due-morti-morbillo-stati-uniti-pennsylvania/"
+      "url": "https://www.ilpost.it/2026/08/27/uefa-causa-infantino-piano-fifa/"
     },
     {
       "cat": "sport",
-      "title": "La Federcalcio ha ritirato il sostegno al presidente della FIFA Gianni Infantino per la sua rielezione",
-      "summary": "",
-      "fullSummary": "La Federcalcio ha ritirato il sostegno al presidente della FIFA Gianni Infantino per la sua rielezione",
+      "title": "Perché molti grandi ex calciatori appoggiano Gianni Infantino",
+      "summary": "Totti, Cannavaro, Vieri e altri hanno rinnovato il loro sostegno al presidente della FIFA, che in questi anni ha trovato il modo di farseli …",
+      "fullSummary": "Totti, Cannavaro, Vieri e altri hanno rinnovato il loro sostegno al presidente della FIFA, che in questi anni ha trovato il modo di farseli amici",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/26/figc-ritira-sostegno-infantino-presidente-fifa/"
+      "url": "https://www.ilpost.it/2026/08/27/ex-calciatori-sostegno-infantino-perche-totti-cannavaro-fifa/"
     },
     {
       "cat": "sport",
-      "title": "Il ciclista italiano Lorenzo Finn ha vinto il Tour de l&#8217;Avenir",
-      "summary": "Cioè il Tour de France giovanile, che in passato lanciò ciclisti come Felice Gimondi e Tadej Pogačar",
-      "fullSummary": "Cioè il Tour de France giovanile, che in passato lanciò ciclisti come Felice Gimondi e Tadej Pogačar",
+      "title": "Le avversarie delle squadre italiane in Champions League",
+      "summary": "Sia l'Inter che la Roma affronteranno il Real Madrid, il Napoli giocherà contro l'Arsenal e il Como contro il Barcellona",
+      "fullSummary": "Sia l'Inter che la Roma affronteranno il Real Madrid, il Napoli giocherà contro l'Arsenal e il Como contro il Barcellona",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/26/lorenzo-finn-tour-de-l-avenir-vittoria-chi-e/"
+      "url": "https://www.ilpost.it/2026/08/27/champions-league-sorteggi-inter-napoli-roma-como/"
     },
     {
       "cat": "sport",
-      "title": "L’Ultra Trail du Mont Blanc è sempre più grande",
-      "summary": "Forse troppo: la più famosa gara di corsa in montagna, in questi giorni a Chamonix, è cambiata e cresciuta parecchio e molto in fretta",
-      "fullSummary": "Forse troppo: la più famosa gara di corsa in montagna, in questi giorni a Chamonix, è cambiata e cresciuta parecchio e molto in fretta",
+      "title": "La WNBA è nel caos e va alla grande",
+      "summary": "Il campionato femminile di basket statunitense non è mai stato così ricco e seguito, ma in giro si parla di tutt'altro",
+      "fullSummary": "Il campionato femminile di basket statunitense non è mai stato così ricco e seguito, ma in giro si parla di tutt'altro",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/25/utmb-ultra-trail-monte-bianco-storia-problemi/"
-    },
-    {
-      "cat": "sport",
-      "title": "Donyell Malen ha ripreso come aveva finito",
-      "summary": "L'attaccante della Roma ha fatto tre gol alla prima partita di Serie A, tutti su assist di Paulo Dybala",
-      "fullSummary": "L'attaccante della Roma ha fatto tre gol alla prima partita di Serie A, tutti su assist di Paulo Dybala",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/25/roma-malen-dybala-fiorentina/"
+      "url": "https://www.ilpost.it/2026/08/27/la-wnba-e-nel-caos-e-va-alla-grande/"
     }
   ]
 }
