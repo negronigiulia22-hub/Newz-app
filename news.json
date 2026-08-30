@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:18:04.052Z",
+  "generatedAt": "2026-08-30T09:09:10.054Z",
   "items": [
     {
       "cat": "politica",
@@ -35,35 +35,43 @@
     },
     {
       "cat": "mondo",
-      "title": "In Cisgiordania i coloni israeliani hanno attaccato di nuovo Qusra, assediata a inizio agosto, nonostante la presenza dell&#8217;esercito",
+      "title": "Durante un rave in Svizzera qualcuno ha sparato uccidendo una persona e ferendone cinque",
       "summary": "",
-      "fullSummary": "In Cisgiordania i coloni israeliani hanno attaccato di nuovo Qusra, assediata a inizio agosto, nonostante la presenza dell&#8217;esercito",
+      "fullSummary": "Durante un rave in Svizzera qualcuno ha sparato uccidendo una persona e ferendone cinque",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/29/attacco-qusra-cisgiorania/"
+      "url": "https://www.ilpost.it/2026/08/30/rave-svizzera-spari-morto-feriti/"
     },
     {
       "cat": "mondo",
-      "title": "Gli attacchi ibridi della Russia in Europa sono sempre meno ibridi",
-      "summary": "Stanno aumentando in numero e in gravità, e mettono i governi europei davanti a un dilemma",
-      "fullSummary": "Stanno aumentando in numero e in gravità, e mettono i governi europei davanti a un dilemma",
+      "title": "L’attivista e giornalista britannico di estrema destra Milo Yiannopoulos è stato espulso dagli Stati Uniti",
+      "summary": "",
+      "fullSummary": "L’attivista e giornalista britannico di estrema destra Milo Yiannopoulos è stato espulso dagli Stati Uniti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/29/attacchi-ibridi-russia-europa/"
+      "url": "https://www.ilpost.it/2026/08/30/milo-yiannopoulos-espulso-stati-uniti/"
     },
     {
       "cat": "mondo",
-      "title": "C&#8217;è stato un ammutinamento nella capitale del Niger: la giunta militare sostiene di averlo represso",
-      "summary": "",
-      "fullSummary": "C&#8217;è stato un ammutinamento nella capitale del Niger: la giunta militare sostiene di averlo represso",
+      "title": "In Islanda è in vantaggio il No ai negoziati con l&#8217;Unione Europea",
+      "summary": "A scrutinio ormai avanzato, ha superato l'opzione del referendum per riaprire le trattative di adesione",
+      "fullSummary": "A scrutinio ormai avanzato, ha superato l'opzione del referendum per riaprire le trattative di adesione",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/29/ammutinamento-capitale-niger/"
+      "url": "https://www.ilpost.it/2026/08/30/risultati-referendum-islanda-unione-europea/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;operatore del gobbo di Trump che aveva scommesso sui suoi discorsi ha ricevuto una multa da 172mila dollari",
-      "summary": "",
-      "fullSummary": "L&#8217;operatore del gobbo di Trump che aveva scommesso sui suoi discorsi ha ricevuto una multa da 172mila dollari",
+      "title": "In Cisgiordania c&#8217;è stato un nuovo attacco dei coloni israeliani a Qusra",
+      "summary": "In presenza dell'esercito israeliano, che era stato mandato dopo l'assedio di inizio agosto teoricamente per proteggere la popolazione pales…",
+      "fullSummary": "In presenza dell'esercito israeliano, che era stato mandato dopo l'assedio di inizio agosto teoricamente per proteggere la popolazione palestinese",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/29/multa-operatore-teleprompter-trump-scommesse-discorsi/"
+      "url": "https://www.ilpost.it/2026/08/29/attacco-qusra-cisgiordania/"
+    },
+    {
+      "cat": "sport",
+      "title": "Pogačar dovrà essere operato alla clavicola",
+      "summary": "Dopo la brutta caduta di sabato alla Vuelta di Spagna; e tra meno di un mese ci sono i mondiali",
+      "fullSummary": "Dopo la brutta caduta di sabato alla Vuelta di Spagna; e tra meno di un mese ci sono i mondiali",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/30/pogacar-dovra-essere-operato-alla-clavicola/"
     },
     {
       "cat": "sport",
@@ -88,14 +96,6 @@
       "fullSummary": "Il Milan ha beccato due squadre inglesi, la Juventus due spagnole e l'Atalanta affronterà l'Ajax",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/28/le-avversarie-delle-squadre-italiane-in-europa-league/"
-    },
-    {
-      "cat": "sport",
-      "title": "E quindi Rafael Leão è stato sopravvalutato o sottovalutato?",
-      "summary": "Dopo sette stagioni lascerà il Milan uno dei calciatori più forti degli ultimi anni in Serie A, eppure uno dei più criticati",
-      "fullSummary": "Dopo sette stagioni lascerà il Milan uno dei calciatori più forti degli ultimi anni in Serie A, eppure uno dei più criticati",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/28/leao-milan-addio-bilancio-com-e-andata-gol-critiche/"
     }
   ]
 }
