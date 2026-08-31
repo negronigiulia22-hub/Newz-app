@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-31T15:08:42.670Z",
+  "generatedAt": "2026-08-31T18:08:58.646Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "L&#8217;Italia ha prorogato i controlli di frontiera con la Spagna",
+      "summary": "Di 15 giorni: i controlli erano entrati in vigore il 1° agosto a seguito della crisi migratoria a Ceuta",
+      "fullSummary": "Di 15 giorni: i controlli erano entrati in vigore il 1° agosto a seguito della crisi migratoria a Ceuta",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/31/italia-spagna-sospensione-schengen-proroga/"
+    },
     {
       "cat": "politica",
       "title": "Il senatore del Partito Democratico Dario Franceschini ha detto di essere malato di Parkinson",
@@ -24,14 +32,6 @@
       "fullSummary": "L'ex esponente del Movimento 5 Stelle si è sentito male venerdì, mentre era lì per un reportage",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/29/di-battista-ricoverato-cuba/"
-    },
-    {
-      "cat": "politica",
-      "title": "Intanto nel centrosinistra c&#8217;è un gran caos",
-      "summary": "Perché Schlein e Conte non si mettono d'accordo, perché non si sa se fare le primarie e poi perché ovviamente nel PD si bisticcia",
-      "fullSummary": "Perché Schlein e Conte non si mettono d'accordo, perché non si sa se fare le primarie e poi perché ovviamente nel PD si bisticcia",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/28/schlein-conte-campo-largo-centrosinistra-primarie-speranze/"
     },
     {
       "cat": "mondo",
