@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-01T09:15:56.234Z",
+  "generatedAt": "2026-09-01T12:21:59.301Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Cosa è successo in un mese di controlli alla frontiera tra Italia e Spagna",
+      "summary": "Sono state respinte solo 8 persone di nazionalità marocchina, quasi certamente non provenienti da Ceuta, tra molta propaganda",
+      "fullSummary": "Sono state respinte solo 8 persone di nazionalità marocchina, quasi certamente non provenienti da Ceuta, tra molta propaganda",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/01/quante-persone-fermate-respinte-controlli-frontiera-spagna-italia/"
+    },
+    {
+      "cat": "politica",
+      "title": "Perché si parla di ballottaggio nel dibattito sulla legge elettorale",
+      "summary": "E com'è che la destra ora sembra volerlo dopo averlo escluso: sì, c'entra ancora lui, Vannacci",
+      "fullSummary": "E com'è che la destra ora sembra volerlo dopo averlo escluso: sì, c'entra ancora lui, Vannacci",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/31/ballottaggio-legge-elettorale-doppio-turno-stabilicum/"
+    },
+    {
+      "cat": "politica",
+      "title": "L&#8217;Italia ha prorogato i controlli di frontiera con la Spagna",
+      "summary": "Di 15 giorni: i controlli erano entrati in vigore il 1° agosto a seguito della crisi migratoria a Ceuta",
+      "fullSummary": "Di 15 giorni: i controlli erano entrati in vigore il 1° agosto a seguito della crisi migratoria a Ceuta",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/08/31/italia-spagna-sospensione-schengen-proroga/"
+    },
     {
       "cat": "politica",
       "title": "Il senatore del Partito Democratico Dario Franceschini ha detto di essere malato di Parkinson",
@@ -10,92 +34,68 @@
       "url": "https://www.ilpost.it/2026/08/31/dario-franceschini-pd-morbo-parkinson/"
     },
     {
-      "cat": "politica",
-      "title": "Quante sono e dove sono le case popolari inagibili",
-      "summary": "Il primo intervento del “piano casa” del governo sarà ristrutturarle, ma mancano i dati su quante persone hanno fatto domanda e dove",
-      "fullSummary": "Il primo intervento del “piano casa” del governo sarà ristrutturarle, ma mancano i dati su quante persone hanno fatto domanda e dove",
+      "cat": "mondo",
+      "title": "Cosa devono dirsi Putin e Xi Jinping?",
+      "summary": "Si sono incontrati a un evento dove c'era anche il presidente iraniano Masoud Pezeshkian: inevitabilmente c'entrano le guerre",
+      "fullSummary": "Si sono incontrati a un evento dove c'era anche il presidente iraniano Masoud Pezeshkian: inevitabilmente c'entrano le guerre",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/30/dati-grafici-case-popolari-piano-casa/"
-    },
-    {
-      "cat": "politica",
-      "title": "Alessandro Di Battista è ricoverato a Cuba in gravi condizioni",
-      "summary": "L'ex esponente del Movimento 5 Stelle si è sentito male venerdì, mentre era lì per un reportage",
-      "fullSummary": "L'ex esponente del Movimento 5 Stelle si è sentito male venerdì, mentre era lì per un reportage",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/29/di-battista-ricoverato-cuba/"
-    },
-    {
-      "cat": "politica",
-      "title": "Intanto nel centrosinistra c&#8217;è un gran caos",
-      "summary": "Perché Schlein e Conte non si mettono d'accordo, perché non si sa se fare le primarie e poi perché ovviamente nel PD si bisticcia",
-      "fullSummary": "Perché Schlein e Conte non si mettono d'accordo, perché non si sa se fare le primarie e poi perché ovviamente nel PD si bisticcia",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/28/schlein-conte-campo-largo-centrosinistra-primarie-speranze/"
+      "url": "https://www.ilpost.it/2026/09/01/xi-putin-iran/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;estrema destra tedesca contro il Bauhaus",
-      "summary": "Alternative für Deutschland ha trascinato il movimento artistico nella campagna elettorale in Sassonia-Anhalt, ma forse se n'è pentita",
-      "fullSummary": "Alternative für Deutschland ha trascinato il movimento artistico nella campagna elettorale in Sassonia-Anhalt, ma forse se n'è pentita",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/afd-contro-bauhaus/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Ci sono state alluvioni improvvise nel Grand Canyon: una persona è morta e 15 sono disperse",
+      "title": "L&#8217;Unione Europea sospenderà le importazioni di diversi tipi di carne dal Brasile per il mancato rispetto delle norme sanitarie",
       "summary": "",
-      "fullSummary": "Ci sono state alluvioni improvvise nel Grand Canyon: una persona è morta e 15 sono disperse",
+      "fullSummary": "L&#8217;Unione Europea sospenderà le importazioni di diversi tipi di carne dal Brasile per il mancato rispetto delle norme sanitarie",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/alluvioni-improvvise-grand-canyon-dispersi/"
+      "url": "https://www.ilpost.it/2026/09/01/unione-europea-sospensione-importazioni-prodotti-animali-brasile-motivi-sanitari/"
     },
     {
       "cat": "mondo",
-      "title": "In Spagna si parla ancora soltanto di Ceuta",
-      "summary": "Un mese dopo la crisi migratoria il governo di Pedro Sánchez continua a essere in difficoltà, anche per i propri errori di valutazione",
-      "fullSummary": "Un mese dopo la crisi migratoria il governo di Pedro Sánchez continua a essere in difficoltà, anche per i propri errori di valutazione",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/spagna-ceuta-un-mese/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Zambia il capo dell&#8217;opposizione è stato arrestato con l&#8217;accusa di tradimento",
+      "title": "A Lisbona sarà costruita una nuova funicolare della Glória, dopo il grave incidente dello scorso anno",
       "summary": "",
-      "fullSummary": "In Zambia il capo dell&#8217;opposizione è stato arrestato con l&#8217;accusa di tradimento",
+      "fullSummary": "A Lisbona sarà costruita una nuova funicolare della Glória, dopo il grave incidente dello scorso anno",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/zambia-capo-opposizione-arresto-accusa-tradimento/"
+      "url": "https://www.ilpost.it/2026/09/01/lisbona-costruita-nuova-funicolare-della-gloria-pronta-nel-2029/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Spagna si cena sempre più presto",
+      "summary": "Una storica abitudine nazionale sta cambiando: il grosso delle prenotazioni nei ristoranti si sta concentrando alle 21 o addirittura alle 20",
+      "fullSummary": "Una storica abitudine nazionale sta cambiando: il grosso delle prenotazioni nei ristoranti si sta concentrando alle 21 o addirittura alle 20",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/01/spagna-cena-piu-presto/"
     },
     {
       "cat": "sport",
-      "title": "Il Como è una squadra migliore del Napoli?",
-      "summary": "Dalla partita di domenica sembrerebbe di sì, ma era solo una partita ed è solo la seconda giornata di Serie A",
-      "fullSummary": "Dalla partita di domenica sembrerebbe di sì, ma era solo una partita ed è solo la seconda giornata di Serie A",
+      "title": "Fare calciomercato negli hotel",
+      "summary": "È una tradizione molto italiana, con una lunga storia e tante vicende assurde: tutto iniziò con un principe",
+      "fullSummary": "È una tradizione molto italiana, con una lunga storia e tante vicende assurde: tutto iniziò con un principe",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/napoli-como-1-2-partita-fabregas-allegri/"
+      "url": "https://www.ilpost.it/2026/09/01/calciomercato-negli-hotel-perche/"
     },
     {
       "cat": "sport",
-      "title": "Novak Djokovic è stato eliminato al primo turno degli US Open",
-      "summary": "Il tennista serbo è stato sconfitto in cinque set da Mariano Navone ed era dal 2006 che non perdeva la prima partita di uno Slam",
-      "fullSummary": "Il tennista serbo è stato sconfitto in cinque set da Mariano Navone ed era dal 2006 che non perdeva la prima partita di uno Slam",
+      "title": "Il ciclista che potrebbe vincere a sorpresa la Vuelta a España",
+      "summary": "Dopo il ritiro di Tadej Pogačar al primo posto c'è Enric Mas, che non ha molto in comune con lui",
+      "fullSummary": "Dopo il ritiro di Tadej Pogačar al primo posto c'è Enric Mas, che non ha molto in comune con lui",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/novak-djokovic-e-stato-eliminato-al-primo-turno-degli-us-open/"
+      "url": "https://www.ilpost.it/2026/09/01/enric-mas-vuelta-spagna-2026/"
     },
     {
       "cat": "sport",
-      "title": "Carlos Alcaraz torna dove tutto era iniziato",
-      "summary": "Gli US Open sono il torneo in cui si affermò, e da cui sono passati diversi momenti decisivi della sua carriera: ora se ne aggiunge un altro",
-      "fullSummary": "Gli US Open sono il torneo in cui si affermò, e da cui sono passati diversi momenti decisivi della sua carriera: ora se ne aggiunge un altro",
+      "title": "La Roma è nella sua fase «se vedemo a Circo Massimo»",
+      "summary": "Quella in cui i tifosi si fanno prendere dall'entusiasmo: questa volta hanno diversi buoni motivi, tra cui 8 gol in 2 partite",
+      "fullSummary": "Quella in cui i tifosi si fanno prendere dall'entusiasmo: questa volta hanno diversi buoni motivi, tra cui 8 gol in 2 partite",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/30/carlos-alcaraz-torna-dove-tutto-era-iniziato/"
+      "url": "https://www.ilpost.it/2026/09/01/roma-partenza-gasperini-circo-massimo/"
     },
     {
       "cat": "sport",
-      "title": "Pogačar dovrà essere operato alla clavicola",
-      "summary": "Dopo la brutta caduta di sabato alla Vuelta di Spagna; e tra meno di un mese ci sono i mondiali",
-      "fullSummary": "Dopo la brutta caduta di sabato alla Vuelta di Spagna; e tra meno di un mese ci sono i mondiali",
+      "title": "La Federazione calcistica spagnola si sta accordando con una clinica per aiutare le giocatrici della Nazionale a congelare gli ovuli",
+      "summary": "",
+      "fullSummary": "La Federazione calcistica spagnola si sta accordando con una clinica per aiutare le giocatrici della Nazionale a congelare gli ovuli",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/30/pogacar-dovra-essere-operato-alla-clavicola/"
+      "url": "https://www.ilpost.it/2026/09/01/federazione-calcistica-spagnola-accordo-clinica-fertilita-giocatrici-nazionale-congelare-ovuli/"
     }
   ]
 }
