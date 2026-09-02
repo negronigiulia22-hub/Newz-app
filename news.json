@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T15:31:57.971Z",
+  "generatedAt": "2026-09-02T18:19:32.988Z",
   "items": [
     {
       "cat": "politica",
@@ -35,35 +35,51 @@
     },
     {
       "cat": "mondo",
-      "title": "Il noto attivista pro-democrazia di Hong Kong Joshua Wong si è dichiarato colpevole di collusione con entità straniere",
-      "summary": "",
-      "fullSummary": "Il noto attivista pro-democrazia di Hong Kong Joshua Wong si è dichiarato colpevole di collusione con entità straniere",
+      "title": "In Islanda è stata davvero solo la pesca?",
+      "summary": "Per spiegare il No al referendum sull'Unione Europea si è parlato soprattutto di quella, ma da sola non basta",
+      "fullSummary": "Per spiegare il No al referendum sull'Unione Europea si è parlato soprattutto di quella, ma da sola non basta",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/attivista-prodemocrazia-hong-kong-joshua-wong-colpevole-cospirazione-stati-uniti-cina/"
+      "url": "https://www.ilpost.it/2026/09/02/pesca-referendum-islanda-ue-motivi-no/"
     },
     {
       "cat": "mondo",
-      "title": "In Egitto almeno 21 persone sono morte in un incidente in autobus in una zona turistica vicino a Sharm el-Sheikh",
-      "summary": "",
-      "fullSummary": "In Egitto almeno 21 persone sono morte in un incidente in autobus in una zona turistica vicino a Sharm el-Sheikh",
+      "title": "C&#8217;è un&#8217;elezione molto importante in Germania",
+      "summary": "Domenica il partito di estrema destra AfD dovrebbe vincere in Sassonia-Anhalt e potrebbe riuscire a governare, per la prima volta",
+      "fullSummary": "Domenica il partito di estrema destra AfD dovrebbe vincere in Sassonia-Anhalt e potrebbe riuscire a governare, per la prima volta",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/egitto-incidente-autobus-penisola-sinai/"
+      "url": "https://www.ilpost.it/2026/09/02/elezioni-germania-sassonia-anhalt-afd/"
     },
     {
       "cat": "mondo",
-      "title": "C&#8217;è stata un&#8217;esplosione vicino alla stazione di Augusta, in Germania: due persone sono state ferite lievemente",
+      "title": "La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all&#8217;aeroporto di Lipsia",
       "summary": "",
-      "fullSummary": "C&#8217;è stata un&#8217;esplosione vicino alla stazione di Augusta, in Germania: due persone sono state ferite lievemente",
+      "fullSummary": "La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all&#8217;aeroporto di Lipsia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/germania-augusta-esplosione-vicino-stazione/"
+      "url": "https://www.ilpost.it/2026/09/02/germania-suddeutsche-zeitung-due-sospettati-sabotaggio-aeroporto-lipsia/"
     },
     {
       "cat": "mondo",
-      "title": "In Nepal stanno facendo sepolture di massa",
-      "summary": "Le autorità non sapevano più dove conservare i corpi recuperati dopo la disastrosa esondazione della scorsa settimana",
-      "fullSummary": "Le autorità non sapevano più dove conservare i corpi recuperati dopo la disastrosa esondazione della scorsa settimana",
+      "title": "Ceuta è ancora in totale emergenza",
+      "summary": "E si vede dappertutto: un mese dopo gli ingressi di massa dal Marocco, migliaia di migranti vivono ancora per strada fra mille problemi",
+      "fullSummary": "E si vede dappertutto: un mese dopo gli ingressi di massa dal Marocco, migliaia di migranti vivono ancora per strada fra mille problemi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/nepal-sepolture-massa-dopo-esondazione/"
+      "url": "https://www.ilpost.it/2026/09/02/ceuta-emergenza-migranti/"
+    },
+    {
+      "cat": "sport",
+      "title": "Un giorno dentro il calciomercato",
+      "summary": "L'ultimo, dall'hotel in cui si fanno le trattative: un «giorno da stalker», ma anche «un circo divertente»",
+      "fullSummary": "Il 1° settembre l’hotel Sheraton di Milano ospita l’ultimo giorno del calciomercato, la cui conclusione è fissata per le ore 20. Tra la folla i calciatori sono rarissimi: uno dei pochi è Alae Hadaji, ventiquattrenne svincolato in ansiosa attesa che il proprio procuratore gli trovi un club italiano. Gli spazi dell'albergo sono invece affollati da agenti, dirigenti sportivi, influencer e molti giornalisti, costantemente impegnati a contendersi notizie esclusive posizionandosi davanti agli ascensori.\n\nSebbene oggi le trattative avvengano prevalentemente a distanza e i contratti siano depositati per via telematica, il raduno fisico conserva un valore sia mediatico sia pratico. Emittenti come Sky Sport e Sportitalia trasmettono lunghe dirette, mentre alcune suite dello Sheraton vengono adibite a uffici per negoziazioni reali, soprattutto riguardanti formazioni di Serie B e Serie C. Al contrario, i dirigenti di Serie A sono quasi totalmente assenti, a eccezione di Giovanni Carnevali, amministratore delegato della Juventus e responsabile di Master Group Sport, società che organizza l'evento assieme all’Associazione Italiana Direttori Sportivi.\n\nPer i cronisti sul posto, tra cui Giuseppe Crescibene e Francesco Di Pasquale, l'ambiente è caotico e difficile da decifrare: molti addetti ai lavori nascondono i cartellini identificativi e sussiste costantemente il rischio di rilanciare informazioni false orchestrate per condizionare i rinnovi contrattuali. Tra i presenti spiccano anche figure atipiche come Aldo Cantafio, studente e osservatore che annota tutto a mano senza usare lo smartphone.\n\nLa figura più acclamata dell'evento è il giornalista Tancredi Palmeri di Sportitalia, incaricato di documentare la chiusura della simbolica \"porta del calciomercato\". Allo scoccare delle ore 20, la porta viene serrata senza alcun conto alla rovescia collettivo, ponendo fine alle trattative e lasciando Hadaji momentaneamente ancora privo di una sistemazione.",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/02/ultimo-giorno-calciomercato-hotel-sheraton/"
+    },
+    {
+      "cat": "sport",
+      "title": "Un colpo che nel tennis non fa quasi nessuno",
+      "summary": "Cioè il dritto a due mani: Lucrezia Stefanini, che oggi ha affrontato Jasmine Paolini, è una delle pochissime giocatrici a usarlo",
+      "fullSummary": "Cioè il dritto a due mani: Lucrezia Stefanini, che oggi ha affrontato Jasmine Paolini, è una delle pochissime giocatrici a usarlo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/02/tennista-italiana-lucrezia-stefanini-dritto-due-mani/"
     },
     {
       "cat": "sport",
@@ -80,22 +96,6 @@
       "fullSummary": "La Juventus ha preso un nuovo centravanti; la Fiorentina ha ceduto Albert Guðmundsson alla Lazio e Moise Kean al Como",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/02/calciomercato-colpi-ultimo-giorno-2026/"
-    },
-    {
-      "cat": "sport",
-      "title": "La pubblicità della Serie A di cui l’Agenzia delle Dogane ha chiesto il ritiro",
-      "summary": "Perché più che di calcio parla di scommesse sul calcio",
-      "fullSummary": "Perché più che di calcio parla di scommesse sul calcio",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/serie-a-scommesse-true-data-pubblicita/"
-    },
-    {
-      "cat": "sport",
-      "title": "Fare calciomercato negli hotel",
-      "summary": "È una tradizione molto italiana, con una lunga storia e tante vicende assurde: tutto iniziò con un principe",
-      "fullSummary": "È una tradizione molto italiana, con una lunga storia e tante vicende assurde: tutto iniziò con un principe",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/calciomercato-negli-hotel-perche/"
     }
   ]
 }
