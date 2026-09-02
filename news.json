@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:47:21.458Z",
+  "generatedAt": "2026-09-02T12:46:25.117Z",
   "items": [
     {
       "cat": "politica",
@@ -35,35 +35,59 @@
     },
     {
       "cat": "mondo",
-      "title": "Cosa devono dirsi Putin e Xi Jinping?",
-      "summary": "Si sono incontrati a un evento dove c'era anche il presidente iraniano Masoud Pezeshkian: inevitabilmente c'entrano le guerre",
-      "fullSummary": "Si sono incontrati a un evento dove c'era anche il presidente iraniano Masoud Pezeshkian: inevitabilmente c'entrano le guerre",
+      "title": "Ci sono ancora mine iraniane nello stretto di Hormuz?",
+      "summary": "È una delle questioni più confuse della guerra in Medio Oriente: gli Stati Uniti dicono di averle eliminate, ma ci sono dubbi",
+      "fullSummary": "È una delle questioni più confuse della guerra in Medio Oriente: gli Stati Uniti dicono di averle eliminate, ma ci sono dubbi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/xi-putin-iran/"
+      "url": "https://www.ilpost.it/2026/09/02/mine-stretto-hormuz/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;Unione Europea sospenderà le importazioni di diversi tipi di carne dal Brasile per il mancato rispetto delle norme sanitarie",
+      "title": "Il noto attivista pro-democrazia di Hong Kong Joshua Wong si è dichiarato colpevole di collusione con entità straniere",
       "summary": "",
-      "fullSummary": "L&#8217;Unione Europea sospenderà le importazioni di diversi tipi di carne dal Brasile per il mancato rispetto delle norme sanitarie",
+      "fullSummary": "Il noto attivista pro-democrazia di Hong Kong Joshua Wong si è dichiarato colpevole di collusione con entità straniere",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/unione-europea-sospensione-importazioni-prodotti-animali-brasile-motivi-sanitari/"
+      "url": "https://www.ilpost.it/2026/09/02/attivista-prodemocrazia-hong-kong-joshua-wong-colpevole-cospirazione-stati-uniti-cina/"
     },
     {
       "cat": "mondo",
-      "title": "A Lisbona sarà costruita una nuova funicolare della Glória, dopo il grave incidente dello scorso anno",
+      "title": "In Egitto almeno 21 persone sono morte in un incidente in autobus in una zona turistica vicino a Sharm el-Sheikh",
       "summary": "",
-      "fullSummary": "A Lisbona sarà costruita una nuova funicolare della Glória, dopo il grave incidente dello scorso anno",
+      "fullSummary": "In Egitto almeno 21 persone sono morte in un incidente in autobus in una zona turistica vicino a Sharm el-Sheikh",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/lisbona-costruita-nuova-funicolare-della-gloria-pronta-nel-2029/"
+      "url": "https://www.ilpost.it/2026/09/02/egitto-incidente-autobus-penisola-sinai/"
     },
     {
       "cat": "mondo",
-      "title": "In Spagna si cena sempre più presto",
-      "summary": "Una storica abitudine nazionale sta cambiando: il grosso delle prenotazioni nei ristoranti si sta concentrando alle 21 o addirittura alle 20",
-      "fullSummary": "Una storica abitudine nazionale sta cambiando: il grosso delle prenotazioni nei ristoranti si sta concentrando alle 21 o addirittura alle 20",
+      "title": "C&#8217;è stata un&#8217;esplosione vicino alla stazione di Augusta, in Germania: due persone sono state ferite lievemente",
+      "summary": "",
+      "fullSummary": "C&#8217;è stata un&#8217;esplosione vicino alla stazione di Augusta, in Germania: due persone sono state ferite lievemente",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/spagna-cena-piu-presto/"
+      "url": "https://www.ilpost.it/2026/09/02/germania-augusta-esplosione-vicino-stazione/"
+    },
+    {
+      "cat": "sport",
+      "title": "Matteo Berrettini ha parlato del grave problema delle minacce da parte degli scommettitori",
+      "summary": "Il tennista ha raccontato che durante il Roland Garros qualcuno ha scritto a suo fratello: «se non gli dici di perdere uccideremo la tua fam…",
+      "fullSummary": "Il tennista ha raccontato che durante il Roland Garros qualcuno ha scritto a suo fratello: «se non gli dici di perdere uccideremo la tua famiglia»",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/02/berrettini-tennis-scommesse-minacce/"
+    },
+    {
+      "cat": "sport",
+      "title": "Acquisti e cessioni nell&#8217;ultimo giorno di calciomercato",
+      "summary": "La Juventus ha preso un nuovo centravanti; la Fiorentina ha ceduto Albert Guðmundsson alla Lazio e Moise Kean al Como",
+      "fullSummary": "La Juventus ha preso un nuovo centravanti; la Fiorentina ha ceduto Albert Guðmundsson alla Lazio e Moise Kean al Como",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/02/calciomercato-colpi-ultimo-giorno-2026/"
+    },
+    {
+      "cat": "sport",
+      "title": "La pubblicità della Serie A di cui l’Agenzia delle Dogane ha chiesto il ritiro",
+      "summary": "Perché più che di calcio parla di scommesse sul calcio",
+      "fullSummary": "Perché più che di calcio parla di scommesse sul calcio",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/01/serie-a-scommesse-true-data-pubblicita/"
     },
     {
       "cat": "sport",
@@ -72,30 +96,6 @@
       "fullSummary": "È una tradizione molto italiana, con una lunga storia e tante vicende assurde: tutto iniziò con un principe",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/01/calciomercato-negli-hotel-perche/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il ciclista che potrebbe vincere a sorpresa la Vuelta a España",
-      "summary": "Dopo il ritiro di Tadej Pogačar al primo posto c'è Enric Mas, che non ha molto in comune con lui",
-      "fullSummary": "Dopo il ritiro di Tadej Pogačar al primo posto c'è Enric Mas, che non ha molto in comune con lui",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/enric-mas-vuelta-spagna-2026/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Roma è nella sua fase «se vedemo a Circo Massimo»",
-      "summary": "Quella in cui i tifosi si fanno prendere dall'entusiasmo: questa volta hanno diversi buoni motivi, tra cui 8 gol in 2 partite",
-      "fullSummary": "Quella in cui i tifosi si fanno prendere dall'entusiasmo: questa volta hanno diversi buoni motivi, tra cui 8 gol in 2 partite",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/roma-partenza-gasperini-circo-massimo/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Federazione calcistica spagnola si sta accordando con una clinica per aiutare le giocatrici della Nazionale a congelare gli ovuli",
-      "summary": "",
-      "fullSummary": "La Federazione calcistica spagnola si sta accordando con una clinica per aiutare le giocatrici della Nazionale a congelare gli ovuli",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/federazione-calcistica-spagnola-accordo-clinica-fertilita-giocatrici-nazionale-congelare-ovuli/"
     }
   ]
 }
