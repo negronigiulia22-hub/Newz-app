@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-02T12:46:25.117Z",
+  "generatedAt": "2026-09-02T15:31:57.971Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Gli “irriducibili” di Matteo Salvini",
+      "summary": "In un partito attraversato da conflitti interni, il leader si affida a una cerchia sempre più stretta: un fatto nuovo per la Lega",
+      "fullSummary": "In un partito attraversato da conflitti interni, il leader si affida a una cerchia sempre più stretta: un fatto nuovo per la Lega",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/02/salvini-fedelissimi-lega-correnti-pontida/"
+    },
+    {
+      "cat": "politica",
+      "title": "Alessandro Di Battista tornerà in Italia il 4 settembre",
+      "summary": "Ma non con un volo di Stato: è stato ricoverato a Cuba in gravi condizioni il 28 agosto",
+      "fullSummary": "Ma non con un volo di Stato: è stato ricoverato a Cuba in gravi condizioni il 28 agosto",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/02/di-battista-torna-italia-4-settembre-venerdi/"
+    },
     {
       "cat": "politica",
       "title": "Cosa è successo in un mese di controlli alla frontiera tra Italia e Spagna",
@@ -16,30 +32,6 @@
       "fullSummary": "E com'è che la destra ora sembra volerlo dopo averlo escluso: sì, c'entra ancora lui, Vannacci",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/08/31/ballottaggio-legge-elettorale-doppio-turno-stabilicum/"
-    },
-    {
-      "cat": "politica",
-      "title": "L&#8217;Italia ha prorogato i controlli di frontiera con la Spagna",
-      "summary": "Di 15 giorni: i controlli erano entrati in vigore il 1° agosto a seguito della crisi migratoria a Ceuta",
-      "fullSummary": "Di 15 giorni: i controlli erano entrati in vigore il 1° agosto a seguito della crisi migratoria a Ceuta",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/italia-spagna-sospensione-schengen-proroga/"
-    },
-    {
-      "cat": "politica",
-      "title": "Il senatore del Partito Democratico Dario Franceschini ha detto di essere malato di Parkinson",
-      "summary": "",
-      "fullSummary": "Il senatore del Partito Democratico Dario Franceschini ha detto di essere malato di Parkinson",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/dario-franceschini-pd-morbo-parkinson/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Ci sono ancora mine iraniane nello stretto di Hormuz?",
-      "summary": "È una delle questioni più confuse della guerra in Medio Oriente: gli Stati Uniti dicono di averle eliminate, ma ci sono dubbi",
-      "fullSummary": "È una delle questioni più confuse della guerra in Medio Oriente: gli Stati Uniti dicono di averle eliminate, ma ci sono dubbi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/mine-stretto-hormuz/"
     },
     {
       "cat": "mondo",
@@ -64,6 +56,14 @@
       "fullSummary": "C&#8217;è stata un&#8217;esplosione vicino alla stazione di Augusta, in Germania: due persone sono state ferite lievemente",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/02/germania-augusta-esplosione-vicino-stazione/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Nepal stanno facendo sepolture di massa",
+      "summary": "Le autorità non sapevano più dove conservare i corpi recuperati dopo la disastrosa esondazione della scorsa settimana",
+      "fullSummary": "Le autorità non sapevano più dove conservare i corpi recuperati dopo la disastrosa esondazione della scorsa settimana",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/02/nepal-sepolture-massa-dopo-esondazione/"
     },
     {
       "cat": "sport",
