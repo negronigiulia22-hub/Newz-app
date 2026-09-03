@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-03T12:21:47.155Z",
+  "generatedAt": "2026-09-03T15:29:16.009Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Come ha fatto Giorgia Meloni a durare così tanto",
+      "summary": "1.413 giorni al governo: c'entrano le divisioni della sinistra, gli alleati deboli, ma anche la sua capacità di fare poco per resistere a lu…",
+      "fullSummary": "1.413 giorni al governo: c'entrano le divisioni della sinistra, gli alleati deboli, ma anche la sua capacità di fare poco per resistere a lungo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/03/meloni-record-durata-longevita/"
+    },
+    {
+      "cat": "politica",
+      "title": "È morto a 78 anni Fabio Mussi, a lungo importante esponente della sinistra italiana",
+      "summary": "",
+      "fullSummary": "È morto a 78 anni Fabio Mussi, a lungo importante esponente della sinistra italiana",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/03/fabio-mussi-ministro-prodi-morto/"
+    },
     {
       "cat": "politica",
       "title": "Gli “irriducibili” di Matteo Salvini",
@@ -18,52 +34,60 @@
       "url": "https://www.ilpost.it/2026/09/02/di-battista-torna-italia-4-settembre-venerdi/"
     },
     {
-      "cat": "politica",
-      "title": "Cosa è successo in un mese di controlli alla frontiera tra Italia e Spagna",
-      "summary": "Sono state respinte solo 8 persone di nazionalità marocchina, quasi certamente non provenienti da Ceuta, tra molta propaganda",
-      "fullSummary": "Sono state respinte solo 8 persone di nazionalità marocchina, quasi certamente non provenienti da Ceuta, tra molta propaganda",
+      "cat": "mondo",
+      "title": "In Belgio si litiga per uno slogan sull&#8217;alcol",
+      "summary": "Il governo vorrebbe inserire in ogni pubblicità che «è nocivo per la salute», ma la Federazione dei produttori di birra non l'ha presa bene",
+      "fullSummary": "Il governo vorrebbe inserire in ogni pubblicità che «è nocivo per la salute», ma la Federazione dei produttori di birra non l'ha presa bene",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/01/quante-persone-fermate-respinte-controlli-frontiera-spagna-italia/"
-    },
-    {
-      "cat": "politica",
-      "title": "Perché si parla di ballottaggio nel dibattito sulla legge elettorale",
-      "summary": "E com'è che la destra ora sembra volerlo dopo averlo escluso: sì, c'entra ancora lui, Vannacci",
-      "fullSummary": "E com'è che la destra ora sembra volerlo dopo averlo escluso: sì, c'entra ancora lui, Vannacci",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/08/31/ballottaggio-legge-elettorale-doppio-turno-stabilicum/"
+      "url": "https://www.ilpost.it/2026/09/03/birra-alcol-belgio-dibattito/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;uomo accusato di essere il mandante dell&#8217;omicidio di Daphne Caruana Galizia è stato assolto",
-      "summary": "La giornalista maltese venne uccisa con un'autobomba nel 2017",
-      "fullSummary": "La giornalista maltese venne uccisa con un'autobomba nel 2017",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/assoluzione-mandante-omicidio-daphne-caruana-galizia-malta-yorgen-fenech/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Islanda è stata davvero solo la pesca?",
-      "summary": "Per spiegare il No al referendum sull'Unione Europea si è parlato soprattutto di quella, ma da sola non basta",
-      "fullSummary": "Per spiegare il No al referendum sull'Unione Europea si è parlato soprattutto di quella, ma da sola non basta",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/pesca-referendum-islanda-ue-motivi-no/"
-    },
-    {
-      "cat": "mondo",
-      "title": "C&#8217;è un&#8217;elezione molto importante in Germania",
-      "summary": "Domenica il partito di estrema destra AfD dovrebbe vincere in Sassonia-Anhalt e potrebbe riuscire a governare, per la prima volta",
-      "fullSummary": "Domenica il partito di estrema destra AfD dovrebbe vincere in Sassonia-Anhalt e potrebbe riuscire a governare, per la prima volta",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/elezioni-germania-sassonia-anhalt-afd/"
-    },
-    {
-      "cat": "mondo",
-      "title": "La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all&#8217;aeroporto di Lipsia",
+      "title": "Il Liechtenstein ha approvato una legge per legalizzare l&#8217;aborto, ma ci si aspetta che il principe la blocchi con un veto",
       "summary": "",
-      "fullSummary": "La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all&#8217;aeroporto di Lipsia",
+      "fullSummary": "Il Liechtenstein ha approvato una legge per legalizzare l&#8217;aborto, ma ci si aspetta che il principe la blocchi con un veto",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/germania-suddeutsche-zeitung-due-sospettati-sabotaggio-aeroporto-lipsia/"
+      "url": "https://www.ilpost.it/2026/09/03/liechtenstein-legge-aborto/"
+    },
+    {
+      "cat": "mondo",
+      "title": "È morta Gloria Steinem",
+      "summary": "È stata una delle più importanti femministe statunitensi del Novecento: aveva 92 anni",
+      "fullSummary": "È stata una delle più importanti femministe statunitensi del Novecento: aveva 92 anni",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/03/morta-gloria-steinem/"
+    },
+    {
+      "cat": "mondo",
+      "title": "La Norvegia ha sequestrato una nave russa come risarcimento a un’azienda ucraina per l’annessione della Crimea",
+      "summary": "",
+      "fullSummary": "La Norvegia ha sequestrato una nave russa come risarcimento a un’azienda ucraina per l’annessione della Crimea",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/03/norvegia-sequestra-nave-russa-risarcimento-ucraina-crimea/"
+    },
+    {
+      "cat": "sport",
+      "title": "Com&#8217;è che nella pallavolo ci sono pochissime allenatrici",
+      "summary": "Pur essendo uno degli sport più praticati dalle donne, per loro arrivare a guidare una squadra è ancora complicato",
+      "fullSummary": "Pur essendo uno degli sport più praticati dalle donne, per loro arrivare a guidare una squadra è ancora complicato",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/03/pallavolo-poche-allenatrici-donne/"
+    },
+    {
+      "cat": "sport",
+      "title": "La squadra di basket dei Los Angeles Clippers ha ricevuto una delle multe più grandi di sempre in NBA",
+      "summary": "",
+      "fullSummary": "La squadra di basket dei Los Angeles Clippers ha ricevuto una delle multe più grandi di sempre in NBA",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/03/nba-los-angeles-clippers-multa-30-milioni-dollari-kawhi-leonard/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il dirigente Piero Ausilio ha lasciato l’Inter dopo 28 anni",
+      "summary": "",
+      "fullSummary": "Il dirigente Piero Ausilio ha lasciato l’Inter dopo 28 anni",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/03/ausilio-addio-inter-perche/"
     },
     {
       "cat": "sport",
@@ -72,30 +96,6 @@
       "fullSummary": "L&#8217;Italia si è qualificata per le semifinali degli Europei femminili di pallavolo, tra qualche difficoltà",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/02/pallavolo-femminile-italia-semifinale-europei/"
-    },
-    {
-      "cat": "sport",
-      "title": "Un giorno dentro il calciomercato",
-      "summary": "L'ultimo, dall'hotel in cui si fanno le trattative: un «giorno da stalker», ma anche «un circo divertente»",
-      "fullSummary": "L'ultimo, dall'hotel in cui si fanno le trattative: un «giorno da stalker», ma anche «un circo divertente»",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/ultimo-giorno-calciomercato-hotel-sheraton/"
-    },
-    {
-      "cat": "sport",
-      "title": "Un colpo che nel tennis non fa quasi nessuno",
-      "summary": "Cioè il dritto a due mani: Lucrezia Stefanini, che oggi ha affrontato Jasmine Paolini, è una delle pochissime giocatrici a usarlo",
-      "fullSummary": "Cioè il dritto a due mani: Lucrezia Stefanini, che oggi ha affrontato Jasmine Paolini, è una delle pochissime giocatrici a usarlo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/tennista-italiana-lucrezia-stefanini-dritto-due-mani/"
-    },
-    {
-      "cat": "sport",
-      "title": "Matteo Berrettini ha parlato del grave problema delle minacce da parte degli scommettitori",
-      "summary": "Il tennista ha raccontato che durante il Roland Garros qualcuno ha scritto a suo fratello: «se non gli dici di perdere uccideremo la tua fam…",
-      "fullSummary": "Il tennista ha raccontato che durante il Roland Garros qualcuno ha scritto a suo fratello: «se non gli dici di perdere uccideremo la tua famiglia»",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/berrettini-tennis-scommesse-minacce/"
     }
   ]
 }
