@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:25:42.625Z",
+  "generatedAt": "2026-09-04T03:17:15.121Z",
   "items": [
     {
       "cat": "politica",
@@ -67,6 +67,14 @@
     },
     {
       "cat": "sport",
+      "title": "Il “cavatappi” di Laguna Seca non è per tutti",
+      "summary": "La serie di curve più famosa del noto circuito statunitense verrà intitolata ad Alex Zanardi, per un suo famoso sorpasso",
+      "fullSummary": "La serie di curve più famosa del noto circuito statunitense verrà intitolata ad Alex Zanardi, per un suo famoso sorpasso",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/03/cavatappi-laguna-seca-alex-zanardi-valentino-rossi/"
+    },
+    {
+      "cat": "sport",
       "title": "Com&#8217;è che nella pallavolo ci sono pochissime allenatrici",
       "summary": "Pur essendo uno degli sport più praticati dalle donne, per loro arrivare a guidare una squadra è ancora complicato",
       "fullSummary": "Pur essendo uno degli sport più praticati dalle donne, per loro arrivare a guidare una squadra è ancora complicato",
@@ -88,14 +96,6 @@
       "fullSummary": "Il dirigente Piero Ausilio ha lasciato l’Inter dopo 28 anni",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/03/ausilio-addio-inter-perche/"
-    },
-    {
-      "cat": "sport",
-      "title": "L&#8217;Italia si è qualificata per le semifinali degli Europei femminili di pallavolo, tra qualche difficoltà",
-      "summary": "",
-      "fullSummary": "L&#8217;Italia si è qualificata per le semifinali degli Europei femminili di pallavolo, tra qualche difficoltà",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/pallavolo-femminile-italia-semifinale-europei/"
     }
   ]
 }
