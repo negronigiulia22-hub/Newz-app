@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:15:22.077Z",
+  "generatedAt": "2026-09-04T00:25:42.625Z",
   "items": [
     {
       "cat": "politica",
@@ -67,14 +67,6 @@
     },
     {
       "cat": "sport",
-      "title": "Il “cavatappi” di Laguna Seca non è per tutti",
-      "summary": "La serie di curve più famosa del noto circuito statunitense verrà intitolata ad Alex Zanardi, per un suo famoso sorpasso",
-      "fullSummary": "La serie di curve più famosa del noto circuito statunitense verrà intitolata ad Alex Zanardi, per un suo famoso sorpasso",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/03/cavatappi-laguna-seca-alex-zanardi-valentino-rossi/"
-    },
-    {
-      "cat": "sport",
       "title": "Com&#8217;è che nella pallavolo ci sono pochissime allenatrici",
       "summary": "Pur essendo uno degli sport più praticati dalle donne, per loro arrivare a guidare una squadra è ancora complicato",
       "fullSummary": "Pur essendo uno degli sport più praticati dalle donne, per loro arrivare a guidare una squadra è ancora complicato",
@@ -85,7 +77,7 @@
       "cat": "sport",
       "title": "La squadra di basket dei Los Angeles Clippers ha ricevuto una delle multe più grandi di sempre in NBA",
       "summary": "",
-      "fullSummary": "Mercoledì la squadra di basket dei Los Angeles Clippers ha ricevuto una delle multe più grandi mai inflitte nella NBA, il campionato nordamericano e il più importante al mondo. La sanzione è stata imposta per aver aggirato il salary cap, ovvero la soglia massima prevista per la somma totale degli stipendi dei giocatori di ciascuna squadra.\n\nIl provvedimento prevede una multa economica pari a 30 milioni di dollari, un anno di sospensione per il proprietario Steve Ballmer e analoghe sospensioni per altri dirigenti societari. Inoltre, la NBA ha sottratto ai Clippers cinque scelte al primo giro del draft, l'evento annuale nel quale le squadre selezionano nuovi giocatori provenienti dalle università oppure dall'estero. Di conseguenza, tra il 2029 e il 2033 la franchigia disporrà di minori possibilità di scegliere atleti considerati tra i più forti o promettenti.\n\nL’indagine della NBA ha preso avvio quasi un anno fa a seguito di quanto rivelato dal giornalista Pablo Torre nel suo podcast, in merito a un singolare accordo tra Kawhi Leonard, allora giocatore di punta dei Clippers, e Aspiration, una banca online che sponsorizzava la squadra. Dalla documentazione di Aspiration risultava che Leonard avesse incassato decine di milioni di dollari in sponsorizzazioni senza svolgere praticamente alcuna attività. Le verifiche dell'NBA hanno poi accertato il coinvolgimento di altre società legate ai Clippers in intese simili, concepite per versare al giocatore somme superiori rispetto a quelle stabilite nel contratto ed eludere così il limite salariale.\n\nPer questo lavoro di inchiesta, il gruppo di lavoro del podcast \"Pablo Torre Finds Out\" del New York Times ha vinto il premio Pulitzer, il riconoscimento più importante nel giornalismo. Leonard, trasferitosi nel frattempo ai Toronto Raptors con uno stipendio previsto per quest’anno di 50 milioni di dollari, riceverà invece esclusivamente una sanzione di 700mila dollari.",
+      "fullSummary": "La squadra di basket dei Los Angeles Clippers ha ricevuto una delle multe più grandi di sempre in NBA",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/03/nba-los-angeles-clippers-multa-30-milioni-dollari-kawhi-leonard/"
     },
@@ -96,6 +88,14 @@
       "fullSummary": "Il dirigente Piero Ausilio ha lasciato l’Inter dopo 28 anni",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/03/ausilio-addio-inter-perche/"
+    },
+    {
+      "cat": "sport",
+      "title": "L&#8217;Italia si è qualificata per le semifinali degli Europei femminili di pallavolo, tra qualche difficoltà",
+      "summary": "",
+      "fullSummary": "L&#8217;Italia si è qualificata per le semifinali degli Europei femminili di pallavolo, tra qualche difficoltà",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/02/pallavolo-femminile-italia-semifinale-europei/"
     }
   ]
 }
