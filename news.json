@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-04T12:27:27.558Z",
+  "generatedAt": "2026-09-04T15:15:53.640Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Breve storia dei governi più lunghi della storia repubblicana",
+      "summary": "Che ora sono stati tutti superati da quello di Giorgia Meloni",
+      "fullSummary": "Che ora sono stati tutti superati da quello di Giorgia Meloni",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/04/governi-piu-longevi-italiani-renzi-berlusconi-prodi/"
+    },
+    {
+      "cat": "politica",
+      "title": "Cos&#8217;è questa storia degli accertamenti della procura militare su Futuro Nazionale",
+      "summary": "Sono partiti dall'esposto di un sindacato, ma al momento non c'è un'indagine penale in corso",
+      "fullSummary": "Sono partiti dall'esposto di un sindacato, ma al momento non c'è un'indagine penale in corso",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/04/accertamenti-preliminari-futuro-nazionale-roberto-vannacci/"
+    },
+    {
+      "cat": "politica",
+      "title": "Come si misura l’efficacia delle zone rosse?",
+      "summary": "Per capire se una misura così restrittiva sia davvero giustificata servirebbero molti dati, ma il governo non li pubblica",
+      "fullSummary": "Per capire se una misura così restrittiva sia davvero giustificata servirebbero molti dati, ma il governo non li pubblica",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/04/dati-efficacia-zone-rosse-sicurezza/"
+    },
     {
       "cat": "politica",
       "title": "Come ha fatto Giorgia Meloni a durare così tanto",
@@ -8,30 +32,6 @@
       "fullSummary": "1.413 giorni al governo: c'entrano le divisioni della sinistra, gli alleati deboli, ma anche la sua capacità di fare poco per resistere a lungo",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/03/meloni-record-durata-longevita/"
-    },
-    {
-      "cat": "politica",
-      "title": "È morto a 78 anni Fabio Mussi, a lungo importante esponente della sinistra italiana",
-      "summary": "",
-      "fullSummary": "È morto a 78 anni Fabio Mussi, a lungo importante esponente della sinistra italiana",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/03/fabio-mussi-ministro-prodi-morto/"
-    },
-    {
-      "cat": "politica",
-      "title": "Gli “irriducibili” di Matteo Salvini",
-      "summary": "In un partito attraversato da conflitti interni, il leader si affida a una cerchia sempre più stretta: un fatto nuovo per la Lega",
-      "fullSummary": "In un partito attraversato da conflitti interni, il leader si affida a una cerchia sempre più stretta: un fatto nuovo per la Lega",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/salvini-fedelissimi-lega-correnti-pontida/"
-    },
-    {
-      "cat": "politica",
-      "title": "Alessandro Di Battista tornerà in Italia il 4 settembre",
-      "summary": "Ma non con un volo di Stato: è stato ricoverato a Cuba in gravi condizioni il 28 agosto",
-      "fullSummary": "Ma non con un volo di Stato: è stato ricoverato a Cuba in gravi condizioni il 28 agosto",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/02/di-battista-torna-italia-4-settembre-venerdi/"
     },
     {
       "cat": "mondo",
