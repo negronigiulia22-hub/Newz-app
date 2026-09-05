@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-05T18:16:14.165Z",
+  "generatedAt": "2026-09-05T21:14:43.051Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Il rientro di Alessandro Di Battista in Italia è stato rinviato",
+      "summary": "",
+      "fullSummary": "Il rientro di Alessandro Di Battista in Italia è stato rinviato",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/05/rinviato-rientro-italia-di-battista/"
+    },
     {
       "cat": "politica",
       "title": "Le foto dell&#8217;evento di Fratelli d&#8217;Italia per la longevità del governo",
@@ -21,17 +29,9 @@
       "cat": "politica",
       "title": "Cos&#8217;è questa storia degli accertamenti della procura militare su Futuro Nazionale",
       "summary": "Sono partiti dall'esposto di un sindacato, ma al momento non c'è un'indagine penale in corso",
-      "fullSummary": "Sono partiti dall'esposto di un sindacato, ma al momento non c'è un'indagine penale in corso",
+      "fullSummary": "La procura militare di Roma ha avviato accertamenti preliminari su alcuni militari in servizio appartenenti a Futuro Nazionale, il partito di estrema destra fondato dal generale ed europarlamentare Roberto Vannacci. Le verifiche sono scaturite da un esposto del Sindacato dei Militari, secondo il quale vari esponenti con ruoli sindacali avrebbero assunto incarichi direttivi nella formazione politica, sfruttando il proprio status militare per fini propagandistici e violando così i doveri di neutralità e imparzialità previsti dalla legge.\n\nLa procura ha precisato che non vi è alcuna indagine penale in corso: data la genericità dei fatti segnalati, le verifiche mirano unicamente a inquadrare il contesto ed esaminare eventuali profili di interesse. L’intervento è stato motivato anche da notizie comparse sulla stampa estera, in particolare un articolo del Financial Times in cui Vannacci veniva descritto come un «cavallo di Troia» russo.\n\nTra i soggetti citati nell'esposto figurano Antonsergio Belfiori, generale dell’aeronautica e dirigente sindacale, e Luigi Avveduto, sottufficiale dei carabinieri e consigliere municipale a Roma. Belfiori, referente di una sede locale a Villafranca di Verona, ha chiar",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/04/accertamenti-preliminari-futuro-nazionale-roberto-vannacci/"
-    },
-    {
-      "cat": "politica",
-      "title": "Come si misura l’efficacia delle zone rosse?",
-      "summary": "Per capire se una misura così restrittiva sia davvero giustificata servirebbero molti dati, ma il governo non li pubblica",
-      "fullSummary": "Per capire se una misura così restrittiva sia davvero giustificata servirebbero molti dati, ma il governo non li pubblica",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/04/dati-efficacia-zone-rosse-sicurezza/"
     },
     {
       "cat": "mondo",
@@ -67,6 +67,14 @@
     },
     {
       "cat": "sport",
+      "title": "Il ciclista sloveno Tadej Pogačar non correrà più fino alla fine della stagione",
+      "summary": "",
+      "fullSummary": "Il ciclista sloveno Tadej Pogačar non correrà più fino alla fine della stagione",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/05/pogacar-stagione-finita/"
+    },
+    {
+      "cat": "sport",
       "title": "I Mondiali femminili di calcio del 1971: memorabili ma dimenticati",
       "summary": "Si giocarono in Messico e alla finale c'erano oltre 100mila spettatori; la FIFA però non li ha mai riconosciuti come ufficiali",
       "fullSummary": "Si giocarono in Messico e alla finale c'erano oltre 100mila spettatori; la FIFA però non li ha mai riconosciuti come ufficiali",
@@ -88,14 +96,6 @@
       "fullSummary": "La Formula 1 farà un grande evento a Milano per inaugurare la stagione di gare del 2027",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/04/formula-1-evento-milano-stagione-2027/"
-    },
-    {
-      "cat": "sport",
-      "title": "Le più belle maglie da calcio di questa stagione",
-      "summary": "O quantomeno le migliori secondo noi: ce ne sono di tutti i colori o quasi",
-      "fullSummary": "O quantomeno le migliori secondo noi: ce ne sono di tutti i colori o quasi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/04/migliori-maglie-calcio-stagione-2026-2027-serie-a-serie-b-serie-c-premier-league-championship-bundesliga-ligue-1/"
     }
   ]
 }
