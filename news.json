@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:15:12.135Z",
+  "generatedAt": "2026-09-06T06:18:31.482Z",
   "items": [
     {
       "cat": "politica",
@@ -21,7 +21,7 @@
       "cat": "politica",
       "title": "Breve storia dei governi più lunghi della storia repubblicana",
       "summary": "Che ora sono stati tutti superati da quello di Giorgia Meloni",
-      "fullSummary": "Che ora sono stati tutti superati da quello di Giorgia Meloni",
+      "fullSummary": "Dal 1946 l’Italia ha avuto 68 governi guidati da 31 presidenti del Consiglio, con una durata media di soli 431 giorni rispetto ai cinque anni previsti per una legislatura naturale. Tra le eccezioni di longevità figurano gli esecutivi guidati da Silvio Berlusconi, Bettino Craxi, Romano Prodi, Matteo Renzi e Giorgia Meloni. L’attuale governo Meloni è diventato il più lungo della storia repubblicana con 1.413 giorni, superando di misura il Berlusconi II, sebbene Berlusconi mantenga il primato complessivo di permanenza in carica con 3.339 giorni distribuiti in quattro mandati.\n\nIl secondo governo Berlusconi (2001-2005, 1.412 giorni) nacque con la vittoria elettorale della Casa delle Libertà. In politica estera sostenne gli Stati Uniti nell’intervento in Iraq del 2003, mentre sul piano interno introdusse la patente a punti, il divieto di fumo nei locali pubblici, la legge Bossi-Fini sull’immigrazione, la riforma scolastica Moratti, la legge 40 e varie leggi ad personam, concludendosi con le dimissioni dopo una sconfitta alle elezioni regionali. Più tardi, il Berlusconi IV (2008-2011, 1.287 giorni), sostenuto dal Popolo della Libertà, fu segnato da gravi scandali sessuali come la vicenda di Ruby Rubacuori e dalla crisi finanziaria globale, cadendo definitivamente quando lo spread tra i titoli italiani e tedeschi raggiunse la quota record di 574 punti base.\n\nIl primo governo di Bettino Craxi (1983-1986, 1.093 giorni) vide il primo socialista a Palazzo Chigi, a capo della coalizione del Pentapartito. Craxi impose uno stile decisionista e accentratore, ricorrendo ampiamente ai decreti legge. In politica estera confermò la collocazione filoccidentale ed europeista, ma difese con fermezza la sovranità nazionale contro gli Stati Uniti durante la crisi di Sigonella del 1985, originata dal dirottamento dell'Achille Lauro. In ambito economico, il suo successo principale fu il contenimento dell'inflazione tramite la cancellazione del meccanismo della scala mobile, provvedimento che causò un aspro scontro con il Partito Comunista Italiano di Enrico Berlinguer.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/04/governi-piu-longevi-italiani-renzi-berlusconi-prodi/"
     },
@@ -67,6 +67,14 @@
     },
     {
       "cat": "sport",
+      "title": "Andy Díaz ha vinto la Diamond League nel salto triplo per la quarta volta",
+      "summary": "",
+      "fullSummary": "Andy Díaz ha vinto la Diamond League nel salto triplo per la quarta volta",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/05/andy-diaz-vince-diamond-league-2026-salto-triplo/"
+    },
+    {
+      "cat": "sport",
       "title": "L’Italia è in finale agli Europei femminili di pallavolo",
       "summary": "Ha battuto la Polonia e domani giocherà contro la solita Turchia",
       "fullSummary": "Ha battuto la Polonia e domani giocherà contro la solita Turchia",
@@ -88,14 +96,6 @@
       "fullSummary": "Si giocarono in Messico e alla finale c'erano oltre 100mila spettatori; la FIFA però non li ha mai riconosciuti come ufficiali",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/05/mondiali-di-calcio-1971-femminili-dimenticato-dalla-fifa/"
-    },
-    {
-      "cat": "sport",
-      "title": "L&#8217;Italia ha vinto la prima partita dei Mondiali femminili di basket",
-      "summary": "",
-      "fullSummary": "L&#8217;Italia ha vinto la prima partita dei Mondiali femminili di basket",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/04/italia-cechia-mondiali-basket-vittoria-esordio/"
     }
   ]
 }
