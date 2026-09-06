@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-06T18:17:27.973Z",
+  "generatedAt": "2026-09-06T21:14:00.208Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "I governi più brevi della storia repubblicana",
+      "summary": "Quello più breve ebbe a capo uno che poi avrebbe governato moltissimo tempo: ma nella Prima Repubblica formare una maggioranza era spesso un…",
+      "fullSummary": "Quello più breve ebbe a capo uno che poi avrebbe governato moltissimo tempo: ma nella Prima Repubblica formare una maggioranza era spesso un'impresa",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/06/governi-piu-brevi-della-storia-andreotti/"
+    },
     {
       "cat": "politica",
       "title": "Il rientro di Alessandro Di Battista in Italia è stato rinviato",
@@ -26,76 +34,68 @@
       "url": "https://www.ilpost.it/2026/09/04/governi-piu-longevi-italiani-renzi-berlusconi-prodi/"
     },
     {
-      "cat": "politica",
-      "title": "Cos&#8217;è questa storia degli accertamenti della procura militare su Futuro Nazionale",
-      "summary": "Sono partiti dall'esposto di un sindacato, ma al momento non c'è un'indagine penale in corso",
-      "fullSummary": "Sono partiti dall'esposto di un sindacato, ma al momento non c'è un'indagine penale in corso",
+      "cat": "mondo",
+      "title": "In Sassonia-Anhalt ha stravinto l&#8217;estrema destra",
+      "summary": "Come previsto, nello stato tedesco Alternative für Deutschland (AfD) ha preso più del 40 per cento dei voti e potrebbe riuscire a governare …",
+      "fullSummary": "Come previsto, nello stato tedesco Alternative für Deutschland (AfD) ha preso più del 40 per cento dei voti e potrebbe riuscire a governare per la prima volta",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/04/accertamenti-preliminari-futuro-nazionale-roberto-vannacci/"
+      "url": "https://www.ilpost.it/2026/09/06/sassonia-anhalt-afd/"
     },
     {
       "cat": "mondo",
-      "title": "Gli Stati Uniti hanno detto di aver colpito tre petroliere iraniane",
+      "title": "La Polonia sospettava che il suo spazio aereo fosse stato violato, invece era solo uno stormo di uccelli",
       "summary": "",
-      "fullSummary": "Gli Stati Uniti hanno detto di aver colpito tre petroliere iraniane",
+      "fullSummary": "La Polonia sospettava che il suo spazio aereo fosse stato violato, invece era solo uno stormo di uccelli",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/05/esercito-statunitense-colpito-petroliere-iraniane/"
+      "url": "https://www.ilpost.it/2026/09/06/polonia-sospetta-violazione-spazio-aereo-stormo-uccelli/"
     },
     {
       "cat": "mondo",
-      "title": "Nessuno sa quanti migranti ci sono a Ceuta",
-      "summary": "Molti di più di quanti pensava il governo spagnolo nei primi giorni, con tante donne e tanti minori: ma contarli è impossibile, finché non v…",
-      "fullSummary": "Molti di più di quanti pensava il governo spagnolo nei primi giorni, con tante donne e tanti minori: ma contarli è impossibile, finché non verrà dato un ricovero a tutti",
+      "title": "L&#8217;altro partito con cui la CDU non vuole allearsi in Sassonia-Anhalt",
+      "summary": "Oltre ad AfD, il partito del cancelliere Friedrich Merz ha escluso la Linke, di sinistra, anche se significa rimanere senza altre opzioni",
+      "fullSummary": "Oltre ad AfD, il partito del cancelliere Friedrich Merz ha escluso la Linke, di sinistra, anche se significa rimanere senza altre opzioni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/05/ceuta-numero-migranti/"
+      "url": "https://www.ilpost.it/2026/09/06/linke-cdu-sassonia-anhalt-germania/"
     },
     {
       "cat": "mondo",
-      "title": "Putin ha ordinato di non attaccare Kyiv per i prossimi tre giorni",
-      "summary": "Ovvero per il periodo in cui gli inviati statunitensi Jared Kushner e Steve Witkoff saranno in Russia e in Ucraina",
-      "fullSummary": "Ovvero per il periodo in cui gli inviati statunitensi Jared Kushner e Steve Witkoff saranno in Russia e in Ucraina",
+      "title": "Il petroliere di Trump in Venezuela",
+      "summary": "Alejandro Betancourt è un imprenditore con molte entrature nel regime e una reputazione opaca, che ora sta facendo affari con gli Stati Unit…",
+      "fullSummary": "Alejandro Betancourt è un imprenditore con molte entrature nel regime e una reputazione opaca, che ora sta facendo affari con gli Stati Uniti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/05/russia-ucraina-sospensione-attacchi-visita-witkoff-kushner/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il blocco delle importazioni di carne dal Brasile è un bel problema per la bresaola",
-      "summary": "È prodotta in Valtellina, ma viene fatta soprattutto con carne importata dal Sudamerica che per ora non rispetta le nuove regole dell’Unione…",
-      "fullSummary": "È prodotta in Valtellina, ma viene fatta soprattutto con carne importata dal Sudamerica che per ora non rispetta le nuove regole dell’Unione Europea",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/05/blocco-importazioni-carne-brasiliana-bresaola/"
+      "url": "https://www.ilpost.it/2026/09/06/chi-e-alejandro-betancourt-ruolo-accordo-petrolio-venezuela/"
     },
     {
       "cat": "sport",
-      "title": "Andy Díaz ha vinto la Diamond League nel salto triplo per la quarta volta",
+      "title": "L’Italia ha perso di 3 punti contro gli Stati Uniti ai Mondiali femminili di basket",
       "summary": "",
-      "fullSummary": "Andy Díaz ha vinto la Diamond League nel salto triplo per la quarta volta",
+      "fullSummary": "L’Italia ha perso di 3 punti contro gli Stati Uniti ai Mondiali femminili di basket",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/05/andy-diaz-vince-diamond-league-2026-salto-triplo/"
+      "url": "https://www.ilpost.it/2026/09/06/italia-stati-uniti-mondiale-femminile-basket-2026/"
     },
     {
       "cat": "sport",
-      "title": "L’Italia è in finale agli Europei femminili di pallavolo",
-      "summary": "Ha battuto la Polonia e domani giocherà contro la solita Turchia",
-      "fullSummary": "Ha battuto la Polonia e domani giocherà contro la solita Turchia",
+      "title": "L&#8217;Italia ha perso in finale contro la Turchia agli Europei femminili di pallavolo",
+      "summary": "Era l'unico trofeo che mancava alla squadra di Julio Velasco, che ha perso al quinto set",
+      "fullSummary": "Era l'unico trofeo che mancava alla squadra di Julio Velasco, che ha perso al quinto set",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/05/italia-femminile-pallavolo-vince-semifinale-polonia-europei-2026/"
+      "url": "https://www.ilpost.it/2026/09/06/pallavolo-italia-turchia-finale-europei-2026/"
     },
     {
       "cat": "sport",
-      "title": "Il ciclista sloveno Tadej Pogačar non correrà più fino alla fine della stagione",
-      "summary": "",
-      "fullSummary": "Il ciclista sloveno Tadej Pogačar non correrà più fino alla fine della stagione",
+      "title": "Kimi Antonelli ha vinto il Gran Premio di Monza",
+      "summary": "Ha rimontato dalla 19esima posizione alla prima: un pilota italiano non vinceva a Monza da 60 anni",
+      "fullSummary": "Ha rimontato dalla 19esima posizione alla prima: un pilota italiano non vinceva a Monza da 60 anni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/05/pogacar-stagione-finita/"
+      "url": "https://www.ilpost.it/2026/09/06/kimi-antonelli-ha-vinto-il-gran-premio-di-monza/"
     },
     {
       "cat": "sport",
-      "title": "I Mondiali femminili di calcio del 1971: memorabili ma dimenticati",
-      "summary": "Si giocarono in Messico e alla finale c'erano oltre 100mila spettatori; la FIFA però non li ha mai riconosciuti come ufficiali",
-      "fullSummary": "Si giocarono in Messico e alla finale c'erano oltre 100mila spettatori; la FIFA però non li ha mai riconosciuti come ufficiali",
+      "title": "Cos’ha di speciale il Gran Premio di Monza",
+      "summary": "Nella Formula 1 cambiano molte cose, ma l’autodromo è sempre lì: ultracentenario, velocissimo e sempre molto rosso",
+      "fullSummary": "Nella Formula 1 cambiano molte cose, ma l’autodromo è sempre lì: ultracentenario, velocissimo e sempre molto rosso",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/05/mondiali-di-calcio-1971-femminili-dimenticato-dalla-fifa/"
+      "url": "https://www.ilpost.it/2026/09/06/monza-gran-premio-formula-1-speciale/"
     }
   ]
 }
