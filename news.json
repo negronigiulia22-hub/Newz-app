@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T21:14:43.051Z",
+  "generatedAt": "2026-09-06T00:25:36.588Z",
   "items": [
     {
       "cat": "politica",
@@ -29,7 +29,7 @@
       "cat": "politica",
       "title": "Cos&#8217;è questa storia degli accertamenti della procura militare su Futuro Nazionale",
       "summary": "Sono partiti dall'esposto di un sindacato, ma al momento non c'è un'indagine penale in corso",
-      "fullSummary": "La procura militare di Roma ha avviato accertamenti preliminari su alcuni militari in servizio appartenenti a Futuro Nazionale, il partito di estrema destra fondato dal generale ed europarlamentare Roberto Vannacci. Le verifiche sono scaturite da un esposto del Sindacato dei Militari, secondo il quale vari esponenti con ruoli sindacali avrebbero assunto incarichi direttivi nella formazione politica, sfruttando il proprio status militare per fini propagandistici e violando così i doveri di neutralità e imparzialità previsti dalla legge.\n\nLa procura ha precisato che non vi è alcuna indagine penale in corso: data la genericità dei fatti segnalati, le verifiche mirano unicamente a inquadrare il contesto ed esaminare eventuali profili di interesse. L’intervento è stato motivato anche da notizie comparse sulla stampa estera, in particolare un articolo del Financial Times in cui Vannacci veniva descritto come un «cavallo di Troia» russo.\n\nTra i soggetti citati nell'esposto figurano Antonsergio Belfiori, generale dell’aeronautica e dirigente sindacale, e Luigi Avveduto, sottufficiale dei carabinieri e consigliere municipale a Roma. Belfiori, referente di una sede locale a Villafranca di Verona, ha chiar",
+      "fullSummary": "Sono partiti dall'esposto di un sindacato, ma al momento non c'è un'indagine penale in corso",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/04/accertamenti-preliminari-futuro-nazionale-roberto-vannacci/"
     },
@@ -67,6 +67,14 @@
     },
     {
       "cat": "sport",
+      "title": "L’Italia è in finale agli Europei femminili di pallavolo",
+      "summary": "Ha battuto la Polonia e domani giocherà contro la solita Turchia",
+      "fullSummary": "Ha battuto la Polonia e domani giocherà contro la solita Turchia",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/05/italia-femminile-pallavolo-vince-semifinale-polonia-europei-2026/"
+    },
+    {
+      "cat": "sport",
       "title": "Il ciclista sloveno Tadej Pogačar non correrà più fino alla fine della stagione",
       "summary": "",
       "fullSummary": "Il ciclista sloveno Tadej Pogačar non correrà più fino alla fine della stagione",
@@ -88,14 +96,6 @@
       "fullSummary": "L&#8217;Italia ha vinto la prima partita dei Mondiali femminili di basket",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/04/italia-cechia-mondiali-basket-vittoria-esordio/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Formula 1 farà un grande evento a Milano per inaugurare la stagione di gare del 2027",
-      "summary": "",
-      "fullSummary": "La Formula 1 farà un grande evento a Milano per inaugurare la stagione di gare del 2027",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/04/formula-1-evento-milano-stagione-2027/"
     }
   ]
 }
