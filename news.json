@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:19:34.270Z",
+  "generatedAt": "2026-09-07T12:22:45.506Z",
   "items": [
     {
       "cat": "politica",
@@ -35,35 +35,43 @@
     },
     {
       "cat": "mondo",
-      "title": "Cosa succede in Sassonia-Anhalt dopo la vittoria di AfD",
-      "summary": "All'estrema destra mancano pochi seggi per poter governare nello stato federato tedesco",
-      "fullSummary": "All'estrema destra mancano pochi seggi per poter governare nello stato federato tedesco",
+      "title": "I discussi funerali di Ratko Mladić in Serbia",
+      "summary": "Con migliaia di persone per rendere omaggio all’ex comandante dei serbi bosniaci condannato per crimini di guerra e contro l'umanità",
+      "fullSummary": "Con migliaia di persone per rendere omaggio all’ex comandante dei serbi bosniaci condannato per crimini di guerra e contro l'umanità",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/cosa-succede-ora-sassonia-anhalt/"
+      "url": "https://www.ilpost.it/2026/09/07/ratko-mladic-funerali-stato-serbia/"
     },
     {
       "cat": "mondo",
-      "title": "A New Delhi, in India, almeno 6 persone sono morte nel crollo di un palazzo abitato soprattutto da studenti",
+      "title": "Nessuno scandalo è riuscito a fermare l’avanzata di AfD",
+      "summary": "Il partito di estrema destra tedesco ne ha avuti molti dalla sua fondazione, nel 2013, ma i suoi consensi sono quasi sempre aumentati",
+      "fullSummary": "Il partito di estrema destra tedesco ne ha avuti molti dalla sua fondazione, nel 2013, ma i suoi consensi sono quasi sempre aumentati",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/07/afd-scandali-successi/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Austria è entrato in vigore il divieto del velo islamico a scuola per le ragazze sotto i 14 anni",
+      "summary": "Il governo dice di voler proteggere le ragazze e promuovere la parità di genere, ma la misura è contestata dalle associazioni musulmane",
+      "fullSummary": "Il governo dice di voler proteggere le ragazze e promuovere la parità di genere, ma la misura è contestata dalle associazioni musulmane",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/07/austria-divieto-velo-islam-scuola-ragazze-14-anni/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Indonesia diversi aeroporti continuano a essere chiusi a causa dell&#8217;eruzione di un vulcano",
       "summary": "",
-      "fullSummary": "A New Delhi, in India, almeno 6 persone sono morte nel crollo di un palazzo abitato soprattutto da studenti",
+      "fullSummary": "In Indonesia diversi aeroporti continuano a essere chiusi a causa dell&#8217;eruzione di un vulcano",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/india-morti-crollo-palazzo-studenti/"
+      "url": "https://www.ilpost.it/2026/09/07/indonesia-chiusura-sette-aeroporti/"
     },
     {
-      "cat": "mondo",
-      "title": "Netanyahu ha ordinato lo smantellamento di alcuni insediamenti illegali in Cisgiordania",
-      "summary": "Non è chiaro però quando l'operazione sia stata ordinata, né quando dovrebbe iniziare e quante o quali occupazioni riguardi",
-      "fullSummary": "Non è chiaro però quando l'operazione sia stata ordinata, né quando dovrebbe iniziare e quante o quali occupazioni riguardi",
+      "cat": "sport",
+      "title": "Da 19esimo a primo in un Gran Premio di Formula 1",
+      "summary": "L’ha fatto Andrea Kimi Antonelli a Monza: solo un pilota riuscì a vincere dopo una rimonta maggiore",
+      "fullSummary": "L’ha fatto Andrea Kimi Antonelli a Monza: solo un pilota riuscì a vincere dopo una rimonta maggiore",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/netanyahu-smantellamento-insediamenti-cisgiordania/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Un aereo cargo di Amazon è uscito di pista a Miami causando cinque morti",
-      "summary": "L’incidente è avvenuto durante l’atterraggio: l’aereo ha colpito diversi veicoli e ha preso fuoco",
-      "fullSummary": "L’incidente è avvenuto durante l’atterraggio: l’aereo ha colpito diversi veicoli e ha preso fuoco",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/aereo-amazon-fuori-pista-miami-morti/"
+      "url": "https://www.ilpost.it/2026/09/07/kimi-antonelli-monza-rimonta-gran-premio/"
     },
     {
       "cat": "sport",
@@ -88,14 +96,6 @@
       "fullSummary": "La Fiorentina ha esonerato il suo allenatore, Fabio Grosso",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/06/fiorentina-esonerato-allenatore-fabio-grosso/"
-    },
-    {
-      "cat": "sport",
-      "title": "L’Italia ha perso di 3 punti contro gli Stati Uniti ai Mondiali femminili di basket",
-      "summary": "",
-      "fullSummary": "L’Italia ha perso di 3 punti contro gli Stati Uniti ai Mondiali femminili di basket",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/06/italia-stati-uniti-mondiale-femminile-basket-2026/"
     }
   ]
 }
