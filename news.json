@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-08T03:53:13.655Z",
+  "generatedAt": "2026-09-08T10:58:22.828Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Il rapporto della destra italiana con AfD è fatto soprattutto di opportunismo",
+      "summary": "Sul partito di estrema destra tedesco sia Meloni sia Salvini hanno cambiato più volte idea, a seconda delle convenienze",
+      "fullSummary": "Sul partito di estrema destra tedesco sia Meloni sia Salvini hanno cambiato più volte idea, a seconda delle convenienze",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/07/afd-sassonia-anhalt-salvini-meloni-vannacci-destra/"
+    },
+    {
+      "cat": "politica",
+      "title": "Emma Bonino è stata ricoverata d&#8217;urgenza a Roma",
+      "summary": "Ha avuto problemi respiratori ed è in terapia intensiva, ma il suo medico ha detto che è «vigile e lucida»",
+      "fullSummary": "Ha avuto problemi respiratori ed è in terapia intensiva, ma il suo medico ha detto che è «vigile e lucida»",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/07/emma-bonino-ricoverata-roma/"
+    },
     {
       "cat": "politica",
       "title": "I governi più brevi della storia repubblicana",
@@ -18,84 +34,68 @@
       "url": "https://www.ilpost.it/2026/09/05/rinviato-rientro-italia-di-battista/"
     },
     {
-      "cat": "politica",
-      "title": "Le foto dell&#8217;evento di Fratelli d&#8217;Italia per la longevità del governo",
-      "summary": "Meloni ha parlato per un'ora, mentre Salvini e Tajani si sono collegati da remoto: l'intervento di Salvini si è bloccato più volte",
-      "fullSummary": "Meloni ha parlato per un'ora, mentre Salvini e Tajani si sono collegati da remoto: l'intervento di Salvini si è bloccato più volte",
+      "cat": "mondo",
+      "title": "Sono stati rubati quattro quadri da un museo di Renoir",
+      "summary": "Il furto è avvenuto nella villa del pittore impressionista nel sud della Francia, ma nella fuga i ladri hanno lasciate indietro due opere",
+      "fullSummary": "Il furto è avvenuto nella villa del pittore impressionista nel sud della Francia, ma nella fuga i ladri hanno lasciate indietro due opere",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/04/festa-longevita-governo-fratelli-ditalia/"
-    },
-    {
-      "cat": "politica",
-      "title": "Breve storia dei governi più lunghi della storia repubblicana",
-      "summary": "Che ora sono stati tutti superati da quello di Giorgia Meloni",
-      "fullSummary": "Che ora sono stati tutti superati da quello di Giorgia Meloni",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/04/governi-piu-longevi-italiani-renzi-berlusconi-prodi/"
+      "url": "https://www.ilpost.it/2026/09/08/furto-museo-renoir-cagnes-sur-mer/"
     },
     {
       "cat": "mondo",
-      "title": "I discussi funerali di Ratko Mladić in Serbia",
-      "summary": "Con migliaia di persone per rendere omaggio all’ex comandante dei serbi bosniaci condannato per crimini di guerra e contro l'umanità",
-      "fullSummary": "Con migliaia di persone per rendere omaggio all’ex comandante dei serbi bosniaci condannato per crimini di guerra e contro l'umanità",
+      "title": "Uno stabilimento di Volkswagen potrebbe diventare una fabbrica di armi",
+      "summary": "Sarà probabilmente riconvertito alla produzione di sistemi per la difesa aerea in collaborazione con l'azienda israeliana che ha costruito l…",
+      "fullSummary": "Sarà probabilmente riconvertito alla produzione di sistemi per la difesa aerea in collaborazione con l'azienda israeliana che ha costruito l'Iron Dome",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/ratko-mladic-funerali-stato-serbia/"
+      "url": "https://www.ilpost.it/2026/09/08/riconversione-stabilimento-volkswagen-osnabruck/"
     },
     {
       "cat": "mondo",
-      "title": "Nessuno scandalo è riuscito a fermare l’avanzata di AfD",
-      "summary": "Il partito di estrema destra tedesco ne ha avuti molti dalla sua fondazione, nel 2013, ma i suoi consensi sono quasi sempre aumentati",
-      "fullSummary": "Il partito di estrema destra tedesco ne ha avuti molti dalla sua fondazione, nel 2013, ma i suoi consensi sono quasi sempre aumentati",
+      "title": "Gli abitanti di Gaza provano a dimostrare di avere una casa",
+      "summary": "Per riprenderne possesso dopo i bombardamenti, anche se ne restano solo macerie: ma trovare i documenti è complicato",
+      "fullSummary": "Per riprenderne possesso dopo i bombardamenti, anche se ne restano solo macerie: ma trovare i documenti è complicato",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/afd-scandali-successi/"
+      "url": "https://www.ilpost.it/2026/09/08/documenti-proprieta-gaza/"
     },
     {
       "cat": "mondo",
-      "title": "In Austria è entrato in vigore il divieto del velo islamico a scuola per le ragazze sotto i 14 anni",
-      "summary": "Il governo dice di voler proteggere le ragazze e promuovere la parità di genere, ma la misura è contestata dalle associazioni musulmane",
-      "fullSummary": "Il governo dice di voler proteggere le ragazze e promuovere la parità di genere, ma la misura è contestata dalle associazioni musulmane",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/austria-divieto-velo-islam-scuola-ragazze-14-anni/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Indonesia diversi aeroporti continuano a essere chiusi a causa dell&#8217;eruzione di un vulcano",
+      "title": "La Francia stima che la produzione di vino potrebbe raggiungere uno dei livelli più bassi degli ultimi trent&#8217;anni",
       "summary": "",
-      "fullSummary": "In Indonesia diversi aeroporti continuano a essere chiusi a causa dell&#8217;eruzione di un vulcano",
+      "fullSummary": "La Francia stima che la produzione di vino potrebbe raggiungere uno dei livelli più bassi degli ultimi trent&#8217;anni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/indonesia-chiusura-sette-aeroporti/"
+      "url": "https://www.ilpost.it/2026/09/08/francia-stima-produzione-vino-2026/"
     },
     {
       "cat": "sport",
-      "title": "Da 19esimo a primo in un Gran Premio di Formula 1",
-      "summary": "L’ha fatto Andrea Kimi Antonelli a Monza: solo un pilota riuscì a vincere dopo una rimonta maggiore",
-      "fullSummary": "L’ha fatto Andrea Kimi Antonelli a Monza: solo un pilota riuscì a vincere dopo una rimonta maggiore",
+      "title": "L&#8217;inno più famoso del calcio",
+      "summary": "Sì, quello: con una storia che passa da re Salomone, Händel e re Carlo",
+      "fullSummary": "Sì, quello: con una storia che passa da re Salomone, Händel e re Carlo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/kimi-antonelli-monza-rimonta-gran-premio/"
+      "url": "https://www.ilpost.it/2026/09/08/champions-league-inno/"
     },
     {
       "cat": "sport",
-      "title": "Due grandi rimonte e un pareggio un po&#8217; noioso, in Serie A",
-      "summary": "Inter e Roma hanno vinto nei minuti di recupero, Juventus-Milan è finita 1-1",
-      "fullSummary": "Inter e Roma hanno vinto nei minuti di recupero, Juventus-Milan è finita 1-1",
+      "title": "C&#8217;era una volta il rovescio a una mano",
+      "summary": "Per la prima volta nessun semifinalista dei tornei del Grande Slam fa questo colpo",
+      "fullSummary": "Per la prima volta nessun semifinalista dei tornei del Grande Slam fa questo colpo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/serie-a-terza-giornata-inter-napoli-roma-atalanta-juventus-milan/"
+      "url": "https://www.ilpost.it/2026/09/08/rovescio-a-una-mano-scomparsa/"
     },
     {
       "cat": "sport",
-      "title": "L&#8217;Italia femminile di pallavolo può migliorare ancora, secondo Julio Velasco",
-      "summary": "Quest'anno ha cambiato alcune cose, con l'obiettivo di rivincere Mondiali e Olimpiadi, ed è comunque andata molto vicina all'oro agli Europe…",
-      "fullSummary": "Quest'anno ha cambiato alcune cose, con l'obiettivo di rivincere Mondiali e Olimpiadi, ed è comunque andata molto vicina all'oro agli Europei",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/07/velasco-post-italia-turchia-parole-italia/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Fiorentina ha esonerato il suo allenatore, Fabio Grosso",
+      "title": "L&#8217;Italia ha perso contro la Cina ai Mondiali femminili di basket: giocherà gli ottavi di finale contro l&#8217;Australia",
       "summary": "",
-      "fullSummary": "La Fiorentina ha esonerato il suo allenatore, Fabio Grosso",
+      "fullSummary": "L&#8217;Italia ha perso contro la Cina ai Mondiali femminili di basket: giocherà gli ottavi di finale contro l&#8217;Australia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/06/fiorentina-esonerato-allenatore-fabio-grosso/"
+      "url": "https://www.ilpost.it/2026/09/07/italia-cina-mondiali-femminili-basket-prossima-avversaria/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il nuovo allenatore della Fiorentina è Paolo Vanoli, che l&#8217;aveva già allenata la scorsa stagione",
+      "summary": "",
+      "fullSummary": "Il nuovo allenatore della Fiorentina è Paolo Vanoli, che l&#8217;aveva già allenata la scorsa stagione",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/07/vanoli-nuovo-allenatore-fiorentina-ritorno/"
     }
   ]
 }
