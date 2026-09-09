@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:17:18.674Z",
+  "generatedAt": "2026-09-09T03:57:15.430Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,14 @@
     },
     {
       "cat": "mondo",
+      "title": "Sono stati rubati quattro quadri da un museo di Renoir",
+      "summary": "Il furto è avvenuto nella villa del pittore impressionista nel sud della Francia, ma nella fuga i ladri hanno lasciate indietro due opere",
+      "fullSummary": "Il furto è avvenuto nella villa del pittore impressionista nel sud della Francia, ma nella fuga i ladri hanno lasciate indietro due opere",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/08/furto-museo-renoir-cagnes-sur-mer/"
+    },
+    {
+      "cat": "mondo",
       "title": "Uno stabilimento di Volkswagen potrebbe diventare una fabbrica di armi",
       "summary": "Sarà probabilmente riconvertito alla produzione di sistemi per la difesa aerea in collaborazione con l'azienda israeliana che ha costruito l…",
       "fullSummary": "Sarà probabilmente riconvertito alla produzione di sistemi per la difesa aerea in collaborazione con l'azienda israeliana che ha costruito l'Iron Dome",
@@ -56,14 +64,6 @@
       "fullSummary": "La Francia stima che la produzione di vino potrebbe raggiungere uno dei livelli più bassi degli ultimi trent&#8217;anni",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/08/francia-stima-produzione-vino-2026/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Una delegazione induista ha fatto allontanare le dipendenti della Tour Eiffel durante una visita",
-      "summary": "Per evitare le interazioni con una guida spirituale, ma ne è seguito uno sciopero e una polemica politica",
-      "fullSummary": "Per evitare le interazioni con una guida spirituale, ma ne è seguito uno sciopero e una polemica politica",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/08/eiffel-chiusa-uno-sciopero/"
     },
     {
       "cat": "sport",
