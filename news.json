@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T15:55:32.191Z",
+  "generatedAt": "2026-09-13T20:33:33.071Z",
   "items": [
     {
       "cat": "politica",
@@ -35,35 +35,59 @@
     },
     {
       "cat": "mondo",
-      "title": "In Svezia il risultato delle elezioni sembrava scontato, ora non lo è più",
-      "summary": "Si vota domenica per rinnovare il parlamento che poi eleggerà il primo ministro, e la distanza tra le coalizioni è minima",
-      "fullSummary": "Si vota domenica per rinnovare il parlamento che poi eleggerà il primo ministro, e la distanza tra le coalizioni è minima",
+      "title": "In Turchia la polizia ha arrestato più di 160 persone di ambienti LGBTQ+",
+      "summary": "In diverse parti del paese, nell'ambito di una campagna del governo in difesa dei valori cosiddetti tradizionali",
+      "fullSummary": "In diverse parti del paese, nell'ambito di una campagna del governo in difesa dei valori cosiddetti tradizionali",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/12/svezia-elezioni-equilibrio/"
+      "url": "https://www.ilpost.it/2026/09/13/turchia-polizia-arresti-lgbtq/"
     },
     {
       "cat": "mondo",
-      "title": "Le storie degli arresti di Emma Bonino",
-      "summary": "Quasi tutti per una sua deliberata disobbedienza civile, tranne quando andò a Kabul da commissaria europea",
-      "fullSummary": "Quasi tutti per una sua deliberata disobbedienza civile, tranne quando andò a Kabul da commissaria europea",
+      "title": "Una delle poche cose notevoli alla riunione dei BRICS",
+      "summary": "È questa foto, dove Narendra Modi, Xi Jinping e Vladimir Putin si mostrano più vicini di quello che sono in realtà",
+      "fullSummary": "È questa foto, dove Narendra Modi, Xi Jinping e Vladimir Putin si mostrano più vicini di quello che sono in realtà",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/12/arresti-emma-bonino/"
+      "url": "https://www.ilpost.it/2026/09/13/foto-putin-modi-xi-jinping-per-la-mano-brics/"
     },
     {
       "cat": "mondo",
-      "title": "Al Qaida, prima e dopo l&#8217;11 settembre",
-      "summary": "Nel 2001 il gruppo terroristico che organizzò l'attentato alle Torri Gemelle voleva cacciare gli Stati Uniti dal Medio Oriente: oggi ha tutt…",
-      "fullSummary": "Nel 2001 il gruppo terroristico che organizzò l'attentato alle Torri Gemelle voleva cacciare gli Stati Uniti dal Medio Oriente: oggi ha tutta un'altra forma",
+      "title": "Da 25 anni a Ceuta c&#8217;è sempre lui a governare",
+      "summary": "Il presidente Juan Jesús Vivas Lara, di centrodestra, ha sfruttato la crisi migratoria per diventare ancora più popolare, alle spese del pri…",
+      "fullSummary": "Il presidente Juan Jesús Vivas Lara, di centrodestra, ha sfruttato la crisi migratoria per diventare ancora più popolare, alle spese del primo ministro Sánchez",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/12/al-qaida-prima-e-dopo-l11-settembre/"
+      "url": "https://www.ilpost.it/2026/09/13/juan-vivas-ceuta-crisi-migranti/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;Arabia Saudita ha chiuso un importante oleodotto dopo che era stato attaccato con droni partiti dall&#8217;Iraq",
+      "title": "La Russia ha compiuto due attacchi in Ucraina occidentale, a pochi chilometri dal confine con la Polonia",
       "summary": "",
-      "fullSummary": "L&#8217;Arabia Saudita ha chiuso un importante oleodotto dopo che era stato attaccato con droni partiti dall&#8217;Iraq",
+      "fullSummary": "La Russia ha compiuto due attacchi in Ucraina occidentale, a pochi chilometri dal confine con la Polonia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/12/arabia-saudita-chiusura-oleodotto-attacco-iraq/"
+      "url": "https://www.ilpost.it/2026/09/13/russia-attacchi-ucraina-confine-polonia/"
+    },
+    {
+      "cat": "sport",
+      "title": "Kimi Antonelli ha vinto il Gran Premio di Spagna",
+      "summary": "Nel nuovo circuito di Madrid il pilota italiano ha consolidato il suo primo posto nel Mondiale di Formula 1",
+      "fullSummary": "Nel nuovo circuito di Madrid il pilota italiano ha consolidato il suo primo posto nel Mondiale di Formula 1",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/13/kimi-antonelli-ha-vinto-anche-il-gran-premio-di-spagna-madring/"
+    },
+    {
+      "cat": "sport",
+      "title": "Marc Márquez ha vinto il Gran Premio di San Marino ed è primo in MotoGP",
+      "summary": "A pari punti con Jorge Martín: nessuno se lo aspettava fino a pochi mesi fa",
+      "fullSummary": "A pari punti con Jorge Martín: nessuno se lo aspettava fino a pochi mesi fa",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/13/marc-marquez-motogp-gran-premio-misano-primo-in-classifica/"
+    },
+    {
+      "cat": "sport",
+      "title": "La tennista kazaka Elena Rybakina ha vinto gli US Open per la prima volta",
+      "summary": "Ha battuto in tre set Aryna Sabalenka, a cui ha tolto la prima posizione nella classifica mondiale",
+      "fullSummary": "Ha battuto in tre set Aryna Sabalenka, a cui ha tolto la prima posizione nella classifica mondiale",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/13/elena-rybakina-ha-vinto-gli-us-open-per-la-prima-volta/"
     },
     {
       "cat": "sport",
@@ -72,30 +96,6 @@
       "fullSummary": "Il ciclista spagnolo Enric Mas è ormai quasi certo di vincere la Vuelta, dopo la penultima tappa",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/12/enric-mas-vuelta-a-espana-20-tappa/"
-    },
-    {
-      "cat": "sport",
-      "title": "La più grande rivalità del rugby sta diventando un&#8217;operazione di marketing?",
-      "summary": "L'ennesima partita tra Nuova Zelanda e Sudafrica sarà negli Stati Uniti, soprattutto per fare soldi",
-      "fullSummary": "L'ennesima partita tra Nuova Zelanda e Sudafrica sarà negli Stati Uniti, soprattutto per fare soldi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/12/rivalita-sudafrica-nuova-zelanda-rugby-marketing-greatest-rivalry-cos-e/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il circuito di Madrid promette bene",
-      "summary": "È nuovo ma all'antica, con una curva parabolica lunghiiiiissima: la Formula 1 ci gareggia domenica",
-      "fullSummary": "È nuovo ma all'antica, con una curva parabolica lunghiiiiissima: la Formula 1 ci gareggia domenica",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/12/formula-1-madrid-circuito-madring-curve-monumental/"
-    },
-    {
-      "cat": "sport",
-      "title": "La finale maschile degli US Open sarà tra il tedesco Alexander Zverev e lo statunitense Ben Shelton",
-      "summary": "",
-      "fullSummary": "La finale maschile degli US Open sarà tra il tedesco Alexander Zverev e lo statunitense Ben Shelton",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/12/finale-us-open-zverev-shelton-quando-dove-vederla/"
     }
   ]
 }
