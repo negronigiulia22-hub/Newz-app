@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:33:33.071Z",
+  "generatedAt": "2026-09-13T23:02:15.117Z",
   "items": [
     {
       "cat": "politica",
@@ -35,35 +35,43 @@
     },
     {
       "cat": "mondo",
-      "title": "In Turchia la polizia ha arrestato più di 160 persone di ambienti LGBTQ+",
-      "summary": "In diverse parti del paese, nell'ambito di una campagna del governo in difesa dei valori cosiddetti tradizionali",
-      "fullSummary": "In diverse parti del paese, nell'ambito di una campagna del governo in difesa dei valori cosiddetti tradizionali",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/13/turchia-polizia-arresti-lgbtq/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Una delle poche cose notevoli alla riunione dei BRICS",
-      "summary": "È questa foto, dove Narendra Modi, Xi Jinping e Vladimir Putin si mostrano più vicini di quello che sono in realtà",
-      "fullSummary": "È questa foto, dove Narendra Modi, Xi Jinping e Vladimir Putin si mostrano più vicini di quello che sono in realtà",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/13/foto-putin-modi-xi-jinping-per-la-mano-brics/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Da 25 anni a Ceuta c&#8217;è sempre lui a governare",
-      "summary": "Il presidente Juan Jesús Vivas Lara, di centrodestra, ha sfruttato la crisi migratoria per diventare ancora più popolare, alle spese del pri…",
-      "fullSummary": "Il presidente Juan Jesús Vivas Lara, di centrodestra, ha sfruttato la crisi migratoria per diventare ancora più popolare, alle spese del primo ministro Sánchez",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/13/juan-vivas-ceuta-crisi-migranti/"
-    },
-    {
-      "cat": "mondo",
-      "title": "La Russia ha compiuto due attacchi in Ucraina occidentale, a pochi chilometri dal confine con la Polonia",
+      "title": "In Cile 16 persone sono morte per un incendio in una residenza per anziani",
       "summary": "",
-      "fullSummary": "La Russia ha compiuto due attacchi in Ucraina occidentale, a pochi chilometri dal confine con la Polonia",
+      "fullSummary": "In Cile 16 persone sono morte per un incendio in una residenza per anziani",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/13/russia-attacchi-ucraina-confine-polonia/"
+      "url": "https://www.ilpost.it/2026/09/13/cile-incendio-casa-di-riposo/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Svezia il risultato delle elezioni sembrava scontato, ora non lo è più",
+      "summary": "Si vota domenica per rinnovare il parlamento che poi eleggerà il primo ministro, e la distanza tra le coalizioni è minima",
+      "fullSummary": "Si vota domenica per rinnovare il parlamento che poi eleggerà il primo ministro, e la distanza tra le coalizioni è minima",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/12/svezia-elezioni-equilibrio/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Le storie degli arresti di Emma Bonino",
+      "summary": "Quasi tutti per una sua deliberata disobbedienza civile, tranne quando andò a Kabul da commissaria europea",
+      "fullSummary": "Quasi tutti per una sua deliberata disobbedienza civile, tranne quando andò a Kabul da commissaria europea",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/12/arresti-emma-bonino/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Al Qaida, prima e dopo l&#8217;11 settembre",
+      "summary": "Nel 2001 il gruppo terroristico che organizzò l'attentato alle Torri Gemelle voleva cacciare gli Stati Uniti dal Medio Oriente: oggi ha tutt…",
+      "fullSummary": "Nel 2001 il gruppo terroristico che organizzò l'attentato alle Torri Gemelle voleva cacciare gli Stati Uniti dal Medio Oriente: oggi ha tutta un'altra forma",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/12/al-qaida-prima-e-dopo-l11-settembre/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il ciclista spagnolo Enric Mas ha vinto la Vuelta a España",
+      "summary": "Un po' a sorpresa: all'inizio non era nemmeno considerato tra i favoriti",
+      "fullSummary": "Un po' a sorpresa: all'inizio non era nemmeno considerato tra i favoriti",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/13/il-ciclista-spagnolo-enric-mas-ha-vinto-la-vuelta-a-espana/"
     },
     {
       "cat": "sport",
@@ -88,14 +96,6 @@
       "fullSummary": "Ha battuto in tre set Aryna Sabalenka, a cui ha tolto la prima posizione nella classifica mondiale",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/13/elena-rybakina-ha-vinto-gli-us-open-per-la-prima-volta/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il ciclista spagnolo Enric Mas è ormai quasi certo di vincere la Vuelta, dopo la penultima tappa",
-      "summary": "",
-      "fullSummary": "Il ciclista spagnolo Enric Mas è ormai quasi certo di vincere la Vuelta, dopo la penultima tappa",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/12/enric-mas-vuelta-a-espana-20-tappa/"
     }
   ]
 }
