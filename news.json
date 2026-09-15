@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-15T04:12:23.277Z",
+  "generatedAt": "2026-09-15T11:29:31.090Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "La nuova legge elettorale potrebbe ridurre drasticamente le donne in parlamento",
+      "summary": "Il meccanismo delle preferenze avvantaggia gli uomini da sempre, quello proposto dal governo rischia di farlo in modo clamoroso",
+      "fullSummary": "Il meccanismo delle preferenze avvantaggia gli uomini da sempre, quello proposto dal governo rischia di farlo in modo clamoroso",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/14/legge-elettorale-donne-genere-stabilicum-rappresentanza-femminile/"
+    },
     {
       "cat": "politica",
       "title": "Ripartiamo da dove ci eravamo lasciati",
@@ -26,76 +34,68 @@
       "url": "https://www.ilpost.it/2026/09/11/emma-bonino-presidente-repubblica-campagna-elettorale/"
     },
     {
-      "cat": "politica",
-      "title": "È morto il politico Raffaele Costa, che fu deputato per trent&#8217;anni e più volte ministro",
+      "cat": "mondo",
+      "title": "Un drone che era entrato nello spazio aereo della Lituania è stato abbattuto da jet della NATO",
       "summary": "",
-      "fullSummary": "È morto il politico Raffaele Costa, che fu deputato per trent&#8217;anni e più volte ministro",
+      "fullSummary": "Un drone che era entrato nello spazio aereo della Lituania è stato abbattuto da jet della NATO",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/11/morto-politico-raffaele-costa-deputato-ministro/"
+      "url": "https://www.ilpost.it/2026/09/15/jet-nato-abbattono-drone-lituania/"
     },
     {
       "cat": "mondo",
-      "title": "Trump non è molto preoccupato per l&#8217;intelligenza artificiale",
-      "summary": "Ha già respinto gli appelli dei dirigenti del settore a imporre nuove regole, perché teme la concorrenza della Cina",
-      "fullSummary": "Ha già respinto gli appelli dei dirigenti del settore a imporre nuove regole, perché teme la concorrenza della Cina",
+      "title": "La Corte Suprema ha bloccato l’ultimo tentativo di Trump di limitare il voto per posta",
+      "summary": "È una sconfitta per la sua amministrazione, quando mancano poche settimane alle elezioni di midterm",
+      "fullSummary": "È una sconfitta per la sua amministrazione, quando mancano poche settimane alle elezioni di midterm",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/14/trump-ai-amodei-cina/"
+      "url": "https://www.ilpost.it/2026/09/15/voto-per-posta-stati-uniti-corte-suprema-usps/"
     },
     {
       "cat": "mondo",
-      "title": "Lunedì i leader indipendentisti di Scozia, Galles e Irlanda del Nord si incontrano per discutere dell&#8217;indipendenza dal Regno Unito",
+      "title": "In Inghilterra un uomo ha ammesso di aver drogato e stuprato la moglie per più di vent&#8217;anni",
+      "summary": "Si è dichiarato colpevole anche di aver permesso ad altri uomini di stuprarla e di averne diffuso le immagini",
+      "fullSummary": "Si è dichiarato colpevole anche di aver permesso ad altri uomini di stuprarla e di averne diffuso le immagini",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/14/inghilterra-uomo-drogato-stuprato-moglie-20-anni/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Trump dice che Ucraina e Russia si sono accordate per non colpire le infrastrutture energetiche",
+      "summary": "Zelensky non ha confermato, ma ha solo detto che l'Ucraina è disponibile ad accettare",
+      "fullSummary": "Zelensky non ha confermato, ma ha solo detto che l'Ucraina è disponibile ad accettare",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/14/accordo-russia-ucraina-infrastrutture-energetiche-donald-trump/"
+    },
+    {
+      "cat": "sport",
+      "title": "Una gara di Hyrox ha avuto uno, ehm, spiacevole inconveniente",
+      "summary": "Un’atleta ha completato il circuito nonostante si fosse fatta la cacca addosso e ha vinto, generando qualche polemica",
+      "fullSummary": "Un’atleta ha completato il circuito nonostante si fosse fatta la cacca addosso e ha vinto, generando qualche polemica",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/14/gara-hyrox-incontinenza/"
+    },
+    {
+      "cat": "sport",
+      "title": "La prima grande gara di bodybuilding, con Arthur Conan Doyle",
+      "summary": "A Londra, 125 anni fa: lui faceva il giudice, non il concorrente",
+      "fullSummary": "A Londra, 125 anni fa: lui faceva il giudice, non il concorrente",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/14/prima-gara-bodybuilding-royal-albert-hall-londra/"
+    },
+    {
+      "cat": "sport",
+      "title": "L&#8217;ex allenatrice della Nazionale di ginnastica ritmica Emanuela Maccarani farà parte dello staff della Nazionale russa",
       "summary": "",
-      "fullSummary": "Lunedì i leader indipendentisti di Scozia, Galles e Irlanda del Nord si incontrano per discutere dell&#8217;indipendenza dal Regno Unito",
+      "fullSummary": "Emanuela Maccarani, l’ex allenatrice della Nazionale italiana di ginnastica ritmica, entrerà a far parte dello staff tecnico della Nazionale russa, assumendo il ruolo di capo allenatrice per gli esercizi di gruppo. La notizia è stata resa nota dalla Federazione russa e ha trovato conferma su Facebook tramite Moreno Buccianti, marito della stessa Maccarani.\n\nL'allenatrice ha 59 anni e per quasi un trentennio ha guidato la selezione dell'Italia. Nel corso della sua carriera ha conquistato diversi traguardi prestigiosi, tra cui una medaglia d’argento ai Giochi Olimpici di Atene 2004 e tre medaglie di bronzo alle Olimpiadi di Londra 2012, Tokyo 2020 e Parigi 2024, oltre ad altri importanti risultati sportivi.\n\nLa sua figura è al centro di una vicenda giudiziaria legata a presunti abusi nei confronti di alcune atlete. Verso la fine del 2022, Anna Basta e Nina Corradini, due ex componenti della Nazionale, l'hanno accusata di maltrattamenti e abusi che hanno riferito di aver subìto nel periodo in cui erano adolescenti e frequentavano l’Accademia di Desio, il centro situato a nord di Milano dove si allena la squadra azzurra. Lo sviluppo di diverse indagini ha portato inizialmente alla rimozione di Maccarani dal suo incarico e, successivamente, nel settembre del 2025, al suo rinvio a giudizio.\n\nNel contesto della Nazionale russa di ginnastica ritmica, l’attuale capo allenatrice è Tatiana Sergaeva. Durante la scorsa estate, il Comitato Olimpico Internazionale ha disposto la revoca provvisoria della sospensione precedentemente comminata al Comitato olimpico russo a causa dell’invasione dell’Ucraina. Questo passaggio costituisce un primo sviluppo che potrebbe consentire alle atlete e agli atleti russi di prendere parte alla prossima edizione dei Giochi Olimpici, in programma a Los Angeles nel 2028.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/14/incontro-leader-partiti-indipendentisti-scozia-galles-irlanda-del-nord/"
-    },
-    {
-      "cat": "mondo",
-      "title": "La Russia ha colpito un treno che si trovava molto vicino a una delegazione europea",
-      "summary": "È successo in Ucraina, al confine con la Polonia: a pochi chilometri c'erano tra gli altri Boris Johnson e un ex direttore della CIA",
-      "fullSummary": "È successo in Ucraina, al confine con la Polonia: a pochi chilometri c'erano tra gli altri Boris Johnson e un ex direttore della CIA",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/14/russia-attacco-treno-ucraina-occidentale-confine-polonia/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Alle elezioni in Svezia il centrosinistra è in leggerissimo vantaggio",
-      "summary": "Secondo i risultati parziali otterrebbe tre seggi in più del centrodestra del primo ministro uscente, ma è ancora presto",
-      "fullSummary": "Secondo i risultati parziali otterrebbe tre seggi in più del centrodestra del primo ministro uscente, ma è ancora presto",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/13/elezioni-svezia-2026-risultati/"
+      "url": "https://www.ilpost.it/2026/09/14/emanuela-maccarani-ginnastica-ritmica-russia/"
     },
     {
       "cat": "sport",
-      "title": "Alexander Zverev si è fatto trovare pronto",
-      "summary": "Ha vinto due Slam in stagione, più di Sinner e Alcaraz, approfittando anche dei loro acciacchi",
-      "fullSummary": "Ha vinto due Slam in stagione, più di Sinner e Alcaraz, approfittando anche dei loro acciacchi",
+      "title": "Alti e bassi di Gianmarco Tamberi",
+      "summary": "Ora siamo agli alti: ha saltato la stessa misura con cui cinque anni fa vinse l’oro olimpico",
+      "fullSummary": "Ora siamo agli alti: ha saltato la stessa misura con cui cinque anni fa vinse l’oro olimpico",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/14/zverev-stagione-2026-due-slam/"
-    },
-    {
-      "cat": "sport",
-      "title": "Alexander Zverev ha vinto gli US Open",
-      "summary": "Ha battuto lo statunitense Ben Shelton in quattro set; per lui è il secondo titolo in un torneo del Grande Slam",
-      "fullSummary": "Ha battuto lo statunitense Ben Shelton in quattro set; per lui è il secondo titolo in un torneo del Grande Slam",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/13/alexander-zverev-ha-vinto-gli-us-open/"
-    },
-    {
-      "cat": "sport",
-      "title": "Gli Stati Uniti hanno vinto i Mondiali femminili di basket per la quinta volta consecutiva",
-      "summary": "",
-      "fullSummary": "Gli Stati Uniti hanno vinto i Mondiali femminili di basket per la quinta volta consecutiva",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/13/stati-uniti-hanno-vinto-mondiali-femminili-basket-contro-francia/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il ciclista spagnolo Enric Mas ha vinto la Vuelta a España",
-      "summary": "Un po' a sorpresa: all'inizio non era nemmeno considerato tra i favoriti",
-      "fullSummary": "Un po' a sorpresa: all'inizio non era nemmeno considerato tra i favoriti",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/13/il-ciclista-spagnolo-enric-mas-ha-vinto-la-vuelta-a-espana/"
+      "url": "https://www.ilpost.it/2026/09/14/gianmarco-tamberi-alti-bassi/"
     }
   ]
 }
