@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:29:31.090Z",
+  "generatedAt": "2026-09-15T16:37:58.153Z",
   "items": [
     {
       "cat": "politica",
@@ -67,6 +67,14 @@
     },
     {
       "cat": "sport",
+      "title": "L&#8217;Inter può anche andare in svantaggio di 2 gol",
+      "summary": "Che tanto poi rimonta, e vince: lo aveva fatto contro il Napoli, lo ha rifatto contro l'Udinese",
+      "fullSummary": "Che tanto poi rimonta, e vince: lo aveva fatto contro il Napoli, lo ha rifatto contro l'Udinese",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/15/inter-rimonte-serie-a-gol-attacco-errori-difesa-napoli-udinese/"
+    },
+    {
+      "cat": "sport",
       "title": "Una gara di Hyrox ha avuto uno, ehm, spiacevole inconveniente",
       "summary": "Un’atleta ha completato il circuito nonostante si fosse fatta la cacca addosso e ha vinto, generando qualche polemica",
       "fullSummary": "Un’atleta ha completato il circuito nonostante si fosse fatta la cacca addosso e ha vinto, generando qualche polemica",
@@ -85,17 +93,9 @@
       "cat": "sport",
       "title": "L&#8217;ex allenatrice della Nazionale di ginnastica ritmica Emanuela Maccarani farà parte dello staff della Nazionale russa",
       "summary": "",
-      "fullSummary": "Emanuela Maccarani, l’ex allenatrice della Nazionale italiana di ginnastica ritmica, entrerà a far parte dello staff tecnico della Nazionale russa, assumendo il ruolo di capo allenatrice per gli esercizi di gruppo. La notizia è stata resa nota dalla Federazione russa e ha trovato conferma su Facebook tramite Moreno Buccianti, marito della stessa Maccarani.\n\nL'allenatrice ha 59 anni e per quasi un trentennio ha guidato la selezione dell'Italia. Nel corso della sua carriera ha conquistato diversi traguardi prestigiosi, tra cui una medaglia d’argento ai Giochi Olimpici di Atene 2004 e tre medaglie di bronzo alle Olimpiadi di Londra 2012, Tokyo 2020 e Parigi 2024, oltre ad altri importanti risultati sportivi.\n\nLa sua figura è al centro di una vicenda giudiziaria legata a presunti abusi nei confronti di alcune atlete. Verso la fine del 2022, Anna Basta e Nina Corradini, due ex componenti della Nazionale, l'hanno accusata di maltrattamenti e abusi che hanno riferito di aver subìto nel periodo in cui erano adolescenti e frequentavano l’Accademia di Desio, il centro situato a nord di Milano dove si allena la squadra azzurra. Lo sviluppo di diverse indagini ha portato inizialmente alla rimozione di Maccarani dal suo incarico e, successivamente, nel settembre del 2025, al suo rinvio a giudizio.\n\nNel contesto della Nazionale russa di ginnastica ritmica, l’attuale capo allenatrice è Tatiana Sergaeva. Durante la scorsa estate, il Comitato Olimpico Internazionale ha disposto la revoca provvisoria della sospensione precedentemente comminata al Comitato olimpico russo a causa dell’invasione dell’Ucraina. Questo passaggio costituisce un primo sviluppo che potrebbe consentire alle atlete e agli atleti russi di prendere parte alla prossima edizione dei Giochi Olimpici, in programma a Los Angeles nel 2028.",
+      "fullSummary": "L&#8217;ex allenatrice della Nazionale di ginnastica ritmica Emanuela Maccarani farà parte dello staff della Nazionale russa",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/14/emanuela-maccarani-ginnastica-ritmica-russia/"
-    },
-    {
-      "cat": "sport",
-      "title": "Alti e bassi di Gianmarco Tamberi",
-      "summary": "Ora siamo agli alti: ha saltato la stessa misura con cui cinque anni fa vinse l’oro olimpico",
-      "fullSummary": "Ora siamo agli alti: ha saltato la stessa misura con cui cinque anni fa vinse l’oro olimpico",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/14/gianmarco-tamberi-alti-bassi/"
     }
   ]
 }
