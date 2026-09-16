@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:33:30.953Z",
+  "generatedAt": "2026-09-16T21:06:30.424Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,22 @@
     },
     {
       "cat": "mondo",
+      "title": "Le proteste contro i prezzi dei carburanti si allargano",
+      "summary": "Ci sono manifestazioni e scioperi per gli aumenti dovuti alla guerra in Medio Oriente un po' in tutto il mondo, dall'Europa al sudest asiati…",
+      "fullSummary": "Ci sono manifestazioni e scioperi per gli aumenti dovuti alla guerra in Medio Oriente un po' in tutto il mondo, dall'Europa al sudest asiatico",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/16/proteste-carburanti-mondo/"
+    },
+    {
+      "cat": "mondo",
+      "title": "La Bielorussia ha liberato altri prigionieri politici in cambio della rimozione delle sanzioni statunitensi su due sue aziende",
+      "summary": "",
+      "fullSummary": "La Bielorussia ha liberato altri prigionieri politici in cambio della rimozione delle sanzioni statunitensi su due sue aziende",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/16/prigionieri-bielorussia-scambio-aziende-carta-vernici/"
+    },
+    {
+      "cat": "mondo",
       "title": "Cosa sarebbe un &#8220;membro associato&#8221; dell&#8217;Unione Europea?",
       "summary": "Non si sa ancora bene, ma il Canada potrebbe diventare il primo",
       "fullSummary": "Non si sa ancora bene, ma il Canada potrebbe diventare il primo",
@@ -48,22 +64,6 @@
       "fullSummary": "A Gaza almeno 21 persone sono morte nel crollo di un palazzo, e quasi 100 sono disperse",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/16/gaza-crollo-palazzo-morti-dispersi/"
-    },
-    {
-      "cat": "mondo",
-      "title": "L&#8217;ex presidente del Kosovo Hashim Thaçi è stato condannato a 25 anni per crimini di guerra",
-      "summary": "Un tribunale speciale dell’Aia lo ha ritenuto responsabile di omicidi, torture e detenzioni illegali commessi durante la guerra del Kosovo",
-      "fullSummary": "Un tribunale speciale dell’Aia lo ha ritenuto responsabile di omicidi, torture e detenzioni illegali commessi durante la guerra del Kosovo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/kosovo-thaci-condanna-crimini-guerra/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Von der Leyen ha proposto al Canada di diventare un «membro associato» dell&#8217;Unione Europea",
-      "summary": "È uno status che in realtà non esiste ancora, e che dovrebbe definire una nuova forma di collaborazione",
-      "fullSummary": "È uno status che in realtà non esiste ancora, e che dovrebbe definire una nuova forma di collaborazione",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/von-der-leyen-canada-membro-associato-unione-europea/"
     },
     {
       "cat": "sport",
