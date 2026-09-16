@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:04:34.962Z",
+  "generatedAt": "2026-09-16T04:08:07.568Z",
   "items": [
     {
       "cat": "politica",
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "Ripartiamo da dove ci eravamo lasciati",
       "summary": "Cos'è successo e cosa succederà nella politica italiana in questi mesi? Per raccontarlo è tornata Montecit.",
-      "fullSummary": "Cos'è successo e cosa succederà nella politica italiana in questi mesi? Per raccontarlo è tornata Montecit.",
+      "fullSummary": "Dopo la pausa estiva, il dibattito politico parlamentare riparte dalle tensioni nella maggioranza di centrodestra sul disegno di legge elettorale voluto da Giorgia Meloni, ribattezzato \"Stabilicum\". Nonostante il governo porti avanti il provvedimento, diversi esponenti della stessa coalizione manifestano forte scetticismo e malumore. Perfino la ministra per le Riforme Elisabetta Casellati e vari parlamentari di Forza Italia, Lega e Fratelli d’Italia considerano il testo svantaggioso, paragonando il percorso a un treno in corsa verso il burrone o all'obbligo di bere un amaro calice. Tra le voci più critiche si distingue il leghista Gian Marco Centinaio, apertamente contrario a votare il testo e indifferente alle minacce di elezioni anticipate.\n\nLa situazione è precipitata in Senato a causa della gestione dei tempi da parte del presidente Ignazio La Russa. Nel tentativo di accelerare l'esame, ma frenato dai richiami del segretario generale Federico Toniato su possibili riserve del Quirinale, La Russa si è mostrato accomodante verso le opposizioni. Il capogruppo del Partito Democratico, Francesco Boccia, ha colto l'occasione per depositare un subemendamento che reintroduce le preferenze tradizionali. Secondo interpretazioni condivise anche dal leghista Roberto Calderoli, la mossa di La Russa mirava a inviare un segnale di insofferenza a Meloni affinché rinunci alla riforma a favore del Rosatellum, dopo il fallito tentativo di inserire il ballottaggio sostenuto da Marcello Pera.\n\nL'ammissione della proposta dell'opposizione ha aperto una crisi nervosa nella maggioranza. Mentre leader come Matteo Renzi hanno incalzato Meloni a sostenere le preferenze, Forza Italia, per voce di Stefania Craxi, ha dichiarato la misura del tutto inaccettabile, mentre dai banchi della Lega si registravano numerose assenze. In preda al disorientamento e senza indicazioni tempestive da Palazzo Chigi, il gruppo di Fratelli d’Italia, guidato da Lucio Malan, si è visto costretto a richiedere ripetute sospensioni della seduta.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/11/legge-elettorale-ballottaggio/"
     },
@@ -67,6 +67,14 @@
     },
     {
       "cat": "sport",
+      "title": "L&#8217;Inter può anche andare in svantaggio di 2 gol",
+      "summary": "Che tanto poi rimonta, e vince: lo aveva fatto contro il Napoli, lo ha rifatto contro l'Udinese",
+      "fullSummary": "Che tanto poi rimonta, e vince: lo aveva fatto contro il Napoli, lo ha rifatto contro l'Udinese",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/15/inter-rimonte-serie-a-gol-attacco-errori-difesa-napoli-udinese/"
+    },
+    {
+      "cat": "sport",
       "title": "Una gara di Hyrox ha avuto uno, ehm, spiacevole inconveniente",
       "summary": "Un’atleta ha completato il circuito nonostante si fosse fatta la cacca addosso e ha vinto, generando qualche polemica",
       "fullSummary": "Un’atleta ha completato il circuito nonostante si fosse fatta la cacca addosso e ha vinto, generando qualche polemica",
@@ -88,14 +96,6 @@
       "fullSummary": "L&#8217;ex allenatrice della Nazionale di ginnastica ritmica Emanuela Maccarani farà parte dello staff della Nazionale russa",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/14/emanuela-maccarani-ginnastica-ritmica-russia/"
-    },
-    {
-      "cat": "sport",
-      "title": "Alti e bassi di Gianmarco Tamberi",
-      "summary": "Ora siamo agli alti: ha saltato la stessa misura con cui cinque anni fa vinse l’oro olimpico",
-      "fullSummary": "Ora siamo agli alti: ha saltato la stessa misura con cui cinque anni fa vinse l’oro olimpico",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/14/gianmarco-tamberi-alti-bassi/"
     }
   ]
 }
