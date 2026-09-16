@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:37:34.473Z",
+  "generatedAt": "2026-09-16T16:33:30.953Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,30 @@
     },
     {
       "cat": "mondo",
+      "title": "Cosa sarebbe un &#8220;membro associato&#8221; dell&#8217;Unione Europea?",
+      "summary": "Non si sa ancora bene, ma il Canada potrebbe diventare il primo",
+      "fullSummary": "Non si sa ancora bene, ma il Canada potrebbe diventare il primo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/16/canada-membro-associato-unione-europea/"
+    },
+    {
+      "cat": "mondo",
+      "title": "A Gaza almeno 21 persone sono morte nel crollo di un palazzo, e quasi 100 sono disperse",
+      "summary": "",
+      "fullSummary": "A Gaza almeno 21 persone sono morte nel crollo di un palazzo, e quasi 100 sono disperse",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/16/gaza-crollo-palazzo-morti-dispersi/"
+    },
+    {
+      "cat": "mondo",
+      "title": "L&#8217;ex presidente del Kosovo Hashim Thaçi è stato condannato a 25 anni per crimini di guerra",
+      "summary": "Un tribunale speciale dell’Aia lo ha ritenuto responsabile di omicidi, torture e detenzioni illegali commessi durante la guerra del Kosovo",
+      "fullSummary": "Un tribunale speciale dell’Aia lo ha ritenuto responsabile di omicidi, torture e detenzioni illegali commessi durante la guerra del Kosovo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/16/kosovo-thaci-condanna-crimini-guerra/"
+    },
+    {
+      "cat": "mondo",
       "title": "Von der Leyen ha proposto al Canada di diventare un «membro associato» dell&#8217;Unione Europea",
       "summary": "È uno status che in realtà non esiste ancora, e che dovrebbe definire una nuova forma di collaborazione",
       "fullSummary": "È uno status che in realtà non esiste ancora, e che dovrebbe definire una nuova forma di collaborazione",
@@ -42,28 +66,12 @@
       "url": "https://www.ilpost.it/2026/09/16/von-der-leyen-canada-membro-associato-unione-europea/"
     },
     {
-      "cat": "mondo",
-      "title": "L&#8217;alternativa russa a Starlink non sta procedendo bene",
-      "summary": "Rassvet dovrebbe fornire un nuovo sistema per le comunicazioni al fronte, ma dei 32 satelliti mandati in orbita nessuno è arrivato dove dove…",
-      "fullSummary": "Rassvet dovrebbe fornire un nuovo sistema per le comunicazioni al fronte, ma dei 32 satelliti mandati in orbita nessuno è arrivato dove doveva",
+      "cat": "sport",
+      "title": "«Lotito, libera la Lazio!»",
+      "summary": "Dall'Italia al Giappone, in tutte le lingue del mondo, i tifosi non ne possono più del loro presidente: perché?",
+      "fullSummary": "Dall'Italia al Giappone, in tutte le lingue del mondo, i tifosi non ne possono più del loro presidente: perché?",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/starlink-russo-problemi/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Un elicottero di NBC News si è schiantato a Los Angeles mentre riprendeva la scena di un incidente stradale: sono morte tre persone",
-      "summary": "",
-      "fullSummary": "Un elicottero di NBC News si è schiantato a Los Angeles mentre riprendeva la scena di un incidente stradale: sono morte tre persone",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/elicottero-nbc-los-angeles-morti/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Singapore paga i cittadini che leggono un libro per almeno 15 minuti al giorno",
-      "summary": "Una nuova iniziativa prevede ricompense simboliche per limitare il tempo passato a scrollare i social network",
-      "fullSummary": "Una nuova iniziativa prevede ricompense simboliche per limitare il tempo passato a scrollare i social network",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/singapore-iniziativa-lettura-doomscrolling/"
+      "url": "https://www.ilpost.it/2026/09/16/lotito-lazio-storia-problemi-libera-la-lazio-meme-indagini/"
     },
     {
       "cat": "sport",
@@ -88,14 +96,6 @@
       "fullSummary": "Il Bologna ha cambiato allenatore, sostituendo Domenico Tedesco con Raffaele Palladino",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/16/bologna-esonero-tedesco-palladino-ufficiale/"
-    },
-    {
-      "cat": "sport",
-      "title": "L&#8217;indagine sulle pressioni su Claudio Lotito per vendere la Lazio si è allargata",
-      "summary": "La procura ipotizza che ci fosse un piano, portato avanti da persone influenti, per diffondere notizie false sulla società",
-      "fullSummary": "La procura ipotizza che ci fosse un piano, portato avanti da persone influenti, per diffondere notizie false sulla società",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/15/indagine-pressioni-lotito-vendere-lazio-masi-bisignani-maiolini/"
     }
   ]
 }
