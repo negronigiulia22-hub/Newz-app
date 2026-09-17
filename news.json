@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-17T04:15:49.815Z",
+  "generatedAt": "2026-09-17T11:21:39.522Z",
   "items": [
     {
       "cat": "politica",
       "title": "Le preferenze volute da Giorgia Meloni sono davvero preferenze?",
       "summary": "La risposta breve è: insomma; per quella lunga bisogna guardare le vecchie leggi elettorali e perché furono cambiate",
-      "fullSummary": "La nuova legge elettorale, approvata dal Senato e ora all'esame decisivo della Camera, introduce una formula attenuata di preferenze: se approvata in via definitiva, nel 2027 gli elettori torneranno a esprimerle direttamente per le politiche dopo trentaquattro anni.\n\nDurante la Prima Repubblica si votò con un sistema proporzionale puro e preferenze scritte, che favorivano un legame assiduo tra parlamentari ed elettori del territorio tramite parrocchie, fabbriche e associazioni locali. Al contempo, tale meccanismo alimentò fenomeni di clientelismo, campagne elettorali dai costi esorbitanti e condizionamenti da parte delle correnti, specialmente alla Camera dove vigeva la preferenza multipla. Travolti dalle inchieste di «Mani Pulite» e dai referendum del 1991 e del 1993 — che cancellarono la preferenza multipla e resero maggioritaria la legge per il Senato —, il proporzionale e le preferenze vennero identificati come simboli del malaffare e abbandonati.\n\nNei decenni successivi si susseguirono diverse normative: il Mattarellum nel 1993, il Porcellum nel 2005 (bocciato dalla Corte costituzionale nel 2013 per l'assenza di conoscibilità dei candidati nei listini bloccati) e l'Italicum (dichiarato illegittimo nel 2017). Nonostante i tentativi della Consulta e l'ipotesi di preferenze miste, queste non furono mai ripristinate a causa dei timori dell'opinione pubblica e delle resistenze dei partiti, restando assenti anche nel successivo Rosatellum.\n\nL'attuale riforma promossa da Giorgia Meloni, denominata Stabilicum, supera il Rosatellum riprendendo l'impostazione dell'Italicum: la scheda presenta un capolista bloccato e sei candidati (tre uomini e tre donne), con caselle barrabili per esprimere fino a tre preferenze per generi diversi. Si tratta comunque di una reintroduzione parziale e dall'effetto attenuato: solo Fratelli d’Italia, Partito Democratico e marginalmente il Movimento 5 Stelle riusciranno a far scattare eletti con le preferenze, mentre per le formazioni che si attestano sotto il 10-12 per cento sarà quasi impossibile eleggere candidati oltre ai capilista.",
+      "fullSummary": "La risposta breve è: insomma; per quella lunga bisogna guardare le vecchie leggi elettorali e perché furono cambiate",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/15/legge-elettorale-stabilicum-senato-preferenze/"
     },
@@ -35,22 +35,6 @@
     },
     {
       "cat": "mondo",
-      "title": "Le proteste contro i prezzi dei carburanti si allargano",
-      "summary": "Ci sono manifestazioni e scioperi per gli aumenti dovuti alla guerra in Medio Oriente un po' in tutto il mondo, dall'Europa al sudest asiati…",
-      "fullSummary": "Ci sono manifestazioni e scioperi per gli aumenti dovuti alla guerra in Medio Oriente un po' in tutto il mondo, dall'Europa al sudest asiatico",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/proteste-carburanti-mondo/"
-    },
-    {
-      "cat": "mondo",
-      "title": "La Bielorussia ha liberato altri prigionieri politici in cambio della rimozione delle sanzioni statunitensi su due sue aziende",
-      "summary": "",
-      "fullSummary": "La Bielorussia ha liberato altri prigionieri politici in cambio della rimozione delle sanzioni statunitensi su due sue aziende",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/prigionieri-bielorussia-scambio-aziende-carta-vernici/"
-    },
-    {
-      "cat": "mondo",
       "title": "Cosa sarebbe un &#8220;membro associato&#8221; dell&#8217;Unione Europea?",
       "summary": "Non si sa ancora bene, ma il Canada potrebbe diventare il primo",
       "fullSummary": "Non si sa ancora bene, ma il Canada potrebbe diventare il primo",
@@ -64,6 +48,22 @@
       "fullSummary": "A Gaza almeno 21 persone sono morte nel crollo di un palazzo, e quasi 100 sono disperse",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/16/gaza-crollo-palazzo-morti-dispersi/"
+    },
+    {
+      "cat": "mondo",
+      "title": "L&#8217;ex presidente del Kosovo Hashim Thaçi è stato condannato a 25 anni per crimini di guerra",
+      "summary": "Un tribunale speciale dell’Aia lo ha ritenuto responsabile di omicidi, torture e detenzioni illegali commessi durante la guerra del Kosovo",
+      "fullSummary": "Un tribunale speciale dell’Aia lo ha ritenuto responsabile di omicidi, torture e detenzioni illegali commessi durante la guerra del Kosovo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/16/kosovo-thaci-condanna-crimini-guerra/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Von der Leyen ha proposto al Canada di diventare un «membro associato» dell&#8217;Unione Europea",
+      "summary": "È uno status che in realtà non esiste ancora, e che dovrebbe definire una nuova forma di collaborazione",
+      "fullSummary": "È uno status che in realtà non esiste ancora, e che dovrebbe definire una nuova forma di collaborazione",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/16/von-der-leyen-canada-membro-associato-unione-europea/"
     },
     {
       "cat": "sport",
