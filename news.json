@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-17T11:21:39.522Z",
+  "generatedAt": "2026-09-17T16:37:19.220Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Perché tutta la politica è appesa a delle banali elezioni a Reggio Calabria",
+      "summary": "I partiti sono convinti che saranno decisive per capire il reale peso di Roberto Vannacci, e come può condizionare il centrodestra",
+      "fullSummary": "I partiti sono convinti che saranno decisive per capire il reale peso di Roberto Vannacci, e come può condizionare il centrodestra",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/17/elezioni-suppletive-reggio-calabria-giannetta-vannacci-futuro-nazionale/"
+    },
+    {
+      "cat": "politica",
+      "title": "Cosa pensava l’anno scorso Giorgia Meloni dell’esenzione dal bollo auto",
+      "summary": "La descriveva come una misura demagogica e degna di Cetto La Qualunque, prendendo in giro chi la proponeva",
+      "fullSummary": "La descriveva come una misura demagogica e degna di Cetto La Qualunque, prendendo in giro chi la proponeva",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/16/cosa-pensava-meloni-del-bollo-auto/"
+    },
     {
       "cat": "politica",
       "title": "Le preferenze volute da Giorgia Meloni sono davvero preferenze?",
@@ -18,84 +34,68 @@
       "url": "https://www.ilpost.it/2026/09/15/senato-approvazione-legge-elettorale/"
     },
     {
-      "cat": "politica",
-      "title": "Le foto dei funerali di Emma Bonino",
-      "summary": "Per la storica leader del Partito Radicale si è svolta una cerimonia laica in Campidoglio a Roma, con politici di tutti gli schieramenti",
-      "fullSummary": "Per la storica leader del Partito Radicale si è svolta una cerimonia laica in Campidoglio a Roma, con politici di tutti gli schieramenti",
+      "cat": "mondo",
+      "title": "Alla fine in Svezia ha vinto di poco il centrosinistra",
+      "summary": "La leader dei Socialdemocratici dovrà mettere d’accordo quattro partiti per diventare prima ministra, e non sarà semplice",
+      "fullSummary": "La leader dei Socialdemocratici dovrà mettere d’accordo quattro partiti per diventare prima ministra, e non sarà semplice",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/15/funerali-emma-bonino-roma/"
-    },
-    {
-      "cat": "politica",
-      "title": "Salvini rincorre Vannacci anche sulla Russia",
-      "summary": "Ha incontrato gli imprenditori italiani che lavorano nel paese, e poi ha parlato con due media russi con toni assai concilianti",
-      "fullSummary": "Ha incontrato gli imprenditori italiani che lavorano nel paese, e poi ha parlato con due media russi con toni assai concilianti",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/15/matteo-salvini-incontro-imprenditori-italiani-russia/"
+      "url": "https://www.ilpost.it/2026/09/17/centrosinistra-vinto-elezioni-svezia/"
     },
     {
       "cat": "mondo",
-      "title": "Cosa sarebbe un &#8220;membro associato&#8221; dell&#8217;Unione Europea?",
-      "summary": "Non si sa ancora bene, ma il Canada potrebbe diventare il primo",
-      "fullSummary": "Non si sa ancora bene, ma il Canada potrebbe diventare il primo",
+      "title": "La Commissione europea vuole vietare i social ai minori di 13 anni",
+      "summary": "E ha proposto di fissare a 15 anni l'età minima per aprire un account in autonomia",
+      "fullSummary": "E ha proposto di fissare a 15 anni l'età minima per aprire un account in autonomia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/canada-membro-associato-unione-europea/"
+      "url": "https://www.ilpost.it/2026/09/17/commissione-europea-uso-social-network-minorenni/"
     },
     {
       "cat": "mondo",
-      "title": "A Gaza almeno 21 persone sono morte nel crollo di un palazzo, e quasi 100 sono disperse",
+      "title": "Le cose si mettono male per l&#8217;Arabia Saudita",
+      "summary": "È attaccata da Iran e Houthi, riesce a vendere poco petrolio e gli Stati Uniti non la aiutano",
+      "fullSummary": "È attaccata da Iran e Houthi, riesce a vendere poco petrolio e gli Stati Uniti non la aiutano",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/17/problemi-arabia-saudita-crisi-guerra/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Bolivia e Paraguay hanno definito i loro confini dopo 88 anni",
+      "summary": "C'è voluto un lunghissimo processo di negoziati, dopo la fine della guerra tra i due paesi nel 1938",
+      "fullSummary": "C'è voluto un lunghissimo processo di negoziati, dopo la fine della guerra tra i due paesi nel 1938",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/17/bolivia-paraguay-completato-demarcazione-confine-comune/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il Barcellona sta segnando tantissimi gol",
+      "summary": "Già 33 in sole 7 partite, tanti anche per i suoi altissimi standard: e senza un vero centravanti",
+      "fullSummary": "Già 33 in sole 7 partite, tanti anche per i suoi altissimi standard: e senza un vero centravanti",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/17/barcellona-gol-flick-yamal-raphinha/"
+    },
+    {
+      "cat": "sport",
+      "title": "L’uomo che fa fallire le squadre di calcio",
+      "summary": "O comunque le lascia molto, molto peggio di come le trova: auguratevi che Gerard López non compri quella per cui tifate",
+      "fullSummary": "O comunque le lascia molto, molto peggio di come le trova: auguratevi che Gerard López non compri quella per cui tifate",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/17/gerard-lopez-bordeaux/"
+    },
+    {
+      "cat": "sport",
+      "title": "La Formula 1 aveva bisogno di un&#8217;altra gara a Monaco?",
+      "summary": "Dal 2027 si correrà anche lì una sprint, una mini-gara in genere poco apprezzata e che non sembra per niente adatta a quel circuito",
+      "fullSummary": "Dal 2027 si correrà anche lì una sprint, una mini-gara in genere poco apprezzata e che non sembra per niente adatta a quel circuito",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/17/sprint-monaco-formula-1-critiche-perplessita-soldi-qualifiche/"
+    },
+    {
+      "cat": "sport",
+      "title": "Le WTA Finals di tennis si giocheranno a Charlotte, in North Carolina, dal 2027 al 2029",
       "summary": "",
-      "fullSummary": "A Gaza almeno 21 persone sono morte nel crollo di un palazzo, e quasi 100 sono disperse",
+      "fullSummary": "Le WTA Finals di tennis si giocheranno a Charlotte, in North Carolina, dal 2027 al 2029",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/gaza-crollo-palazzo-morti-dispersi/"
-    },
-    {
-      "cat": "mondo",
-      "title": "L&#8217;ex presidente del Kosovo Hashim Thaçi è stato condannato a 25 anni per crimini di guerra",
-      "summary": "Un tribunale speciale dell’Aia lo ha ritenuto responsabile di omicidi, torture e detenzioni illegali commessi durante la guerra del Kosovo",
-      "fullSummary": "Un tribunale speciale dell’Aia lo ha ritenuto responsabile di omicidi, torture e detenzioni illegali commessi durante la guerra del Kosovo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/kosovo-thaci-condanna-crimini-guerra/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Von der Leyen ha proposto al Canada di diventare un «membro associato» dell&#8217;Unione Europea",
-      "summary": "È uno status che in realtà non esiste ancora, e che dovrebbe definire una nuova forma di collaborazione",
-      "fullSummary": "È uno status che in realtà non esiste ancora, e che dovrebbe definire una nuova forma di collaborazione",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/von-der-leyen-canada-membro-associato-unione-europea/"
-    },
-    {
-      "cat": "sport",
-      "title": "«Lotito, libera la Lazio!»",
-      "summary": "Dall'Italia al Giappone, in tutte le lingue del mondo, i tifosi non ne possono più del loro presidente: perché?",
-      "fullSummary": "Dall'Italia al Giappone, in tutte le lingue del mondo, i tifosi non ne possono più del loro presidente: perché?",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/lotito-lazio-storia-problemi-libera-la-lazio-meme-indagini/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il calendario della Formula 1 per il 2027",
-      "summary": "Con 24 Gran Premi e 10 sprint race, una delle quali a Monaco",
-      "fullSummary": "Con 24 Gran Premi e 10 sprint race, una delle quali a Monaco",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/formula-1-calendario-gran-premi-2027/"
-    },
-    {
-      "cat": "sport",
-      "title": "Cosa ci fa LeBron James a una gara di barche elettriche in Angola",
-      "summary": "È tra i proprietari di una delle squadre dell'E1, il campionato che prova a proporsi come un'alternativa alla Formula 1: però elettrica e ac…",
-      "fullSummary": "È tra i proprietari di una delle squadre dell'E1, il campionato che prova a proporsi come un'alternativa alla Formula 1: però elettrica e acquatica",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/motonautica-e1-formula-1-del-mare/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il Bologna ha cambiato allenatore, sostituendo Domenico Tedesco con Raffaele Palladino",
-      "summary": "",
-      "fullSummary": "Il Bologna ha cambiato allenatore, sostituendo Domenico Tedesco con Raffaele Palladino",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/bologna-esonero-tedesco-palladino-ufficiale/"
+      "url": "https://www.ilpost.it/2026/09/16/tennis-wta-finals-2026-charlotte-north-carolina/"
     }
   ]
 }
