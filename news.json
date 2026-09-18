@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-18T10:59:11.830Z",
+  "generatedAt": "2026-09-18T16:44:30.309Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Alessandro Di Battista è stato dimesso dall&#8217;ospedale e ha detto di stare meglio",
+      "summary": "",
+      "fullSummary": "Alessandro Di Battista è stato dimesso dall&#8217;ospedale e ha detto di stare meglio",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/alessandro-di-battista-ospedale-casa/"
+    },
+    {
+      "cat": "politica",
+      "title": "Meloni è andata pure in Norvegia a cercare il gas",
+      "summary": "Proseguono le visite ufficiali con motivi soprattutto energetici, dopo quelle in Algeria e nei paesi del Golfo Persico",
+      "fullSummary": "Proseguono le visite ufficiali con motivi soprattutto energetici, dopo quelle in Algeria e nei paesi del Golfo Persico",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/visita-norvegia-meloni-gas-crisi-energetica/"
+    },
+    {
+      "cat": "politica",
+      "title": "Dove verranno presi i soldi per la sospensione del bollo",
+      "summary": "Il governo dice dai risparmi del PNRR, ma c'è qualche incognita e basteranno solo per il 2027: poi non si sa",
+      "fullSummary": "Il governo dice dai risparmi del PNRR, ma c'è qualche incognita e basteranno solo per il 2027: poi non si sa",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/17/bollo-auto-moto-sospensione-coperture-pnrr/"
+    },
     {
       "cat": "politica",
       "title": "Perché tutta la politica è appesa a delle banali elezioni a Reggio Calabria",
@@ -10,92 +34,164 @@
       "url": "https://www.ilpost.it/2026/09/17/elezioni-suppletive-reggio-calabria-giannetta-vannacci-futuro-nazionale/"
     },
     {
-      "cat": "politica",
-      "title": "Cosa pensava l’anno scorso Giorgia Meloni dell’esenzione dal bollo auto",
-      "summary": "La descriveva come una misura demagogica e degna di Cetto La Qualunque, prendendo in giro chi la proponeva",
-      "fullSummary": "La descriveva come una misura demagogica e degna di Cetto La Qualunque, prendendo in giro chi la proponeva",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/cosa-pensava-meloni-del-bollo-auto/"
-    },
-    {
-      "cat": "politica",
-      "title": "Le preferenze volute da Giorgia Meloni sono davvero preferenze?",
-      "summary": "La risposta breve è: insomma; per quella lunga bisogna guardare le vecchie leggi elettorali e perché furono cambiate",
-      "fullSummary": "La risposta breve è: insomma; per quella lunga bisogna guardare le vecchie leggi elettorali e perché furono cambiate",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/15/legge-elettorale-stabilicum-senato-preferenze/"
-    },
-    {
-      "cat": "politica",
-      "title": "Il Senato ha approvato la nuova legge elettorale: ora manca il voto definitivo della Camera",
+      "cat": "mondo",
+      "title": "In Pakistan almeno 21 persone sono state uccise in un attacco contro la moschea di una stazione di polizia",
       "summary": "",
-      "fullSummary": "Il Senato ha approvato la nuova legge elettorale: ora manca il voto definitivo della Camera",
+      "fullSummary": "In Pakistan almeno 21 persone sono state uccise in un attacco contro la moschea di una stazione di polizia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/15/senato-approvazione-legge-elettorale/"
+      "url": "https://www.ilpost.it/2026/09/18/pakistan-attentato-morti-moschea/"
     },
     {
       "cat": "mondo",
-      "title": "Alla fine in Svezia ha vinto di poco il centrosinistra",
-      "summary": "La leader dei Socialdemocratici dovrà mettere d’accordo quattro partiti per diventare prima ministra, e non sarà semplice",
-      "fullSummary": "La leader dei Socialdemocratici dovrà mettere d’accordo quattro partiti per diventare prima ministra, e non sarà semplice",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/centrosinistra-vinto-elezioni-svezia/"
-    },
-    {
-      "cat": "mondo",
-      "title": "La Commissione europea vuole vietare i social ai minori di 13 anni",
-      "summary": "E ha proposto di fissare a 15 anni l'età minima per aprire un account in autonomia",
-      "fullSummary": "E ha proposto di fissare a 15 anni l'età minima per aprire un account in autonomia",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/commissione-europea-uso-social-network-minorenni/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Le cose si mettono male per l&#8217;Arabia Saudita",
-      "summary": "È attaccata da Iran e Houthi, riesce a vendere poco petrolio e gli Stati Uniti non la aiutano",
-      "fullSummary": "È attaccata da Iran e Houthi, riesce a vendere poco petrolio e gli Stati Uniti non la aiutano",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/problemi-arabia-saudita-crisi-guerra/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Bolivia e Paraguay hanno definito i loro confini dopo 88 anni",
-      "summary": "C'è voluto un lunghissimo processo di negoziati, dopo la fine della guerra tra i due paesi nel 1938",
-      "fullSummary": "C'è voluto un lunghissimo processo di negoziati, dopo la fine della guerra tra i due paesi nel 1938",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/bolivia-paraguay-completato-demarcazione-confine-comune/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il Barcellona sta segnando tantissimi gol",
-      "summary": "Già 33 in sole 7 partite, tanti anche per i suoi altissimi standard: e senza un vero centravanti",
-      "fullSummary": "Già 33 in sole 7 partite, tanti anche per i suoi altissimi standard: e senza un vero centravanti",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/barcellona-gol-flick-yamal-raphinha/"
-    },
-    {
-      "cat": "sport",
-      "title": "L’uomo che fa fallire le squadre di calcio",
-      "summary": "O comunque le lascia molto, molto peggio di come le trova: auguratevi che Gerard López non compri quella per cui tifate",
-      "fullSummary": "O comunque le lascia molto, molto peggio di come le trova: auguratevi che Gerard López non compri quella per cui tifate",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/gerard-lopez-bordeaux/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Formula 1 aveva bisogno di un&#8217;altra gara a Monaco?",
-      "summary": "Dal 2027 si correrà anche lì una sprint, una mini-gara in genere poco apprezzata e che non sembra per niente adatta a quel circuito",
-      "fullSummary": "Dal 2027 si correrà anche lì una sprint, una mini-gara in genere poco apprezzata e che non sembra per niente adatta a quel circuito",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/sprint-monaco-formula-1-critiche-perplessita-soldi-qualifiche/"
-    },
-    {
-      "cat": "sport",
-      "title": "Le WTA Finals di tennis si giocheranno a Charlotte, in North Carolina, dal 2027 al 2029",
+      "title": "Nelle Filippine un ragazzo ha ucciso a colpi d&#8217;arma da fuoco due studenti della sua scuola: è il terzo caso in pochi mesi",
       "summary": "",
-      "fullSummary": "Le WTA Finals di tennis si giocheranno a Charlotte, in North Carolina, dal 2027 al 2029",
+      "fullSummary": "Nelle Filippine un ragazzo ha ucciso a colpi d&#8217;arma da fuoco due studenti della sua scuola: è il terzo caso in pochi mesi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/16/tennis-wta-finals-2026-charlotte-north-carolina/"
+      "url": "https://www.ilpost.it/2026/09/18/filippine-attacco-scuola/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Venezuela sono tornati disponibili alcuni siti di informazione che erano stati censurati dal governo di Maduro",
+      "summary": "",
+      "fullSummary": "In Venezuela sono tornati disponibili alcuni siti di informazione che erano stati censurati dal governo di Maduro",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/venezuela-censura-siti-informazione-maduro/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Le intimidazioni e le minacce contro i registi di NAZA in Israele",
+      "summary": "Gruppi di destra organizzano ronde e chiedono la pena di morte per gli autori del documentario sulle vittime civili nella Striscia di Gaza",
+      "fullSummary": "Gruppi di destra organizzano ronde e chiedono la pena di morte per gli autori del documentario sulle vittime civili nella Striscia di Gaza",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/naza-autori-minacce/"
+    },
+    {
+      "cat": "sport",
+      "title": "La procura di Monza ha chiesto di archiviare l&#8217;indagine su presunti favoritismi arbitrali nella sala VAR di Lissone",
+      "summary": "",
+      "fullSummary": "La procura di Monza ha chiesto di archiviare l&#8217;indagine su presunti favoritismi arbitrali nella sala VAR di Lissone",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/procura-monza-archiviazione-arbitri-sala-var-lissone/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il calciatore Kylian Mbappé ha interrotto la sponsorizzazione con Nike; ne comincerà una con On",
+      "summary": "",
+      "fullSummary": "Il calciatore Kylian Mbappé ha interrotto la sponsorizzazione con Nike; ne comincerà una con On",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/kylian-mbappe-scarpe-calcio-on-nike/"
+    },
+    {
+      "cat": "sport",
+      "title": "Simone Giannelli mio padre",
+      "summary": "Agli Europei maschili di pallavolo tutti dicono di essere parenti del capitano dell'Italia: è un meme, e lui è un po' confuso",
+      "fullSummary": "Agli Europei maschili di pallavolo tutti dicono di essere parenti del capitano dell'Italia: è un meme, e lui è un po' confuso",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/simone-giannelli-mio-padre-significato/"
+    },
+    {
+      "cat": "sport",
+      "title": "Giocare in Serie B ma anche in Europa League",
+      "summary": "Non succede quasi mai, ma i portoghesi del Torreense lo stanno facendo e hanno pure vinto all'esordio europeo",
+      "fullSummary": "Non succede quasi mai, ma i portoghesi del Torreense lo stanno facendo e hanno pure vinto all'esordio europeo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/torreense-serie-b-portoghese-europa-league/"
+    },
+    {
+      "cat": "scienza",
+      "title": "Il cervello si trasforma tra i 50 e i 75 anni",
+      "summary": "Un cambio della guardia nelle cellule immunitarie potrebbe rendere il cervello di età avanzata più vulnerabile all&#039;Alzheimer e ad altre…",
+      "fullSummary": "Un cambio della guardia nelle cellule immunitarie potrebbe rendere il cervello di età avanzata più vulnerabile all&#039;Alzheimer e ad altre demenze.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/tra-i-50-e-i-75-anni-il-cervello-affronta-una-trasformazione-importante-che-potrebbe-c-entrare-con-il-rischio-demenze"
+    },
+    {
+      "cat": "scienza",
+      "title": "Luna: scoperto un nuovo cratere di 222 metri",
+      "summary": "Uno scienziato ha scoperto per caso il pi&amp;ugrave; grande cratere di nuova formazione sulla Luna mai osservato nel Sistema Solare: una vo…",
+      "fullSummary": "Uno scienziato ha scoperto per caso il pi&amp;ugrave; grande cratere di nuova formazione sulla Luna mai osservato nel Sistema Solare: una voragine di 222 metri creata dallo scontro con un asteroide.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/un-impatto-da-record-sulla-luna-scoperto-il-cratere-mcgetchin"
+    },
+    {
+      "cat": "scienza",
+      "title": "Prevenzione gratis a Milano, sotto l&#039;Arco della Pace",
+      "summary": "&lt;p dir=&quot;ltr&quot;&gt;Il 19 e 20 settembre Milano ospita due giorni di screening oncologici e cardiologici gratuiti, incontri di divu…",
+      "fullSummary": "&lt;p dir=&quot;ltr&quot;&gt;Il 19 e 20 settembre Milano ospita due giorni di screening oncologici e cardiologici gratuiti, incontri di divulgazione e lezioni di movimento aperte a chiunque. Serve solo prenotarsi.&lt;/p&gt;",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/prevenzione-gratis-a-milano-sotto-l-arco-della-pace"
+    },
+    {
+      "cat": "scienza",
+      "title": "C’è un &quot;oceano&quot; nascosto a 2.900 km sotto di noi?",
+      "summary": "Un esperimento spinge la materia a condizioni estreme e rivela come due nuovi minerali potrebbero custodire enormi riserve d&#039;acqua vici…",
+      "fullSummary": "Un esperimento spinge la materia a condizioni estreme e rivela come due nuovi minerali potrebbero custodire enormi riserve d&#039;acqua vicino al nucleo della Terra.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/c-e-un-oceano-nascosto-a-2-900-km-sotto-di-noi-scoperta-acqua-intrappolata-nei-minerali-vicino-al-nucleo-della-terra"
+    },
+    {
+      "cat": "storia",
+      "title": "Tutankhamon: caccia alla tomba di Nefertiti",
+      "summary": "Una nuova indagine con georadar riaccende l&#039;ipotesi dell&#039;esistenza di corridoi e camere segrete sigillate dietro la sepoltura di T…",
+      "fullSummary": "Una nuova indagine con georadar riaccende l&#039;ipotesi dell&#039;esistenza di corridoi e camere segrete sigillate dietro la sepoltura di Tutankhamon. A novembre potrebbero entrare in azione i mini-robot.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/tomba-tutankhamon-sepoltura-Nefertiti"
+    },
+    {
+      "cat": "storia",
+      "title": "Trovato un frammento dell&#039;Odissea di 1.700 anni fa",
+      "summary": "Un ricercatore ha scoperto in una biblioteca olandese un frammento di papiro: si tratta di un testo antico del XII canto dell&#039;&lt;em&gt…",
+      "fullSummary": "Un ricercatore ha scoperto in una biblioteca olandese un frammento di papiro: si tratta di un testo antico del XII canto dell&#039;&lt;em&gt;Odissea&lt;/em&gt;. Racconta il momento in cui Zeus scaglia la sua maledizione contro gli uomini di Ulisse.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/trovato-un-frammento-dell-odissea-di-1-700-anni-fa-ecco-che-cosa-c-e-scritto"
+    },
+    {
+      "cat": "storia",
+      "title": "Non tutte le strade portavano a Roma",
+      "summary": "Un monumentale studio basato sull&#039;analisi di quasi 300.000 km di strade romane rivela che lo snodo pi&amp;ugrave; centrale non era Roma…",
+      "fullSummary": "Un monumentale studio basato sull&#039;analisi di quasi 300.000 km di strade romane rivela che lo snodo pi&amp;ugrave; centrale non era Roma, ma Bisanzio.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/non-tutte-le-strade-portavano-a-roma-la-mappa-definitiva-della-rete-viaria-dell-impero"
+    },
+    {
+      "cat": "storia",
+      "title": "La prima pista di orme di un T-rex adulto",
+      "summary": "In North Dakota i segni del passaggio di un T-rex 66 milioni di anni fa ci svelano qualche dettaglio sulla sua andatura. Purtroppo, però, di…",
+      "fullSummary": "In North Dakota i segni del passaggio di un T-rex 66 milioni di anni fa ci svelano qualche dettaglio sulla sua andatura. Purtroppo, però, difficilmente ne sapremo di più.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/abbiamo-scoperto-la-prima-pista-di-orme-di-un-t-rex-adulto"
+    },
+    {
+      "cat": "tech",
+      "title": "Social e minori: si muove l&#039;UE",
+      "summary": "Che cosa contiene la proposta della Commissione Europea su social e minori: oltre i limiti di età, l&#039;intenzione di rendere le piattafor…",
+      "fullSummary": "Che cosa contiene la proposta della Commissione Europea su social e minori: oltre i limiti di età, l&#039;intenzione di rendere le piattaforme più sicure.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/innovazione/eu-kids-act-come-funziona-il-bando-dei-social-agli-under-13-dell-unione-europea"
+    },
+    {
+      "cat": "tech",
+      "title": "Quando conviene passare all’auto elettrica?",
+      "summary": "Sostituire un veicolo a combustione anche nuovo con un&#039;elettrico riduce le emissioni fino al 58%. Ma se hai un’ibrida plug-in o usi poc…",
+      "fullSummary": "Sostituire un veicolo a combustione anche nuovo con un&#039;elettrico riduce le emissioni fino al 58%. Ma se hai un’ibrida plug-in o usi poco l’auto, la questione cambia.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/motori/automobili-qual-e-il-miglior-momento-per-passare-all-elettrico"
+    },
+    {
+      "cat": "tech",
+      "title": "Come capire se stai chattando con un’IA?",
+      "summary": "In molte situazioni, sta diventando sempre pi&amp;ugrave; difficile distinguere una persona in carne e ossa da un algoritmo di Intelligenza …",
+      "fullSummary": "In molte situazioni, sta diventando sempre pi&amp;ugrave; difficile distinguere una persona in carne e ossa da un algoritmo di Intelligenza artificiale. Due esperti ci aiutano a capire quali sono le differenze.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/come-capire-se-stai-chattando-con-un-intelligenza-artificiale"
+    },
+    {
+      "cat": "tech",
+      "title": "In quanti modi l&#039;IA può sfuggirci di mano?",
+      "summary": "Dalle dimissioni di un ricercatore di Anthropic alla minaccia di attacchi hacker autonomi e cyber-pandemie: i rischi di un&#039;AGI (Intelli…",
+      "fullSummary": "Dalle dimissioni di un ricercatore di Anthropic alla minaccia di attacchi hacker autonomi e cyber-pandemie: i rischi di un&#039;AGI (Intelligenza artificiale generale) in grado di minacciare l&#039;umanit&amp;agrave; sono fondati?",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/l-intelligenza-artificiale-puo-sfuggirci-di-mano-i-rischi-reali-e-distopici-della-perdita-di-controllo"
     }
   ]
 }
