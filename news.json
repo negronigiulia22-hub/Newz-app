@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:42:48.556Z",
+  "generatedAt": "2026-09-19T20:20:54.878Z",
   "items": [
     {
       "cat": "politica",
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "Meloni è andata pure in Norvegia a cercare il gas",
       "summary": "Proseguono le visite ufficiali con motivi soprattutto energetici, dopo quelle in Algeria e nei paesi del Golfo Persico",
-      "fullSummary": "La presidente del Consiglio italiana, Giorgia Meloni, si è recata in visita ufficiale in Norvegia per incontrare il primo ministro Jonas Gahr Støre. L'obiettivo principale del vertice, che segna il ritorno di un capo di governo italiano nel Paese dopo quasi quindici anni, è stato consolidare le forniture di gas naturale. Questo viaggio segue le missioni compiute in primavera in Algeria e nel Golfo Persico, rese necessarie per compensare i minori afflussi energetici causati dalla guerra in Medio Oriente.\n\nLa Norvegia è il primo fornitore dell'Unione Europea, a cui assicura quasi un terzo delle importazioni complessive e oltre la metà del gas trasportato via gasdotto. Per l'Italia costituisce il quarto fornitore, attraverso il gas naturale liquefatto e il gasdotto Transitgas. I legami energetici tra le due nazioni sono rafforzati da collaborazioni aziendali: Eni opera con la norvegese Vår Energi nell'Artico, mentre Saipem ha avviato una fusione con Subsea 7. Alla visita hanno preso parte anche rappresentanti di Leonardo e Fincantieri.\n\nIl gas naturale è indispensabile per l'Italia, che lo impiega nel riscaldamento invernale, nelle attività industriali e soprattutto per generare elettricità. Poiché importa quasi tutta la materia prima necessaria, l'Italia è la nazione europea più esposta al rischio di carenze dovute ai conflitti. Recentemente, la chiusura dello stretto di Hormuz a opera di Stati Uniti e Iran ha provocato un calo di circa il 10 per cento delle importazioni italiane, legato all'interruzione produttiva del Qatar dopo gli attacchi al complesso di Ras Laffan.\n\nL'urgenza di rimpiazzare le quote qatariote si colloca in un contesto già impegnativo. Dal 2022, a seguito dell'invasione dell'Ucraina, l'Europa ha dovuto cercare fonti alternative alla Russia. L'Italia, la cui dipendenza da Mosca è passata dal 40 per cento a meno del 3 per cento nel 2025, ha interrotto del tutto le importazioni quest'anno, in vista del divieto comunitario sulle fonti fossili russe fissato per il 2027.",
+      "fullSummary": "Proseguono le visite ufficiali con motivi soprattutto energetici, dopo quelle in Algeria e nei paesi del Golfo Persico",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/18/visita-norvegia-meloni-gas-crisi-energetica/"
     },
@@ -32,14 +32,6 @@
       "fullSummary": "I partiti sono convinti che saranno decisive per capire il reale peso di Roberto Vannacci, e come può condizionare il centrodestra",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/17/elezioni-suppletive-reggio-calabria-giannetta-vannacci-futuro-nazionale/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Trump dice che c&#8217;è un accordo sull&#8217;influenza degli Stati Uniti in Groenlandia",
-      "summary": "Non è ancora stato firmato ma Danimarca e Groenlandia lo hanno confermato, dandone però un'interpretazione molto diversa",
-      "fullSummary": "Il presidente statunitense Donald Trump ha annunciato il raggiungimento di un accordo con la Danimarca e la Groenlandia riguardante l’influenza che gli Stati Uniti potranno esercitare sull'isola artica, territorio autonomo del regno danese. Sebbene l'intesa debba ancora essere formalizzata, i governi di Danimarca e Groenlandia ne hanno confermato l'esistenza, prevedendone la firma durante la prossima Assemblea Generale delle Nazioni Unite, in programma dal 22 al 28 settembre. Successivamente, il testo dovrà essere approvato dai parlamenti danese e groenlandese.\n\nI dettagli precisi non sono ancora noti e le parti ne danno letture divergenti. Sul proprio social Truth, Trump ha affermato che l'intesa garantirà a Washington un controllo permanente sulla sicurezza e su tutte le necessità dell'isola, impedendo a nazioni avversarie di stabilire basi o investimenti strategici senza approvazione scritta ed esplicita americana, oltre ad annunciare un incremento immediato della presenza militare e progetti di sviluppo. Al contrario, la prima ministra danese Mette Frederiksen ha dichiarato che il patto riconosce la sovranità e l'integrità del regno, insieme al diritto all'autodeterminazione dei groenlandesi, mentre il premier Jens-Frederik Nielsen ha ribadito la tutela degli interessi locali.\n\nL'interesse di Trump, che in passato aveva minacciato un'invasione provocando una crisi diplomatica con molti paesi europei, è legato sia alla sicurezza nazionale – per contrastare l'influenza di Russia e Cina – sia alle riserve di metalli rari, essenziali per i microchip. Fino ad ora, Danimarca e Groenlandia si erano opposte all'idea di concedere un diritto di veto agli Stati Uniti sugli investimenti.\n\nSenza il testo ufficiale, resta difficile capire come l'accordo differisca da quello del 1951. Tale patto, legato all'appartenenza alla NATO, consentiva già alle forze statunitensi di costruire basi e muoversi liberamente con il consenso locale e danese, anche se nel tempo la presenza militare americana si è ridotta alla sola base di Pituffik.",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/19/trump-groenlandia-accordo-annuncio-danimarca/"
     },
     {
       "cat": "mondo",
@@ -64,6 +56,14 @@
       "fullSummary": "E tutto perché chiede di esentare una persona ben precisa, tra le migliaia coinvolte",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/18/francia-sanzioni-usmanov-putin-guerra-ucraina/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Pakistan almeno 21 persone sono state uccise in un attacco contro la moschea di una stazione di polizia",
+      "summary": "",
+      "fullSummary": "In Pakistan almeno 21 persone sono state uccise in un attacco contro la moschea di una stazione di polizia",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/18/pakistan-attentato-morti-moschea/"
     },
     {
       "cat": "sport",
