@@ -1,69 +1,93 @@
 {
-  "generatedAt": "2026-09-20T20:35:53.211Z",
+  "generatedAt": "2026-09-20T23:07:36.233Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Mario Calabresi: «Sì, voglio provare a impegnarmi»",
+      "summary": "Intervistato da Francesco Costa per Talk, ha risposto così sulla possibilità di una sua candidatura a sindaco di Milano",
+      "fullSummary": "Intervistato da Francesco Costa per Talk, ha risposto così sulla possibilità di una sua candidatura a sindaco di Milano",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/20/calabresi-talk-candidatura-sindaco-milano-elezioni/"
+    },
+    {
+      "cat": "politica",
+      "title": "Meloni dice che il governo limiterà il numero di studenti stranieri nelle classi per legge",
+      "summary": "In teoria in Italia esiste già qualcosa del genere, ma i motivi dell'annuncio sono più che altro politici",
+      "fullSummary": "In teoria in Italia esiste già qualcosa del genere, ma i motivi dell'annuncio sono più che altro politici",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/20/meloni-limite-stranieri-scuola-classi-hijab-velo-divieto/"
+    },
+    {
+      "cat": "politica",
+      "title": "Ora per il sindaco di Milano il centrodestra ha due candidati, e mezzo",
+      "summary": "Dopo Matteo Perego di Forza Italia si è fatta avanti formalmente Silvia Sardone della Lega, e poi c'è quello che vorrebbe Ignazio La Russa",
+      "fullSummary": "Dopo Matteo Perego di Forza Italia si è fatta avanti formalmente Silvia Sardone della Lega, e poi c'è quello che vorrebbe Ignazio La Russa",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/20/centrodestra-candidati-sindaco-milano-silvia-sardone-lega-matteo-perego-maurizio-lupi/"
+    },
     {
       "cat": "politica",
       "title": "Tra il governo e il petrolio c’è la Basilicata",
       "summary": "Regione e politici locali sono preoccupati dall'ultimo decreto che prevede di raddoppiare le estrazioni nei giacimenti lucani",
-      "fullSummary": "Regione e politici locali sono preoccupati dall'ultimo decreto che prevede di raddoppiare le estrazioni nei giacimenti lucani",
+      "fullSummary": "Il governo ha recentemente approvato un decreto volto ad aumentare la produzione nazionale di petrolio, una misura che ha scatenato forti tensioni politiche in Basilicata, territorio da cui proviene il 70 per cento del greggio italiano. Il provvedimento stabilisce che, se una regione non esprime il proprio parere sui progetti estrattivi entro 45 giorni, prorogabili di ulteriori 60, l'esecutivo centrale potrà nominare un commissario per decidere al suo posto, superando i veti imposti finora attraverso la mancata risposta.\n\nLa presidente del Consiglio Giorgia Meloni ha difeso il decreto spiegando che produrre energia in Italia riduce la dipendenza estera, abbassa i costi per famiglie e imprese e genera entrate e occupazione. Tuttavia, le opposizioni di centrosinistra, i sindacati come la CGIL e le associazioni ambientaliste come il WWF le hanno contestato l'incoerenza rispetto al 2016, quando sostenne il referendum contro le trivellazioni, denunciando il rischio di commissariamento del territorio e danni ambientali.\n\nLa decisione ha spiazzato anche il centrodestra locale. Il presidente regionale Vito Bardi, di Forza Italia, insieme al ministro dell'Ambiente Gilberto Pichetto Fratin, ha cercato di rassicurare la popolazione affermando che i limiti alle estrazioni rimarranno invariati e che i controlli saranno rafforzati, nonostante esponenti dell'esecutivo abbiano prospettato di raddoppiare o triplicare le attività.\n\nSul piano economico, in Basilicata è storicamente radicato il malcontento per i ridotti benefici lasciati da compagnie come Eni, TotalEnergies e Shell. Sebbene dal 1996 a oggi siano stati incassati circa 2,45 miliardi di euro di royalties – pari al 10 per cento del valore estratto –, i cittadini lamentano scarsi ritorni concreti e prezzi della benzina più alti della media. Come rilevato dalla Corte dei conti, tali risorse sono state impiegate per coprire buchi di bilancio e spesa corrente invece che per lo sviluppo, lasciando la regione tra le più povere d'Italia e con un'elevata emigrazione giovanile.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/19/aumento-estrazioni-petrolio-basilicata/"
     },
     {
-      "cat": "politica",
-      "title": "Alessandro Di Battista è stato dimesso dall&#8217;ospedale e ha detto di stare meglio",
+      "cat": "mondo",
+      "title": "Nove femminicidi molto simili in due mesi, in Sudafrica",
+      "summary": "La polizia sta indagando per capire se siano collegati, e intanto ci sono state veglie e manifestazioni in molte città",
+      "fullSummary": "La polizia sta indagando per capire se siano collegati, e intanto ci sono state veglie e manifestazioni in molte città",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/20/sudafrica-femminicidi/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Merz ha definito «un disastro» le elezioni in Meclemburgo per la CDU",
+      "summary": "Che ora rischia di restare fuori dal parlamento regionale: il cancelliere tedesco ha però escluso di dimettersi",
+      "fullSummary": "Che ora rischia di restare fuori dal parlamento regionale: il cancelliere tedesco ha però escluso di dimettersi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/20/risultati-elezioni-meclemburgo-pomerania-berlino/"
+    },
+    {
+      "cat": "mondo",
+      "title": "All&#8217;Aia, nei Paesi Bassi, la polizia ha represso una manifestazione violenta di estremisti di destra",
       "summary": "",
-      "fullSummary": "Alessandro Di Battista è stato dimesso dall&#8217;ospedale e ha detto di stare meglio",
+      "fullSummary": "All&#8217;Aia, nei Paesi Bassi, la polizia ha represso una manifestazione violenta di estremisti di destra",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/18/alessandro-di-battista-ospedale-casa/"
-    },
-    {
-      "cat": "politica",
-      "title": "Meloni è andata pure in Norvegia a cercare il gas",
-      "summary": "Proseguono le visite ufficiali con motivi soprattutto energetici, dopo quelle in Algeria e nei paesi del Golfo Persico",
-      "fullSummary": "Proseguono le visite ufficiali con motivi soprattutto energetici, dopo quelle in Algeria e nei paesi del Golfo Persico",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/18/visita-norvegia-meloni-gas-crisi-energetica/"
-    },
-    {
-      "cat": "politica",
-      "title": "Dove verranno presi i soldi per la sospensione del bollo",
-      "summary": "Il governo dice dai risparmi del PNRR, ma c'è qualche incognita e basteranno solo per il 2027: poi non si sa",
-      "fullSummary": "Il governo dice dai risparmi del PNRR, ma c'è qualche incognita e basteranno solo per il 2027: poi non si sa",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/bollo-auto-moto-sospensione-coperture-pnrr/"
+      "url": "https://www.ilpost.it/2026/09/20/polizia-nederlandese-dispersione-manifestazione-contro-immigrazione/"
     },
     {
       "cat": "mondo",
-      "title": "Gli Houthi hanno attaccato Riyad",
-      "summary": "Ma non è ancora chiara l'entità dei danni alla capitale dell'Arabia Saudita, che ha detto di aver intercettato un missile balistico",
-      "fullSummary": "Ma non è ancora chiara l'entità dei danni alla capitale dell'Arabia Saudita, che ha detto di aver intercettato un missile balistico",
+      "title": "Come il regime di Putin manipola le elezioni",
+      "summary": "Elimina gli oppositori, fa pressione sugli elettori e cambia un po' come vuole i risultati: i seggi per il rinnovo del parlamento chiudono d…",
+      "fullSummary": "Elimina gli oppositori, fa pressione sugli elettori e cambia un po' come vuole i risultati: i seggi per il rinnovo del parlamento chiudono domenica",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/19/arabia-saudita-riyad-aeroporto/"
+      "url": "https://www.ilpost.it/2026/09/20/metodi-brogli-elezioni-russia/"
     },
     {
-      "cat": "mondo",
-      "title": "I giornalisti banditi dalla Casa Bianca",
-      "summary": "Cioè i corrispondenti di CNN, Politico e MS NOW: venerdì Trump aveva annunciato che non li avrebbe più fatti entrare",
-      "fullSummary": "Cioè i corrispondenti di CNN, Politico e MS NOW: venerdì Trump aveva annunciato che non li avrebbe più fatti entrare",
+      "cat": "sport",
+      "title": "L&#8217;Italia ha vinto 3-0 contro la Danimarca agli ottavi di finale degli Europei maschili di pallavolo",
+      "summary": "",
+      "fullSummary": "L&#8217;Italia ha vinto 3-0 contro la Danimarca agli ottavi di finale degli Europei maschili di pallavolo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/19/giornalisti-banditi-casa-bianca-cnn-politico-ms-now/"
+      "url": "https://www.ilpost.it/2026/09/20/europei-pallavolo-italia-vince-contro-danimarca-ottavi-quarti/"
     },
     {
-      "cat": "mondo",
-      "title": "Perché Putin ha bisogno di queste elezioni",
-      "summary": "Non sono libere e lui sa già che stravincerà il suo partito, Russia Unita: e allora a che serve organizzarle?",
-      "fullSummary": "Non sono libere e lui sa già che stravincerà il suo partito, Russia Unita: e allora a che serve organizzarle?",
+      "cat": "sport",
+      "title": "In MotoGP Jorge Martín è arrivato secondo nel Gran Premio d&#8217;Austria ed è tornato primo in classifica da solo",
+      "summary": "",
+      "fullSummary": "In MotoGP Jorge Martín è arrivato secondo nel Gran Premio d&#8217;Austria ed è tornato primo in classifica da solo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/19/putin-elezioni-ragioni-strategia/"
+      "url": "https://www.ilpost.it/2026/09/20/motogp-austria-martin-acosta-2026/"
     },
     {
-      "cat": "mondo",
-      "title": "In Spagna si protesta contro il turismo di massa mangiando in strada",
-      "summary": "Succede a Maiorca, Valencia, Madrid, con l'obiettivo di ricordare alle amministrazioni che ci sono anche i residenti",
-      "fullSummary": "Succede a Maiorca, Valencia, Madrid, con l'obiettivo di ricordare alle amministrazioni che ci sono anche i residenti",
+      "cat": "sport",
+      "title": "La Nazionale italiana di basket in carrozzina ha vinto la sua prima medaglia di sempre ai Mondiali, d&#8217;argento",
+      "summary": "",
+      "fullSummary": "La Nazionale italiana di basket in carrozzina ha vinto la sua prima medaglia di sempre ai Mondiali, d&#8217;argento",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/19/spagna-turismo-di-massa-proteste/"
+      "url": "https://www.ilpost.it/2026/09/20/la-nazionale-italiana-di-basket-in-carrozzina-ha-vinto-la-sua-prima-medaglia-di-sempre-ai-mondiali-dargento/"
     },
     {
       "cat": "sport",
@@ -72,30 +96,6 @@
       "fullSummary": "E le sue stanze più e meno note, a cui il Post ha avuto accesso in occasione dei cento anni dello stadio",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/19/stadio-san-siro-100-anni-mille-chiavi-curiosita-posti-sconosciuti-spogliatoi/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il derby più sentito a Londra",
-      "summary": "Millwall-West Ham ha una storia lunghissima e violentissima, negli ultimi anni pure un po' romanzata",
-      "fullSummary": "Millwall-West Ham ha una storia lunghissima e violentissima, negli ultimi anni pure un po' romanzata",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/19/west-ham-millwall-derby-storia-championship/"
-    },
-    {
-      "cat": "sport",
-      "title": "È morto Sandro Mazzola",
-      "summary": "È stato uno dei calciatori italiani più forti di sempre e tra i più rappresentativi della storia dell'Inter, dove giocò per tutta la carrier…",
-      "fullSummary": "È stato uno dei calciatori italiani più forti di sempre e tra i più rappresentativi della storia dell'Inter, dove giocò per tutta la carriera",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/19/morto-sandro-mazzola/"
-    },
-    {
-      "cat": "sport",
-      "title": "Le nuove, prime convocazioni in Nazionale di Roberto Mancini",
-      "summary": "È tornato ad allenare l'Italia tre anni dopo l'ultima volta, e ci saranno diversi esordienti",
-      "fullSummary": "È tornato ad allenare l'Italia tre anni dopo l'ultima volta, e ci saranno diversi esordienti",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/18/convocati-italia-roberto-mancini-nazionale-nations-league/"
     },
     {
       "cat": "scienza",
