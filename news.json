@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-21T04:13:23.647Z",
+  "generatedAt": "2026-09-21T12:31:20.640Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Mario Calabresi: «Sì, voglio provare a impegnarmi»",
+      "summary": "Intervistato da Francesco Costa per Talk, ha risposto così sulla possibilità di una sua candidatura a sindaco di Milano",
+      "fullSummary": "Intervistato da Francesco Costa per Talk, ha risposto così sulla possibilità di una sua candidatura a sindaco di Milano",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/20/calabresi-talk-candidatura-sindaco-milano-elezioni/"
+    },
+    {
+      "cat": "politica",
+      "title": "Meloni dice che il governo limiterà il numero di studenti stranieri nelle classi per legge",
+      "summary": "In teoria in Italia esiste già qualcosa del genere, ma i motivi dell'annuncio sono più che altro politici",
+      "fullSummary": "In teoria in Italia esiste già qualcosa del genere, ma i motivi dell'annuncio sono più che altro politici",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/20/meloni-limite-stranieri-scuola-classi-hijab-velo-divieto/"
+    },
+    {
+      "cat": "politica",
+      "title": "Ora per il sindaco di Milano il centrodestra ha due candidati, e mezzo",
+      "summary": "Dopo Matteo Perego di Forza Italia si è fatta avanti formalmente Silvia Sardone della Lega, e poi c'è quello che vorrebbe Ignazio La Russa",
+      "fullSummary": "Dopo Matteo Perego di Forza Italia si è fatta avanti formalmente Silvia Sardone della Lega, e poi c'è quello che vorrebbe Ignazio La Russa",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/20/centrodestra-candidati-sindaco-milano-silvia-sardone-lega-matteo-perego-maurizio-lupi/"
+    },
     {
       "cat": "politica",
       "title": "Tra il governo e il petrolio c’è la Basilicata",
@@ -8,30 +32,6 @@
       "fullSummary": "Regione e politici locali sono preoccupati dall'ultimo decreto che prevede di raddoppiare le estrazioni nei giacimenti lucani",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/19/aumento-estrazioni-petrolio-basilicata/"
-    },
-    {
-      "cat": "politica",
-      "title": "Alessandro Di Battista è stato dimesso dall&#8217;ospedale e ha detto di stare meglio",
-      "summary": "",
-      "fullSummary": "Alessandro Di Battista è stato dimesso dall&#8217;ospedale e ha detto di stare meglio",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/18/alessandro-di-battista-ospedale-casa/"
-    },
-    {
-      "cat": "politica",
-      "title": "Meloni è andata pure in Norvegia a cercare il gas",
-      "summary": "Proseguono le visite ufficiali con motivi soprattutto energetici, dopo quelle in Algeria e nei paesi del Golfo Persico",
-      "fullSummary": "Proseguono le visite ufficiali con motivi soprattutto energetici, dopo quelle in Algeria e nei paesi del Golfo Persico",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/18/visita-norvegia-meloni-gas-crisi-energetica/"
-    },
-    {
-      "cat": "politica",
-      "title": "Dove verranno presi i soldi per la sospensione del bollo",
-      "summary": "Il governo dice dai risparmi del PNRR, ma c'è qualche incognita e basteranno solo per il 2027: poi non si sa",
-      "fullSummary": "Il governo dice dai risparmi del PNRR, ma c'è qualche incognita e basteranno solo per il 2027: poi non si sa",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/17/bollo-auto-moto-sospensione-coperture-pnrr/"
     },
     {
       "cat": "mondo",
@@ -85,7 +85,7 @@
       "cat": "sport",
       "title": "La Nazionale italiana di basket in carrozzina ha vinto la sua prima medaglia di sempre ai Mondiali, d&#8217;argento",
       "summary": "",
-      "fullSummary": "Nella serata italiana di sabato, la Nazionale italiana di basket in carrozzina ha raggiunto un traguardo storico conquistando la medaglia d’argento ai Campionati Mondiali disputati a Ottawa, in Canada. Per la selezione azzurra si tratta della prima medaglia in assoluto nella storia della competizione, migliorando nettamente il precedente record che consisteva in un quarto posto ottenuto nel torneo del 2010.\n\nLa formazione, guidata dal commissario tecnico Fabio Castellucci, è stata sconfitta nella sfida finale dall’Australia con il punteggio di 81 a 57. Gli avversari australiani, forti di una solida tradizione sportiva che vanta due ori paralimpici (vinti nel 1996 e nel 2008) e due ori mondiali (conseguiti nel 2010 e nel 2014), hanno condotto la gara rimanendo in vantaggio per l'intero incontro. Nonostante la sconfitta conclusiva, l'Italia ha ampiamente superato le aspettative disputando un torneo di altissimo livello; tra i risultati più significativi figurano la vittoria contro i campioni uscenti degli Stati Uniti durante la fase a gironi e il successo in rimonta ai danni della Gran Bretagna in semifinale. Nella formazione azzurra hanno brillato in particolare le prove del capitano Filippo Carossino, che ha segnato 16 punti, e di Giulio Maria Papi, autore di 13 punti.\n\nIl basket in carrozzina è presente nel programma dei Giochi paralimpici fin dalla prima edizione del 1960. La disciplina si disputa seguendo le medesime norme della pallacanestro tradizionale, pur con precise eccezioni: non esiste l’infrazione di doppio palleggio, ma dopo aver effettuato due spinte sulle ruote l'atleta è tenuto a palleggiare. Inoltre, i giocatori e le giocatrici vengono classificati in funzione del proprio livello di disabilità attraverso un punteggio da 1 a 4,5, in cui i numeri più bassi indicano limitazioni più severe. Per preservare l’equilibrio tra atleti con abilità differenti, la somma dei coefficienti dei cestisti contemporaneamente sul terreno di gioco non può superare i 14 punti complessivi per squadra.",
+      "fullSummary": "La Nazionale italiana di basket in carrozzina ha vinto la sua prima medaglia di sempre ai Mondiali, d&#8217;argento",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/20/la-nazionale-italiana-di-basket-in-carrozzina-ha-vinto-la-sua-prima-medaglia-di-sempre-ai-mondiali-dargento/"
     },
@@ -93,9 +93,17 @@
       "cat": "sport",
       "title": "Le mille chiavi di San Siro",
       "summary": "E le sue stanze più e meno note, a cui il Post ha avuto accesso in occasione dei cento anni dello stadio",
-      "fullSummary": "Lo stadio San Siro di Milano, intitolato ufficialmente a Giuseppe Meazza, è una struttura monumentale la cui complessità gestionale è simboleggiata dalle circa mille chiavi custodite nella portineria dell'ingresso 6, detta “l’acquario”. Inaugurato nel 1926 come impianto del solo Milan con una capienza di 32mila posti, oggi appartiene sia al club rossonero sia all'Inter. La struttura attuale conta oltre 75mila posti distribuiti su tre anelli e misura 295 metri di lunghezza, 203 di larghezza e quasi 70 d'altezza.\n\nAnche nei giorni privi di eventi, l'impianto accoglie centinaia di visitatori e lavoratori tra museo, pub a bordo campo e addetti alla manutenzione. Sei giardinieri curano quotidianamente il manto erboso, mantenendolo a un'altezza massima di 22 millimetri. Al piano terra si trovano magazzini con carrelli e quadri elettrici, oltre alle stanze riservate a Polizia, Carabinieri e Guardia di Finanza. Durante le gare, i dipendenti del Milan lavorano negli uffici situati sotto la Curva Nord nerazzurra e quelli dell'Inter sotto la Curva Sud rossonera, limitando così l'esposizione al rumore dei tifosi più calorosi.\n\nLa mattina delle sfide europee, la sala “executive 3” ospita la riunione organizzativa tra dirigenti UEFA, arbitri, club, forze dell'ordine e personale sanitario. Nei giorni di gara lavorano circa 2mila persone e i calciatori giungono nei sotterranei, dove si preparano anche i bambini che li accompagnano in campo. Gli allestimenti dello stadio vengono alternati continuamente a seconda della squadra di casa, talvolta con turni notturni. Dalla pandemia, gli spogliatoi personalizzati di Milan e Inter sono comunicanti: la formazione casalinga li occupa entrambi, costringendo l'avversaria – anche nei derby – a usare quello anonimo destinato agli ospiti. Infine, il tunnel verso il campo è illuminato da LED rossi o blu; il relativo quadro comandi è oggi chiuso a chiave dopo che, nel 2022, Samuel Castillejo ne modificò manualmente il colore.",
+      "fullSummary": "E le sue stanze più e meno note, a cui il Post ha avuto accesso in occasione dei cento anni dello stadio",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/19/stadio-san-siro-100-anni-mille-chiavi-curiosita-posti-sconosciuti-spogliatoi/"
+    },
+    {
+      "cat": "scienza",
+      "title": "L&#039;Alzheimer inizia fuori dal cervello?",
+      "summary": "Cellule immunitarie nei linfonodi sembrerebbero dare il via all&#039;infiammazione nell&#039;Alzheimer: colpirle consentirà di aggirare le d…",
+      "fullSummary": "Cellule immunitarie nei linfonodi sembrerebbero dare il via all&#039;infiammazione nell&#039;Alzheimer: colpirle consentirà di aggirare le difese del cervello.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/alzheimer-i-danni-legati-alla-malattia-potrebbero-iniziare-fuori-dal-cervello"
     },
     {
       "cat": "scienza",
@@ -122,12 +130,12 @@
       "url": "https://www.focus.it/scienza/salute/la-psilocibina-puo-prevenire-un-comune-effetto-collaterale-della-chemioterapia"
     },
     {
-      "cat": "scienza",
-      "title": "Il cervello si trasforma tra i 50 e i 75 anni",
-      "summary": "Un cambio della guardia nelle cellule immunitarie potrebbe rendere il cervello di età avanzata più vulnerabile all&#039;Alzheimer e ad altre…",
-      "fullSummary": "Un cambio della guardia nelle cellule immunitarie potrebbe rendere il cervello di età avanzata più vulnerabile all&#039;Alzheimer e ad altre demenze.",
+      "cat": "storia",
+      "title": "Hijab, burka...: le differenze tra veli musulmani",
+      "summary": "Rispettati, banditi o detestati: scopri la guida essenziale per conoscere le diverse sfumature culturali, geografiche e religiose dei veli i…",
+      "fullSummary": "Rispettati, banditi o detestati: scopri la guida essenziale per conoscere le diverse sfumature culturali, geografiche e religiose dei veli islamici.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/tra-i-50-e-i-75-anni-il-cervello-affronta-una-trasformazione-importante-che-potrebbe-c-entrare-con-il-rischio-demenze"
+      "url": "https://www.focus.it/cultura/storia/hijab-niqab-e-burka-riconoscere-differenze-tra-veli-delle-donne-musulmane"
     },
     {
       "cat": "storia",
@@ -154,18 +162,10 @@
       "url": "https://www.focus.it/cultura/storia/tomba-tutankhamon-sepoltura-Nefertiti"
     },
     {
-      "cat": "storia",
-      "title": "Trovato un frammento dell&#039;Odissea di 1.700 anni fa",
-      "summary": "Un ricercatore ha scoperto in una biblioteca olandese un frammento di papiro: si tratta di un testo antico del XII canto dell&#039;&lt;em&gt…",
-      "fullSummary": "Un ricercatore ha scoperto in una biblioteca olandese un frammento di papiro: si tratta di un testo antico del XII canto dell&#039;&lt;em&gt;Odissea&lt;/em&gt;. Racconta il momento in cui Zeus scaglia la sua maledizione contro gli uomini di Ulisse.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/trovato-un-frammento-dell-odissea-di-1-700-anni-fa-ecco-che-cosa-c-e-scritto"
-    },
-    {
       "cat": "tech",
       "title": "Mappe contro Google Maps",
       "summary": "Nata nel 2012, l&#039;applicazione &quot;Mappe&quot; di Apple si &amp;egrave; evoluta fino a superare la concorrenza su pi&amp;ugrave; aspet…",
-      "fullSummary": "Nata nel 2012, l&#039;applicazione &quot;Mappe&quot; di Apple si &amp;egrave; evoluta fino a superare la concorrenza su pi&amp;ugrave; aspetti: dagli itinerari per il trekking offline alla navigazione tattile su smartwatch, ecco le funzioni chiave in cui ha staccato Google Maps.",
+      "fullSummary": "Dopo un esordio problematico nel 2012, segnato da cartografie incomplete ed errori geografici diventati celebri meme, Apple Maps ha colmato il divario con Google Maps grazie a massicci investimenti. Sebbene Google conservi tuttora un netto vantaggio per quantità di dati, copertura territoriale e luoghi censiti, l’applicazione della casa di Cupertino offre quattro caratteristiche che mettono in risalto la propria evoluzione qualitativa.\n\nLa prima novità interessa gli itinerari offline: mentre Google Maps permette unicamente di salvare sul telefono un'area geografica di forma rettangolare, Apple consente agli escursionisti di pianificare percorsi personalizzati scegliendo punto di partenza, sentieri e destinazione. Il file scaricato include indicazioni passo passo, cartografia, durata stimata, lunghezza, dati topografici e dislivello, garantendo la navigazione in montagna o in zone prive di rete cellulare e Wi-Fi.\n\nLa seconda funzione riguarda le istruzioni vocali di svolta. I navigatori tradizionali indicano solitamente le distanze metriche, mentre Apple Maps usa in modo sistematico riferimenti visivi concreti dell'ambiente circostante, come semafori o cartelli stradali, simulando i consigli di un passeggero ed evitando al conducente continue stime a occhio o distrazioni.\n\nIn terzo luogo, l’integrazione con Apple Watch e il suo sistema di vibrazione Taptic Engine offre una vera e propria grammatica tattile. Sequenze distinte di impulsi al polso segnalano la svolta a destra, a sinistra o l'arrivo, consentendo di camminare in città sconosciute con lo smartphone in tasca e di prestare più attenzione a traffico e pedoni. Google invia notifiche agli orologi, ma è privo di questa codifica tattile differenziata.\n\nInfine, il controllo congiunto di hardware e software consente ad Apple Maps di rimanere visibile senza essere invasiva. Durante l'uso di altre app, la svolta e la distanza compaiono nella Dynamic Island, mentre il percorso resta consultabile direttamente sulla schermata di blocco senza dover sbloccare l'iPhone.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/mappe-contro-google-maps-quattro-funzioni-in-cui-l-app-di-apple-ha-superato-la-storica-avversaria"
     },
