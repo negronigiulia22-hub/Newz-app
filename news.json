@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T21:07:05.249Z",
+  "generatedAt": "2026-09-23T04:07:16.406Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,14 @@
     },
     {
       "cat": "mondo",
+      "title": "L&#8217;Arabia Saudita ha riaperto l&#8217;oleodotto Est-Ovest, con una portata ridotta",
+      "summary": "",
+      "fullSummary": "L&#8217;Arabia Saudita ha riaperto l&#8217;oleodotto Est-Ovest, con una portata ridotta",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/22/oleodotto-arabia-saudita-riapertura/"
+    },
+    {
+      "cat": "mondo",
       "title": "Cosa c&#8217;è nell&#8217;accordo fra Stati Uniti e Danimarca sulla Groenlandia",
       "summary": "È stato firmato martedì, non ha una data di scadenza, prevede due nuove basi militari e libertà di movimento sull'isola per le forze armate …",
       "fullSummary": "È stato firmato martedì, non ha una data di scadenza, prevede due nuove basi militari e libertà di movimento sull'isola per le forze armate statunitensi",
@@ -56,14 +64,6 @@
       "fullSummary": "Si parla con insistenza di una nuova mobilitazione di soldati da mandare in Ucraina e di un aumento di attacchi contro l'Europa, non si sa di che tipo",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/22/russia-elezioni-mobilitazione/"
-    },
-    {
-      "cat": "mondo",
-      "title": "La procura maltese ha fatto ricorso contro l&#8217;assoluzione dell&#8217;uomo accusato di aver commissionato l&#8217;omicidio di Daphne Caruana Galizia",
-      "summary": "",
-      "fullSummary": "La procura maltese ha fatto ricorso contro l&#8217;assoluzione dell&#8217;uomo accusato di aver commissionato l&#8217;omicidio di Daphne Caruana Galizia",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/22/processo-daphne-caruana-galizia-appello/"
     },
     {
       "cat": "sport",
@@ -99,6 +99,14 @@
     },
     {
       "cat": "scienza",
+      "title": "Captato un segnale radio da un esopianeta",
+      "summary": "I ricercatori sono riusciti a isolare il segnale giunto dall&#039;esopianeta Beta Pictoris b: a generare gli impulsi per&amp;ograve; non &am…",
+      "fullSummary": "I ricercatori sono riusciti a isolare il segnale giunto dall&#039;esopianeta Beta Pictoris b: a generare gli impulsi per&amp;ograve; non &amp;egrave; stata una civilt&amp;agrave; extraterrestre, ma le sue spettacolari aurore e un campo magnetico record.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/captato-per-la-prima-volta-un-segnale-radio-da-un-esopianeta-ma-gli-alieni-non-c-entrano"
+    },
+    {
+      "cat": "scienza",
       "title": "Sordi dalla nascita: visione potenziata",
       "summary": "Persone con sordità precoce hanno una visione periferica più efficiente a discapito di quella centrale, forse per individuare possibili peri…",
       "fullSummary": "Persone con sordità precoce hanno una visione periferica più efficiente a discapito di quella centrale, forse per individuare possibili pericoli.",
@@ -120,14 +128,6 @@
       "fullSummary": "Cellule immunitarie nei linfonodi sembrerebbero dare il via all&#039;infiammazione nell&#039;Alzheimer: colpirle consentirà di aggirare le difese del cervello.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/alzheimer-i-danni-legati-alla-malattia-potrebbero-iniziare-fuori-dal-cervello"
-    },
-    {
-      "cat": "scienza",
-      "title": "1 minuto in movimento all&#039;ora rigenera il cervello",
-      "summary": "Fare due rampe di scale o un po&#039; di stretching ogni sessanta minuti migliora la memoria, l&#039;attenzione e l&#039;elasticit&amp;agrav…",
-      "fullSummary": "Fare due rampe di scale o un po&#039; di stretching ogni sessanta minuti migliora la memoria, l&#039;attenzione e l&#039;elasticit&amp;agrave; mentale. Una breve pausa attiva aiuta la concentrazione sia a scuola sia al lavoro.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/basta-un-minuto-all-ora-i-micro-esercizi-che-potenziano-memoria-e-concentrazione"
     },
     {
       "cat": "storia",
