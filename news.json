@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-24T04:01:49.569Z",
+  "generatedAt": "2026-09-24T11:26:47.748Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "In quattro anni il governo non ha fatto quasi nulla per la “fuga dei cervelli”",
+      "summary": "Eppure Meloni ne parla spesso con toni allarmati, indicando peraltro con precisione le cause del problema",
+      "fullSummary": "Eppure Meloni ne parla spesso con toni allarmati, indicando peraltro con precisione le cause del problema",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/24/fuga-dei-cervelli-meloni-giovani-laureati-estero-rientro/"
+    },
+    {
+      "cat": "politica",
+      "title": "Un grosso impiccio per il governo",
+      "summary": "Con il deficit al 3,1% l'Italia resterà sotto procedura europea, e dunque avrà meno margine di spesa nell'ultima legge di bilancio prima del…",
+      "fullSummary": "Con il deficit al 3,1% l'Italia resterà sotto procedura europea, e dunque avrà meno margine di spesa nell'ultima legge di bilancio prima delle elezioni",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/23/revisione-istat-deficit-procedura-deficit-eccessivo-legge-di-bilancio-difesa-energia/"
+    },
     {
       "cat": "politica",
       "title": "Cosa diceva la vecchia circolare di Mattarella sulla scuola",
@@ -18,52 +34,60 @@
       "url": "https://www.ilpost.it/2026/09/22/mappa-scuole-studenti-stranieri-comune/"
     },
     {
-      "cat": "politica",
-      "title": "Il ministro Valditara ha detto che il limite di studenti stranieri riguarderà solo quelli che non sanno l’italiano",
-      "summary": "In un'intervista al Corriere della Sera ha anticipato alcuni dettagli del decreto, ancora da approvare, che sta facendo molto discutere",
-      "fullSummary": "In un'intervista al Corriere della Sera ha anticipato alcuni dettagli del decreto, ancora da approvare, che sta facendo molto discutere",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/22/valditare-limite-studenti-stranieri-conoscenza-italiano/"
-    },
-    {
-      "cat": "politica",
-      "title": "La carta “Dedicata a te”, destinata alle famiglie con un reddito basso, è stata rinnovata per il 2026 e il 2027",
+      "cat": "mondo",
+      "title": "Alle elezioni parlamentari in Marocco il partito PAM ha ottenuto il maggior numero di seggi",
       "summary": "",
-      "fullSummary": "La carta “Dedicata a te”, destinata alle famiglie con un reddito basso, è stata rinnovata per il 2026 e il 2027",
+      "fullSummary": "Alle elezioni parlamentari in Marocco il partito PAM ha ottenuto il maggior numero di seggi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/22/carta-dedicata-a-te-2026-2027/"
+      "url": "https://www.ilpost.it/2026/09/24/marocco-elezioni-parlamentari-risultati-pam/"
     },
     {
       "cat": "mondo",
-      "title": "Cos&#8217;è il “press pool” della Casa Bianca",
-      "summary": "Il gruppo di giornalisti che segue il presidente per conto di tutte le altre testate, di cui fanno parte anche le tv che lo stanno boicottan…",
-      "fullSummary": "Il gruppo di giornalisti che segue il presidente per conto di tutte le altre testate, di cui fanno parte anche le tv che lo stanno boicottando",
+      "title": "Delcy Rodríguez, come se niente fosse",
+      "summary": "All'ONU la presidente venezuelana ha cercato di riabilitare la sua immagine, ma la sua legittimità dipende da Trump",
+      "fullSummary": "All'ONU la presidente venezuelana ha cercato di riabilitare la sua immagine, ma la sua legittimità dipende da Trump",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/23/cosa-e-press-pool-casa-bianca/"
+      "url": "https://www.ilpost.it/2026/09/24/delcy-rodriguez-come-se-niente-fosse/"
     },
     {
       "cat": "mondo",
-      "title": "A Singapore chi ascolta la musica ad alto volume sugli autobus pubblici potrà essere multato",
+      "title": "Negli Stati Uniti un giudice ha ordinato di ripristinare l&#8217;accesso alla Casa Bianca ai giornalisti banditi da Donald Trump",
       "summary": "",
-      "fullSummary": "A Singapore chi ascolta la musica ad alto volume sugli autobus pubblici potrà essere multato",
+      "fullSummary": "Negli Stati Uniti un giudice ha ordinato di ripristinare l&#8217;accesso alla Casa Bianca ai giornalisti banditi da Donald Trump",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/23/singapore-musica-autobus-pubblici/"
+      "url": "https://www.ilpost.it/2026/09/24/giudice-stati-uniti-giornalisti-casa-bianca/"
     },
     {
       "cat": "mondo",
-      "title": "Almeno 11 persone sono state uccise in una sparatoria durante una festa in una casa a Durban, in Sudafrica",
+      "title": "Trump e Xi Jinping non vogliono fare passi falsi",
+      "summary": "Il loro incontro a Washington servirà soprattutto a mantenere un equilibrio molto precario, mentre entrambi sono distratti da altro",
+      "fullSummary": "Il loro incontro a Washington servirà soprattutto a mantenere un equilibrio molto precario, mentre entrambi sono distratti da altro",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/24/trump-xi-incontro-us/"
+    },
+    {
+      "cat": "sport",
+      "title": "I Mondiali di ciclismo su strada del 2032 saranno a Pune, in India",
       "summary": "",
-      "fullSummary": "Almeno 11 persone sono state uccise in una sparatoria durante una festa in una casa a Durban, in Sudafrica",
+      "fullSummary": "I Mondiali di ciclismo su strada del 2032 saranno a Pune, in India",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/23/almeno-11-persone-uccise-sparatoria-durban-sudafrica/"
+      "url": "https://www.ilpost.it/2026/09/24/mondiali-ciclismo-strada-2032-pune-india/"
     },
     {
-      "cat": "mondo",
-      "title": "Alle elezioni in Marocco i giovani restano in disparte",
-      "summary": "Sono le prime dopo le grandi proteste del 2025 e la crisi di Ceuta, ma prevale la disillusione verso una classe politica legata alla monarch…",
-      "fullSummary": "Sono le prime dopo le grandi proteste del 2025 e la crisi di Ceuta, ma prevale la disillusione verso una classe politica legata alla monarchia",
+      "cat": "sport",
+      "title": "Gli sportivi giocheranno peggio per colpa di GTA VI?",
+      "summary": "Steven Adams, che gioca a basket in NBA, ha detto che succederà; e non è una teoria così assurda",
+      "fullSummary": "Steven Adams, che gioca a basket in NBA, ha detto che succederà; e non è una teoria così assurda",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/23/elezioni-marocco-dopo-proteste-giovani/"
+      "url": "https://www.ilpost.it/2026/09/24/steven-adams-sportivi-videogiochi-gta-vi/"
+    },
+    {
+      "cat": "sport",
+      "title": "L&#8217;Italia è fuori dagli Europei maschili di pallavolo",
+      "summary": "Ha perso a sorpresa per 3 set a 2 contro la Finlandia nei quarti di finale",
+      "fullSummary": "Ha perso a sorpresa per 3 set a 2 contro la Finlandia nei quarti di finale",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/23/italia-eliminata-europei-pallavolo-finlandia/"
     },
     {
       "cat": "sport",
@@ -74,28 +98,20 @@
       "url": "https://www.ilpost.it/2026/09/23/pallone-d-oro-2026-mbappe-yamal/"
     },
     {
-      "cat": "sport",
-      "title": "Ai Mondiali femminili di calcio Under 20 l&#8217;Italia ha perso la semifinale contro la Spagna",
-      "summary": "",
-      "fullSummary": "Ai Mondiali femminili di calcio Under 20 l&#8217;Italia ha perso la semifinale contro la Spagna",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/23/italia-spagna-semifinale-mondiali-femminili-calcio-under-20/"
+      "cat": "scienza",
+      "title": "Quando la Terra è diventata abitabile?",
+      "summary": "Individuata la finestra temporale in cui la Terra ha smesso di essere un inferno di meteoriti, creando le prime zone stabili per la chimica …",
+      "fullSummary": "Individuata la finestra temporale in cui la Terra ha smesso di essere un inferno di meteoriti, creando le prime zone stabili per la chimica della vita.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/quando-la-terra-e-diventata-abitabile-la-svolta-4-3-miliardi-di-anni-fa"
     },
     {
-      "cat": "sport",
-      "title": "Il Barcellona ha due stadi e molti debiti, ma niente di serio",
-      "summary": "L'anno prossimo lascerà di nuovo il Camp Nou e ha da poco chiesto un prestito da mezzo miliardo, eppure intanto vince",
-      "fullSummary": "L'anno prossimo lascerà di nuovo il Camp Nou e ha da poco chiesto un prestito da mezzo miliardo, eppure intanto vince",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/23/barcellona-ricostruzione-camp-nou-debiti/"
-    },
-    {
-      "cat": "sport",
-      "title": "C’è anche l’ultranuoto",
-      "summary": "Fatto su distanze estreme, tra onde e a volte squali: lo fanno comprensibilmente in pochi e «ognuno può farsi la sua impresa»",
-      "fullSummary": "Fatto su distanze estreme, tra onde e a volte squali: lo fanno comprensibilmente in pochi e «ognuno può farsi la sua impresa»",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/23/ultranuoto-nuoto-lunghe-distanze-cos-e-record/"
+      "cat": "scienza",
+      "title": "Tumore al polmone: la genetica del rischio",
+      "summary": "Un passo avanti nella conoscenza dei fattori ereditari che facilitano la comparsa del tumore al polmone in chi non ha una storia di abitudin…",
+      "fullSummary": "Un passo avanti nella conoscenza dei fattori ereditari che facilitano la comparsa del tumore al polmone in chi non ha una storia di abitudine al fumo.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/tumore-del-polmone-una-rara-mutazione-genetica-aumenta-il-rischio-in-chi-non-ha-mai-fumato"
     },
     {
       "cat": "scienza",
@@ -114,20 +130,12 @@
       "url": "https://www.focus.it/scienza/spazio/captato-per-la-prima-volta-un-segnale-radio-da-un-esopianeta-ma-gli-alieni-non-c-entrano"
     },
     {
-      "cat": "scienza",
-      "title": "Sordi dalla nascita: visione potenziata",
-      "summary": "Persone con sordità precoce hanno una visione periferica più efficiente a discapito di quella centrale, forse per individuare possibili peri…",
-      "fullSummary": "Persone con sordità precoce hanno una visione periferica più efficiente a discapito di quella centrale, forse per individuare possibili pericoli.",
+      "cat": "storia",
+      "title": "Dov’è la Menorah?",
+      "summary": "Portata a Roma dai legionari o mai uscita dalla Terrasanta? Dalle teorie sul sacco dei Vandali all&#039;ipotesi del nascondiglio segreto a S…",
+      "fullSummary": "Portata a Roma dai legionari o mai uscita dalla Terrasanta? Dalle teorie sul sacco dei Vandali all&#039;ipotesi del nascondiglio segreto a San Pietro: ecco cosa sappiamo sulla fine della Menorah, il sacro candelabro d&#039;oro degli Ebrei.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/la-sordita-permanente-potrebbe-potenziare-la-visione-periferica"
-    },
-    {
-      "cat": "scienza",
-      "title": "I rutti (prevedibili) dei buchi neri",
-      "summary": "Quando divorano una stella, i buchi neri supermassicci emettono potenti getti di materiale in due fasi: saperlo affinerà le loro osservazion…",
-      "fullSummary": "Quando divorano una stella, i buchi neri supermassicci emettono potenti getti di materiale in due fasi: saperlo affinerà le loro osservazioni.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/i-rutti-dei-buchi-neri-supermassicci-sono-piuttosto-prevedibili"
+      "url": "https://www.focus.it/cultura/storia/dov-e-la-menorah-dal-saccheggio-di-gerusalemme-all-enigma-del-vaticano"
     },
     {
       "cat": "storia",
@@ -152,14 +160,6 @@
       "fullSummary": "Rispettati, banditi o detestati: scopri la guida essenziale per conoscere le diverse sfumature culturali, geografiche e religiose dei veli islamici.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/hijab-niqab-e-burka-riconoscere-differenze-tra-veli-delle-donne-musulmane"
-    },
-    {
-      "cat": "storia",
-      "title": "In quali sport i robot battono gli umani?",
-      "summary": "Dalla mezza maratona al basket: i robot non si limitano pi&amp;ugrave; agli scacchi, ma superano gli atleti in carne e ossa sul campo. Ecco …",
-      "fullSummary": "Dalla mezza maratona al basket: i robot non si limitano pi&amp;ugrave; agli scacchi, ma superano gli atleti in carne e ossa sul campo. Ecco dove la tecnologia ha gi&amp;agrave; vinto.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/in-quali-sport-i-robot-sono-riusciti-a-battere-gli-umani"
     },
     {
       "cat": "tech",
