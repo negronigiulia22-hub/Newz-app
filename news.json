@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-24T16:51:41.024Z",
+  "generatedAt": "2026-09-24T21:22:07.285Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Il governo impugnerà anche la legge dell&#8217;Emilia-Romagna sul suicidio assistito",
+      "summary": "",
+      "fullSummary": "Il governo impugnerà anche la legge dell&#8217;Emilia-Romagna sul suicidio assistito",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/24/suicidio-assistito-emilia-romagna-governo-impugna-legge-corte-costituzionale/"
+    },
+    {
+      "cat": "politica",
+      "title": "Cosa c&#8217;è nel decreto del governo sul limite agli studenti stranieri",
+      "summary": "Sarà del 30 per cento per ogni classe, ma ancora non si sa come funzionerà concretamente, e non è l'unica novità",
+      "fullSummary": "Sarà del 30 per cento per ogni classe, ma ancora non si sa come funzionerà concretamente, e non è l'unica novità",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/24/cdm-limite-studenti-stranieri-classi-decreto/"
+    },
     {
       "cat": "politica",
       "title": "In quattro anni il governo non ha fatto quasi nulla per la “fuga dei cervelli”",
@@ -12,64 +28,56 @@
     {
       "cat": "politica",
       "title": "Un grosso impiccio per il governo",
-      "summary": "Con il deficit al 3,1% l'Italia resterà sotto procedura europea, e dunque avrà meno margine di spesa nell'ultima legge di bilancio prima del…",
-      "fullSummary": "Con il deficit al 3,1% l'Italia resterà sotto procedura europea, e dunque avrà meno margine di spesa nell'ultima legge di bilancio prima delle elezioni",
+      "summary": "L'Italia resterà sotto procedura europea, e dunque avrà meno margine di spesa nell'ultima legge di bilancio prima del voto",
+      "fullSummary": "L'Italia resterà sotto procedura europea, e dunque avrà meno margine di spesa nell'ultima legge di bilancio prima del voto",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/23/revisione-istat-deficit-procedura-deficit-eccessivo-legge-di-bilancio-difesa-energia/"
     },
     {
-      "cat": "politica",
-      "title": "Cosa diceva la vecchia circolare di Mattarella sulla scuola",
-      "summary": "Giorgia Meloni l'ha citata per avvalorare la sua proposta di limitare gli studenti stranieri nelle classi",
-      "fullSummary": "Giorgia Meloni l'ha citata per avvalorare la sua proposta di limitare gli studenti stranieri nelle classi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/23/mattarella-meloni-studenti-stranieri/"
-    },
-    {
-      "cat": "politica",
-      "title": "Dove ci sono più studenti stranieri, comune per comune",
-      "summary": "In 138 comuni italiani le scuole sono tutte oltre il limite del 30 per cento che vuole introdurre il governo",
-      "fullSummary": "In 138 comuni italiani le scuole sono tutte oltre il limite del 30 per cento che vuole introdurre il governo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/22/mappa-scuole-studenti-stranieri-comune/"
-    },
-    {
       "cat": "mondo",
-      "title": "Berlino ha ritirato la propria candidatura a ospitare le Olimpiadi estive perché la probabile futura sindaca è contraria al progetto",
+      "title": "Mahmoud Abbas ha detto che ci saranno elezioni legislative nei territori palestinesi, il 28 novembre",
       "summary": "",
-      "fullSummary": "Berlino ha ritirato la propria candidatura a ospitare le Olimpiadi estive perché la probabile futura sindaca è contraria al progetto",
+      "fullSummary": "Mahmoud Abbas ha detto che ci saranno elezioni legislative nei territori palestinesi, il 28 novembre",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/24/berlino-ritiro-candidatura-olimpiadi-estive/"
+      "url": "https://www.ilpost.it/2026/09/24/mahmoud-abbas-elezioni-palestina-novembre/"
     },
     {
       "cat": "mondo",
-      "title": "La Russia è in vantaggio sull&#8217;Ucraina nelle innovazioni militari",
-      "summary": "I nuovi modelli di missili e droni sfruttano le lacune nelle difese ucraine, con effetti devastanti",
-      "fullSummary": "I nuovi modelli di missili e droni sfruttano le lacune nelle difese ucraine, con effetti devastanti",
+      "title": "La storia dell’incontro che ha agitato i partiti francesi sulla Russia",
+      "summary": "L'ha organizzato Macron la settimana scorsa per condividere informazioni su possibili attacchi: tutti sono usciti molto scossi",
+      "fullSummary": "L'ha organizzato Macron la settimana scorsa per condividere informazioni su possibili attacchi: tutti sono usciti molto scossi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/24/russia-ucraina-guerra-tecnologica-armi/"
+      "url": "https://www.ilpost.it/2026/09/24/francia-macron-minaccia-russa/"
     },
     {
       "cat": "mondo",
-      "title": "Non ci sono conferme su possibili attacchi russi contro Italia, Francia e Spagna, dice Crosetto",
-      "summary": "L'aveva scritto il quotidiano spagnolo \"El Mundo\" citando un rapporto della CIA, ed è un timore di cui si parla da settimane",
-      "fullSummary": "L'aveva scritto il quotidiano spagnolo \"El Mundo\" citando un rapporto della CIA, ed è un timore di cui si parla da settimane",
+      "title": "I giornalisti esclusi dalla Casa Bianca sono potuti rientrare",
+      "summary": "Trump aveva deciso di escludere i giornalisti di CNN, MS NOW e Politico, ritenendoli ostili: un giudice lo ha obbligato a riammetterli tempo…",
+      "fullSummary": "Trump aveva deciso di escludere i giornalisti di CNN, MS NOW e Politico, ritenendoli ostili: un giudice lo ha obbligato a riammetterli temporaneamente",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/24/crosetto-russia-italia-droni/"
+      "url": "https://www.ilpost.it/2026/09/24/giudice-stati-uniti-giornalisti-casa-bianca/"
     },
     {
       "cat": "mondo",
-      "title": "Alle elezioni parlamentari in Marocco il partito PAM ha ottenuto il maggior numero di seggi",
+      "title": "Il fratello di Diana contro Carlo, 29 anni dopo",
+      "summary": "Charles Spencer ha scritto un libro in cui accusa il re d’aver reagito con sollievo alla morte dell’ex moglie, e la monarchia gli ha rispost…",
+      "fullSummary": "Charles Spencer ha scritto un libro in cui accusa il re d’aver reagito con sollievo alla morte dell’ex moglie, e la monarchia gli ha risposto",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/24/libro-fratello-diana-spancer/"
+    },
+    {
+      "cat": "sport",
+      "title": "L&#8217;Italia è in semifinale alla Billie Jean King Cup di tennis",
       "summary": "",
-      "fullSummary": "Alle elezioni parlamentari in Marocco il partito PAM ha ottenuto il maggior numero di seggi",
+      "fullSummary": "L&#8217;Italia è in semifinale alla Billie Jean King Cup di tennis",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/24/marocco-elezioni-parlamentari-risultati-pam/"
+      "url": "https://www.ilpost.it/2026/09/24/italia-cina-billie-jean-king-cup/"
     },
     {
       "cat": "sport",
       "title": "Cosa sono queste regate preliminari della Coppa America",
-      "summary": "Un'importante prova per le squadre in gara nella più antica competizione di vela al mondo; ma anche per Napoli, che la ospiterà",
-      "fullSummary": "Un'importante prova per le squadre in gara nella più antica competizione di vela al mondo; ma anche per Napoli, che la ospiterà",
+      "summary": "Un'importante prova per le squadre in gara nella più antica competizione di vela; ma anche per Napoli, che la ospiterà",
+      "fullSummary": "Un'importante prova per le squadre in gara nella più antica competizione di vela; ma anche per Napoli, che la ospiterà",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/24/regate-preliminari-coppa-america-2027-napoli/"
     },
@@ -88,14 +96,6 @@
       "fullSummary": "È il ruolo più famoso, pagato e importante, tanto che un infortunio può cambiare molto le ambizioni di una squadra",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/24/nfl-quarterback-ruolo-cosa-fa-perche-e-importante-sopravvalutato/"
-    },
-    {
-      "cat": "sport",
-      "title": "I Mondiali di ciclismo su strada del 2032 saranno a Pune, in India",
-      "summary": "",
-      "fullSummary": "I Mondiali di ciclismo su strada del 2032 saranno a Pune, in India",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/24/mondiali-ciclismo-strada-2032-pune-india/"
     },
     {
       "cat": "scienza",
