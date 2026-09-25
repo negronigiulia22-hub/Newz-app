@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T04:16:32.612Z",
+  "generatedAt": "2026-09-25T11:34:18.530Z",
   "items": [
     {
       "cat": "politica",
@@ -35,14 +35,6 @@
     },
     {
       "cat": "mondo",
-      "title": "Diversi paesi hanno sospeso i voli delle compagnie aeree iraniane, per effetto delle sanzioni statunitensi",
-      "summary": "",
-      "fullSummary": "Diversi paesi hanno sospeso i voli delle compagnie aeree iraniane, per effetto delle sanzioni statunitensi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/24/diversi-paesi-hanno-sospeso-i-voli-delle-compagnie-aeree-iraniane-per-effetto-delle-sanzioni-statunitensi/"
-    },
-    {
-      "cat": "mondo",
       "title": "Mahmoud Abbas ha detto che ci saranno elezioni legislative nei territori palestinesi, il 28 novembre",
       "summary": "",
       "fullSummary": "Mahmoud Abbas ha detto che ci saranno elezioni legislative nei territori palestinesi, il 28 novembre",
@@ -64,6 +56,14 @@
       "fullSummary": "Trump aveva deciso di escludere i giornalisti di CNN, MS NOW e Politico, ritenendoli ostili: un giudice lo ha obbligato a riammetterli temporaneamente",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/24/giudice-stati-uniti-giornalisti-casa-bianca/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Il fratello di Diana contro Carlo, 29 anni dopo",
+      "summary": "Charles Spencer ha scritto un libro in cui accusa il re d’aver reagito con sollievo alla morte dell’ex moglie, e la monarchia gli ha rispost…",
+      "fullSummary": "Charles Spencer ha scritto un libro in cui accusa il re d’aver reagito con sollievo alla morte dell’ex moglie, e la monarchia gli ha risposto",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/24/libro-fratello-diana-spancer/"
     },
     {
       "cat": "sport",
@@ -99,6 +99,14 @@
     },
     {
       "cat": "scienza",
+      "title": "Il cervello umano? Due organi distinti",
+      "summary": "Nel cervello convivono strutture nervose che provengono da diversi progenitori, evolute in maniera indipendente: la scoperta sarà utile nell…",
+      "fullSummary": "Nel cervello convivono strutture nervose che provengono da diversi progenitori, evolute in maniera indipendente: la scoperta sarà utile nella ricerca.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/il-cervello-umano-e-composto-da-due-organi-distinti"
+    },
+    {
+      "cat": "scienza",
       "title": "Quando la Terra è diventata abitabile?",
       "summary": "Individuata la finestra temporale in cui la Terra ha smesso di essere un inferno di meteoriti, creando le prime zone stabili per la chimica …",
       "fullSummary": "Individuata la finestra temporale in cui la Terra ha smesso di essere un inferno di meteoriti, creando le prime zone stabili per la chimica della vita.",
@@ -120,14 +128,6 @@
       "fullSummary": "Silenziare l&#039;attività genica del virus dell&#039;epatite B sembra impedirgli di riprodursi: l&#039;approccio potrebbe intaccare le forme latenti dell&#039;infezione.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/c-e-una-nuova-speranza-contro-l-epatite-b-si-chiama-editing-epigenetico"
-    },
-    {
-      "cat": "scienza",
-      "title": "Captato un segnale radio da un esopianeta",
-      "summary": "I ricercatori sono riusciti a isolare il segnale giunto dall&#039;esopianeta Beta Pictoris b: a generare gli impulsi per&amp;ograve; non &am…",
-      "fullSummary": "I ricercatori sono riusciti a isolare il segnale giunto dall&#039;esopianeta Beta Pictoris b: a generare gli impulsi per&amp;ograve; non &amp;egrave; stata una civilt&amp;agrave; extraterrestre, ma le sue spettacolari aurore e un campo magnetico record.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/captato-per-la-prima-volta-un-segnale-radio-da-un-esopianeta-ma-gli-alieni-non-c-entrano"
     },
     {
       "cat": "storia",
@@ -163,6 +163,14 @@
     },
     {
       "cat": "tech",
+      "title": "Cosa succede se un robotaxi prende una multa?",
+      "summary": "Tra buchi normativi ed esperimenti internazionali: ecco cosa rischia un&#039;auto a guida autonoma quando commette un&#039;infrazione del co…",
+      "fullSummary": "Tra buchi normativi ed esperimenti internazionali: ecco cosa rischia un&#039;auto a guida autonoma quando commette un&#039;infrazione del codice della strada.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/motori/auto-a-guida-autonoma-cosa-succede-se-un-robotaxi-prende-una-multa"
+    },
+    {
+      "cat": "tech",
       "title": "Una nuova interfaccia neurale",
       "summary": "Un’interfaccia neurale decodifica insieme parole e gesti dal cervello di persone paralizzate, permettendo loro di comunicare tramite un avat…",
       "fullSummary": "Un’interfaccia neurale decodifica insieme parole e gesti dal cervello di persone paralizzate, permettendo loro di comunicare tramite un avatar digitale.",
@@ -184,14 +192,6 @@
       "fullSummary": "Nata nel 2012, l&#039;applicazione &quot;Mappe&quot; di Apple si &amp;egrave; evoluta fino a superare la concorrenza su pi&amp;ugrave; aspetti: dagli itinerari per il trekking offline alla navigazione tattile su smartwatch, ecco le funzioni chiave in cui ha staccato Google Maps.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/mappe-contro-google-maps-quattro-funzioni-in-cui-l-app-di-apple-ha-superato-la-storica-avversaria"
-    },
-    {
-      "cat": "tech",
-      "title": "Social e minori: si muove l&#039;UE",
-      "summary": "Che cosa contiene la proposta della Commissione Europea su social e minori: oltre i limiti di età, l&#039;intenzione di rendere le piattafor…",
-      "fullSummary": "Che cosa contiene la proposta della Commissione Europea su social e minori: oltre i limiti di età, l&#039;intenzione di rendere le piattaforme più sicure.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/innovazione/eu-kids-act-come-funziona-il-bando-dei-social-agli-under-13-dell-unione-europea"
     }
   ]
 }
