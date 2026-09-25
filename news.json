@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:22:07.285Z",
+  "generatedAt": "2026-09-25T04:16:32.612Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,14 @@
     },
     {
       "cat": "mondo",
+      "title": "Diversi paesi hanno sospeso i voli delle compagnie aeree iraniane, per effetto delle sanzioni statunitensi",
+      "summary": "",
+      "fullSummary": "Diversi paesi hanno sospeso i voli delle compagnie aeree iraniane, per effetto delle sanzioni statunitensi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/24/diversi-paesi-hanno-sospeso-i-voli-delle-compagnie-aeree-iraniane-per-effetto-delle-sanzioni-statunitensi/"
+    },
+    {
+      "cat": "mondo",
       "title": "Mahmoud Abbas ha detto che ci saranno elezioni legislative nei territori palestinesi, il 28 novembre",
       "summary": "",
       "fullSummary": "Mahmoud Abbas ha detto che ci saranno elezioni legislative nei territori palestinesi, il 28 novembre",
@@ -56,14 +64,6 @@
       "fullSummary": "Trump aveva deciso di escludere i giornalisti di CNN, MS NOW e Politico, ritenendoli ostili: un giudice lo ha obbligato a riammetterli temporaneamente",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/24/giudice-stati-uniti-giornalisti-casa-bianca/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il fratello di Diana contro Carlo, 29 anni dopo",
-      "summary": "Charles Spencer ha scritto un libro in cui accusa il re d’aver reagito con sollievo alla morte dell’ex moglie, e la monarchia gli ha rispost…",
-      "fullSummary": "Charles Spencer ha scritto un libro in cui accusa il re d’aver reagito con sollievo alla morte dell’ex moglie, e la monarchia gli ha risposto",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/24/libro-fratello-diana-spancer/"
     },
     {
       "cat": "sport",
@@ -131,6 +131,14 @@
     },
     {
       "cat": "storia",
+      "title": "Alessandro Magno studiò qui",
+      "summary": "Dagli scavi nell&#039;antica Mieza, emergono le aule con i sedili in pietra dove il filosofo Aristotele tenne le sue lezioni a un giovanissi…",
+      "fullSummary": "Dagli scavi nell&#039;antica Mieza, emergono le aule con i sedili in pietra dove il filosofo Aristotele tenne le sue lezioni a un giovanissimo Alessandro Magno e ad altri rampolli della nobilt&amp;agrave; macedone, nel IV secolo a.C.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/dove-studio-alessandro-magno-scoperta-la-scuola-dove-2-400-anni-fa-insegnava-aristotele"
+    },
+    {
+      "cat": "storia",
       "title": "Dov’è la Menorah?",
       "summary": "Portata a Roma dai legionari o mai uscita dalla Terrasanta? Dalle teorie sul sacco dei Vandali all&#039;ipotesi del nascondiglio segreto a S…",
       "fullSummary": "Portata a Roma dai legionari o mai uscita dalla Terrasanta? Dalle teorie sul sacco dei Vandali all&#039;ipotesi del nascondiglio segreto a San Pietro: ecco cosa sappiamo sulla fine della Menorah, il sacro candelabro d&#039;oro degli Ebrei.",
@@ -152,14 +160,6 @@
       "fullSummary": "Per 2.000 anni si è creduto che le linee curve del Partenone servissero a correggere delle illusioni ottiche. Un matematico di Oxford ha dimostrato che non è così.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/arte/le-correzioni-ottiche-del-partenone-non-esistono"
-    },
-    {
-      "cat": "storia",
-      "title": "Hijab, burka...: le differenze tra veli musulmani",
-      "summary": "Rispettati, banditi o detestati: scopri la guida essenziale per conoscere le diverse sfumature culturali, geografiche e religiose dei veli i…",
-      "fullSummary": "Rispettati, banditi o detestati: scopri la guida essenziale per conoscere le diverse sfumature culturali, geografiche e religiose dei veli islamici.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/hijab-niqab-e-burka-riconoscere-differenze-tra-veli-delle-donne-musulmane"
     },
     {
       "cat": "tech",
