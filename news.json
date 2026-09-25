@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:34:18.530Z",
+  "generatedAt": "2026-09-25T16:56:41.442Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,14 @@
     },
     {
       "cat": "mondo",
+      "title": "Diversi paesi hanno sospeso i voli delle compagnie aeree iraniane, per effetto delle sanzioni statunitensi",
+      "summary": "",
+      "fullSummary": "Diversi paesi hanno sospeso i voli delle compagnie aeree iraniane, per effetto delle sanzioni statunitensi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/24/diversi-paesi-hanno-sospeso-i-voli-delle-compagnie-aeree-iraniane-per-effetto-delle-sanzioni-statunitensi/"
+    },
+    {
+      "cat": "mondo",
       "title": "Mahmoud Abbas ha detto che ci saranno elezioni legislative nei territori palestinesi, il 28 novembre",
       "summary": "",
       "fullSummary": "Mahmoud Abbas ha detto che ci saranno elezioni legislative nei territori palestinesi, il 28 novembre",
@@ -56,14 +64,6 @@
       "fullSummary": "Trump aveva deciso di escludere i giornalisti di CNN, MS NOW e Politico, ritenendoli ostili: un giudice lo ha obbligato a riammetterli temporaneamente",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/24/giudice-stati-uniti-giornalisti-casa-bianca/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il fratello di Diana contro Carlo, 29 anni dopo",
-      "summary": "Charles Spencer ha scritto un libro in cui accusa il re d’aver reagito con sollievo alla morte dell’ex moglie, e la monarchia gli ha rispost…",
-      "fullSummary": "Charles Spencer ha scritto un libro in cui accusa il re d’aver reagito con sollievo alla morte dell’ex moglie, e la monarchia gli ha risposto",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/24/libro-fratello-diana-spancer/"
     },
     {
       "cat": "sport",
@@ -131,6 +131,14 @@
     },
     {
       "cat": "storia",
+      "title": "Morte della Venere: la diagnosi dell&#039;IA",
+      "summary": "Un&#039;analisi con l&#039;IA dei dipinti di Botticelli rivela che Simonetta Vespucci, la musa del Maestro, mor&amp;igrave; a 23 anni a caus…",
+      "fullSummary": "Un&#039;analisi con l&#039;IA dei dipinti di Botticelli rivela che Simonetta Vespucci, la musa del Maestro, mor&amp;igrave; a 23 anni a causa di un tumore all&#039;ipofisi. Gli indizi? Dettagli clinici nascosti nelle tele.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/arte/lo-strabismo-della-venere-non-era-bellezza-l-ia-svela-la-drammatica-verita-sulla-musa-di-botticelli"
+    },
+    {
+      "cat": "storia",
       "title": "Alessandro Magno studiò qui",
       "summary": "Dagli scavi nell&#039;antica Mieza, emergono le aule con i sedili in pietra dove il filosofo Aristotele tenne le sue lezioni a un giovanissi…",
       "fullSummary": "Dagli scavi nell&#039;antica Mieza, emergono le aule con i sedili in pietra dove il filosofo Aristotele tenne le sue lezioni a un giovanissimo Alessandro Magno e ad altri rampolli della nobilt&amp;agrave; macedone, nel IV secolo a.C.",
@@ -152,14 +160,6 @@
       "fullSummary": "Trovato a Qumran (Cisgiordania) nel 1952, il manoscritto inciso nel rame &quot;3Q15&quot; elenca 64 nascondigli segreti ricchi d&#039;oro e d&#039;argento dell&#039;antica Giudea. Come decifrarlo?",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/il-tesoro-perduto-di-qumran-la-mappa-incisa-nel-rame-che-nessuno-e-mai-riuscito-a-trovare"
-    },
-    {
-      "cat": "storia",
-      "title": "Le correzioni ottiche del Partenone non esistono",
-      "summary": "Per 2.000 anni si è creduto che le linee curve del Partenone servissero a correggere delle illusioni ottiche. Un matematico di Oxford ha dim…",
-      "fullSummary": "Per 2.000 anni si è creduto che le linee curve del Partenone servissero a correggere delle illusioni ottiche. Un matematico di Oxford ha dimostrato che non è così.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/arte/le-correzioni-ottiche-del-partenone-non-esistono"
     },
     {
       "cat": "tech",
