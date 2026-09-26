@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-26T16:07:38.915Z",
+  "generatedAt": "2026-09-26T20:53:50.384Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Tajani dice che ci vorrebbe «molta più rigidità» da parte della magistratura",
+      "summary": "E che per garantire la sicurezza bisognerebbe «colpirne uno per educarne cento»",
+      "fullSummary": "E che per garantire la sicurezza bisognerebbe «colpirne uno per educarne cento»",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/26/tajani-magistratura/"
+    },
     {
       "cat": "politica",
       "title": "Dobbiamo liberarci di miliardi di mascherine inutilizzate",
@@ -26,76 +34,68 @@
       "url": "https://www.ilpost.it/2026/09/25/aeroporto-milano-malpensa-intitolato-silvo-berlusconi/"
     },
     {
-      "cat": "politica",
-      "title": "Tiziana Siciliano, pm delle indagini sull&#8217;urbanistica a Milano, ha ritirato la sua candidatura al consiglio comunale di Milano",
+      "cat": "mondo",
+      "title": "Almeno 12 persone sono state uccise e circa trenta ferite in un attacco suicida in Pakistan",
       "summary": "",
-      "fullSummary": "Tiziana Siciliano, pm delle indagini sull&#8217;urbanistica a Milano, ha ritirato la sua candidatura al consiglio comunale di Milano",
+      "fullSummary": "Almeno 12 persone sono state uccise e circa trenta ferite in un attacco suicida in Pakistan",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/pm-indagini-urbanistica-ritira-candidatura-vicesindaca-milano/"
+      "url": "https://www.ilpost.it/2026/09/26/pakistan-attacco-suicida-dera-ismail-khan/"
     },
     {
       "cat": "mondo",
-      "title": "In India decine di milioni di persone sono sparite dalle liste elettorali",
-      "summary": "A causa di una revisione straordinaria degli elenchi molto criticata: le opposizioni sostengono che c'entri il primo ministro Modi",
-      "fullSummary": "A causa di una revisione straordinaria degli elenchi molto criticata: le opposizioni sostengono che c'entri il primo ministro Modi",
+      "title": "C&#8217;è stata un&#8217;esplosione in una palazzina di un quartiere turistico in centro ad Atene: sei persone sono morte",
+      "summary": "",
+      "fullSummary": "C&#8217;è stata un&#8217;esplosione in una palazzina di un quartiere turistico in centro ad Atene: sei persone sono morte",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/in-india-decine-di-milioni-di-persone-sono-sparite-dalle-liste-elettorali/"
+      "url": "https://www.ilpost.it/2026/09/26/atene-grecia-esplosione-palazzina-morti/"
     },
     {
       "cat": "mondo",
-      "title": "Haiti ha assunto un imprenditore vicino a Trump per ottenere un contatto diretto col presidente",
+      "title": "2,86 milioni di auto Volkswagen e Audi prodotte tra il 2013 e il 2024 saranno richiamate per una vite difettosa",
       "summary": "",
-      "fullSummary": "Haiti ha assunto un imprenditore vicino a Trump per ottenere un contatto diretto col presidente",
+      "fullSummary": "2,86 milioni di auto Volkswagen e Audi prodotte tra il 2013 e il 2024 saranno richiamate per una vite difettosa",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/haiti-ha-assunto-un-imprenditore-vicino-a-trump-per-ottenere-un-contatto-diretto-col-presidente/"
+      "url": "https://www.ilpost.it/2026/09/26/volkswagen-audi-auto-richiamate/"
     },
     {
       "cat": "mondo",
-      "title": "A Madrid lo sfratto di una donna di 87 anni ha riacceso le proteste per la crisi abitativa",
-      "summary": "La proprietà le aveva quadruplicato l’affitto: è un caso esemplare di quello che succede in molte città spagnole",
-      "fullSummary": "Lo sfratto di María del Carmen Abascal, un’anziana di 87 anni con un’invalidità del 50 per cento portata via in barella dalla sua abitazione a Madrid, ha riacceso le proteste e il dibattito sulla crisi abitativa in Spagna. La donna viveva dal 1956 nell'appartamento situato nel quartiere Retiro, ereditando un contratto stipulato in origine dal padre.\n\nLa vicenda è scaturita dal passaggio dell’immobile alla società Urbagestión, che ha aumentato il canone mensile dai circa 450 euro corrisposti in precedenza (a fronte di una pensione di 1.350 euro) fino a 2.650 euro, poi ridotti a 1.650. Non potendo sostenere la spesa, Abascal ha affrontato una controversia legale durata otto anni, conclusasi a marzo con la sentenza del Tribunale supremo favorevole alla proprietà in base alla legge del 1994 che limita il passaggio dei vecchi contratti. A nulla sono servite le mobilitazioni popolari, l'offerta d'acquisto dello Stato tramite l'ente CASA 47 e la proposta di una scrittrice anonima di pagare l'intero affitto per l'anziana.\n\nIl caso ha innescato forti reazioni politiche. Il primo ministro socialista Pedro Sánchez ha definito l'accaduto una «tragedia sociale» accusando il governo locale di centrodestra, mentre la presidente regionale Isabel Díaz Ayuso ha minimizzato l'evento definendolo uno dei 25mila sfratti annuali. Le manifestazioni si sono estese a diverse città spagnole, contestando anche il governo nazionale per non aver contrastato a sufficienza i rincari e la speculazione immobiliare.\n\nL'esecutivo presenterà a breve un progetto di legge volto a rendere più difficili gli sfratti per le persone vulnerabili, prorogare i contratti e regolamentare gli affitti brevi. L'approvazione parlamentare resta tuttavia incerta, a causa della mancanza di una maggioranza stabile e delle posizioni del partito catalano Junts, più vicino ai proprietari, che aveva già bocciato un provvedimento analogo a febbraio.",
+      "title": "Un caos finanziario di cui dobbiamo preoccuparci",
+      "summary": "Gli interessi altissimi sui titoli di Stato statunitensi stanno creando scompiglio nei mercati di mezzo mondo: ovviamente c'entra Trump",
+      "fullSummary": "Gli interessi altissimi sui titoli di Stato statunitensi stanno creando scompiglio nei mercati di mezzo mondo: ovviamente c'entra Trump",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/spagna-sfratto-donna-87-anni/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il nuovo volto dell&#8217;estrema destra britannica",
-      "summary": "Daniel Thomas organizza marce di soli maschi a volto coperto e ha tentato di bucare un gommone di chi soccorre i migranti nella Manica",
-      "fullSummary": "Daniel Thomas organizza marce di soli maschi a volto coperto e ha tentato di bucare un gommone di chi soccorre i migranti nella Manica",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/nuovo-attivista-estrema-destra-britannica-condannato/"
+      "url": "https://www.ilpost.it/2026/09/26/stati-uniti-treasury-debito-pubblico-tassi-di-interesse-donald-trump/"
     },
     {
       "cat": "sport",
-      "title": "Dopo quattro anni la Supercoppa italiana di calcio si giocherà di nuovo in Italia, e non più in Arabia Saudita",
+      "title": "Elisa Longo Borghini ha vinto il bronzo nella prova in linea ai Mondiali di ciclismo",
       "summary": "",
-      "fullSummary": "Dopo quattro anni la Supercoppa italiana di calcio si giocherà di nuovo in Italia, e non più in Arabia Saudita",
+      "fullSummary": "Elisa Longo Borghini ha vinto il bronzo nella prova in linea ai Mondiali di ciclismo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/supercoppa-torna-in-italia/"
+      "url": "https://www.ilpost.it/2026/09/26/elisa-longo-borghini-bronzo-mondiali-ciclismo/"
     },
     {
       "cat": "sport",
-      "title": "Il Manchester City è stato giudicato colpevole di aver violato le norme finanziarie del campionato inglese",
-      "summary": "Per violazioni tra il 2009 e il 2018: le sanzioni non sono ancora state stabilite",
-      "fullSummary": "Per violazioni tra il 2009 e il 2018: le sanzioni non sono ancora state stabilite",
+      "title": "Le contestate partite che l&#8217;Irlanda deve giocare contro Israele",
+      "summary": "Calciatori, allenatori e politici sembravano volerle boicottare, ma alla fine dovrebbero disputarsi, domenica in Ungheria e il 4 ottobre in …",
+      "fullSummary": "Calciatori, allenatori e politici sembravano volerle boicottare, ma alla fine dovrebbero disputarsi, domenica in Ungheria e il 4 ottobre in Serbia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/manchester-city-violazione-norme-premier-league/"
+      "url": "https://www.ilpost.it/2026/09/26/irlanda-israele-proteste-boicottaggio/"
     },
     {
       "cat": "sport",
-      "title": "Perché il Gran Premio d’Azerbaijan di Formula 1 si tiene di sabato",
-      "summary": "Anziché di domenica, come da tradizione: c'entra una guerra di qualche anno fa, ma nel motorsport non è la prima volta che succede",
-      "fullSummary": "Anziché di domenica, come da tradizione: c'entra una guerra di qualche anno fa, ma nel motorsport non è la prima volta che succede",
+      "title": "George Russell ha vinto il Gran Premio di Formula 1 di Baku",
+      "summary": "Restando in testa dall'inizio alla fine; Kimi Antonelli, che partiva sedicesimo, è arrivato quinto",
+      "fullSummary": "Restando in testa dall'inizio alla fine; Kimi Antonelli, che partiva sedicesimo, è arrivato quinto",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/formula-1-baku-perche-si-corre-di-sabato-e-gia-successo/"
+      "url": "https://www.ilpost.it/2026/09/26/gran-premio-baku-vittoria-russell-antonelli-risultato/"
     },
     {
       "cat": "sport",
-      "title": "Jannik Sinner non giocherà l&#8217;ATP 500 di Pechino per lo stesso infortunio al ginocchio che gli ha già fatto saltare altri tornei",
+      "title": "L&#8217;Italia ha perso la semifinale della Billie Jean King Cup di tennis",
       "summary": "",
-      "fullSummary": "Jannik Sinner non giocherà l&#8217;ATP 500 di Pechino per lo stesso infortunio al ginocchio che gli ha già fatto saltare altri tornei",
+      "fullSummary": "L&#8217;Italia ha perso la semifinale della Billie Jean King Cup di tennis",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/sinner-salta-torneo-pechino-ginocchio/"
+      "url": "https://www.ilpost.it/2026/09/26/italia-ucraina-billie-jean-king-cup-eliminata-grant-paolini/"
     },
     {
       "cat": "scienza",
