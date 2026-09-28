@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T04:38:24.569Z",
+  "generatedAt": "2026-09-28T13:25:17.232Z",
   "items": [
     {
       "cat": "politica",
@@ -35,67 +35,83 @@
     },
     {
       "cat": "mondo",
-      "title": "Le proteste contro una marcia degli unionisti protestanti in Irlanda del Nord",
-      "summary": "Dopo 28 anni era stata autorizzata a passare attraverso una strada a forte presenza cattolica e repubblicana, ma centinaia di manifestanti s…",
-      "fullSummary": "Dopo 28 anni era stata autorizzata a passare attraverso una strada a forte presenza cattolica e repubblicana, ma centinaia di manifestanti si sono messi di traverso",
+      "title": "È il giorno della sentenza di primo grado sull’omicidio di Giulio Regeni",
+      "summary": "La pronuncerà la Corte d'Assise di Roma, a più di dieci anni da quando il ricercatore italiano fu sequestrato, torturato e ucciso in Egitto",
+      "fullSummary": "La pronuncerà la Corte d'Assise di Roma, a più di dieci anni da quando il ricercatore italiano fu sequestrato, torturato e ucciso in Egitto",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/parata-protestante-irlanda-portadown/"
+      "url": "https://www.ilpost.it/2026/09/28/sentenza-primo-grado-omicidio-giulio-regeni/"
     },
     {
       "cat": "mondo",
-      "title": "Ci sono stati arresti ed evacuazioni per un allarme bomba vicino a una base dell&#8217;aeronautica in Inghilterra",
+      "title": "La Corea del Sud ha accusato l’Ucraina di aver reso pubblico un accordo segreto sul trasferimento di due prigionieri nordcoreani",
       "summary": "",
-      "fullSummary": "Ci sono stati arresti ed evacuazioni per un allarme bomba vicino a una base dell&#8217;aeronautica in Inghilterra",
+      "fullSummary": "La Corea del Sud ha accusato l’Ucraina di aver reso pubblico un accordo segreto sul trasferimento di due prigionieri nordcoreani",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/arresti-evacuazioni-base-aeronautica-militare-fairford/"
+      "url": "https://www.ilpost.it/2026/09/28/ucraina-corea-del-sud-accordo-violato/"
     },
     {
       "cat": "mondo",
-      "title": "Quanto deve essere flessibile la “neutralità flessibile” della Svizzera?",
-      "summary": "Lo si decide domenica con un referendum, dopo anni a discutere se sia stato giusto o no partecipare alle sanzioni contro la Russia",
-      "fullSummary": "Lo si decide domenica con un referendum, dopo anni a discutere se sia stato giusto o no partecipare alle sanzioni contro la Russia",
+      "title": "L’estrema destra francese avrà per la prima volta un gruppo al Senato",
+      "summary": "È il risultato più rilevante delle elezioni di domenica in Francia: i partiti di centrodestra e centro hanno comunque mantenuto la maggioran…",
+      "fullSummary": "È il risultato più rilevante delle elezioni di domenica in Francia: i partiti di centrodestra e centro hanno comunque mantenuto la maggioranza",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/referendum-svizzera-neutralita/"
+      "url": "https://www.ilpost.it/2026/09/28/elezioni-senato-francia-destra/"
     },
     {
       "cat": "mondo",
-      "title": "La città tedesca che ha vietato le nuove pietre d&#8217;inciampo",
-      "summary": "Una mozione approvata in una piccola città in Sassonia su proposta di AfD ha attirato grandi critiche sulla CDU, che l'ha sostenuta",
-      "fullSummary": "Una mozione approvata in una piccola città in Sassonia su proposta di AfD ha attirato grandi critiche sulla CDU, che l'ha sostenuta",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/pietre-inciampo-stolpersteine-heidenau/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Polonia ha vinto gli Europei maschili di pallavolo",
-      "summary": "Ha battuto 3-1 la Francia nella finale giocata al Forum di Assago",
-      "fullSummary": "Ha battuto 3-1 la Francia nella finale giocata al Forum di Assago",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/26/la-polonia-ha-vinto-gli-europei-maschili-di-pallavolo/"
-    },
-    {
-      "cat": "sport",
-      "title": "Elisa Longo Borghini ha vinto il bronzo nella prova in linea ai Mondiali di ciclismo",
+      "title": "Aleksandar Vučić si è dimesso da presidente della Serbia, per provare a diventare primo ministro",
       "summary": "",
-      "fullSummary": "Elisa Longo Borghini ha vinto il bronzo nella prova in linea ai Mondiali di ciclismo",
+      "fullSummary": "Aleksandar Vučić si è dimesso da presidente della Serbia, per provare a diventare primo ministro",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/26/elisa-longo-borghini-bronzo-mondiali-ciclismo/"
+      "url": "https://www.ilpost.it/2026/09/27/serbia-aleksandar-vucic-dimissioni/"
     },
     {
       "cat": "sport",
-      "title": "Le contestate partite che l&#8217;Irlanda deve giocare contro Israele",
-      "summary": "Calciatori, allenatori e politici sembravano volerle boicottare, ma alla fine dovrebbero disputarsi, domenica in Ungheria e il 4 ottobre in …",
-      "fullSummary": "Calciatori, allenatori e politici sembravano volerle boicottare, ma alla fine dovrebbero disputarsi, domenica in Ungheria e il 4 ottobre in Serbia",
+      "title": "Lo statunitense Brandon McNulty ha vinto la prova in linea ai Mondiali di ciclismo",
+      "summary": "",
+      "fullSummary": "Lo statunitense Brandon McNulty ha vinto la prova in linea ai Mondiali di ciclismo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/26/irlanda-israele-proteste-boicottaggio/"
+      "url": "https://www.ilpost.it/2026/09/27/mcnulty-vittoria-mondiali-ciclismo-2026/"
     },
     {
       "cat": "sport",
-      "title": "George Russell ha vinto il Gran Premio di Formula 1 di Baku",
-      "summary": "Restando in testa dall'inizio alla fine; Kimi Antonelli, che partiva sedicesimo, è arrivato quinto",
-      "fullSummary": "Restando in testa dall'inizio alla fine; Kimi Antonelli, che partiva sedicesimo, è arrivato quinto",
+      "title": "È stato un gran weekend per Luna Rossa",
+      "summary": "Ha vinto le regate preliminari a Napoli, facendo ben sperare per la Coppa America dell'anno prossimo",
+      "fullSummary": "Ha vinto le regate preliminari a Napoli, facendo ben sperare per la Coppa America dell'anno prossimo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/26/gran-premio-baku-vittoria-russell-antonelli-risultato/"
+      "url": "https://www.ilpost.it/2026/09/27/luna-rossa-vittoria-regate-preliminari-napoli-settembre-2026-coppa-america/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il pilota italiano Nicolò Bulega ha vinto il campionato mondiale di Superbike",
+      "summary": "",
+      "fullSummary": "Il pilota italiano Nicolò Bulega ha vinto il campionato mondiale di Superbike",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/27/bulega-vittoria-mondiale-superbike-2026/"
+    },
+    {
+      "cat": "sport",
+      "title": "L’alcol negli stadi durante le partite di calcio, sì o no?",
+      "summary": "Se ne parla nel Regno Unito, dove il primo ministro Andy Burnham da tempo critica un divieto in vigore dagli anni Ottanta",
+      "fullSummary": "Se ne parla nel Regno Unito, dove il primo ministro Andy Burnham da tempo critica un divieto in vigore dagli anni Ottanta",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/27/divieto-alcol-stadi-calcio-regno-unito/"
+    },
+    {
+      "cat": "scienza",
+      "title": "SpaceX: oggi il primo volo orbitale di Starship",
+      "summary": "Oggi prende il via il primo storico volo orbitale di Starship. La missione durer&amp;agrave; quasi dieci ore, portando in orbita 26 satellit…",
+      "fullSummary": "Oggi prende il via il primo storico volo orbitale di Starship. La missione durer&amp;agrave; quasi dieci ore, portando in orbita 26 satelliti Starlink V3 e si concluder&amp;agrave; con un ammaraggio nel Pacifico. Ecco orari, dettagli del lancio e come seguirlo in diretta.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/starship-verso-il-primo-volo-in-orbita-oggi-la-svolta-storica-per-il-gigante-di-spacex"
+    },
+    {
+      "cat": "scienza",
+      "title": "Autismo e infezioni in gravidanza",
+      "summary": "I casi di autismo sono tre volte più probabili nei bambini venuti al mondo con infezioni del complesso TORCH, che spesso si possono prevenir…",
+      "fullSummary": "I casi di autismo sono tre volte più probabili nei bambini venuti al mondo con infezioni del complesso TORCH, che spesso si possono prevenire.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/un-raro-gruppo-di-infezioni-in-gravidanza-aumenta-il-rischio-di-autismo"
     },
     {
       "cat": "scienza",
@@ -114,20 +130,20 @@
       "url": "https://www.focus.it/scienza/scienze/quando-dalla-sicilia-si-andava-a-malta-a-piedi-le-nuove-scoperte-sul-ponte-sommerso"
     },
     {
-      "cat": "scienza",
-      "title": "Il caldo in città è deleterio dopo un&#039;operazione",
-      "summary": "Convalescenza difficile e complicanze più frequenti per chi vive in aree cittadine con forti rialzi di calore: andrà tenuto conto nelle dimi…",
-      "fullSummary": "Uno studio guidato dall’Ohio State University e presentato a Washington al congresso dell’American College of Surgeons 2026 evidenzia che le temperature eccessive tipiche delle isole di calore urbano sono collegate a un recupero post-operatorio più difficile. L'indagine, condotta su 700.000 pazienti, ha rilevato che chi abita in zone urbane caratterizzate da temperature elevate affronta un rischio superiore di non riprendersi in modo adeguato dopo un intervento chirurgico, andando incontro, per esempio, alla necessità di una riammissione in ospedale.\n\nI ricercatori hanno calcolato che, al di sopra di una soglia di intensità dell'isola di calore urbano pari a 2,19 °C – parametro che esprime il divario di temperatura rispetto alle aree circostanti –, ogni grado di calore aggiuntivo comporta un incremento dell'8% della probabilità di non raggiungere gli esiti auspicabili. Nello studio, un decorso considerato ideale prevedeva l'assenza di complicazioni, l'assenza di ulteriori giorni di degenza, nessun nuovo ricovero dopo le dimissioni e la sopravvivenza per almeno 30 giorni dall’operazione.\n\nQueste condizioni ottimali risultano però ostacolate nelle isole di calore urbano, generate da un'architettura impreparata alla crisi climatica: l'abbondanza di asfalto e cemento, gli edifici alti e ravvicinati, le emissioni dei veicoli e degli impianti domestici e la mancanza di suolo naturale e vegetazione creano differenze comprese tra 0,5 °C e 3 °C rispetto alle aree rurali di una città media.\n\nL'associazione tra caldo e cattiva convalescenza si dimostra più evidente nei quartieri a forte vulnerabilità socio-economica, dove l'accesso all'aria condizionata è ridotto, colpendo in particolare individui a basso reddito, con disagio abitativo, anziani, disabili o con patologie croniche. Il fenomeno si fa ancora più marcato nei convalescenti reduci da chirurgia oncologica, procedure di emergenza o soggetti ad alto rischio cardiaco, più suscettibili allo stress da disidratazione e ad alterazioni dell'equilibrio idrico. Per questo motivo, ai medici si raccomanda di curare le dimissioni indagando sulla presenza di condizionatori o ventilatori, luoghi pubblici rinfrescati vicini e adeguata idratazione.",
+      "cat": "storia",
+      "title": "I luoghi della Bibbia esistono davvero?",
+      "summary": "Dove nacque e fu sepolto Ges&amp;ugrave;? Le mura di Gerico crollarono davvero? Ecco come gli archeologi stanno ricostruendo la mappa segret…",
+      "fullSummary": "Dove nacque e fu sepolto Ges&amp;ugrave;? Le mura di Gerico crollarono davvero? Ecco come gli archeologi stanno ricostruendo la mappa segreta della Bibbia.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/le-isole-di-calore-urbano-ostacolano-il-recupero-dopo-le-operazioni-chirurgiche"
+      "url": "https://www.focus.it/cultura/storia/i-luoghi-della-bibbia-esistono-davvero-cosa-hanno-scoperto-gli-archeologi-e-cosa-resta-un-mistero"
     },
     {
-      "cat": "scienza",
-      "title": "E se il solare lo mettessimo sott&#039;acqua?",
-      "summary": "Un gruppo di ricercatori &amp;egrave; riuscito a produrre elettricit&amp;agrave; immergendo speciali pannelli solari fino a 10 metri di prof…",
-      "fullSummary": "Un gruppo di ricercatori &amp;egrave; riuscito a produrre elettricit&amp;agrave; immergendo speciali pannelli solari fino a 10 metri di profondit&amp;agrave; nel Mar cinese meridionale: la luce filtrata dall&#039;oceano pu&amp;ograve; alimentare robot, sensori e stazioni di monitoraggio.",
+      "cat": "storia",
+      "title": "Come si svolgevano davvero i funerali vichinghi?",
+      "summary": "Hollywood ci ha mostrato funerali vichinghi spettacolari, con frecce infuocate scoccate a colpite il defunto su navi in mezzo al mare: ma la…",
+      "fullSummary": "Hollywood ci ha mostrato funerali vichinghi spettacolari, con frecce infuocate scoccate a colpite il defunto su navi in mezzo al mare: ma la storia vera cosa ci racconta?",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/energia/pannelli-solari-sott-acqua-la-nuova-frontiera-dell-energia-fotovoltaica-nei-fondali-marini"
+      "url": "https://www.focus.it/cultura/storia/i-funerali-vichinghi-non-erano-come-li-abbiamo-visti-al-cinema"
     },
     {
       "cat": "storia",
@@ -144,22 +160,6 @@
       "fullSummary": "Un&#039;analisi con l&#039;IA dei dipinti di Botticelli rivela che Simonetta Vespucci, la musa del Maestro, mor&amp;igrave; a 23 anni a causa di un tumore all&#039;ipofisi. Gli indizi? Dettagli clinici nascosti nelle tele.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/arte/lo-strabismo-della-venere-non-era-bellezza-l-ia-svela-la-drammatica-verita-sulla-musa-di-botticelli"
-    },
-    {
-      "cat": "storia",
-      "title": "Alessandro Magno studiò qui",
-      "summary": "Dagli scavi nell&#039;antica Mieza, emergono le aule con i sedili in pietra dove il filosofo Aristotele tenne le sue lezioni a un giovanissi…",
-      "fullSummary": "Dagli scavi nell&#039;antica Mieza, emergono le aule con i sedili in pietra dove il filosofo Aristotele tenne le sue lezioni a un giovanissimo Alessandro Magno e ad altri rampolli della nobilt&amp;agrave; macedone, nel IV secolo a.C.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/dove-studio-alessandro-magno-scoperta-la-scuola-dove-2-400-anni-fa-insegnava-aristotele"
-    },
-    {
-      "cat": "storia",
-      "title": "Dov’è la Menorah?",
-      "summary": "Portata a Roma dai legionari o mai uscita dalla Terrasanta? Dalle teorie sul sacco dei Vandali all&#039;ipotesi del nascondiglio segreto a S…",
-      "fullSummary": "Portata a Roma dai legionari o mai uscita dalla Terrasanta? Dalle teorie sul sacco dei Vandali all&#039;ipotesi del nascondiglio segreto a San Pietro: ecco cosa sappiamo sulla fine della Menorah, il sacro candelabro d&#039;oro degli Ebrei.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/dov-e-la-menorah-dal-saccheggio-di-gerusalemme-all-enigma-del-vaticano"
     },
     {
       "cat": "tech",
