@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-29T05:06:03.966Z",
+  "generatedAt": "2026-09-29T12:31:44.016Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Alle elezioni suppletive di Reggio Calabria ha vinto il centrodestra",
+      "summary": "Con Fabio Roscioli di Forza Italia, che non ha risentito della concorrenza di Domenico Giannetta di Futuro Nazionale",
+      "fullSummary": "Con Fabio Roscioli di Forza Italia, che non ha risentito della concorrenza di Domenico Giannetta di Futuro Nazionale",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/28/risultati-elezioni-suppletive-reggio-calabria-diretta-vannacci-futuro-nazionale-giannetta/"
+    },
     {
       "cat": "politica",
       "title": "Tajani dice che ci vorrebbe «molta più rigidità» da parte della magistratura",
@@ -13,7 +21,7 @@
       "cat": "politica",
       "title": "Dobbiamo liberarci di miliardi di mascherine inutilizzate",
       "summary": "Sono avanzate dal Covid e custodirle costa un sacco: il governo ha provato a venderle, poi a regalarle, e ora nominerà un commissario",
-      "fullSummary": "A quattro anni dalla fine dell’emergenza legata al coronavirus, il ministero della Salute si ritrova a dover gestire un’ingente quantità di dispositivi di protezione individuale acquistati in eccesso e mai adoperati. Per risolvere il problema dello smaltimento di miliardi di mascherine, guanti e camici, l’articolo 4 del decreto PA prevede la nomina di un commissario straordinario da parte del Consiglio dei ministri, su proposta dello stesso ministero.\n\nDurante l'emergenza, con Giuseppe Conte come presidente del Consiglio e Domenico Arcuri nel ruolo di commissario straordinario, furono effettuati acquisti massicci. Un'indagine di Openpolis ha documentato che per fronteggiare la pandemia furono avviati oltre 18mila lotti per una spesa complessiva di 24,5 miliardi di euro, in gran parte transitati tramite procedure semplificate per l'acquisizione di presidi sanitari, farmaci, tamponi e attrezzature.\n\nAttualmente, all'interno di 16 magazzini situati in Italia, risultano stoccati 312mila metri cubi di materiali inutilizzati, corrispondenti a circa 22.700 tonnellate e paragonabili a circa 3.500 tir colmi di scatoloni. La maggioranza assoluta di questo carico è rappresentata da oltre 245mila metri cubi di mascherine, e il 99 per cento è classificato come rifiuto non pericoloso. La custodia di tali giacenze comporta per le casse statali un costo di circa 900mila euro al mese. I tentativi intrapresi sia dal governo di Mario Draghi sia da quello di Giorgia Meloni per vendere o regalare i lotti sono falliti per mancanza di richieste.\n\nIl commissario incaricato avrà il compito di portare a termine la dismissione e lo smaltimento dell'intero materiale entro il 31 marzo 2027, potendo agire in deroga alle norme del testo unico ambientale. Per queste operazioni sono stati stanziati complessivamente 84 milioni di euro, suddivisi in 44 milioni per il 2026 e 40 milioni per il 2027, attinti dalle risorse del ministero della Salute, mentre al commissario spetterà una retribuzione annuale di 40mila euro.",
+      "fullSummary": "Sono avanzate dal Covid e custodirle costa un sacco: il governo ha provato a venderle, poi a regalarle, e ora nominerà un commissario",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/25/smaltimento-mascherine-covid-avanzate/"
     },
@@ -26,76 +34,84 @@
       "url": "https://www.ilpost.it/2026/09/25/legge-elettorale-corte-costituzionale-firme-stabilicum/"
     },
     {
-      "cat": "politica",
-      "title": "L&#8217;aeroporto di Milano Malpensa è stato ufficialmente intitolato a Silvio Berlusconi",
-      "summary": "",
-      "fullSummary": "L&#8217;aeroporto di Milano Malpensa è stato ufficialmente intitolato a Silvio Berlusconi",
+      "cat": "mondo",
+      "title": "La sinistra spagnola è divisa sulla questione della casa",
+      "summary": "Le proteste degli ultimi giorni hanno fatto riemergere le differenze tra Socialisti e partiti più a sinistra, che ora provano a mettersi d'a…",
+      "fullSummary": "Le proteste degli ultimi giorni hanno fatto riemergere le differenze tra Socialisti e partiti più a sinistra, che ora provano a mettersi d'accordo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/aeroporto-milano-malpensa-intitolato-silvo-berlusconi/"
+      "url": "https://www.ilpost.it/2026/09/29/sinistra-spagna-questione-casa/"
     },
     {
       "cat": "mondo",
-      "title": "È il giorno della sentenza di primo grado sull’omicidio di Giulio Regeni",
-      "summary": "La pronuncerà la Corte d'Assise di Roma, a più di dieci anni da quando il ricercatore italiano fu sequestrato, torturato e ucciso in Egitto",
-      "fullSummary": "La pronuncerà la Corte d'Assise di Roma, a più di dieci anni da quando il ricercatore italiano fu sequestrato, torturato e ucciso in Egitto",
+      "title": "L’FBI ritiene che in un attacco informatico della settimana scorsa siano stati rubati i dati sensibili di tutti i suoi dipendenti",
+      "summary": "",
+      "fullSummary": "L’FBI ritiene che in un attacco informatico della settimana scorsa siano stati rubati i dati sensibili di tutti i suoi dipendenti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/28/sentenza-primo-grado-omicidio-giulio-regeni/"
+      "url": "https://www.ilpost.it/2026/09/29/fbi-attacco-hacker-dati-dipendenti-shinyhunters/"
     },
     {
       "cat": "mondo",
-      "title": "La Corea del Sud ha accusato l’Ucraina di aver reso pubblico un accordo segreto sul trasferimento di due prigionieri nordcoreani",
-      "summary": "",
-      "fullSummary": "La Corea del Sud ha accusato l’Ucraina di aver reso pubblico un accordo segreto sul trasferimento di due prigionieri nordcoreani",
+      "title": "Le esportazioni di petrolio nello stretto di Hormuz sono vicine al livello pre-guerra",
+      "summary": "Tra le altre cose perché le petroliere sono diventate più efficaci nell'eludere il blocco dell’Iran, anche grazie all’aiuto degli Stati Unit…",
+      "fullSummary": "Tra le altre cose perché le petroliere sono diventate più efficaci nell'eludere il blocco dell’Iran, anche grazie all’aiuto degli Stati Uniti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/28/ucraina-corea-del-sud-accordo-violato/"
+      "url": "https://www.ilpost.it/2026/09/29/difficolta-iran-prosecuzione-blocco-stretto-hormuz/"
     },
     {
       "cat": "mondo",
-      "title": "L’estrema destra francese avrà per la prima volta un gruppo al Senato",
-      "summary": "È il risultato più rilevante delle elezioni di domenica in Francia: i partiti di centrodestra e centro hanno comunque mantenuto la maggioran…",
-      "fullSummary": "È il risultato più rilevante delle elezioni di domenica in Francia: i partiti di centrodestra e centro hanno comunque mantenuto la maggioranza",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/28/elezioni-senato-francia-destra/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Aleksandar Vučić si è dimesso da presidente della Serbia, per provare a diventare primo ministro",
+      "title": "Più di 160 persone sono state arrestate nelle ampie proteste studentesche in corso in Francia da una settimana",
       "summary": "",
-      "fullSummary": "Aleksandar Vučić si è dimesso da presidente della Serbia, per provare a diventare primo ministro",
+      "fullSummary": "Più di 160 persone sono state arrestate nelle ampie proteste studentesche in corso in Francia da una settimana",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/serbia-aleksandar-vucic-dimissioni/"
+      "url": "https://www.ilpost.it/2026/09/29/francia-arresti-proteste-scuola/"
     },
     {
       "cat": "sport",
-      "title": "Lo statunitense Brandon McNulty ha vinto la prova in linea ai Mondiali di ciclismo",
-      "summary": "",
-      "fullSummary": "Lo statunitense Brandon McNulty ha vinto la prova in linea ai Mondiali di ciclismo",
+      "title": "L&#8217;Italia ha vinto 4-1 contro la Turchia in Nations League",
+      "summary": "Con due fratelli titolari e giocando in modo convincente: una buona premessa alla partita di venerdì, a Parigi contro la Francia",
+      "fullSummary": "Con due fratelli titolari e giocando in modo convincente: una buona premessa alla partita di venerdì, a Parigi contro la Francia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/mcnulty-vittoria-mondiali-ciclismo-2026/"
+      "url": "https://www.ilpost.it/2026/09/28/italia-turchia-nations-league/"
     },
     {
       "cat": "sport",
-      "title": "È stato un gran weekend per Luna Rossa",
-      "summary": "Ha vinto le regate preliminari a Napoli, facendo ben sperare per la Coppa America dell'anno prossimo",
-      "fullSummary": "Ha vinto le regate preliminari a Napoli, facendo ben sperare per la Coppa America dell'anno prossimo",
+      "title": "Cosa rischia il Manchester City?",
+      "summary": "Ci sono tante ipotesi, tempi lunghi, grossi interessi in ballo e pochissime certezze",
+      "fullSummary": "Ci sono tante ipotesi, tempi lunghi, grossi interessi in ballo e pochissime certezze",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/luna-rossa-vittoria-regate-preliminari-napoli-settembre-2026-coppa-america/"
+      "url": "https://www.ilpost.it/2026/09/28/cosa-rischia-manchester-city-appello-premier-league-possibili-penalizzazioni/"
     },
     {
       "cat": "sport",
-      "title": "Il pilota italiano Nicolò Bulega ha vinto il campionato mondiale di Superbike",
-      "summary": "",
-      "fullSummary": "Il pilota italiano Nicolò Bulega ha vinto il campionato mondiale di Superbike",
+      "title": "Cristiano Ronaldo è rimasto in panchina per un&#8217;intera partita del Portogallo",
+      "summary": "Non succedeva da 18 anni e se un po' conoscete il personaggio potete immaginare come l'abbia presa",
+      "fullSummary": "Non succedeva da 18 anni e se un po' conoscete il personaggio potete immaginare come l'abbia presa",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/bulega-vittoria-mondiale-superbike-2026/"
+      "url": "https://www.ilpost.it/2026/09/28/cristiano-ronaldo-panchina-portogallo/"
     },
     {
       "cat": "sport",
-      "title": "L’alcol negli stadi durante le partite di calcio, sì o no?",
-      "summary": "Se ne parla nel Regno Unito, dove il primo ministro Andy Burnham da tempo critica un divieto in vigore dagli anni Ottanta",
-      "fullSummary": "Se ne parla nel Regno Unito, dove il primo ministro Andy Burnham da tempo critica un divieto in vigore dagli anni Ottanta",
+      "title": "È stata infine autorizzata la costruzione del nuovo stadio della Roma",
+      "summary": "Dopo anni di intoppi e rinvii: la società e il comune vogliono iniziare i lavori nel 2027 e terminarli nel 2031",
+      "fullSummary": "Dopo anni di intoppi e rinvii: la società e il comune vogliono iniziare i lavori nel 2027 e terminarli nel 2031",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/27/divieto-alcol-stadi-calcio-regno-unito/"
+      "url": "https://www.ilpost.it/2026/09/28/autorizzazione-definitiva-stadio-roma/"
+    },
+    {
+      "cat": "scienza",
+      "title": "Perché non dovremmo mai bere il caffè bollente",
+      "summary": "Bere t&amp;egrave; o caff&amp;egrave; molto caldi triplica il rischio di carcinoma squamocellulare dell&#039;esofago. Il problema non &amp;e…",
+      "fullSummary": "Bere t&amp;egrave; o caff&amp;egrave; molto caldi triplica il rischio di carcinoma squamocellulare dell&#039;esofago. Il problema non &amp;egrave; il caff&amp;egrave; in s&amp;eacute;, ma il danno termico sulla mucosa. La buona notizia? Basta aspettare pochi minuti prima di fare un sorso.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/caffe-bollente-e-tumore-all-esofago-perche-il-rischio-aumenta-e-non-dipende-dalla-bevanda"
+    },
+    {
+      "cat": "scienza",
+      "title": "Starship in orbita: i retroscena della missione",
+      "summary": "Il colosso di SpaceX supera gli imprevisti ai motori Raptor e completa il primo volo orbitale operativo. Dal rientro anticipato all&#039;esp…",
+      "fullSummary": "Il colosso di SpaceX supera gli imprevisti ai motori Raptor e completa il primo volo orbitale operativo. Dal rientro anticipato all&#039;esplosione programmata nell&#039;oceano: ecco com&#039;&amp;egrave; andato il test di Starship.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/starship-raggiunge-l-orbita-per-la-prima-volta-e-lancia-26-satelliti-starlink-i-retroscena-della-missione"
     },
     {
       "cat": "scienza",
@@ -114,20 +130,12 @@
       "url": "https://www.focus.it/scienza/salute/un-raro-gruppo-di-infezioni-in-gravidanza-aumenta-il-rischio-di-autismo"
     },
     {
-      "cat": "scienza",
-      "title": "Conservanti: nuovi rischi per il cuore",
-      "summary": "Conservanti che ritardano il deterioramento del cibo sono collegati a rischi aumentati per la salute, a prescindere dall&#039;alimento in cu…",
-      "fullSummary": "Conservanti che ritardano il deterioramento del cibo sono collegati a rischi aumentati per la salute, a prescindere dall&#039;alimento in cui si trovano.",
+      "cat": "storia",
+      "title": "A quando risale il primo monopattino elettrico?",
+      "summary": "Brevettato nel 1916 ma lanciato a New York gi&amp;agrave; nel 1915, l&#039;Autoped fu il capostipite del monopattino. Utilizzato persino da …",
+      "fullSummary": "Brevettato nel 1916 ma lanciato a New York gi&amp;agrave; nel 1915, l&#039;Autoped fu il capostipite del monopattino. Utilizzato persino da polizia e postini, prometteva agilit&amp;agrave; nel traffico cittadino oltre un secolo fa.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/otto-comuni-conservanti-alimentari-sono-associati-a-ipertensione-e-problemi-cardiovascolari"
-    },
-    {
-      "cat": "scienza",
-      "title": "Quando dalla Sicilia si andava a Malta a piedi",
-      "summary": "Un tempo, 13mila anni fa, le due isole erano collegate da una striscia di terra, o meglio da una specie di arcipelago, oggi sommerso. Ecco c…",
-      "fullSummary": "Un tempo, 13mila anni fa, le due isole erano collegate da una striscia di terra, o meglio da una specie di arcipelago, oggi sommerso. Ecco cosa ha scoperto la spedizione nel Canale di Sicilia.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/quando-dalla-sicilia-si-andava-a-malta-a-piedi-le-nuove-scoperte-sul-ponte-sommerso"
+      "url": "https://www.focus.it/cultura/curiosita/quando-e-nato-il-primo-monopattino-elettrico-l-invenzione-di-inizio-novecento-che-ha-anticipato-la-micromobilita"
     },
     {
       "cat": "storia",
@@ -152,14 +160,6 @@
       "fullSummary": "Hollywood ci ha mostrato funerali vichinghi spettacolari, con frecce infuocate scoccate a colpite il defunto su navi in mezzo al mare: ma la storia vera cosa ci racconta?",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/i-funerali-vichinghi-non-erano-come-li-abbiamo-visti-al-cinema"
-    },
-    {
-      "cat": "storia",
-      "title": "Svelato il mistero del calendario di Qumran",
-      "summary": "Il calendario di Qumran era inizialmente perfetto, ma si sfasava con il passare degli anni: gli Esseni lo utilizzarono solo per un periodo, …",
-      "fullSummary": "Il calendario di Qumran era inizialmente perfetto, ma si sfasava con il passare degli anni: gli Esseni lo utilizzarono solo per un periodo, poi passarono a quello lunisolare.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/rotoli-del-mar-morto-svelato-il-mistero-del-calendario-di-qumran"
     },
     {
       "cat": "tech",
