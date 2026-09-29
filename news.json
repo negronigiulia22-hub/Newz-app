@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-29T12:31:44.016Z",
+  "generatedAt": "2026-09-29T19:55:18.430Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Cosa ha fatto Conte su difesa e riarmo quando era al governo",
+      "summary": "Aumentò la spesa e altre cose sorprendenti, a guardare quello che dice oggi",
+      "fullSummary": "Aumentò la spesa e altre cose sorprendenti, a guardare quello che dice oggi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/29/conte-spese-militari-ucraina-difesa-m5s-primarie/"
+    },
     {
       "cat": "politica",
       "title": "Alle elezioni suppletive di Reggio Calabria ha vinto il centrodestra",
@@ -26,12 +34,20 @@
       "url": "https://www.ilpost.it/2026/09/25/smaltimento-mascherine-covid-avanzate/"
     },
     {
-      "cat": "politica",
-      "title": "C&#8217;è il rischio che la nuova legge elettorale sia incostituzionale?",
-      "summary": "Probabilmente la Corte costituzionale si esprimerà nei prossimi mesi, ma c'è già dibattito",
-      "fullSummary": "Probabilmente la Corte costituzionale si esprimerà nei prossimi mesi, ma c'è già dibattito",
+      "cat": "mondo",
+      "title": "Ci sarà una nuova indagine su un&#8217;aggressione sessuale alla Cornell University",
+      "summary": "La donna coinvolta, un'ex studentessa, ha accusato l'ateneo e il suo dipartimento di polizia di non aver indagato a dovere",
+      "fullSummary": "La donna coinvolta, un'ex studentessa, ha accusato l'ateneo e il suo dipartimento di polizia di non aver indagato a dovere",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/25/legge-elettorale-corte-costituzionale-firme-stabilicum/"
+      "url": "https://www.ilpost.it/2026/09/29/riapertura-indagine-aggressioni-sessuali-cornell-university/"
+    },
+    {
+      "cat": "mondo",
+      "title": "L&#8217;inchiesta di Mediapart sulle frasi antisemite attribuite a Jordan Bardella",
+      "summary": "Risalgono a più di dieci anni fa ma stanno mettendo in difficoltà uno dei leader dell'estrema destra francese, a sei mesi dalle elezioni",
+      "fullSummary": "Risalgono a più di dieci anni fa ma stanno mettendo in difficoltà uno dei leader dell'estrema destra francese, a sei mesi dalle elezioni",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/29/inchiesta-mediapart-antisemitismo-jordan-bardella/"
     },
     {
       "cat": "mondo",
@@ -43,27 +59,27 @@
     },
     {
       "cat": "mondo",
-      "title": "L’FBI ritiene che in un attacco informatico della settimana scorsa siano stati rubati i dati sensibili di tutti i suoi dipendenti",
+      "title": "L’FBI ritiene che in un attacco informatico della settimana scorsa siano stati rubati dati personali di tutti i suoi dipendenti",
       "summary": "",
-      "fullSummary": "L’FBI ritiene che in un attacco informatico della settimana scorsa siano stati rubati i dati sensibili di tutti i suoi dipendenti",
+      "fullSummary": "L’FBI ritiene che in un attacco informatico della settimana scorsa siano stati rubati dati personali di tutti i suoi dipendenti",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/29/fbi-attacco-hacker-dati-dipendenti-shinyhunters/"
     },
     {
-      "cat": "mondo",
-      "title": "Le esportazioni di petrolio nello stretto di Hormuz sono vicine al livello pre-guerra",
-      "summary": "Tra le altre cose perché le petroliere sono diventate più efficaci nell'eludere il blocco dell’Iran, anche grazie all’aiuto degli Stati Unit…",
-      "fullSummary": "Tra le altre cose perché le petroliere sono diventate più efficaci nell'eludere il blocco dell’Iran, anche grazie all’aiuto degli Stati Uniti",
+      "cat": "sport",
+      "title": "Un quasi record del mondo fatto con un tendine d&#8217;Achille rotto",
+      "summary": "Tigst Assefa lo ha mancato per poco più di un minuto, ma ha comunque vinto una maratona correndo nel finale quasi «con una gamba sola»",
+      "fullSummary": "Tigst Assefa lo ha mancato per poco più di un minuto, ma ha comunque vinto una maratona correndo nel finale quasi «con una gamba sola»",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/29/difficolta-iran-prosecuzione-blocco-stretto-hormuz/"
+      "url": "https://www.ilpost.it/2026/09/29/tigst-assefa-maratona-berlino-infortunio-tendine-achille/"
     },
     {
-      "cat": "mondo",
-      "title": "Più di 160 persone sono state arrestate nelle ampie proteste studentesche in corso in Francia da una settimana",
+      "cat": "sport",
+      "title": "Gianni Infantino ha detto che la FIFA distribuirà più soldi ai suoi membri, ma non ha detto quanti",
       "summary": "",
-      "fullSummary": "Più di 160 persone sono state arrestate nelle ampie proteste studentesche in corso in Francia da una settimana",
+      "fullSummary": "Gianni Infantino ha detto che la FIFA distribuirà più soldi ai suoi membri, ma non ha detto quanti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/29/francia-arresti-proteste-scuola/"
+      "url": "https://www.ilpost.it/2026/09/29/gianni-infantino-fifa-dara-piu-soldi-federazioni-nazionali/"
     },
     {
       "cat": "sport",
@@ -80,22 +96,6 @@
       "fullSummary": "Ci sono tante ipotesi, tempi lunghi, grossi interessi in ballo e pochissime certezze",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/28/cosa-rischia-manchester-city-appello-premier-league-possibili-penalizzazioni/"
-    },
-    {
-      "cat": "sport",
-      "title": "Cristiano Ronaldo è rimasto in panchina per un&#8217;intera partita del Portogallo",
-      "summary": "Non succedeva da 18 anni e se un po' conoscete il personaggio potete immaginare come l'abbia presa",
-      "fullSummary": "Non succedeva da 18 anni e se un po' conoscete il personaggio potete immaginare come l'abbia presa",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/28/cristiano-ronaldo-panchina-portogallo/"
-    },
-    {
-      "cat": "sport",
-      "title": "È stata infine autorizzata la costruzione del nuovo stadio della Roma",
-      "summary": "Dopo anni di intoppi e rinvii: la società e il comune vogliono iniziare i lavori nel 2027 e terminarli nel 2031",
-      "fullSummary": "Dopo anni di intoppi e rinvii: la società e il comune vogliono iniziare i lavori nel 2027 e terminarli nel 2031",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/28/autorizzazione-definitiva-stadio-roma/"
     },
     {
       "cat": "scienza",
