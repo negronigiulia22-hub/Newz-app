@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T21:10:44.124Z",
+  "generatedAt": "2026-09-29T05:06:03.966Z",
   "items": [
     {
       "cat": "politica",
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "Dobbiamo liberarci di miliardi di mascherine inutilizzate",
       "summary": "Sono avanzate dal Covid e custodirle costa un sacco: il governo ha provato a venderle, poi a regalarle, e ora nominerà un commissario",
-      "fullSummary": "Sono avanzate dal Covid e custodirle costa un sacco: il governo ha provato a venderle, poi a regalarle, e ora nominerà un commissario",
+      "fullSummary": "A quattro anni dalla fine dell’emergenza legata al coronavirus, il ministero della Salute si ritrova a dover gestire un’ingente quantità di dispositivi di protezione individuale acquistati in eccesso e mai adoperati. Per risolvere il problema dello smaltimento di miliardi di mascherine, guanti e camici, l’articolo 4 del decreto PA prevede la nomina di un commissario straordinario da parte del Consiglio dei ministri, su proposta dello stesso ministero.\n\nDurante l'emergenza, con Giuseppe Conte come presidente del Consiglio e Domenico Arcuri nel ruolo di commissario straordinario, furono effettuati acquisti massicci. Un'indagine di Openpolis ha documentato che per fronteggiare la pandemia furono avviati oltre 18mila lotti per una spesa complessiva di 24,5 miliardi di euro, in gran parte transitati tramite procedure semplificate per l'acquisizione di presidi sanitari, farmaci, tamponi e attrezzature.\n\nAttualmente, all'interno di 16 magazzini situati in Italia, risultano stoccati 312mila metri cubi di materiali inutilizzati, corrispondenti a circa 22.700 tonnellate e paragonabili a circa 3.500 tir colmi di scatoloni. La maggioranza assoluta di questo carico è rappresentata da oltre 245mila metri cubi di mascherine, e il 99 per cento è classificato come rifiuto non pericoloso. La custodia di tali giacenze comporta per le casse statali un costo di circa 900mila euro al mese. I tentativi intrapresi sia dal governo di Mario Draghi sia da quello di Giorgia Meloni per vendere o regalare i lotti sono falliti per mancanza di richieste.\n\nIl commissario incaricato avrà il compito di portare a termine la dismissione e lo smaltimento dell'intero materiale entro il 31 marzo 2027, potendo agire in deroga alle norme del testo unico ambientale. Per queste operazioni sono stati stanziati complessivamente 84 milioni di euro, suddivisi in 44 milioni per il 2026 e 40 milioni per il 2027, attinti dalle risorse del ministero della Salute, mentre al commissario spetterà una retribuzione annuale di 40mila euro.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/25/smaltimento-mascherine-covid-avanzate/"
     },
@@ -131,6 +131,14 @@
     },
     {
       "cat": "storia",
+      "title": "Quante toilette ci sono nello Spazio?",
+      "summary": "Dalle sei toilette permanenti tra ISS e stazione cinese fino ai modelli compatti ad aspirazione installati sulle navicelle: ecco la tecnolog…",
+      "fullSummary": "Dalle sei toilette permanenti tra ISS e stazione cinese fino ai modelli compatti ad aspirazione installati sulle navicelle: ecco la tecnologia (e i piccoli imprevisti) dei bagni per astronauti.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/curiosita/quante-toilette-ci-sono-nello-spazio"
+    },
+    {
+      "cat": "storia",
       "title": "I luoghi della Bibbia esistono davvero?",
       "summary": "Dove nacque e fu sepolto Ges&amp;ugrave;? Le mura di Gerico crollarono davvero? Ecco come gli archeologi stanno ricostruendo la mappa segret…",
       "fullSummary": "Dove nacque e fu sepolto Ges&amp;ugrave;? Le mura di Gerico crollarono davvero? Ecco come gli archeologi stanno ricostruendo la mappa segreta della Bibbia.",
@@ -152,14 +160,6 @@
       "fullSummary": "Il calendario di Qumran era inizialmente perfetto, ma si sfasava con il passare degli anni: gli Esseni lo utilizzarono solo per un periodo, poi passarono a quello lunisolare.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/rotoli-del-mar-morto-svelato-il-mistero-del-calendario-di-qumran"
-    },
-    {
-      "cat": "storia",
-      "title": "Morte della Venere: la diagnosi dell&#039;IA",
-      "summary": "Un&#039;analisi con l&#039;IA dei dipinti di Botticelli rivela che Simonetta Vespucci, la musa del Maestro, mor&amp;igrave; a 23 anni a caus…",
-      "fullSummary": "Un&#039;analisi con l&#039;IA dei dipinti di Botticelli rivela che Simonetta Vespucci, la musa del Maestro, mor&amp;igrave; a 23 anni a causa di un tumore all&#039;ipofisi. Gli indizi? Dettagli clinici nascosti nelle tele.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/arte/lo-strabismo-della-venere-non-era-bellezza-l-ia-svela-la-drammatica-verita-sulla-musa-di-botticelli"
     },
     {
       "cat": "tech",
