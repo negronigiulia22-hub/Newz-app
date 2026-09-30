@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T09:32:39.478Z",
+  "generatedAt": "2026-09-30T17:52:38.837Z",
   "items": [
     {
       "cat": "politica",
@@ -61,7 +61,7 @@
       "cat": "mondo",
       "title": "I manifestanti accampati a Madrid sono rimasti lì",
       "summary": "Giudicano insufficienti i due decreti presentati dal governo per la crisi abitativa, e chiedono misure più strutturali",
-      "fullSummary": "I manifestanti accampati a Madrid, nella centrale Puerta del Sol, hanno deciso di proseguire la loro mobilitazione nonostante l’approvazione da parte del governo socialista di Pedro Sánchez di due decreti sulla casa. Le proteste, iniziate a seguito dello sfratto dell’ottantasettenne invalida Maricarmen Abascal e allargatesi ad altre città come Barcellona, Siviglia, Malaga e Cadice, sono diventate il simbolo della crisi abitativa e delle divisioni interne alla sinistra spagnola tra i Socialisti e formazioni come Sumar e Podemos.\n\nIl movimento e il Sindacato delle inquiline e degli inquilini, rappresentato dalla portavoce Carme Arcarazo, considerano insufficienti i provvedimenti dell'esecutivo. I decreti introducono il rinnovo biennale per i contratti in scadenza entro la fine del 2028, una tutela provvisoria dagli sfratti per i soggetti vulnerabili fino al 2030, restrizioni per gli affitti brevi e il divieto di acquisto di immobili da parte di fondi di investimento fino al 2028. I manifestanti criticano la scadenza di tali misure in prossimità delle elezioni e chiedono interventi strutturali, come il blocco dei canoni, il divieto permanente di sfratto per le fasce deboli e il rinnovo automatico a tempo indeterminato degli affitti, misura contenuta nel secondo decreto ma difficilmente approvabile.\n\nL'esito del voto parlamentare straordinario di venerdì resta incerto per la risicatissima maggioranza di Sánchez, vincolata al sostegno dei partiti autonomisti. Nel frattempo, sul caso di Abascal è stato raggiunto un accordo mediato dal comune di Madrid, che le consentirà di rientrare nella propria casa pagando un affitto non superiore al 30 per cento della pensione.\n\nLa protesta a Puerta del Sol, dove dormono circa cento persone e migliaia transitano di giorno, continuerà. L'accampamento è stato organizzato con vie dedicate a nomi simbolici come la data d'inizio mobilitazione, Abascal, l’anarchico Buenaventura Durruti e Gaza. I partecipanti hanno inoltre denunciato minacce dell'estrema destra e il suono notturno delle campane ogni quarto d'ora.",
+      "fullSummary": "Giudicano insufficienti i due decreti presentati dal governo per la crisi abitativa, e chiedono misure più strutturali",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/30/madrid-continua-protesta-casa/"
     },
@@ -99,9 +99,25 @@
     },
     {
       "cat": "scienza",
+      "title": "Usa meno zuccheri se assumi antibiotici",
+      "summary": "Una dieta ricca di zuccheri mentre si assumono antibiotici limita la diversità dei batteri nell&#039;intestino e porta al prevalere di ceppi…",
+      "fullSummary": "Una dieta ricca di zuccheri mentre si assumono antibiotici limita la diversità dei batteri nell&#039;intestino e porta al prevalere di ceppi aggressivi.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/ridurre-gli-zuccheri-durante-i-trattamenti-antibiotici-protegge-il-microbioma-intestinale"
+    },
+    {
+      "cat": "scienza",
+      "title": "I &quot;terremoti lenti&quot; innescati da Sole e Luna",
+      "summary": "Sole e Luna non sollevano solo gli oceani: le forze di marea entrano in risonanza con le faglie terrestri, innescando &quot;terremoti lenti&…",
+      "fullSummary": "Sole e Luna non sollevano solo gli oceani: le forze di marea entrano in risonanza con le faglie terrestri, innescando &quot;terremoti lenti&quot; che rilasciano energia senza fare rumore.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/il-sole-e-la-luna-scatenano-i-terremoti-silenziosi-sulla-terra"
+    },
+    {
+      "cat": "scienza",
       "title": "Trapianti: i cuori anziani possono ringiovanire",
       "summary": "Gli organi donati nei trapianti si adattano all&#039;età biologica del paziente che li riceve: se confermato, si potrebbe ampliare la platea…",
-      "fullSummary": "Un recente studio dell'Università di Harvard, disponibile in pre-pubblicazione sulla piattaforma bioRxiv e non ancora sottoposto a revisione tra pari, ha evidenziato che l'età biologica del ricevente influisce su quella degli organi donati. In particolare, i cuori prelevati da soggetti più anziani mostrano segni di ringiovanimento se trapiantati in pazienti giovani, mentre i cuori di donatori giovani tendono a invecchiare quando vengono accolti da persone più avanti con gli anni.\n\nAttualmente, mentre in Italia non sono previsti limiti anagrafici generali per le donazioni grazie alle moderne tecniche di perfusione, per il cuore vigono restrizioni più rigide, solitamente stabilite tra i 55 e i 60 anni. La ricerca punta a chiarire come il danno cellulare legato all'invecchiamento si modifichi nell'organismo ospitante.\n\nI ricercatori hanno innanzitutto effettuato test sui topi, trapiantando cuori tra animali di 3 mesi, 1 anno e 1 anno e mezzo, lasciando intatto anche il cuore originale. A distanza di 4-6 mesi, l'analisi della metilazione del DNA su circa 320.000 regioni genetiche ha rivelato che il cuore donato allineava la propria età biologica a quella del ricevente.\n\nUn riscontro analogo è emerso esaminando le biopsie di 11 trapianti cardiaci umani a Boston, selezionati per marcate differenze di età tra donatore e ricevente (divari compresi tra gli 8 e i 24 anni nel caso di donatori più anziani, e tra i 38 e i 50 anni per donatori più giovani). Inoltre, analizzando le cartelle cliniche di centinaia di trapiantati, gli esperti hanno osservato che parametri funzionali quali frequenza cardiaca, capacità di esercizio e spessore della parete posteriore cardiaca si correlano primariamente all'età biologica del ricevente.\n\nI risultati dovranno essere verificati su coorti più ampie. Se confermati, potrebbero consentire di includere donatori cardiaci più anziani, allargando la platea dei donatori e riducendo i tempi delle liste d'attesa.",
+      "fullSummary": "Gli organi donati nei trapianti si adattano all&#039;età biologica del paziente che li riceve: se confermato, si potrebbe ampliare la platea dei donatori.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/trapianti-i-cuori-piu-anziani-ringiovaniscono-nei-riceventi-piu-giovani"
     },
@@ -112,22 +128,6 @@
       "fullSummary": "Bere t&amp;egrave; o caff&amp;egrave; molto caldi triplica il rischio di carcinoma squamocellulare dell&#039;esofago. Il problema non &amp;egrave; il caff&amp;egrave; in s&amp;eacute;, ma il danno termico sulla mucosa. La buona notizia? Basta aspettare pochi minuti prima di fare un sorso.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/caffe-bollente-e-tumore-all-esofago-perche-il-rischio-aumenta-e-non-dipende-dalla-bevanda"
-    },
-    {
-      "cat": "scienza",
-      "title": "Starship in orbita: i retroscena della missione",
-      "summary": "Il colosso di SpaceX supera gli imprevisti ai motori Raptor e completa il primo volo orbitale operativo. Dal rientro anticipato all&#039;esp…",
-      "fullSummary": "Il colosso di SpaceX supera gli imprevisti ai motori Raptor e completa il primo volo orbitale operativo. Dal rientro anticipato all&#039;esplosione programmata nell&#039;oceano: ecco com&#039;&amp;egrave; andato il test di Starship.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/starship-raggiunge-l-orbita-per-la-prima-volta-e-lancia-26-satelliti-starlink-i-retroscena-della-missione"
-    },
-    {
-      "cat": "scienza",
-      "title": "SpaceX: oggi il primo volo orbitale di Starship",
-      "summary": "Oggi prende il via il primo storico volo orbitale di Starship. La missione durer&amp;agrave; quasi dieci ore, portando in orbita 26 satellit…",
-      "fullSummary": "Oggi prende il via il primo storico volo orbitale di Starship. La missione durer&amp;agrave; quasi dieci ore, portando in orbita 26 satelliti Starlink V3 e si concluder&amp;agrave; con un ammaraggio nel Pacifico. Ecco orari, dettagli del lancio e come seguirlo in diretta.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/starship-verso-il-primo-volo-in-orbita-oggi-la-svolta-storica-per-il-gigante-di-spacex"
     },
     {
       "cat": "storia",
@@ -163,6 +163,14 @@
     },
     {
       "cat": "tech",
+      "title": "Esiste un aeroporto senza aria condizionata",
+      "summary": "Niente aria condizionata quando si arriva all&#039;aeroporto della Riunione: grazie a un&#039;architettura sostenibile, bollette ed emission…",
+      "fullSummary": "Niente aria condizionata quando si arriva all&#039;aeroporto della Riunione: grazie a un&#039;architettura sostenibile, bollette ed emissioni di CO2 calano drasticamente. E in Europa?",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/innovazione/in-attesa-immagine-su-un-isola-tropicale-c-e-un-aeroporto-senza-aria-condizionata"
+    },
+    {
+      "cat": "tech",
       "title": "Cosa succede se un robotaxi prende una multa?",
       "summary": "Tra buchi normativi ed esperimenti internazionali: ecco cosa rischia un&#039;auto a guida autonoma quando commette un&#039;infrazione del co…",
       "fullSummary": "Tra buchi normativi ed esperimenti internazionali: ecco cosa rischia un&#039;auto a guida autonoma quando commette un&#039;infrazione del codice della strada.",
@@ -184,14 +192,6 @@
       "fullSummary": "Un Cessna modificato ha completato una traversata storica di 5.150 km attraverso gli Stati Uniti, volando in totale autonomia e rendendo omaggio al primo volo dei fratelli Wright.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/motori/primo-volo-autonomo-coast-to-coast-un-cessna-senza-pilota-attraversa-gli-usa-per-oltre-5-000-km"
-    },
-    {
-      "cat": "tech",
-      "title": "Mappe contro Google Maps",
-      "summary": "Nata nel 2012, l&#039;applicazione &quot;Mappe&quot; di Apple si &amp;egrave; evoluta fino a superare la concorrenza su pi&amp;ugrave; aspet…",
-      "fullSummary": "Nata nel 2012, l&#039;applicazione &quot;Mappe&quot; di Apple si &amp;egrave; evoluta fino a superare la concorrenza su pi&amp;ugrave; aspetti: dagli itinerari per il trekking offline alla navigazione tattile su smartwatch, ecco le funzioni chiave in cui ha staccato Google Maps.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/innovazione/mappe-contro-google-maps-quattro-funzioni-in-cui-l-app-di-apple-ha-superato-la-storica-avversaria"
     }
   ]
 }
