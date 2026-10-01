@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T22:05:03.725Z",
+  "generatedAt": "2026-10-01T05:06:15.033Z",
   "items": [
     {
       "cat": "politica",
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "Cosa ha fatto Conte su difesa e riarmo quando era al governo",
       "summary": "Aumentò la spesa e altre cose sorprendenti, a guardare quello che dice oggi",
-      "fullSummary": "Negli ultimi mesi Giuseppe Conte e il Movimento 5 Stelle hanno impostato la propria comunicazione su una netta opposizione al riarmo e all'invio di aiuti militari all'Ucraina, accusando di bellicismo l'Unione Europea e il governo Meloni per insidiare la leadership del centrosinistra di Elly Schlein. Tuttavia, l'operato di Conte durante le sue esperienze a Palazzo Chigi tra il 2018 e il 2021 racconta una gestione differente.\n\nNel corso dei suoi due esecutivi, la spesa militare italiana è aumentata dall'1,2 per cento del PIL (21,7 miliardi di euro) nel 2018 all'1,58 per cento (26,4 miliardi) nel 2020: un incremento di circa il 20 per cento, il più rilevante in termini assoluti dei quindici anni precedenti. L'importo è poi salito a quasi 30 miliardi durante il successivo governo Draghi, sostenuto dal M5S. Da presidente del Consiglio, Conte ha confermato l'impegno preso nel 2014 in ambito NATO di destinare il 2 per cento del PIL alla difesa, accogliendo apertamente le richieste dell'allora presidente statunitense Donald Trump e giustificando la scelta con il rispetto dei vincoli internazionali ereditati.\n\nSotto la sua presidenza sono state assunte decisioni in netto contrasto con le storiche battaglie del Movimento, quali l'acquisto di ventotto cacciabombardieri F-35 e la vendita di due fregate militari all'Egitto nel 2020, malgrado le rivendicazioni legate al caso Regeni. Anche sulla guerra in Ucraina, nonostante l'attuale slogan pacifista, quando il M5S era al governo nel 2022 ha votato a favore dei decreti per inviare armamenti a Volodymyr Zelensky. In Parlamento, esponenti di spicco del partito hanno difeso la scelta come necessaria per contrastare l'avanzata russa, mentre Conte si è limitato a richiedere che il traguardo del 2 per cento per la difesa non venisse raggiunto prima del 2028. L'attuale linea politica testimonia la capacità del leader di alternare il rispetto degli assetti internazionali alla ricerca del consenso tra l'elettorato pacifista e critico verso la NATO.",
+      "fullSummary": "Aumentò la spesa e altre cose sorprendenti, a guardare quello che dice oggi",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/29/conte-spese-militari-ucraina-difesa-m5s-primarie/"
     },
@@ -35,35 +35,51 @@
     },
     {
       "cat": "mondo",
-      "title": "Un carcere dove i detenuti vivevano in appartamenti di lusso",
-      "summary": "Sono stati scoperti in un'ispezione vicino a Giacarta, in Indonesia, dove gli istituti penitenziari sono sovraffollati e gli addetti spesso …",
-      "fullSummary": "Sono stati scoperti in un'ispezione vicino a Giacarta, in Indonesia, dove gli istituti penitenziari sono sovraffollati e gli addetti spesso corrotti",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/celle-lusso-carcere-indonesia/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Burnham dice che tornare nell&#8217;Unione Europea è un&#8217;opzione per il Regno Unito",
-      "summary": "È la prima volta che un primo ministro britannico mette apertamente in discussione Brexit nei 10 anni dopo il referendum",
-      "fullSummary": "È la prima volta che un primo ministro britannico mette apertamente in discussione Brexit nei 10 anni dopo il referendum",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/burnham-ipotesi-ritorno-unione-europea-regno-unito/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Zohran Mamdani ha annunciato un piano per contrastare l&#8217;antisemitismo a New York",
+      "title": "L&#8217;Italia prorogherà per almeno altre due settimane i controlli per chi arriva dalla Spagna, ha detto Piantedosi",
       "summary": "",
-      "fullSummary": "Zohran Mamdani ha annunciato un piano per contrastare l&#8217;antisemitismo a New York",
+      "fullSummary": "L&#8217;Italia prorogherà per almeno altre due settimane i controlli per chi arriva dalla Spagna, ha detto Piantedosi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/zohran-mamdani-piano-antisemitismo-new-york/"
+      "url": "https://www.ilpost.it/2026/09/30/controlli-proroga-spagna-italia/"
     },
     {
       "cat": "mondo",
-      "title": "I manifestanti accampati a Madrid sono rimasti lì",
-      "summary": "Giudicano insufficienti i due decreti presentati dal governo per la crisi abitativa, e chiedono misure più strutturali",
-      "fullSummary": "Giudicano insufficienti i due decreti presentati dal governo per la crisi abitativa, e chiedono misure più strutturali",
+      "title": "Tra l&#8217;Italia e l&#8217;Egitto c&#8217;è di mezzo anche un altro caso diplomatico",
+      "summary": "Quello di Nessy Guerra, una 27enne bloccata lì con la figlia: l'ha citata il ministro Tajani per spiegare le sue dichiarazioni sulla sentenz…",
+      "fullSummary": "Quello di Nessy Guerra, una 27enne bloccata lì con la figlia: l'ha citata il ministro Tajani per spiegare le sue dichiarazioni sulla sentenza Regeni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/madrid-continua-protesta-casa/"
+      "url": "https://www.ilpost.it/2026/09/30/italia-egitto-nessy-guerra-giulio-regeni/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Secondo il primo ministro britannico, l’Iran sarebbe coinvolto nel presunto piano per attaccare la base RAF Fairford",
+      "summary": "",
+      "fullSummary": "Secondo il primo ministro britannico, l’Iran sarebbe coinvolto nel presunto piano per attaccare la base RAF Fairford",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/30/raf-fairford-uomo-arrestato-telefonata-polizia/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Il parlamento della Romania ha negato la fiducia al terzo primo ministro nominato in cinque mesi",
+      "summary": "",
+      "fullSummary": "Il parlamento della Romania ha negato la fiducia al terzo primo ministro nominato in cinque mesi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/30/romania-parlamento-siegfried-muresan-nicusor-dan/"
+    },
+    {
+      "cat": "sport",
+      "title": "La WNBA ha perso &#8220;Spettacolo&#8221;",
+      "summary": "Cioè Olivia Miles: una giocatrice entusiasmante, la cui squadra di basket è stata eliminata ai playoff",
+      "fullSummary": "Cioè Olivia Miles: una giocatrice entusiasmante, la cui squadra di basket è stata eliminata ai playoff",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/30/olivia-miles-wnba-chi-e-minnesota-lynx-eliminate-new-york-liberty/"
+    },
+    {
+      "cat": "sport",
+      "title": "Yankees e Red Sox non si sopportano da oltre cent&#8217;anni",
+      "summary": "La rivalità tra le squadre di baseball di New York e Boston è perfino più vecchia del baseball",
+      "fullSummary": "La rivalità tra le squadre di baseball di New York e Boston è perfino più vecchia del baseball",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/09/30/new-york-yankees-boston-red-sox-rivalita-storia-major-league-playoff-2026/"
     },
     {
       "cat": "sport",
@@ -80,22 +96,6 @@
       "fullSummary": "La Premier League ha pubblicato le motivazioni del verdetto contro il Manchester City per irregolarità finanziarie",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/09/29/manchester-city-violazioni-norme-premier-league/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il pilota spagnolo Fernando Alonso, che ha 45 anni, gareggerà in Formula 1 anche nel 2027",
-      "summary": "",
-      "fullSummary": "Il pilota spagnolo Fernando Alonso, che ha 45 anni, gareggerà in Formula 1 anche nel 2027",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/29/alonso-2027/"
-    },
-    {
-      "cat": "sport",
-      "title": "I bar dove vedere le partite, però femminili",
-      "summary": "I primi hanno aperto negli Stati Uniti, ma qualcosa si sta muovendo anche in Europa e in Italia",
-      "fullSummary": "I primi hanno aperto negli Stati Uniti, ma qualcosa si sta muovendo anche in Europa e in Italia",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/29/bar-sport-femminili/"
     },
     {
       "cat": "scienza",
