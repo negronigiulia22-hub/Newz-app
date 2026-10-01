@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:50:01.930Z",
+  "generatedAt": "2026-10-01T20:16:00.737Z",
   "items": [
     {
       "cat": "politica",
@@ -37,7 +37,7 @@
       "cat": "mondo",
       "title": "L&#8217;esercito israeliano ha pubblicato una lunga lettera per criticare il film NAZA e i registi che lo hanno diretto",
       "summary": "",
-      "fullSummary": "Giovedì l’esercito israeliano ha reso pubblico un lungo documento di dieci pagine, caratterizzato da toni particolarmente duri, per contestare apertamente il film documentario intitolato NAZA e criticare i suoi due registi, Yuval Abraham e Rachel Szor. Nel testo, le autorità militari accusano i realizzatori dell’opera di aver divulgato notizie del tutto false e infamanti nei confronti delle forze armate.\n\nAl centro della contestazione vi è il tema trattato nel documentario, che descrive un sistema automatizzato mediante il quale, nel corso degli ultimi tre anni, diversi membri dell’esercito avrebbero ucciso decine di migliaia di civili palestinesi nella Striscia di Gaza. Nel tentativo di confutare tale ricostruzione, l’esercito israeliano ha affermato di seguire direttive precise e vincolanti create appositamente per distinguere in modo esplicito, completo e chiaro tra combattenti e civili non coinvolti. Inoltre, le forze armate hanno respinto come falsa l’accusa formulata dai registi secondo cui sarebbero stati pianificati, approvati ed eseguiti attacchi a Gaza mettendo preventivamente in conto la morte di 500 civili.\n\nL'opera cinematografica NAZA si trova da settimane al centro dell'attenzione del dibattito pubblico internazionale, sia per la vittoria del Premio speciale della giuria alla Mostra del Cinema di Venezia, sia a causa della violenta reazione suscitata in Israele. Il film è stato realizzato raccogliendo le testimonianze anonime di ventiquattro persone tra soldati e componenti dell’intelligence israeliana, che riferiscono la normalizzazione dei massacri compiuti nella Striscia di Gaza successivamente al 7 ottobre 2023, data in cui Hamas ha ucciso 1.200 persone, in larga maggioranza civili, in territorio israeliano. Infine, il titolo dell'opera riprende un'espressione coniata dallo stesso esercito israeliano e tratta dalle parole ebraiche nezek agavi, il cui significato letterale è “danno collaterale”.",
+      "fullSummary": "L&#8217;esercito israeliano ha pubblicato una lunga lettera per criticare il film NAZA e i registi che lo hanno diretto",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/01/lettera-esercito-israeliano-risposta-naza/"
     },
@@ -99,6 +99,14 @@
     },
     {
       "cat": "scienza",
+      "title": "Codice sconto Sorgenia: tutte le offerte luce e gas per risparmiare in bolletta",
+      "summary": "&lt;span id=&quot;docs-internal-guid-584e749d-7fff-55e2-85cb-da7f0824980e&quot;&gt;Scorri la lista e scegli il codice sconto Sorgenia che pr…",
+      "fullSummary": "&lt;span id=&quot;docs-internal-guid-584e749d-7fff-55e2-85cb-da7f0824980e&quot;&gt;Scorri la lista e scegli il codice sconto Sorgenia che preferisci. La selezione di Focus.it ti fa risparmiare&lt;/span&gt;",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/energia/codice-sconto-sorgenia-offerte-luce-e-gas"
+    },
+    {
+      "cat": "scienza",
       "title": "La Luna del Raccolto tra Nicosia e l&#039;Etna",
       "summary": "Uno scatto composito, immortalato in Sicilia, mostra il sorgere della Luna piena tra la Cintura di Venere e le ceneri dell&#039;Etna in eruz…",
       "fullSummary": "Uno scatto composito, immortalato in Sicilia, mostra il sorgere della Luna piena tra la Cintura di Venere e le ceneri dell&#039;Etna in eruzione.",
@@ -120,14 +128,6 @@
       "fullSummary": "Sole e Luna non sollevano solo gli oceani: le forze di marea entrano in risonanza con le faglie terrestri, innescando &quot;terremoti lenti&quot; che rilasciano energia senza fare rumore.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/scienze/il-sole-e-la-luna-scatenano-i-terremoti-silenziosi-sulla-terra"
-    },
-    {
-      "cat": "scienza",
-      "title": "Trapianti: i cuori anziani possono ringiovanire",
-      "summary": "Gli organi donati nei trapianti si adattano all&#039;età biologica del paziente che li riceve: se confermato, si potrebbe ampliare la platea…",
-      "fullSummary": "Gli organi donati nei trapianti si adattano all&#039;età biologica del paziente che li riceve: se confermato, si potrebbe ampliare la platea dei donatori.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/trapianti-i-cuori-piu-anziani-ringiovaniscono-nei-riceventi-piu-giovani"
     },
     {
       "cat": "storia",
@@ -163,6 +163,14 @@
     },
     {
       "cat": "tech",
+      "title": "Codice Sconto eBay: guida pratica per risparmiare su ogni acquisto",
+      "summary": "Scopri il codice sconto eBay del mese: risparmia fino al 60% e oltre su elettronica, moda e altro. Non perdere l&#039;occasione di spendere …",
+      "fullSummary": "Scopri il codice sconto eBay del mese: risparmia fino al 60% e oltre su elettronica, moda e altro. Non perdere l&#039;occasione di spendere meno",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/codice-sconto-ebay-guida-pratica"
+    },
+    {
+      "cat": "tech",
       "title": "Esiste un aeroporto senza aria condizionata",
       "summary": "Niente aria condizionata quando si arriva all&#039;aeroporto della Riunione: grazie a un&#039;architettura sostenibile, bollette ed emission…",
       "fullSummary": "Niente aria condizionata quando si arriva all&#039;aeroporto della Riunione: grazie a un&#039;architettura sostenibile, bollette ed emissioni di CO2 calano drasticamente. E in Europa?",
@@ -184,14 +192,6 @@
       "fullSummary": "Un’interfaccia neurale decodifica insieme parole e gesti dal cervello di persone paralizzate, permettendo loro di comunicare tramite un avatar digitale.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/un-interfaccia-neurale-interpreta-gesti-e-parole-contemporaneamente"
-    },
-    {
-      "cat": "tech",
-      "title": "Aereo senza pilota sorvola gli USA per 5.000 km",
-      "summary": "Un Cessna modificato ha completato una traversata storica di 5.150 km attraverso gli Stati Uniti, volando in totale autonomia e rendendo oma…",
-      "fullSummary": "Un Cessna modificato ha completato una traversata storica di 5.150 km attraverso gli Stati Uniti, volando in totale autonomia e rendendo omaggio al primo volo dei fratelli Wright.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/motori/primo-volo-autonomo-coast-to-coast-un-cessna-senza-pilota-attraversa-gli-usa-per-oltre-5-000-km"
     }
   ]
 }
