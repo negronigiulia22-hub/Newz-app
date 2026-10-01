@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-01T05:06:15.033Z",
+  "generatedAt": "2026-10-01T12:50:01.930Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Perché il disegno di legge sull&#8217;antisemitismo sta creando tanta agitazione",
+      "summary": "Soprattutto nel centrosinistra: il merito riguarda una definizione da adottare, ma c'è anche la tattica politica",
+      "fullSummary": "Soprattutto nel centrosinistra: il merito riguarda una definizione da adottare, ma c'è anche la tattica politica",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/01/ddl-antisemitismo-definizione-ihra-gerusalemme-pd/"
+    },
     {
       "cat": "politica",
       "title": "Alessandro Di Battista ha detto di essere stato operato per un tumore cerebrale",
@@ -26,76 +34,76 @@
       "url": "https://www.ilpost.it/2026/09/28/risultati-elezioni-suppletive-reggio-calabria-diretta-vannacci-futuro-nazionale-giannetta/"
     },
     {
-      "cat": "politica",
-      "title": "Tajani dice che ci vorrebbe «molta più rigidità» da parte della magistratura",
-      "summary": "E che per garantire la sicurezza bisognerebbe «colpirne uno per educarne cento»",
-      "fullSummary": "E che per garantire la sicurezza bisognerebbe «colpirne uno per educarne cento»",
+      "cat": "mondo",
+      "title": "L&#8217;esercito israeliano ha pubblicato una lunga lettera per criticare il film NAZA e i registi che lo hanno diretto",
+      "summary": "",
+      "fullSummary": "Giovedì l’esercito israeliano ha reso pubblico un lungo documento di dieci pagine, caratterizzato da toni particolarmente duri, per contestare apertamente il film documentario intitolato NAZA e criticare i suoi due registi, Yuval Abraham e Rachel Szor. Nel testo, le autorità militari accusano i realizzatori dell’opera di aver divulgato notizie del tutto false e infamanti nei confronti delle forze armate.\n\nAl centro della contestazione vi è il tema trattato nel documentario, che descrive un sistema automatizzato mediante il quale, nel corso degli ultimi tre anni, diversi membri dell’esercito avrebbero ucciso decine di migliaia di civili palestinesi nella Striscia di Gaza. Nel tentativo di confutare tale ricostruzione, l’esercito israeliano ha affermato di seguire direttive precise e vincolanti create appositamente per distinguere in modo esplicito, completo e chiaro tra combattenti e civili non coinvolti. Inoltre, le forze armate hanno respinto come falsa l’accusa formulata dai registi secondo cui sarebbero stati pianificati, approvati ed eseguiti attacchi a Gaza mettendo preventivamente in conto la morte di 500 civili.\n\nL'opera cinematografica NAZA si trova da settimane al centro dell'attenzione del dibattito pubblico internazionale, sia per la vittoria del Premio speciale della giuria alla Mostra del Cinema di Venezia, sia a causa della violenta reazione suscitata in Israele. Il film è stato realizzato raccogliendo le testimonianze anonime di ventiquattro persone tra soldati e componenti dell’intelligence israeliana, che riferiscono la normalizzazione dei massacri compiuti nella Striscia di Gaza successivamente al 7 ottobre 2023, data in cui Hamas ha ucciso 1.200 persone, in larga maggioranza civili, in territorio israeliano. Infine, il titolo dell'opera riprende un'espressione coniata dallo stesso esercito israeliano e tratta dalle parole ebraiche nezek agavi, il cui significato letterale è “danno collaterale”.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/26/tajani-magistratura/"
+      "url": "https://www.ilpost.it/2026/10/01/lettera-esercito-israeliano-risposta-naza/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;Italia prorogherà per almeno altre due settimane i controlli per chi arriva dalla Spagna, ha detto Piantedosi",
-      "summary": "",
-      "fullSummary": "L&#8217;Italia prorogherà per almeno altre due settimane i controlli per chi arriva dalla Spagna, ha detto Piantedosi",
+      "title": "Jaan Roose non sa rimanere coi piedi per terra",
+      "summary": "Preferisce stare a mezz'aria, percorrendo lunghe distanze su una fettuccia sottilissima: giovedì lo ha fatto a Seul",
+      "fullSummary": "Preferisce stare a mezz'aria, percorrendo lunghe distanze su una fettuccia sottilissima: giovedì lo ha fatto a Seul",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/controlli-proroga-spagna-italia/"
+      "url": "https://www.ilpost.it/2026/10/01/jaan-roose-slackline-seul/"
     },
     {
       "cat": "mondo",
-      "title": "Tra l&#8217;Italia e l&#8217;Egitto c&#8217;è di mezzo anche un altro caso diplomatico",
-      "summary": "Quello di Nessy Guerra, una 27enne bloccata lì con la figlia: l'ha citata il ministro Tajani per spiegare le sue dichiarazioni sulla sentenz…",
-      "fullSummary": "Quello di Nessy Guerra, una 27enne bloccata lì con la figlia: l'ha citata il ministro Tajani per spiegare le sue dichiarazioni sulla sentenza Regeni",
+      "title": "Cosa è successo sul volo fra Dubai e Tel Aviv",
+      "summary": "Un pilota ha accoltellato l'altro, ha tentato di far precipitare l'aereo ed è stato fermato dai passeggeri, tutti illesi",
+      "fullSummary": "Un pilota ha accoltellato l'altro, ha tentato di far precipitare l'aereo ed è stato fermato dai passeggeri, tutti illesi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/italia-egitto-nessy-guerra-giulio-regeni/"
+      "url": "https://www.ilpost.it/2026/10/01/volo-dubai-tel-aviv-cosa-successo/"
     },
     {
       "cat": "mondo",
-      "title": "Secondo il primo ministro britannico, l’Iran sarebbe coinvolto nel presunto piano per attaccare la base RAF Fairford",
-      "summary": "",
-      "fullSummary": "Secondo il primo ministro britannico, l’Iran sarebbe coinvolto nel presunto piano per attaccare la base RAF Fairford",
+      "title": "Le cose da chiarire sul tentativo di attentato sul volo per Tel Aviv",
+      "summary": "Le motivazioni non sono ancora state accertate, così come alcuni dettagli su quanto accaduto a bordo dell'aereo",
+      "fullSummary": "Le motivazioni non sono ancora state accertate, così come alcuni dettagli su quanto accaduto a bordo dell'aereo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/raf-fairford-uomo-arrestato-telefonata-polizia/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il parlamento della Romania ha negato la fiducia al terzo primo ministro nominato in cinque mesi",
-      "summary": "",
-      "fullSummary": "Il parlamento della Romania ha negato la fiducia al terzo primo ministro nominato in cinque mesi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/romania-parlamento-siegfried-muresan-nicusor-dan/"
+      "url": "https://www.ilpost.it/2026/10/01/tentato-dirottamento-volo-flydubai-dubai-tel-aviv-cosa-non-sappiamo/"
     },
     {
       "cat": "sport",
-      "title": "La WNBA ha perso &#8220;Spettacolo&#8221;",
-      "summary": "Cioè Olivia Miles: una giocatrice entusiasmante, la cui squadra di basket è stata eliminata ai playoff",
-      "fullSummary": "Cioè Olivia Miles: una giocatrice entusiasmante, la cui squadra di basket è stata eliminata ai playoff",
+      "title": "«Arsène chi?»",
+      "summary": "Se lo chiese un giornale inglese quando l’Arsenal annunciò Arsène Wenger come allenatore: andò molto meglio del previsto",
+      "fullSummary": "Se lo chiese un giornale inglese quando l’Arsenal annunciò Arsène Wenger come allenatore: andò molto meglio del previsto",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/olivia-miles-wnba-chi-e-minnesota-lynx-eliminate-new-york-liberty/"
+      "url": "https://www.ilpost.it/2026/10/01/arsene-wenger-arsenal-calcio-inglese/"
     },
     {
       "cat": "sport",
-      "title": "Yankees e Red Sox non si sopportano da oltre cent&#8217;anni",
-      "summary": "La rivalità tra le squadre di baseball di New York e Boston è perfino più vecchia del baseball",
-      "fullSummary": "La rivalità tra le squadre di baseball di New York e Boston è perfino più vecchia del baseball",
+      "title": "Jaan Roose non sa rimanere coi piedi per terra",
+      "summary": "Preferisce stare a mezz'aria, percorrendo lunghe distanze su una fettuccia sottilissima: giovedì lo ha fatto a Seul",
+      "fullSummary": "Preferisce stare a mezz'aria, percorrendo lunghe distanze su una fettuccia sottilissima: giovedì lo ha fatto a Seul",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/new-york-yankees-boston-red-sox-rivalita-storia-major-league-playoff-2026/"
+      "url": "https://www.ilpost.it/2026/10/01/jaan-roose-slackline-seul/"
     },
     {
       "cat": "sport",
-      "title": "La Formula 1 tornerà a Imola?",
-      "summary": "Potrebbe succedere il 6 dicembre, in quello che sarebbe l'ultimo Gran Premio dell'anno, ma non c'è ancora niente di deciso",
-      "fullSummary": "Potrebbe succedere il 6 dicembre, in quello che sarebbe l'ultimo Gran Premio dell'anno, ma non c'è ancora niente di deciso",
+      "title": "Gli stadi italiani per gli Europei del 2032 sono troppo vecchi o non esistono",
+      "summary": "Dei 14 impianti che l'Italia ha proposto molti sono da rinnovare e altri sono solo dei render, o nemmeno quelli",
+      "fullSummary": "Dei 14 impianti che l'Italia ha proposto molti sono da rinnovare e altri sono solo dei render, o nemmeno quelli",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/30/imola-formula-1-cosa-sappiamo/"
+      "url": "https://www.ilpost.it/2026/10/01/italia-stadi-euro-2032-problemi/"
     },
     {
       "cat": "sport",
-      "title": "La Premier League ha pubblicato le motivazioni del verdetto contro il Manchester City per irregolarità finanziarie",
-      "summary": "",
-      "fullSummary": "La Premier League ha pubblicato le motivazioni del verdetto contro il Manchester City per irregolarità finanziarie",
+      "title": "La classifica di un girone di calcio decisa da un sorteggio",
+      "summary": "In Coppa del Golfo, con due squadre a pari merito anche nei cartellini gialli, e solo perché un calciatore si è tolto la maglia dopo un gol",
+      "fullSummary": "In Coppa del Golfo, con due squadre a pari merito anche nei cartellini gialli, e solo perché un calciatore si è tolto la maglia dopo un gol",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/29/manchester-city-violazioni-norme-premier-league/"
+      "url": "https://www.ilpost.it/2026/10/01/coppa-del-golfo-oman-iraq-sorteggio/"
+    },
+    {
+      "cat": "scienza",
+      "title": "La Luna del Raccolto tra Nicosia e l&#039;Etna",
+      "summary": "Uno scatto composito, immortalato in Sicilia, mostra il sorgere della Luna piena tra la Cintura di Venere e le ceneri dell&#039;Etna in eruz…",
+      "fullSummary": "Uno scatto composito, immortalato in Sicilia, mostra il sorgere della Luna piena tra la Cintura di Venere e le ceneri dell&#039;Etna in eruzione.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/la-luna-del-raccolto-tra-nicosia-e-l-etna-uno-scatto-italiano-scelto-dalla-nasa-come-foto-del-giorno"
     },
     {
       "cat": "scienza",
@@ -122,12 +130,12 @@
       "url": "https://www.focus.it/scienza/salute/trapianti-i-cuori-piu-anziani-ringiovaniscono-nei-riceventi-piu-giovani"
     },
     {
-      "cat": "scienza",
-      "title": "Perché non dovremmo mai bere il caffè bollente",
-      "summary": "Bere t&amp;egrave; o caff&amp;egrave; molto caldi triplica il rischio di carcinoma squamocellulare dell&#039;esofago. Il problema non &amp;e…",
-      "fullSummary": "Bere t&amp;egrave; o caff&amp;egrave; molto caldi triplica il rischio di carcinoma squamocellulare dell&#039;esofago. Il problema non &amp;egrave; il caff&amp;egrave; in s&amp;eacute;, ma il danno termico sulla mucosa. La buona notizia? Basta aspettare pochi minuti prima di fare un sorso.",
+      "cat": "storia",
+      "title": "Pompei è un &quot;orologio geologico&quot;",
+      "summary": "L&#039;analisi di campioni di sanidino, un minerale ricco di potassio prelevato a Pompei, trasforma l&#039;eruzione del Vesuvio in un &quot;…",
+      "fullSummary": "L&#039;analisi di campioni di sanidino, un minerale ricco di potassio prelevato a Pompei, trasforma l&#039;eruzione del Vesuvio in un &quot;orologio geologico&quot;.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/caffe-bollente-e-tumore-all-esofago-perche-il-rischio-aumenta-e-non-dipende-dalla-bevanda"
+      "url": "https://www.focus.it/cultura/storia/pompei-e-una-macchina-del-tempo-le-ceneri-del-vesuvio-svelano-i-segreti-della-terra"
     },
     {
       "cat": "storia",
@@ -154,20 +162,12 @@
       "url": "https://www.focus.it/cultura/storia/i-luoghi-della-bibbia-esistono-davvero-cosa-hanno-scoperto-gli-archeologi-e-cosa-resta-un-mistero"
     },
     {
-      "cat": "storia",
-      "title": "Come si svolgevano davvero i funerali vichinghi?",
-      "summary": "Hollywood ci ha mostrato funerali vichinghi spettacolari, con frecce infuocate scoccate a colpite il defunto su navi in mezzo al mare: ma la…",
-      "fullSummary": "Hollywood ci ha mostrato funerali vichinghi spettacolari, con frecce infuocate scoccate a colpite il defunto su navi in mezzo al mare: ma la storia vera cosa ci racconta?",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/i-funerali-vichinghi-non-erano-come-li-abbiamo-visti-al-cinema"
-    },
-    {
       "cat": "tech",
       "title": "Esiste un aeroporto senza aria condizionata",
       "summary": "Niente aria condizionata quando si arriva all&#039;aeroporto della Riunione: grazie a un&#039;architettura sostenibile, bollette ed emission…",
       "fullSummary": "Niente aria condizionata quando si arriva all&#039;aeroporto della Riunione: grazie a un&#039;architettura sostenibile, bollette ed emissioni di CO2 calano drasticamente. E in Europa?",
       "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/innovazione/in-attesa-immagine-su-un-isola-tropicale-c-e-un-aeroporto-senza-aria-condizionata"
+      "url": "https://www.focus.it/tecnologia/innovazione/isola-tropicale-aeroporto-senza-aria-condizionata"
     },
     {
       "cat": "tech",
