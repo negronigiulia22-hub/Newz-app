@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T17:44:15.395Z",
+  "generatedAt": "2026-10-02T22:02:11.091Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,14 @@
     },
     {
       "cat": "mondo",
+      "title": "In Spagna il parlamento ha bocciato i decreti contro la crisi abitativa",
+      "summary": "Quelli voluti dal governo dopo lo sfratto di una donna anziana dalla sua casa di Madrid: e ora Pedro Sánchez potrebbe anticipare le elezioni",
+      "fullSummary": "Quelli voluti dal governo dopo lo sfratto di una donna anziana dalla sua casa di Madrid: e ora Pedro Sánchez potrebbe anticipare le elezioni",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/02/spagna-respinti-decreti-casa-proteste-maricarmen-abascal/"
+    },
+    {
+      "cat": "mondo",
       "title": "I bombardamenti russi hanno limitato il transito su tre ponti a Kyiv, con grossi disagi per il traffico",
       "summary": "",
       "fullSummary": "I bombardamenti russi hanno limitato il transito su tre ponti a Kyiv, con grossi disagi per il traffico",
@@ -58,12 +66,12 @@
       "url": "https://www.ilpost.it/2026/10/02/inflazione-settembre-europa/"
     },
     {
-      "cat": "mondo",
-      "title": "Trump sta mandando nuove navi da guerra verso l&#8217;Iran",
-      "summary": "E ha parlato della possibilità di riprendere gli attacchi dopo le elezioni di metà mandato che si terranno negli Stati Uniti a inizio novemb…",
-      "fullSummary": "E ha parlato della possibilità di riprendere gli attacchi dopo le elezioni di metà mandato che si terranno negli Stati Uniti a inizio novembre",
+      "cat": "sport",
+      "title": "Il Gran Premio del Bahrein è in Malaysia",
+      "summary": "A causa della guerra in Medio Oriente e per ragioni di geografia, politica e interessi della Formula 1",
+      "fullSummary": "A causa della guerra in Medio Oriente e per ragioni di geografia, politica e interessi della Formula 1",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/02/trump-portaerei-iran-medio-oriente/"
+      "url": "https://www.ilpost.it/2026/10/02/perche-gran-premio-bahrein-in-malaysia/"
     },
     {
       "cat": "sport",
@@ -88,14 +96,6 @@
       "fullSummary": "Dal 2027 tutti i tornei WTA 1000 con un equivalente maschile, tra cui gli Internazionali d'Italia, avranno lo stesso montepremi per uomini e donne",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/02/tennis-femminile-parita-montepremi-maschile/"
-    },
-    {
-      "cat": "sport",
-      "title": "Zidane ha detto di non avere rimorsi per la testata a Materazzi",
-      "summary": "L'allenatore della Francia ne ha parlato prima della partita contro l'Italia",
-      "fullSummary": "L'allenatore della Francia ne ha parlato prima della partita contro l'Italia",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/02/zinedine-zidane-testata-a-materazzi-italia-francia-nations-league/"
     },
     {
       "cat": "scienza",
