@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-02T09:36:31.524Z",
+  "generatedAt": "2026-10-02T17:44:15.395Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Storia e ambizioni di Alessandro Onorato",
+      "summary": "Chi è l'assessore romano che sta cercando di affermarsi a livello nazionale nel centro del centrosinistra",
+      "fullSummary": "Chi è l'assessore romano che sta cercando di affermarsi a livello nazionale nel centro del centrosinistra",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/02/alessandro-onorato-progetto-civico-centro-primarie/"
+    },
+    {
+      "cat": "politica",
+      "title": "L&#8217;ex capo della polizia Franco Gabrielli ha deciso di entrare in politica",
+      "summary": "In un'intervista al Corriere della Sera ha detto che parteciperà al nuovo progetto di Ernesto Maria Ruffini",
+      "fullSummary": "In un'intervista al Corriere della Sera ha detto che parteciperà al nuovo progetto di Ernesto Maria Ruffini",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/02/franco-gabrielli-impegno-politico-discesa-in-campo/"
+    },
+    {
+      "cat": "politica",
+      "title": "Le destre vanno matte per i contenuti fatti con l&#8217;AI",
+      "summary": "Da Vannacci all'AfD, i partiti stanno usando sempre più massicciamente video e immagini dozzinali per le loro campagne elettorali",
+      "fullSummary": "Da Vannacci all'AfD, i partiti stanno usando sempre più massicciamente video e immagini dozzinali per le loro campagne elettorali",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/01/ai-comunicazione-destra/"
+    },
     {
       "cat": "politica",
       "title": "Perché il disegno di legge sull&#8217;antisemitismo sta creando tanta agitazione",
@@ -10,92 +34,68 @@
       "url": "https://www.ilpost.it/2026/10/01/ddl-antisemitismo-definizione-ihra-gerusalemme-pd/"
     },
     {
-      "cat": "politica",
-      "title": "Alessandro Di Battista ha detto di essere stato operato per un tumore cerebrale",
-      "summary": "L'ex deputato del Movimento 5 Stelle ha raccontato per la prima volta a \"DiMartedì\" il malore avuto a Cuba",
-      "fullSummary": "L'ex deputato del Movimento 5 Stelle ha raccontato per la prima volta a \"DiMartedì\" il malore avuto a Cuba",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/29/alessandro-di-battista-edema-tumore/"
-    },
-    {
-      "cat": "politica",
-      "title": "Cosa ha fatto Conte su difesa e riarmo quando era al governo",
-      "summary": "Aumentò la spesa e altre cose sorprendenti, a guardare quello che dice oggi",
-      "fullSummary": "Aumentò la spesa e altre cose sorprendenti, a guardare quello che dice oggi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/29/conte-spese-militari-ucraina-difesa-m5s-primarie/"
-    },
-    {
-      "cat": "politica",
-      "title": "Alle elezioni suppletive di Reggio Calabria ha vinto il centrodestra",
-      "summary": "Con Fabio Roscioli di Forza Italia, che non ha risentito della concorrenza di Domenico Giannetta di Futuro Nazionale",
-      "fullSummary": "Con Fabio Roscioli di Forza Italia, che non ha risentito della concorrenza di Domenico Giannetta di Futuro Nazionale",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/09/28/risultati-elezioni-suppletive-reggio-calabria-diretta-vannacci-futuro-nazionale-giannetta/"
-    },
-    {
       "cat": "mondo",
-      "title": "L&#8217;esercito israeliano ha pubblicato una lunga lettera per criticare il film NAZA e i registi che lo hanno diretto",
+      "title": "I bombardamenti russi hanno limitato il transito su tre ponti a Kyiv, con grossi disagi per il traffico",
       "summary": "",
-      "fullSummary": "L&#8217;esercito israeliano ha pubblicato una lunga lettera per criticare il film NAZA e i registi che lo hanno diretto",
+      "fullSummary": "I bombardamenti russi hanno limitato il transito su tre ponti a Kyiv, con grossi disagi per il traffico",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/lettera-esercito-israeliano-risposta-naza/"
+      "url": "https://www.ilpost.it/2026/10/02/bombardamenti-russi-traffico-ponti-kyiv/"
     },
     {
       "cat": "mondo",
-      "title": "Jaan Roose non sa rimanere coi piedi per terra",
-      "summary": "Preferisce stare a mezz'aria, percorrendo lunghe distanze su una fettuccia sottilissima: giovedì lo ha fatto a Seul",
-      "fullSummary": "Preferisce stare a mezz'aria, percorrendo lunghe distanze su una fettuccia sottilissima: giovedì lo ha fatto a Seul",
+      "title": "Lula sta facendo campagna contro",
+      "summary": "Il rallentamento dell’economia ha spinto il presidente brasiliano a puntare sulle critiche ai suoi avversari, invece che sulle proposte",
+      "fullSummary": "Il rallentamento dell’economia ha spinto il presidente brasiliano a puntare sulle critiche ai suoi avversari, invece che sulle proposte",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/jaan-roose-slackline-seul/"
+      "url": "https://www.ilpost.it/2026/10/02/terzo-mandato-lula-bilancio/"
     },
     {
       "cat": "mondo",
-      "title": "Cosa è successo sul volo fra Dubai e Tel Aviv",
-      "summary": "Un pilota ha accoltellato l'altro, ha tentato di far precipitare l'aereo ed è stato fermato dai passeggeri, tutti illesi",
-      "fullSummary": "Un pilota ha accoltellato l'altro, ha tentato di far precipitare l'aereo ed è stato fermato dai passeggeri, tutti illesi",
+      "title": "A settembre nei paesi dell’eurozona l’inflazione è salita al 3,8 per cento: è il livello più alto degli ultimi tre anni",
+      "summary": "",
+      "fullSummary": "A settembre nei paesi dell’eurozona l’inflazione è salita al 3,8 per cento: è il livello più alto degli ultimi tre anni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/volo-dubai-tel-aviv-cosa-successo/"
+      "url": "https://www.ilpost.it/2026/10/02/inflazione-settembre-europa/"
     },
     {
       "cat": "mondo",
-      "title": "Le cose da chiarire sul tentativo di attentato sul volo per Tel Aviv",
-      "summary": "Le motivazioni non sono ancora state accertate, così come alcuni dettagli su quanto accaduto a bordo dell'aereo",
-      "fullSummary": "Le motivazioni non sono ancora state accertate, così come alcuni dettagli su quanto accaduto a bordo dell'aereo",
+      "title": "Trump sta mandando nuove navi da guerra verso l&#8217;Iran",
+      "summary": "E ha parlato della possibilità di riprendere gli attacchi dopo le elezioni di metà mandato che si terranno negli Stati Uniti a inizio novemb…",
+      "fullSummary": "E ha parlato della possibilità di riprendere gli attacchi dopo le elezioni di metà mandato che si terranno negli Stati Uniti a inizio novembre",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/tentato-dirottamento-volo-flydubai-dubai-tel-aviv-cosa-non-sappiamo/"
+      "url": "https://www.ilpost.it/2026/10/02/trump-portaerei-iran-medio-oriente/"
     },
     {
       "cat": "sport",
-      "title": "«Arsène chi?»",
-      "summary": "Se lo chiese un giornale inglese quando l’Arsenal annunciò Arsène Wenger come allenatore: andò molto meglio del previsto",
-      "fullSummary": "Se lo chiese un giornale inglese quando l’Arsenal annunciò Arsène Wenger come allenatore: andò molto meglio del previsto",
+      "title": "Il Manchester City ha fatto ricorso dopo essere stato giudicato colpevole di irregolarità finanziarie",
+      "summary": "",
+      "fullSummary": "Il Manchester City ha fatto ricorso dopo essere stato giudicato colpevole di irregolarità finanziarie",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/arsene-wenger-arsenal-calcio-inglese/"
+      "url": "https://www.ilpost.it/2026/10/02/manchester-city-appello-premier-league-irregolarita-finanziarie/"
     },
     {
       "cat": "sport",
-      "title": "Jaan Roose non sa rimanere coi piedi per terra",
-      "summary": "Preferisce stare a mezz'aria, percorrendo lunghe distanze su una fettuccia sottilissima: giovedì lo ha fatto a Seul",
-      "fullSummary": "Preferisce stare a mezz'aria, percorrendo lunghe distanze su una fettuccia sottilissima: giovedì lo ha fatto a Seul",
+      "title": "Nella Serie A femminile ci sono due Como",
+      "summary": "Che non giocano a Como e non avevano mai giocato prima nello stesso campionato",
+      "fullSummary": "Che non giocano a Como e non avevano mai giocato prima nello stesso campionato",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/jaan-roose-slackline-seul/"
+      "url": "https://www.ilpost.it/2026/10/02/como-1907-como-women-calcio-femminile/"
     },
     {
       "cat": "sport",
-      "title": "Gli stadi italiani per gli Europei del 2032 sono troppo vecchi o non esistono",
-      "summary": "Dei 14 impianti che l'Italia ha proposto molti sono da rinnovare e altri sono solo dei render, o nemmeno quelli",
-      "fullSummary": "Dei 14 impianti che l'Italia ha proposto molti sono da rinnovare e altri sono solo dei render, o nemmeno quelli",
+      "title": "Un nuovo passo verso la parità dei premi nel tennis femminile",
+      "summary": "Dal 2027 tutti i tornei WTA 1000 con un equivalente maschile, tra cui gli Internazionali d'Italia, avranno lo stesso montepremi per uomini e…",
+      "fullSummary": "Dal 2027 tutti i tornei WTA 1000 con un equivalente maschile, tra cui gli Internazionali d'Italia, avranno lo stesso montepremi per uomini e donne",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/italia-stadi-euro-2032-problemi/"
+      "url": "https://www.ilpost.it/2026/10/02/tennis-femminile-parita-montepremi-maschile/"
     },
     {
       "cat": "sport",
-      "title": "La classifica di un girone di calcio decisa da un sorteggio",
-      "summary": "In Coppa del Golfo, con due squadre a pari merito anche nei cartellini gialli, e solo perché un calciatore si è tolto la maglia dopo un gol",
-      "fullSummary": "In Coppa del Golfo, con due squadre a pari merito anche nei cartellini gialli, e solo perché un calciatore si è tolto la maglia dopo un gol",
+      "title": "Zidane ha detto di non avere rimorsi per la testata a Materazzi",
+      "summary": "L'allenatore della Francia ne ha parlato prima della partita contro l'Italia",
+      "fullSummary": "L'allenatore della Francia ne ha parlato prima della partita contro l'Italia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/coppa-del-golfo-oman-iraq-sorteggio/"
+      "url": "https://www.ilpost.it/2026/10/02/zinedine-zidane-testata-a-materazzi-italia-francia-nations-league/"
     },
     {
       "cat": "scienza",
@@ -131,6 +131,14 @@
     },
     {
       "cat": "storia",
+      "title": "Quando fu l’ultima condanna a morte in Italia?",
+      "summary": "Il 4 marzo 1947 venivano condannati a morte a Torino i tre responsabili della strage di Villarbasse. Un delitto atroce che segn&amp;ograve; …",
+      "fullSummary": "Il 4 marzo 1947 venivano condannati a morte a Torino i tre responsabili della strage di Villarbasse. Un delitto atroce che segn&amp;ograve; la fine della pena capitale prima dell&#039;entrata in vigore della Costituzione.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/quando-fu-eseguita-l-ultima-condanna-a-morte-in-italia"
+    },
+    {
+      "cat": "storia",
       "title": "Dove sono sepolti Antonio e Cleopatra?",
       "summary": "Antonio e Cleopatra: uniti nella vita, nel suicidio e in un&#039;eterna sepoltura segreta. Dalle rovine sommerse di Alessandria ai tunnel so…",
       "fullSummary": "Antonio e Cleopatra: uniti nella vita, nel suicidio e in un&#039;eterna sepoltura segreta. Dalle rovine sommerse di Alessandria ai tunnel sotterranei di Taposiris Magna, la caccia ai resti degli amanti pi&amp;ugrave; famosi della Storia continua.",
@@ -152,14 +160,6 @@
       "fullSummary": "Brevettato nel 1916 ma lanciato a New York gi&amp;agrave; nel 1915, l&#039;Autoped fu il capostipite del monopattino. Utilizzato persino da polizia e postini, prometteva agilit&amp;agrave; nel traffico cittadino oltre un secolo fa.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/curiosita/quando-e-nato-il-primo-monopattino-elettrico-l-invenzione-di-inizio-novecento-che-ha-anticipato-la-micromobilita"
-    },
-    {
-      "cat": "storia",
-      "title": "Quante toilette ci sono nello Spazio?",
-      "summary": "Dalle sei toilette permanenti tra ISS e stazione cinese fino ai modelli compatti ad aspirazione installati sulle navicelle: ecco la tecnolog…",
-      "fullSummary": "All'interno dello spazio, le toilette permanenti sono complessivamente sei. Di queste, quattro si trovano stabilmente a bordo della Stazione Spaziale Internazionale, mentre le altre due sono installate sulla stazione cinese Tiangong. A questo nucleo principale di strutture fisse si devono aggiungere, di volta in volta, le toilette che si trovano a bordo delle varie capsule spaziali inviate in missione. Tra i veicoli citati figurano capsule come Orion, Crew Dragon, Sojuz oppure Shenzhou. Dal momento che la presenza di tali veicoli spaziali dipende dalle missioni attive nei diversi periodi, il numero complessivo dei servizi igienici nello spazio non rimane sempre uguale, ma varia nel tempo, assestandosi in media attorno a una decina.\n\nLa gestione dei bisogni fisiologici nello spazio si avvale di una tecnologia delicata, dovendo operare in un contesto caratterizzato dalla completa assenza di peso. In tali circostanze, infatti, le toilette non funzionano mediante l'impiego dell'acqua, bensì sfruttano correnti e flussi d'aria appositamente generati. Questo flusso aereo ha la funzione primaria di trasportare e convogliare l'urina e i diversi materiali di scarto verso specifici sistemi deputati alla raccolta e al successivo smaltimento dei rifiuti.\n\nTra i modelli tecnologicamente più avanzati sviluppati per questo scopo viene segnalato lo Universal Waste Management System, realizzato dalla Nasa. Si tratta di un dispositivo molto compatto, progettato per garantire una notevole versatilità e per poter essere agevolmente adattato a bordo di differenti tipologie di navicelle. Per migliorare sia il comfort sia l'efficienza d'uso, questo apparato adotta un sedile rinnovato e un sistema di aspirazione. Tuttavia, le fasi iniziali di impiego di questa tecnologia hanno fatto registrare alcuni piccoli inconvenienti tecnici, che sono stati comunque prontamente risolti. Fra i problemi riscontrati figurano, nello specifico, un guasto che ha colpito il controllo della ventola e il fenomeno del congelamento dell'urina verificatosi lungo le linee di scarico.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/quante-toilette-ci-sono-nello-spazio"
     },
     {
       "cat": "tech",
