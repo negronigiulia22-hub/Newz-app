@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T04:38:16.910Z",
+  "generatedAt": "2026-10-03T11:27:40.010Z",
   "items": [
     {
       "cat": "politica",
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "L&#8217;ex capo della polizia Franco Gabrielli ha deciso di entrare in politica",
       "summary": "In un'intervista al Corriere della Sera ha detto che parteciperà al nuovo progetto di Ernesto Maria Ruffini",
-      "fullSummary": "In un'intervista al Corriere della Sera ha detto che parteciperà al nuovo progetto di Ernesto Maria Ruffini",
+      "fullSummary": "Franco Gabrielli, già a capo della polizia, della Digos di Roma, dell’intelligence e della Protezione Civile, ha deciso di entrare in politica partecipando al nuovo progetto promosso da Ernesto Maria Ruffini, ex direttore dell’Agenzia delle Entrate e attuale guida dei comitati civici Più Uno. La nuova formazione, nata in vista delle elezioni del 2027 e collocata nell’area del centrosinistra, verrà presentata ufficialmente sabato 10 ottobre a Roma.\n\nIn un’intervista rilasciata ad Aldo Cazzullo sul Corriere della Sera, Gabrielli ha spiegato di aver scelto di impegnarsi direttamente nella costruzione di una nuova idea di paese, escludendo l'attesa di un futuro incarico governativo. Sebbene il suo ruolo specifico non sia ancora stato definito, Gabrielli ha ricordato la sua passata esperienza dai 14 ai 24 anni nel movimento giovanile della Democrazia Cristiana, partito centrista al potere dal dopoguerra ai primi anni Novanta, dove aveva ricoperto anche responsabilità di livello nazionale, oltre ai successivi ruoli di vertice nelle forze di polizia e nei servizi segreti.\n\nSul piano strategico, Gabrielli ha chiarito che il movimento non mira a porsi in equidistanza tra gli schieramenti o a costituire un centro isolato, ritenuto sterile, bensì intende collocarsi nel centrosinistra per renderlo più ampio, credibile e capace di governare, attraverso un’alleanza fondata su un programma condiviso e non sulla semplice contrapposizione ad avversari.\n\nDa tempo critico verso il governo di Giorgia Meloni in materia di sicurezza, Gabrielli aveva già illustrato le proprie idee sull’ordine pubblico e sulla gestione dell'immigrazione nel libro \"Contro la paura\", scritto con il giornalista di Repubblica Carlo Bonini. Tali questioni erano state discusse approfonditamente anche a Wilson, podcast del Post condotto da Francesco Costa, contesto nel quale Gabrielli aveva già manifestato la propria disponibilità a un impegno politico diretto.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/02/franco-gabrielli-impegno-politico-discesa-in-campo/"
     },
@@ -35,41 +35,49 @@
     },
     {
       "cat": "mondo",
-      "title": "In Spagna il parlamento ha bocciato i decreti contro la crisi abitativa",
-      "summary": "Quelli voluti dal governo dopo lo sfratto di una donna anziana dalla sua casa di Madrid: e ora Pedro Sánchez potrebbe anticipare le elezioni",
-      "fullSummary": "Quelli voluti dal governo dopo lo sfratto di una donna anziana dalla sua casa di Madrid: e ora Pedro Sánchez potrebbe anticipare le elezioni",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/02/spagna-respinti-decreti-casa-proteste-maricarmen-abascal/"
-    },
-    {
-      "cat": "mondo",
-      "title": "I bombardamenti russi hanno limitato il transito su tre ponti a Kyiv, con grossi disagi per il traffico",
+      "title": "Per la prima volta l&#8217;Ucraina ha usato un missile balistico di produzione nazionale contro la Russia",
       "summary": "",
-      "fullSummary": "I bombardamenti russi hanno limitato il transito su tre ponti a Kyiv, con grossi disagi per il traffico",
+      "fullSummary": "Per la prima volta l&#8217;Ucraina ha usato un missile balistico di produzione nazionale contro la Russia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/02/bombardamenti-russi-traffico-ponti-kyiv/"
+      "url": "https://www.ilpost.it/2026/10/03/missile-balistico-produzione-ucraina-zelensky/"
     },
     {
       "cat": "mondo",
-      "title": "Lula sta facendo campagna contro",
-      "summary": "Il rallentamento dell’economia ha spinto il presidente brasiliano a puntare sulle critiche ai suoi avversari, invece che sulle proposte",
-      "fullSummary": "Il rallentamento dell’economia ha spinto il presidente brasiliano a puntare sulle critiche ai suoi avversari, invece che sulle proposte",
+      "title": "Il limbo dei russi di Lettonia",
+      "summary": "Sono un quarto della popolazione e influenzano la politica, ma non tutti possono votare alle elezioni di sabato",
+      "fullSummary": "Sono un quarto della popolazione e influenzano la politica, ma non tutti possono votare alle elezioni di sabato",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/02/terzo-mandato-lula-bilancio/"
+      "url": "https://www.ilpost.it/2026/10/03/russi-lettonia-elezioni/"
     },
     {
       "cat": "mondo",
-      "title": "A settembre nei paesi dell’eurozona l’inflazione è salita al 3,8 per cento: è il livello più alto degli ultimi tre anni",
-      "summary": "",
-      "fullSummary": "A settembre nei paesi dell’eurozona l’inflazione è salita al 3,8 per cento: è il livello più alto degli ultimi tre anni",
+      "title": "Trump ora dice di essere in buoni rapporti con Meloni",
+      "summary": "Dopo mesi dal loro ultimo brutto litigio, ha risposto a un giornalista fuori dalla Casa Bianca che gli è «sempre piaciuta»",
+      "fullSummary": "Dopo mesi dal loro ultimo brutto litigio, ha risposto a un giornalista fuori dalla Casa Bianca che gli è «sempre piaciuta»",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/02/inflazione-settembre-europa/"
+      "url": "https://www.ilpost.it/2026/10/03/donald-trump-buoni-rapporti-giorgia-meloni/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Il copilota di Flydubai era stato sospeso in Oman per sospetto estremismo",
+      "summary": "Lo scrive il Wall Street Journal, aggiungendo che non è chiaro come l'uomo fosse riuscito a farsi assumere negli Emirati Arabi Uniti",
+      "fullSummary": "Secondo quanto riportato da diverse fonti giornalistiche, tra cui il Wall Street Journal, il copilota che mercoledì ha tentato di dirottare il volo 1073 di Flydubai da Dubai a Tel Aviv era stato precedentemente sospeso dal servizio di volo in Oman per il sospetto di estremismo. L’uomo, identificato come Hamam al-Hammami, era stato rimosso dall'addestramento da Oman Air e riassegnato a un altro incarico aziendale. Nato negli Emirati Arabi Uniti da padre omanita e madre siriana, l'uomo aveva lavorato per Oman Air e in seguito per la compagnia marocchina Royal Air Maroc, stando a quanto indicato in un suo profilo LinkedIn ormai cancellato.\n\nResta da chiarire come sia riuscito a farsi assumere da Flydubai e se l'Oman avesse informato altri paesi o compagnie aeree della propria decisione. Non è inoltre chiaro il motivo per cui si trovasse alla guida di un velivolo diretto in Israele: gli Accordi di Abramo impedirebbero ai piloti di stati privi di relazioni diplomatiche, come l'Oman, di atterrarvi. Tuttavia, la sicurezza israeliana delega il rispetto di tali disposizioni direttamente alle compagnie aeree. Né l’Oman né Flydubai hanno rilasciato dichiarazioni, mentre le autorità degli Emirati Arabi Uniti hanno rifiutato di commentare per non interferire con le indagini.\n\nSecondo il primo ministro israeliano Benjamin Netanyahu e fonti vicine alle indagini preliminari, il copilota avrebbe subìto un indottrinamento radicale islamista con lo scopo di far precipitare l'aereo. L'aggressione è avvenuta a circa tre quarti del percorso, quando l'uomo ha accoltellato il pilota nella cabina con l'ascia d'emergenza. Il velivolo ha perso quota rapidamente, ma è stato stabilizzato grazie all'azione di alcuni passeggeri e di due piloti fuori servizio, che sono infine riusciti a compiere un atterraggio d'emergenza in Arabia Saudita. Oltre al comandante ferito — un cittadino indiano ricoverato e fuori pericolo, intervenuto poi in una videochiamata televisiva con il premier Narendra Modi — si conta solo un passeggero lievemente ferito.",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/03/copilota-volo-flydubai-sospeso-oman-estremismo/"
+    },
+    {
+      "cat": "sport",
+      "title": "L&#8217;Italia ha pareggiato contro la Francia in Nations League",
+      "summary": "È finita 1-1, e la Nazionale se l'è giocata alla pari",
+      "fullSummary": "È finita 1-1, e la Nazionale se l'è giocata alla pari",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/02/italia-francia-nations-league-pareggio/"
     },
     {
       "cat": "sport",
       "title": "Il Gran Premio del Bahrein è in Malaysia",
       "summary": "A causa della guerra in Medio Oriente e per ragioni di geografia, politica e interessi della Formula 1",
-      "fullSummary": "A causa della guerra in Medio Oriente e per ragioni di geografia, politica e interessi della Formula 1",
+      "fullSummary": "Domenica 4 ottobre il circuito di Sepang, in Malaysia, ospita la sedicesima gara del Mondiale di Formula 1, denominata ufficialmente “Gran Premio del Bahrein in Malaysia”. L'evento era originariamente programmato per lo scorso aprile nel golfo Persico, ma era stato cancellato, insieme a quello in Arabia Saudita, a causa della guerra in Medio Oriente. A differenza della tappa saudita, la gara del Bahrein è stata riorganizzata in circa dieci settimane a oltre seimila chilometri di distanza.\n\nL'accordo ha soddisfatto le necessità di entrambe le parti. La Formula 1 doveva evitare di scendere sotto la soglia minima di 22 gare stagionali imposta dagli accordi commerciali con scuderie ed emittenti televisive, a fronte del rischio di perdere ulteriori appuntamenti mediorientali, tutelando al contempo cospicui introiti legati a sponsorizzazioni, diritti televisivi e quote annuali, stimate per il Bahrein in oltre 53 milioni di euro. Dal canto suo, il Bahrein ha voluto mantenere la visibilità dei propri sponsor e rafforzare il legame con la competizione, utilizzata dal paese per migliorare la propria immagine e nella quale partecipa attivamente, possedendo la totalità del gruppo McLaren tramite il proprio fondo sovrano.\n\nA Sepang sono state mantenute quasi tutte le consuetudini della gara originale: l’inno bahreinita, il sorvolo dell'aereo della compagnia Gulf Air, il tradizionale trofeo d'argento placcato d'oro e l'acqua di rose al posto dello champagne. La scelta della pista malese, già sede di Gran Premi tra il 1999 e il 2017, è stata favorita da ragioni logistiche, dalla vicinanza all'aeroporto, dalla presenza del Mondiale già in Asia e dagli ottimi rapporti personali tra i rispettivi sovrani. Per la Malaysia l’evento rappresenta un’opportunità economica vantaggiosa, dato che il Bahrein coprirà gran parte delle spese aggiuntive, stimate tra gli 8 e i 18 milioni di euro. La gara andrà in onda domenica dalle 9 su Sky Sport.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/02/perche-gran-premio-bahrein-in-malaysia/"
     },
@@ -90,12 +98,12 @@
       "url": "https://www.ilpost.it/2026/10/02/como-1907-como-women-calcio-femminile/"
     },
     {
-      "cat": "sport",
-      "title": "Un nuovo passo verso la parità dei premi nel tennis femminile",
-      "summary": "Dal 2027 tutti i tornei WTA 1000 con un equivalente maschile, tra cui gli Internazionali d'Italia, avranno lo stesso montepremi per uomini e…",
-      "fullSummary": "Dal 2027 tutti i tornei WTA 1000 con un equivalente maschile, tra cui gli Internazionali d'Italia, avranno lo stesso montepremi per uomini e donne",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/02/tennis-femminile-parita-montepremi-maschile/"
+      "cat": "scienza",
+      "title": "Dieta e sport, così si saluta il diabete di tipo 2",
+      "summary": "Allenamento e dieta ipocalorica hanno portato a remissione la metà dei casi di diabete di tipo 2 a esordio precoce, malattia in aumento nei …",
+      "fullSummary": "Allenamento e dieta ipocalorica hanno portato a remissione la metà dei casi di diabete di tipo 2 a esordio precoce, malattia in aumento nei giovani.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/invertire-il-diabete-di-tipo-2-si-puo-esercizio-e-dieta-ipocalorica-la-combinazione-vincente"
     },
     {
       "cat": "scienza",
@@ -109,7 +117,7 @@
       "cat": "scienza",
       "title": "Diamanti neri: così nasce il &quot;carbonado&quot;",
       "summary": "I diamanti di carbonado sono pietre porose e vecchie miliardi di anni. La loro nascita risale a un antico impatto che avrebbe innescato una …",
-      "fullSummary": "I diamanti di carbonado sono pietre porose e vecchie miliardi di anni. La loro nascita risale a un antico impatto che avrebbe innescato una rapida subduzione fino al mantello terrestre.",
+      "fullSummary": "Il \"carbonado\" è un diamante policristallino scuro e poroso, rinvenuto nei depositi alluvionali della Repubblica Centrafricana e dello stato brasiliano di Bahia, aree un tempo unite nel continente di Gondwana e poi separate dall'apertura dell'Atlantico nel Mesozoico. Denominata dai minatori brasiliani nel 1840, questa pietra vanta un’età compresa tra 2,8 e 3,6 miliardi di anni secondo le datazioni al piombo, ma la sua roccia madre non è mai stata individuata.\n\nPer decenni l'origine di queste formazioni è rimasta controversa, divisa tra ipotesi extraterrestri e modelli legati alla crosta o al mantello terrestre. Un recente studio condotto da Attila Demény, Péter Németh e colleghi su campioni della Formazione Tombador chiarisce il loro percorso geologico. L'analisi al microscopio ha svelato cristalli regolari e privi dei segni tipici di urti violenti. Inoltre, la superficie lucida e vetrosa ricopre una patina di anatasio (un minerale di titanio), indicando che la lucentezza non deriva da fusione meteoritica, ma dall'azione successiva di fluidi che hanno levigato insieme patina e diamante.\n\nLe analisi isotopiche mostrano che il carbonio proviene prevalentemente da antichi organismi viventi. Per spiegare come tale materia organica sia sprofondata senza cancellare i pori interni, i ricercatori ipotizzano una subduzione molto rapida, innescata sulla Terra giovane dall'impatto di corpi extraterrestri dal diametro di 100-200 chilometri. Nelle profondità del mantello, le forti pressioni hanno trasformato il materiale in diamante.\n\nInfine, la risalita del magma ha frantumato la roccia diamantifera portandola verso l'alto; altri minerali si sono infiltrati nei pori e l'erosione ha depositato i frammenti nei sedimenti alluvionali, dove i fluidi ne hanno rifinito la superficie. Il passaggio nel mantello è corroborato anche da precedenti osservazioni di diamanti di qualità gemma cresciuti su campioni di carbonado.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/scienze/diamanti-neri-una-teoria-spiega-le-loro-origini-tra-impatti-cosmici-e-viscere-della-terra"
     },
@@ -120,14 +128,6 @@
       "fullSummary": "Centinaia di caratteristiche di voce e linguaggio, elaborate dal machine learning, stimano in modo preciso età biologica, salute cognitiva e sociale.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/la-voce-e-un-orologio-preciso-di-come-invecchiamo"
-    },
-    {
-      "cat": "scienza",
-      "title": "Codice sconto Sorgenia: tutte le offerte luce e gas per risparmiare in bolletta",
-      "summary": "&lt;span id=&quot;docs-internal-guid-584e749d-7fff-55e2-85cb-da7f0824980e&quot;&gt;Scorri la lista e scegli il codice sconto Sorgenia che pr…",
-      "fullSummary": "&lt;span id=&quot;docs-internal-guid-584e749d-7fff-55e2-85cb-da7f0824980e&quot;&gt;Scorri la lista e scegli il codice sconto Sorgenia che preferisci. La selezione di Focus.it ti fa risparmiare&lt;/span&gt;",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/energia/codice-sconto-sorgenia-offerte-luce-e-gas"
     },
     {
       "cat": "storia",
@@ -141,7 +141,7 @@
       "cat": "storia",
       "title": "Dove sono sepolti Antonio e Cleopatra?",
       "summary": "Antonio e Cleopatra: uniti nella vita, nel suicidio e in un&#039;eterna sepoltura segreta. Dalle rovine sommerse di Alessandria ai tunnel so…",
-      "fullSummary": "Antonio e Cleopatra: uniti nella vita, nel suicidio e in un&#039;eterna sepoltura segreta. Dalle rovine sommerse di Alessandria ai tunnel sotterranei di Taposiris Magna, la caccia ai resti degli amanti pi&amp;ugrave; famosi della Storia continua.",
+      "fullSummary": "Dopo la disfatta della battaglia navale di Azio del 31 a.C. e il tramonto dell'Egitto tolemaico, Marco Antonio e Cleopatra si tolsero la vita nell'agosto del 30 a.C. Fonti storiche antiche come Plutarco, Svetonio e Cassio Dione testimoniano che Ottaviano concesse ai due amanti di essere imbalsamati e tumulati insieme con dignità regale nello stesso sepolcro. Tuttavia, il luogo esatto della sepoltura resta uno dei maggiori enigmi dell'archeologia.\n\nL'ipotesi iniziale collocava il loro mausoleo ad Alessandria d'Egitto, ma la città ha subito terremoti, incendi e sprofondamenti costieri. Le esplorazioni subacquee condotte da Franck Goddio tra la metà degli anni Novanta e i primi Duemila hanno svelato reperti e strutture portuali del quartiere reale sommerso, senza però individuare alcuna tomba dinastica.\n\nDal 2005 l'archeologa Kathleen Martínez concentra le sue ricerche a Taposiris Magna, santuario dedicato a Osiride e Iside situato a circa 48 chilometri a ovest di Alessandria. Secondo l'egittologo Zahi Hawass, la sovrana potrebbe aver scelto questo luogo sacro per proteggere le salme dalla distruzione dei Romani, identificando se stessa con Iside e Antonio con Osiride.\n\nNel corso delle indagini sono emerse testimonianze significative: un cunicolo lungo oltre 1.300 metri a 13 metri di profondità diretto verso il mare, ipotizzato come passaggio segreto per i corpi; una necropoli con corredi funerari; ceramiche; monete raffiguranti Cleopatra; una mummia con una lamina d'oro sulla lingua e una testa in alabastro somigliante all'ultima regina tolemaica. Nel 2025 sono state inoltre individuate strutture portuali sommerse allineate al tunnel. \n\nNonostante la ricchezza di questi elementi, la camera sepolcrale non è ancora stata rintracciata. Come ha precisato Hawass, finché non emergeranno dati certi, l'identificazione di Taposiris Magna come tomba definitiva della coppia rimane una supposizione priva di conferme risolutive.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/antonio-e-cleopatra-cercasi-dove-riposano-i-corpi-dei-due-amanti-suicidi"
     },
