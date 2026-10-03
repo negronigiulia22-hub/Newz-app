@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-03T20:51:04.356Z",
+  "generatedAt": "2026-10-03T23:40:01.325Z",
   "items": [
-    {
-      "cat": "politica",
-      "title": "Elly Schlein vuole un solo rivale alle primarie",
-      "summary": "E cioè Giuseppe Conte, ma dovrà convincere tutti gli altri a farsi da parte",
-      "fullSummary": "E cioè Giuseppe Conte, ma dovrà convincere tutti gli altri a farsi da parte",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/03/elly-schlein-primarie/"
-    },
     {
       "cat": "politica",
       "title": "Storia e ambizioni di Alessandro Onorato",
@@ -34,10 +26,18 @@
       "url": "https://www.ilpost.it/2026/10/01/ai-comunicazione-destra/"
     },
     {
+      "cat": "politica",
+      "title": "Perché il disegno di legge sull&#8217;antisemitismo sta creando tanta agitazione",
+      "summary": "Soprattutto nel centrosinistra: il merito riguarda una definizione da adottare, ma c'è anche la tattica politica",
+      "fullSummary": "Soprattutto nel centrosinistra: il merito riguarda una definizione da adottare, ma c'è anche la tattica politica",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/01/ddl-antisemitismo-definizione-ihra-gerusalemme-pd/"
+    },
+    {
       "cat": "mondo",
       "title": "Per la prima volta l&#8217;Ucraina ha usato un missile balistico di produzione nazionale contro la Russia",
       "summary": "",
-      "fullSummary": "Per la prima volta l&#8217;Ucraina ha usato un missile balistico di produzione nazionale contro la Russia",
+      "fullSummary": "Il presidente ucraino Volodymyr Zelensky ha dichiarato che per la prima volta l’esercito ucraino ha impiegato contro la Russia un missile balistico prodotto internamente, omettendo di specificare l’obiettivo dell’attacco. L’arma impiegata è un FP-7, missile a corto raggio sviluppato da Fire Point, la più avanzata azienda bellica del paese, progettato per colpire unicamente le regioni russe a ridosso del confine. La medesima azienda sta lavorando allo sviluppo del modello FP-9, più potente e capace di raggiungere bersagli situati a distanze maggiori, compresa Mosca.\n\nLa notizia giunge mentre la Russia continua a colpire con insistenza la capitale Kyiv prendendo di mira principalmente bersagli civili mediante due nuovi tipi di droni difficili da intercettare, fabbricati a migliaia ogni mese in un unico polo industriale. Anche se non ci si attende che l'FP-7 possa mutare in modo significativo l'andamento della guerra, l'arma potrebbe consentire all'Ucraina di distruggere i lanciamissili posizionati lungo la frontiera. Questo ridurrebbe i lanci nemici che Kyiv non riesce più a neutralizzare per via della scarsità globale e dei costi elevati dei missili statunitensi Patriot, di cui il presidente americano Donald Trump aveva promesso in estate la licenza di fabbricazione autonoma, salvo poi rimangiarsela.\n\nI missili balistici costituiscono i vettori per attacchi aerei più potenti grazie alla loro difficile intercettabilità e alla capacità di trasportare carichi più pesanti dei droni, che l'Ucraina sa già produrre molto rapidamente. Nel mondo solo trentuno paesi dispongono di tali armamenti e appena una dozzina è in grado di produrli. Finora Kyiv si era affidata ai missili balistici statunitensi ATACMS, ma sta cercando una progressiva autonomia da Washington a causa dei continui cambi di atteggiamento dell’amministrazione di Donald Trump verso il governo ucraino.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/03/missile-balistico-produzione-ucraina-zelensky/"
     },
