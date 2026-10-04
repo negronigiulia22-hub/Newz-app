@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-03T23:40:01.325Z",
+  "generatedAt": "2026-10-04T05:08:41.796Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Elly Schlein vuole un solo rivale alle primarie",
+      "summary": "E cioè Giuseppe Conte, ma dovrà convincere tutti gli altri a farsi da parte",
+      "fullSummary": "E cioè Giuseppe Conte, ma dovrà convincere tutti gli altri a farsi da parte",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/03/elly-schlein-primarie/"
+    },
     {
       "cat": "politica",
       "title": "Storia e ambizioni di Alessandro Onorato",
@@ -26,18 +34,10 @@
       "url": "https://www.ilpost.it/2026/10/01/ai-comunicazione-destra/"
     },
     {
-      "cat": "politica",
-      "title": "Perché il disegno di legge sull&#8217;antisemitismo sta creando tanta agitazione",
-      "summary": "Soprattutto nel centrosinistra: il merito riguarda una definizione da adottare, ma c'è anche la tattica politica",
-      "fullSummary": "Soprattutto nel centrosinistra: il merito riguarda una definizione da adottare, ma c'è anche la tattica politica",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/ddl-antisemitismo-definizione-ihra-gerusalemme-pd/"
-    },
-    {
       "cat": "mondo",
       "title": "Per la prima volta l&#8217;Ucraina ha usato un missile balistico di produzione nazionale contro la Russia",
       "summary": "",
-      "fullSummary": "Il presidente ucraino Volodymyr Zelensky ha dichiarato che per la prima volta l’esercito ucraino ha impiegato contro la Russia un missile balistico prodotto internamente, omettendo di specificare l’obiettivo dell’attacco. L’arma impiegata è un FP-7, missile a corto raggio sviluppato da Fire Point, la più avanzata azienda bellica del paese, progettato per colpire unicamente le regioni russe a ridosso del confine. La medesima azienda sta lavorando allo sviluppo del modello FP-9, più potente e capace di raggiungere bersagli situati a distanze maggiori, compresa Mosca.\n\nLa notizia giunge mentre la Russia continua a colpire con insistenza la capitale Kyiv prendendo di mira principalmente bersagli civili mediante due nuovi tipi di droni difficili da intercettare, fabbricati a migliaia ogni mese in un unico polo industriale. Anche se non ci si attende che l'FP-7 possa mutare in modo significativo l'andamento della guerra, l'arma potrebbe consentire all'Ucraina di distruggere i lanciamissili posizionati lungo la frontiera. Questo ridurrebbe i lanci nemici che Kyiv non riesce più a neutralizzare per via della scarsità globale e dei costi elevati dei missili statunitensi Patriot, di cui il presidente americano Donald Trump aveva promesso in estate la licenza di fabbricazione autonoma, salvo poi rimangiarsela.\n\nI missili balistici costituiscono i vettori per attacchi aerei più potenti grazie alla loro difficile intercettabilità e alla capacità di trasportare carichi più pesanti dei droni, che l'Ucraina sa già produrre molto rapidamente. Nel mondo solo trentuno paesi dispongono di tali armamenti e appena una dozzina è in grado di produrli. Finora Kyiv si era affidata ai missili balistici statunitensi ATACMS, ma sta cercando una progressiva autonomia da Washington a causa dei continui cambi di atteggiamento dell’amministrazione di Donald Trump verso il governo ucraino.",
+      "fullSummary": "Per la prima volta l&#8217;Ucraina ha usato un missile balistico di produzione nazionale contro la Russia",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/03/missile-balistico-produzione-ucraina-zelensky/"
     },
@@ -131,6 +131,14 @@
     },
     {
       "cat": "storia",
+      "title": "Chi ha assassinato Francesco de&#039; Medici?",
+      "summary": "Per secoli si &amp;egrave; parlato del veleno del fratello cardinale, ma le analisi del DNA sulle costole del Granduca di Toscana hanno svel…",
+      "fullSummary": "Per secoli si &amp;egrave; parlato del veleno del fratello cardinale, ma le analisi del DNA sulle costole del Granduca di Toscana hanno svelato com&#039;&amp;egrave; morto veramente Francesco de&#039; Medici (e la moglie Bianca Cappello).",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/chi-ha-assassinato-francesco-de-medici-incastrato-dalla-genetica-dopo-439-anni"
+    },
+    {
+      "cat": "storia",
       "title": "Quando fu l’ultima condanna a morte in Italia?",
       "summary": "Il 4 marzo 1947 venivano condannati a morte a Torino i tre responsabili della strage di Villarbasse. Un delitto atroce che segn&amp;ograve; …",
       "fullSummary": "Il 4 marzo 1947 venivano condannati a morte a Torino i tre responsabili della strage di Villarbasse. Un delitto atroce che segn&amp;ograve; la fine della pena capitale prima dell&#039;entrata in vigore della Costituzione.",
@@ -152,14 +160,6 @@
       "fullSummary": "L&#039;analisi di campioni di sanidino, un minerale ricco di potassio prelevato a Pompei, trasforma l&#039;eruzione del Vesuvio in un &quot;orologio geologico&quot;.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/pompei-e-una-macchina-del-tempo-le-ceneri-del-vesuvio-svelano-i-segreti-della-terra"
-    },
-    {
-      "cat": "storia",
-      "title": "A quando risale il primo monopattino elettrico?",
-      "summary": "Brevettato nel 1916 ma lanciato a New York gi&amp;agrave; nel 1915, l&#039;Autoped fu il capostipite del monopattino. Utilizzato persino da …",
-      "fullSummary": "Brevettato nel 1916 ma lanciato a New York gi&amp;agrave; nel 1915, l&#039;Autoped fu il capostipite del monopattino. Utilizzato persino da polizia e postini, prometteva agilit&amp;agrave; nel traffico cittadino oltre un secolo fa.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/quando-e-nato-il-primo-monopattino-elettrico-l-invenzione-di-inizio-novecento-che-ha-anticipato-la-micromobilita"
     },
     {
       "cat": "tech",
