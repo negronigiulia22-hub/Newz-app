@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-06T05:41:58.632Z",
+  "generatedAt": "2026-10-06T13:14:04.941Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "La legge elettorale è al suo ultimo e decisivo passaggio",
+      "summary": "Dalla sua approvazione dipende anche la permanenza del governo e la possibilità di elezioni anticipate: il voto finale è giovedì",
+      "fullSummary": "Dalla sua approvazione dipende anche la permanenza del governo e la possibilità di elezioni anticipate: il voto finale è giovedì",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/05/legge-elettorale-voto-segreto-fiducia-stabilicum/"
+    },
     {
       "cat": "politica",
       "title": "Elly Schlein vuole un solo rivale alle primarie",
@@ -26,76 +34,92 @@
       "url": "https://www.ilpost.it/2026/10/02/franco-gabrielli-impegno-politico-discesa-in-campo/"
     },
     {
-      "cat": "politica",
-      "title": "Le destre vanno matte per i contenuti fatti con l&#8217;AI",
-      "summary": "Da Vannacci all'AfD, i partiti stanno usando sempre più massicciamente video e immagini dozzinali per le loro campagne elettorali",
-      "fullSummary": "Da Vannacci all'AfD, i partiti stanno usando sempre più massicciamente video e immagini dozzinali per le loro campagne elettorali",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/01/ai-comunicazione-destra/"
-    },
-    {
       "cat": "mondo",
-      "title": "Pedro Sánchez ha annunciato elezioni anticipate in Spagna",
-      "summary": "Il primo ministro socialista lo ha deciso dopo la bocciatura dei decreti sulla casa: saranno il 29 novembre",
-      "fullSummary": "Il primo ministro socialista lo ha deciso dopo la bocciatura dei decreti sulla casa: saranno il 29 novembre",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/05/spagna-elezioni-anticipate-sanchez-crisi-abitativa/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Gli Stati Uniti hanno ritirato tutti i propri bombardieri dalla base inglese di Fairford",
-      "summary": "Lo hanno deciso dopo gli arresti per un presunto piano per attaccare la struttura, usata tra le altre cose anche per la guerra in Iran",
-      "fullSummary": "Lo hanno deciso dopo gli arresti per un presunto piano per attaccare la struttura, usata tra le altre cose anche per la guerra in Iran",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/05/raf-fairford-ritiro-bombardieri-stati-uniti/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Brasile ci sarà il ballottaggio tra Flávio Bolsonaro e Lula",
-      "summary": "Al primo turno delle elezioni presidenziali nessuno dei due è andato oltre il 50 per cento, ma Bolsonaro è messo un po' meglio",
-      "fullSummary": "Al primo turno delle elezioni presidenziali nessuno dei due è andato oltre il 50 per cento, ma Bolsonaro è messo un po' meglio",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/05/risultati-elezioni-brasile-ballottaggio-flavio-bolsonaro-lula/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Trump ha creato una task force del governo sull&#8217;intelligenza artificiale",
+      "title": "L&#8217;esercito degli Stati Uniti eseguirà una condanna a morte tramite fucilazione per la prima volta dal 1945",
       "summary": "",
-      "fullSummary": "Trump ha creato una task force del governo sull&#8217;intelligenza artificiale",
+      "fullSummary": "L&#8217;esercito degli Stati Uniti eseguirà una condanna a morte tramite fucilazione per la prima volta dal 1945",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/04/trump-ha-creato-una-task-force-del-governo-sullintelligenza-artificiale/"
+      "url": "https://www.ilpost.it/2026/10/06/esercito-stati-uniti-condanna-a-morte-tramite-fucilazione/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Gli indipendentisti hanno vinto le elezioni in Quebec per la prima volta da 14 anni",
+      "summary": "Promettendo un nuovo referendum d'indipendenza dal Canada, ma solo dopo la fine del mandato di Trump",
+      "fullSummary": "Promettendo un nuovo referendum d'indipendenza dal Canada, ma solo dopo la fine del mandato di Trump",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/06/vittoria-indipendentisti-quebec-canada/"
+    },
+    {
+      "cat": "mondo",
+      "title": "È un giorno importante per le proteste degli studenti in Francia",
+      "summary": "Ci sarà una grande mobilitazione nazionale, servirà a capire quanto il movimento è riuscito ad allargarsi",
+      "fullSummary": "Ci sarà una grande mobilitazione nazionale, servirà a capire quanto il movimento è riuscito ad allargarsi",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/06/manifestazione-nazionale-proteste-studenti-francia/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Almeno cinque persone sono state uccise e altre 53 ferite in un attacco russo su Kharkiv, in Ucraina",
+      "summary": "",
+      "fullSummary": "Almeno cinque persone sono state uccise e altre 53 ferite in un attacco russo su Kharkiv, in Ucraina",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/05/attacco-russo-kharkiv-cinque-morti/"
     },
     {
       "cat": "sport",
-      "title": "Senza Ronaldo il Portogallo gioca bene e vince",
-      "summary": "Anche grazie ai gol segnati dal suo sostituto, l'attaccante del Milan Gonçalo Ramos",
-      "fullSummary": "Anche grazie ai gol segnati dal suo sostituto, l'attaccante del Milan Gonçalo Ramos",
+      "title": "Oggi la Federcalcio rischia il commissariamento",
+      "summary": "Il CONI deve decidere se Giovanni Malagò poteva diventare presidente della FIGC, e se nel caso può esserne il nuovo commissario",
+      "fullSummary": "Poco dopo le 13 di martedì 6 ottobre, la Giunta del CONI ha deliberato il commissariamento della FIGC, la federazione calcistica italiana. Il provvedimento sarà quasi certamente confermato a breve dal Consiglio Nazionale. Come nuovo commissario straordinario è stato designato Giovanni Malagò, 67 anni, già presidente del CONI tra il 2013 e il 2025 e presidente della FIGC da giugno: di fatto, il commissario Malagò prende il posto del presidente Malagò.\n\nLa procedura ha avuto origine dalla segnalazione dell’avvocato ed ex calciatore Renato Miele, la cui candidatura era stata respinta. Miele aveva rilevato che Malagò, quando si candidò, non figurava tra i circa 1,5 milioni di tesserati della Federcalcio. Benché lo Statuto della FIGC richieda la regolarità del tesseramento e quello del CONI preveda il commissariamento per gravi irregolarità o violazioni, il mancato tesseramento ha rappresentato soprattutto un pretesto formale. Figure come Gabriele Gravina e Giancarlo Abete, infatti, sono state presidenti della FIGC per anni pur senza tessere federali.\n\nLa decisione si inserisce in realtà in dinamiche e giochi di potere tra politica, CONI e Federcalcio, traducendosi in uno scontro tra Malagò, intenzionato a restare al vertice, e Luciano Buonfiglio, presidente del CONI dal 2025. Buonfiglio era stato per anni vicepresidente di Malagò ed era stato eletto con il suo supporto, ma i rapporti tra i due sono recentemente mutati. Non essendo certi di una maggioranza favorevole all'interno della Giunta, nessuno dei due leader intendeva rischiare di finire battuto.\n\nSi è così giunti al compromesso di commissariare la FIGC nominando Malagò stesso come commissario, opzione votata all'unanimità. L'esito garantisce a Buonfiglio di aver ottenuto il commissariamento e a Malagò di restare al comando. La vicenda si configura come una sorta di pareggio o persino una vittoria di Malagò, che potrà gestire la federazione con poteri più ampi rispetto alla presidenza e condurla verso nuove elezioni a cui candidarsi.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/05/portogallo-senza-ronaldo-vince-goncalo-ramos-gol/"
+      "url": "https://www.ilpost.it/2026/10/06/coni-figc-federcalcio-commissariamento-malago/"
     },
     {
       "cat": "sport",
-      "title": "Belle foto dagli stranissimi Giochi Asiatici",
-      "summary": "Sono appena finiti in Giappone, e si gareggiava pure nel taekwondo virtuale e nel calcio-tennis",
-      "fullSummary": "Sono appena finiti in Giappone, e si gareggiava pure nel taekwondo virtuale e nel calcio-tennis",
+      "title": "L&#8217;Italia ha battuto 3-1 la Turchia nella Nations League di calcio",
+      "summary": "Dopo quattro partite è seconda dietro alla Francia e davanti a Belgio e Turchia",
+      "fullSummary": "Dopo quattro partite è seconda dietro alla Francia e davanti a Belgio e Turchia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/"
+      "url": "https://www.ilpost.it/2026/10/05/litalia-ha-battuto-3-1-la-turchia-nella-sua-quarta-partita-di-nations-league/"
     },
     {
       "cat": "sport",
-      "title": "Ineos ha problemi in tutti gli sport",
-      "summary": "La multinazionale britannica della chimica ha speso molto tra calcio, vela e ciclismo, ma per ora ha vinto pochissimo",
-      "fullSummary": "La multinazionale britannica della chimica ha speso molto tra calcio, vela e ciclismo, ma per ora ha vinto pochissimo",
+      "title": "L&#8217;Italia Under 21 di calcio si è qualificata agli Europei di categoria all&#8217;ultima partita disponibile",
+      "summary": "",
+      "fullSummary": "L&#8217;Italia Under 21 di calcio si è qualificata agli Europei di categoria all&#8217;ultima partita disponibile",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/04/ineos-problemi-calcio-vela-ciclismo/"
+      "url": "https://www.ilpost.it/2026/10/05/italia-under-21-polonia-qualificata-agli-europei-under-21/"
     },
     {
       "cat": "sport",
-      "title": "Max Verstappen è tornato a vincere dopo quasi un anno",
-      "summary": "Ha battuto Antonelli e Hamilton a Sepang, in Malaysia, dove però si correva il Gran Premio del Bahrein",
-      "fullSummary": "Ha battuto Antonelli e Hamilton a Sepang, in Malaysia, dove però si correva il Gran Premio del Bahrein",
+      "title": "Il tennista Daniil Medvedev è stato squalificato dal China Open per aver tirato una pallina contro uno spettatore",
+      "summary": "",
+      "fullSummary": "Il tennista Daniil Medvedev è stato squalificato dal China Open per aver tirato una pallina contro uno spettatore",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/04/verstappen-gran-premio-formula-uno-sepang/"
+      "url": "https://www.ilpost.it/2026/10/05/medvedev-djokovic-china-open-tennis/"
+    },
+    {
+      "cat": "scienza",
+      "title": "In quali Paesi è ancora endemica la peste?",
+      "summary": "La ricercatrice Darya Shipilova sarebbe morta per una forma di peste polmonare, non confermata. La malattia è ancora endemica in Siberia e n…",
+      "fullSummary": "La ricercatrice Darya Shipilova sarebbe morta per una forma di peste polmonare, non confermata. La malattia è ancora endemica in Siberia e non solo.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/sospetto-caso-di-peste-polmonare-in-siberia-dove-ancora-endemica-la-malattia"
+    },
+    {
+      "cat": "scienza",
+      "title": "Nobel per la Fisica a Halzen, padre di IceCube",
+      "summary": "Francis Halzen si aggiudica il Nobel per la Fisica 2026 per il suo contributo all&#039;osservatorio IceCube, che cattura i neutrini tra i gh…",
+      "fullSummary": "Francis Halzen si aggiudica il Nobel per la Fisica 2026 per il suo contributo all&#039;osservatorio IceCube, che cattura i neutrini tra i ghiacci polari.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/premio-nobel-per-la-fisica-2026-i-vincitori"
+    },
+    {
+      "cat": "scienza",
+      "title": "Comportamenti da malati",
+      "summary": "I comportamenti da &quot;malati&quot; non dipendono solo da reazioni automatiche all&#039;attacco dei patogeni: il cervello coordina in modo…",
+      "fullSummary": "I comportamenti da &quot;malati&quot; non dipendono solo da reazioni automatiche all&#039;attacco dei patogeni: il cervello coordina in modo attivo lo stare male.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/essere-ammalati-e-anche-uno-stato-mentale-ecco-come-il-cervello-legge-le-infezioni"
     },
     {
       "cat": "scienza",
@@ -104,30 +128,6 @@
       "fullSummary": "In Valsesia una straordinaria anomalia geologica permette di avvicinarsi al mantello come in nessun altro luogo al mondo: a Vocca, i geologi raggiungeranno la linea di confine tra la crosta terrestre e il cuore della Terra.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/scienze/viaggio-centro-terra-parte-valsesia-mantello-2-km-superficie-terrestre"
-    },
-    {
-      "cat": "scienza",
-      "title": "Premio Nobel per la Fisiologia o la Medicina 2026",
-      "summary": "I vincitori del Premio Nobel per la Fisiologia o la Medicina 2026.",
-      "fullSummary": "I vincitori del Premio Nobel per la Fisiologia o la Medicina 2026.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/premio-nobel-per-la-fisiologia-o-la-medicina-2026"
-    },
-    {
-      "cat": "scienza",
-      "title": "Menopausa: uno stress test per il cervello",
-      "summary": "Cambiamenti nelle proteine nel sangue in menopausa indicano le possibili origini della nebbia mentale, e come prevenire il futuro rischio di…",
-      "fullSummary": "Cambiamenti nelle proteine nel sangue in menopausa indicano le possibili origini della nebbia mentale, e come prevenire il futuro rischio di demenze.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/perche-la-menopausa-e-uno-stress-test-per-il-cervello"
-    },
-    {
-      "cat": "scienza",
-      "title": "La febbre di tuo figlio è virale o batterica?",
-      "summary": "Per capire la causa della febbre nei bambini sotto i tre mesi servono ore, e intanto si somministra l&#039;antibiotico. Un nuovo test basato…",
-      "fullSummary": "Per capire la causa della febbre nei bambini sotto i tre mesi servono ore, e intanto si somministra l&#039;antibiotico. Un nuovo test basato su due proteine lo scopre in 15 minuti.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/febbre-nei-neonati-un-test-rapido-del-sangue-distingue-virus-e-batteri"
     },
     {
       "cat": "storia",
