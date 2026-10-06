@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-05T21:57:09.644Z",
+  "generatedAt": "2026-10-06T05:41:58.632Z",
   "items": [
     {
       "cat": "politica",
       "title": "Elly Schlein vuole un solo rivale alle primarie",
       "summary": "E cioè Giuseppe Conte, ma dovrà convincere tutti gli altri a farsi da parte",
-      "fullSummary": "Durante la direzione nazionale del Partito Democratico, la segretaria Elly Schlein ha annunciato la disponibilità a svolgere le primarie del centrosinistra, manifestando l'intenzione di sfidare direttamente e unicamente il leader del Movimento 5 Stelle, Giuseppe Conte. L'obiettivo di Schlein è disputare una consultazione a turno secco con due soli contendenti, accettando anche l'eventuale voto online richiest",
+      "fullSummary": "E cioè Giuseppe Conte, ma dovrà convincere tutti gli altri a farsi da parte",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/03/elly-schlein-primarie/"
     },
@@ -35,14 +35,6 @@
     },
     {
       "cat": "mondo",
-      "title": "Alle elezioni in Bosnia hanno vinto i nazionalisti",
-      "summary": "Probabilmente proveranno a governare insieme, come succede spesso, anche se hanno obiettivi diversi e in parte inconciliabili",
-      "fullSummary": "Probabilmente proveranno a governare insieme, come succede spesso, anche se hanno obiettivi diversi e in parte inconciliabili",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/05/bosnia-erzegovina-elezioni-2026-risultati/"
-    },
-    {
-      "cat": "mondo",
       "title": "Pedro Sánchez ha annunciato elezioni anticipate in Spagna",
       "summary": "Il primo ministro socialista lo ha deciso dopo la bocciatura dei decreti sulla casa: saranno il 29 novembre",
       "fullSummary": "Il primo ministro socialista lo ha deciso dopo la bocciatura dei decreti sulla casa: saranno il 29 novembre",
@@ -64,6 +56,14 @@
       "fullSummary": "Al primo turno delle elezioni presidenziali nessuno dei due è andato oltre il 50 per cento, ma Bolsonaro è messo un po' meglio",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/05/risultati-elezioni-brasile-ballottaggio-flavio-bolsonaro-lula/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Trump ha creato una task force del governo sull&#8217;intelligenza artificiale",
+      "summary": "",
+      "fullSummary": "Trump ha creato una task force del governo sull&#8217;intelligenza artificiale",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/04/trump-ha-creato-una-task-force-del-governo-sullintelligenza-artificiale/"
     },
     {
       "cat": "sport",
@@ -99,6 +99,14 @@
     },
     {
       "cat": "scienza",
+      "title": "Viaggio al centro della Terra: inizia in Valsesia",
+      "summary": "In Valsesia una straordinaria anomalia geologica permette di avvicinarsi al mantello come in nessun altro luogo al mondo: a Vocca, i geologi…",
+      "fullSummary": "In Valsesia una straordinaria anomalia geologica permette di avvicinarsi al mantello come in nessun altro luogo al mondo: a Vocca, i geologi raggiungeranno la linea di confine tra la crosta terrestre e il cuore della Terra.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/viaggio-centro-terra-parte-valsesia-mantello-2-km-superficie-terrestre"
+    },
+    {
+      "cat": "scienza",
       "title": "Premio Nobel per la Fisiologia o la Medicina 2026",
       "summary": "I vincitori del Premio Nobel per la Fisiologia o la Medicina 2026.",
       "fullSummary": "I vincitori del Premio Nobel per la Fisiologia o la Medicina 2026.",
@@ -117,17 +125,9 @@
       "cat": "scienza",
       "title": "La febbre di tuo figlio è virale o batterica?",
       "summary": "Per capire la causa della febbre nei bambini sotto i tre mesi servono ore, e intanto si somministra l&#039;antibiotico. Un nuovo test basato…",
-      "fullSummary": "Quando un bambino di età inferiore a tre mesi presenta una temperatura corporea pari o superiore a 38 °C, è fondamentale stabilire tempestivamente se la febbre sia provocata da un virus o da un'infezione batterica. Attualmente, le analisi necessarie per determinare l'origine del disturbo richiedono diverse ore; per tale ragione, a scopo cautelativo, ai piccoli pazienti vengono spesso somministrati antibiotici, alimentando così la resistenza batterica. Come illustrato dal medico specialista in pediatria d'urgenza Tommaso Bellini, distinguere un'infezione batterica grave da una virale è particolarmente complesso nei neonati, sebbene solo il 15% di quelli febbricitanti giunti al pronto soccorso abbia realmente bisogno di antibiotici.\n\nAl Congresso Europeo di Medicina di Emergenza a Parigi, Bellini ha presentato un nuovo esame del sangue in grado di restituire l'esito in soli 15-20 minuti. Lo studio, condotto su 85 bambini di 90 giorni, monitora i livelli di due proteine espresse nei globuli bianchi (neutrofili e monociti): la CD64, che aumenta in caso di infezioni batteriche, e la CD169, che si eleva in risposta a quelle virali. Grazie a tale metodo, i ricercatori hanno identificato con precisione 15 infezioni batteriche, 44 virali e 26 casi privi di infezioni.\n\nQuesta indagine rappresenta un'estensione pediatrica delle scoperte del ricercatore francese Fabrice Malergue, che per primo aveva individuato l'utilità delle due proteine sugli adulti. La procedura sviluppata da Malergue era già stata sperimentata con efficacia in Martinica durante un'epidemia di dengue, riuscendo a diagnosticare correttamente la leptospirosi, un'infezione batterica potenzialmente letale se non trattata con antibiotici. Giudicato dallo stesso Malergue come un rilevante passo avanti, il lavoro di Bellini proseguirà ora con un nuovo obiettivo: allargare la sperimentazione clinica per coinvolgere tra i 300 e i 500 neonati in molteplici strutture ospedaliere.",
+      "fullSummary": "Per capire la causa della febbre nei bambini sotto i tre mesi servono ore, e intanto si somministra l&#039;antibiotico. Un nuovo test basato su due proteine lo scopre in 15 minuti.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/febbre-nei-neonati-un-test-rapido-del-sangue-distingue-virus-e-batteri"
-    },
-    {
-      "cat": "scienza",
-      "title": "Dieta e sport, così si saluta il diabete di tipo 2",
-      "summary": "Allenamento e dieta ipocalorica hanno portato a remissione la metà dei casi di diabete di tipo 2 a esordio precoce, malattia in aumento nei …",
-      "fullSummary": "Allenamento e dieta ipocalorica hanno portato a remissione la metà dei casi di diabete di tipo 2 a esordio precoce, malattia in aumento nei giovani.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/invertire-il-diabete-di-tipo-2-si-puo-esercizio-e-dieta-ipocalorica-la-combinazione-vincente"
     },
     {
       "cat": "storia",
