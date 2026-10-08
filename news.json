@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-08T10:24:50.953Z",
+  "generatedAt": "2026-10-08T18:41:50.258Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "È stata definitivamente approvata la nuova legge elettorale",
+      "summary": "Nonostante i timori per il voto segreto non ci sono stati intoppi: nel 2027 si voterà con il cosiddetto “Stabilicum”",
+      "fullSummary": "Nonostante i timori per il voto segreto non ci sono stati intoppi: nel 2027 si voterà con il cosiddetto “Stabilicum”",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/08/approvata-riforma-elettorale-camera/"
+    },
     {
       "cat": "politica",
       "title": "L&#8217;indagine per corruzione che ha messo in crisi la giunta della Sicilia",
@@ -26,44 +34,60 @@
       "url": "https://www.ilpost.it/2026/10/07/legge-elettorale-stabilicum-premio-di-maggioranza-42-per-cento/"
     },
     {
-      "cat": "politica",
-      "title": "È morta la giornalista e politica Barbara Spinelli: aveva 80 anni",
+      "cat": "mondo",
+      "title": "Maduro è stato accusato anche di tortura",
+      "summary": "La procura statunitense ha annunciato nuovi capi di imputazione contro l'ex dittatore venezuelano e la moglie, entrambi in carcere a New Yor…",
+      "fullSummary": "La procura statunitense ha annunciato nuovi capi di imputazione contro l'ex dittatore venezuelano e la moglie, entrambi in carcere a New York",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/08/nicolas-maduro-venezuela-stati-uniti-accuse-tortura/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Due uomini lettoni sono stati arrestati in Inghilterra dopo essere entrati in una base dell&#8217;aeronautica militare",
       "summary": "",
-      "fullSummary": "È morta la giornalista e politica Barbara Spinelli: aveva 80 anni",
+      "fullSummary": "Due uomini lettoni sono stati arrestati in Inghilterra dopo essere entrati in una base dell&#8217;aeronautica militare",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/barbara-spinelli-giornalista-morta/"
+      "url": "https://www.ilpost.it/2026/10/08/inghilterra-arresti-base-militare-raf-molesworth/"
     },
     {
       "cat": "mondo",
-      "title": "Alla fine il consolato britannico a Gerusalemme Est non chiuderà, ma diventerà una “missione”",
+      "title": "In Polonia un ragazzo di 15 anni che indossava un casco con una telecamera ha accoltellato e ucciso un bidello in una scuola",
       "summary": "",
-      "fullSummary": "Alla fine il consolato britannico a Gerusalemme Est non chiuderà, ma diventerà una “missione”",
+      "fullSummary": "In Polonia un ragazzo di 15 anni che indossava un casco con una telecamera ha accoltellato e ucciso un bidello in una scuola",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/israele-consolato-britannico-gerusalemme-est-chiusura/"
+      "url": "https://www.ilpost.it/2026/10/08/polonia-scuola-accoltellato-bidello-ragazzo-15-anni-casco-telecamera/"
     },
     {
       "cat": "mondo",
-      "title": "Lo scandalo dell&#8217;intelligence tedesca è un guaio per Merz",
-      "summary": "Il governo voleva dare più potere ai servizi segreti, poi il loro ex presidente è stato arrestato per spionaggio e tradimento",
-      "fullSummary": "Il governo voleva dare più potere ai servizi segreti, poi il loro ex presidente è stato arrestato per spionaggio e tradimento",
+      "title": "La portaerei USS Lincoln è in arrivo a San Diego, in California, dopo più di trecento giorni di missione",
+      "summary": "",
+      "fullSummary": "La portaerei USS Lincoln è in arrivo a San Diego, in California, dopo più di trecento giorni di missione",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/germania-arresto-hanning-riforma-servizi/"
+      "url": "https://www.ilpost.it/2026/10/08/portaerei-uss-lincoln-attracco-san-diego/"
     },
     {
-      "cat": "mondo",
-      "title": "Non ci sono più migranti sulle spiagge di Ceuta",
-      "summary": "La Spagna li ha spinti a rientrare in Marocco o a spostarsi in altre strutture dell'exclave: ce ne sono ancora migliaia, molti dei quali nas…",
-      "fullSummary": "La Spagna li ha spinti a rientrare in Marocco o a spostarsi in altre strutture dell'exclave: ce ne sono ancora migliaia, molti dei quali nascosti",
+      "cat": "sport",
+      "title": "La Wikipedia del calcio dilettantistico in Italia",
+      "summary": "Su Tuttocampo si trovano notizie, risultati e cronache di migliaia di partite, inserite da chi le guarda o le gioca",
+      "fullSummary": "Su Tuttocampo si trovano notizie, risultati e cronache di migliaia di partite, inserite da chi le guarda o le gioca",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/ceuta-spiagge-accampamenti-sgombero/"
+      "url": "https://www.ilpost.it/2026/10/08/tuttocampo-app-calcio-dilettanti-cos-e-come-funziona/"
     },
     {
-      "cat": "mondo",
-      "title": "Qualcuno ha manomesso la segreteria telefonica della Corea del Nord all&#8217;ONU",
-      "summary": "Per giorni ha risposto una voce femminile che imitava l’accento asiatico e prendeva in giro il paese e il suo governo",
-      "fullSummary": "Per giorni ha risposto una voce femminile che imitava l’accento asiatico e prendeva in giro il paese e il suo governo",
+      "cat": "sport",
+      "title": "Il più grande problema del tennis contemporaneo",
+      "summary": "Gli infortuni",
+      "fullSummary": "Gli infortuni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/segreteria-telefonica-missione-permanente-onu-corea-nord/"
+      "url": "https://www.ilpost.it/2026/10/08/infortuni-tennisti-perche-sinner-alcaraz/"
+    },
+    {
+      "cat": "sport",
+      "title": "Lindsey Vonn farà parte della nazionale statunitense di sci per la Coppa del mondo 2026/27",
+      "summary": "",
+      "fullSummary": "Lindsey Vonn farà parte della nazionale statunitense di sci per la Coppa del mondo 2026/27",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/08/lindsey-vonn-nazionale-statunitense-sci-alpino-coppa-del-mondo/"
     },
     {
       "cat": "sport",
@@ -74,28 +98,20 @@
       "url": "https://www.ilpost.it/2026/10/08/bochum-vieta-tifosi-salto-curva/"
     },
     {
-      "cat": "sport",
-      "title": "L&#8217;ex calciatore Ramón Vega vuole sfidare Gianni Infantino alle elezioni della FIFA",
-      "summary": "",
-      "fullSummary": "L&#8217;ex calciatore Ramón Vega vuole sfidare Gianni Infantino alle elezioni della FIFA",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/ramon-vega-candidato-presidente-fifa-sfida-gianni-infantino/"
+      "cat": "scienza",
+      "title": "Il riscaldamento globale allunga le giornate",
+      "summary": "I cambiamenti nella circolazione atmosferica guidati dal clima rallentano la rotazione della Terra, provocando un aumento della durata del g…",
+      "fullSummary": "I cambiamenti nella circolazione atmosferica guidati dal clima rallentano la rotazione della Terra, provocando un aumento della durata del giorno entro la fine del secolo.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/il-riscaldamento-globale-sta-allungando-le-nostre-giornate-ecco-perche-la-terra-ruota-piu-lentamente"
     },
     {
-      "cat": "sport",
-      "title": "Non c&#8217;è solo la Federcalcio",
-      "summary": "Sono commissariate anche le federazioni di cricket, rafting e pesistica, e la metà di quella del tiro a segno che dipende dal ministero dell…",
-      "fullSummary": "Sono commissariate anche le federazioni di cricket, rafting e pesistica, e la metà di quella del tiro a segno che dipende dal ministero della Difesa",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/coni-federazioni-sportive-commissariate/"
-    },
-    {
-      "cat": "sport",
-      "title": "Una influencer ha provato a barare in una maratona, ma è stata scoperta",
-      "summary": "Si era fatta dare un passaggio in bici per qualche chilometro, ma un profilo Instagram che vigila su casi strani e tempi sospetti se n'è acc…",
-      "fullSummary": "Il 27 settembre, durante la maratona di Berlino, l’influencer cinese trentenne Yuanyuan Sun ha barato facendosi dare un passaggio sul retro di una bicicletta per percorrere una parte della fase finale della gara. Sun, che non stava correndo mentre qualcun altro pedalava, aveva completato il percorso di 42 chilometri e 195 metri in poco meno di cinque ore, vantandosi poi sui social network di aver ottenuto la propria miglior prestazione di sempre. In seguito all'accaduto, la donna è stata squalificata da una delle maratone più importanti del mondo.\n\nA segnalare l'irregolarità è stato il noto profilo Instagram Official Marathon Time Integrity Unit (OMTIU), che vigila sulle prestazioni podistiche e corregge o verifica i tempi dichiarati dai corridori. L’OMTIU ha diffuso foto inequivocabili che mostrano Sun a bordo della bicicletta, facendo inoltre notare un’evidente anomalia: l’influencer ha fatto registrare la sua frazione di cinque chilometri più veloce tra il 35° e il 40° chilometro, proprio nel tratto in cui molti maratoneti, specie se amatoriali e con tempi simili ai suoi, affrontano i momenti di maggiore difficoltà.\n\nIl caso ha avuto grande risonanza poiché Sun, nota sui social media con lo pseudonimo di “Abeeeer”, conta oltre mezzo milione di follower sull’applicazione cinese RedNote ed era sponsorizzata da Brooks, nota azienda di scarpe da corsa. La società ha reagito negativamente all’inganno e ha interrotto il contratto di sponsorizzazione con l'atleta, ribadendo tramite un portavoce al sito The Athletic il proprio impegno a tutela dell’integrità, della correttezza e dello spirito sportivo delle maratone. Successivamente, Sun ha ammesso su RedNote di aver sfruttato il passaggio in bicicletta per tagliare il traguardo a causa di un malessere fisico accusato durante la corsa, chiedendo scusa per aver deliberatamente nascosto la scorrettezza nelle immagini pubblicate dopo la competizione.",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/maratona-berlino-influencer-bici-omtiu/"
+      "cat": "scienza",
+      "title": "Morta Margaret Hamilton: informatica di Apollo 11",
+      "summary": "&amp;Egrave; morta a novant&#039;anni Margaret Hamilton, la programmatrice del MIT che svilupp&amp;ograve; il software di bordo per il Progr…",
+      "fullSummary": "&amp;Egrave; morta a novant&#039;anni Margaret Hamilton, la programmatrice del MIT che svilupp&amp;ograve; il software di bordo per il Programma Apollo e rese possibile il primo storico allunaggio del 1969.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/e-morta-margaret-hamilton-la-scienziata-che-salvo-lo-sbarco-sulla-luna-con-il-suo-codice"
     },
     {
       "cat": "scienza",
@@ -112,22 +128,6 @@
       "fullSummary": "Dopo 35 giorni di pioggia, gli abitanti di Tokyo fanno i conti con la salute mentale e quella del portafogli, tra malumore e cespi di lattuga a due euro e mezzo.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/scienze/35-giorni-di-pioggia-a-tokyo-le-conseguenze"
-    },
-    {
-      "cat": "scienza",
-      "title": "Premio Nobel per la Chimica 2026: i vincitori",
-      "summary": "Henri Kagan e Kenso Soai sono i vincitori del Premio Nobel per la Chimica 2026.",
-      "fullSummary": "Henri Kagan e Kenso Soai sono i vincitori del Premio Nobel per la Chimica 2026.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/premio-nobel-per-la-chimica-2026-i-vincitori"
-    },
-    {
-      "cat": "scienza",
-      "title": "La caffeina peggiora la qualità del sonno",
-      "summary": "Dormire tante ore non basta: la caffeina altera l&#039;attività cerebrale durante la notte e il sonno perde qualità, anche se non ce ne acco…",
-      "fullSummary": "Dormire tante ore non basta: la caffeina altera l&#039;attività cerebrale durante la notte e il sonno perde qualità, anche se non ce ne accorgiamo.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/la-caffeina-peggiora-la-qualita-del-sonno"
     },
     {
       "cat": "storia",
