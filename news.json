@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-10-08T00:53:02.767Z",
+  "generatedAt": "2026-10-08T10:24:50.953Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "L&#8217;indagine per corruzione che ha messo in crisi la giunta della Sicilia",
+      "summary": "Il presidente Renato Schifani sta valutando se dimettersi, dopo che la procura ha chiesto l'arresto per il suo ex consulente Gaetano Armao",
+      "fullSummary": "Il presidente Renato Schifani sta valutando se dimettersi, dopo che la procura ha chiesto l'arresto per il suo ex consulente Gaetano Armao",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/07/indagini-vicepresidente-sicilia-gaetano-armao/"
+    },
     {
       "cat": "politica",
       "title": "La Camera ha approvato tutti gli articoli della legge elettorale ancora in discussione: ora manca solo il voto finale",
       "summary": "",
-      "fullSummary": "La Camera dei deputati ha approvato gli ultimi articoli della nuova legge elettorale promossa dal governo di Giorgia Meloni, un testo che era già stato ridiscusso e approvato al Senato nelle scorse settimane. Per completare il percorso della riforma manca adesso unicamente il passaggio finale, previsto per giovedì, quando l'aula della Camera sarà chiamata a esprimersi con la votazione definitiva sul testo complessivo del provvedimento.\n\nNel mese di luglio, un emendamento mirato a reintrodurre le preferenze nel sistema elettorale – punto considerato molto rilevante per Meloni – era stato bocciato nel corso di uno scrutinio a voto segreto. Al fine di evitare il ripetersi di tale situazione, l'esecutivo ha deciso di porre la questione di fiducia su tre articoli per i quali si temeva la presenza di fratture interne alla maggioranza. Il ricorso alla fiducia prevede infatti il voto per appello nominale, nel quale i singoli deputati vengono chiamati sotto i banchi della presidenza per dichiarare apertamente la propria posizione favorevole o contraria; questa modalità rende più difficile discostarsi dalle indicazioni del gruppo politico di appartenenza e consente, allo stesso tempo, di velocizzare l'approvazione, precludendo l'inserimento di ulteriori modifiche al testo.\n\nI primi due articoli approvati con il voto di fiducia contengono i cambiamenti più significativi: stabiliscono il ritorno delle preferenze, affiancandole ai capilista bloccati, e definiscono le norme per l'elezione di Camera e Senato tramite questo meccanismo. Tali disposizioni prevedono inoltre l'aumento da 1.500 a 6mila delle firme richieste ai partiti privi di rappresentanza in Parlamento per potersi presentare alle elezioni, oltre a modificare i criteri sulla rappresentanza di genere. Il terzo articolo sottoposto a fiducia concerne invece i collegi uninominali della provincia di Bolzano. Infine, la Camera ha approvato l'articolo 8, che introduce novità relative all'esercizio del diritto di voto per le persone fuorisede.",
+      "fullSummary": "La Camera ha approvato tutti gli articoli della legge elettorale ancora in discussione: ora manca solo il voto finale",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/07/camera-articoli-legge-elettorale-fiducia/"
     },
@@ -26,76 +34,76 @@
       "url": "https://www.ilpost.it/2026/10/07/barbara-spinelli-giornalista-morta/"
     },
     {
-      "cat": "politica",
-      "title": "Il senatore Lucio Malan dice che si voterà a maggio, anzi no, a settembre",
-      "summary": "In poche ore il capogruppo al Senato di Fratelli d'Italia ha smentito se stesso: è un segno che la questione è molto delicata",
-      "fullSummary": "In poche ore il capogruppo al Senato di Fratelli d'Italia ha smentito se stesso: è un segno che la questione è molto delicata",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/06/malan-quando-si-vota-maggio-settembre/"
-    },
-    {
       "cat": "mondo",
-      "title": "In Francia è stata chiusa una piattaforma che vendeva i contenuti intimi rubati di oltre 17mila donne, tra cui alcune minorenni",
+      "title": "Alla fine il consolato britannico a Gerusalemme Est non chiuderà, ma diventerà una “missione”",
       "summary": "",
-      "fullSummary": "In Francia è stata chiusa una piattaforma che vendeva i contenuti intimi rubati di oltre 17mila donne, tra cui alcune minorenni",
+      "fullSummary": "Alla fine il consolato britannico a Gerusalemme Est non chiuderà, ma diventerà una “missione”",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/francia-chiusa-piattaforma-vendita-contenuti-intimti-rubati/"
+      "url": "https://www.ilpost.it/2026/10/08/israele-consolato-britannico-gerusalemme-est-chiusura/"
     },
     {
       "cat": "mondo",
-      "title": "Le proteste studentesche si sono allargate anche al Belgio: più di cento persone sono state arrestate",
+      "title": "Lo scandalo dell&#8217;intelligence tedesca è un guaio per Merz",
+      "summary": "Il governo voleva dare più potere ai servizi segreti, poi il loro ex presidente è stato arrestato per spionaggio e tradimento",
+      "fullSummary": "Il governo voleva dare più potere ai servizi segreti, poi il loro ex presidente è stato arrestato per spionaggio e tradimento",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/08/germania-arresto-hanning-riforma-servizi/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Non ci sono più migranti sulle spiagge di Ceuta",
+      "summary": "La Spagna li ha spinti a rientrare in Marocco o a spostarsi in altre strutture dell'exclave: ce ne sono ancora migliaia, molti dei quali nas…",
+      "fullSummary": "La Spagna li ha spinti a rientrare in Marocco o a spostarsi in altre strutture dell'exclave: ce ne sono ancora migliaia, molti dei quali nascosti",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/08/ceuta-spiagge-accampamenti-sgombero/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Qualcuno ha manomesso la segreteria telefonica della Corea del Nord all&#8217;ONU",
+      "summary": "Per giorni ha risposto una voce femminile che imitava l’accento asiatico e prendeva in giro il paese e il suo governo",
+      "fullSummary": "Per giorni ha risposto una voce femminile che imitava l’accento asiatico e prendeva in giro il paese e il suo governo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/08/segreteria-telefonica-missione-permanente-onu-corea-nord/"
+    },
+    {
+      "cat": "sport",
+      "title": "La squadra di calcio tedesca del Bochum ha vietato ai suoi tifosi di saltare all&#8217;unisono in curva",
       "summary": "",
-      "fullSummary": "Le proteste studentesche si sono allargate anche al Belgio: più di cento persone sono state arrestate",
+      "fullSummary": "La squadra di calcio tedesca del Bochum ha vietato ai suoi tifosi di saltare all&#8217;unisono in curva",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/proteste-studentesche-belgio/"
+      "url": "https://www.ilpost.it/2026/10/08/bochum-vieta-tifosi-salto-curva/"
     },
     {
-      "cat": "mondo",
-      "title": "In Russia non c&#8217;è spazio per il ricordo di Anna Politkovskaja",
-      "summary": "La giornalista indipendente russa fu uccisa 20 anni fa: da allora il regime di Putin l'ha cancellata dalla memoria pubblica",
-      "fullSummary": "La giornalista indipendente russa fu uccisa 20 anni fa: da allora il regime di Putin l'ha cancellata dalla memoria pubblica",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/russia-memoria-di-anna-politkovskaja/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Australia l&#8217;ex vescovo Christopher Saunders è stato condannato a sei anni e sei mesi per violenze sessuali",
+      "cat": "sport",
+      "title": "L&#8217;ex calciatore Ramón Vega vuole sfidare Gianni Infantino alle elezioni della FIFA",
       "summary": "",
-      "fullSummary": "In Australia l&#8217;ex vescovo Christopher Saunders è stato condannato a sei anni e sei mesi per violenze sessuali",
+      "fullSummary": "L&#8217;ex calciatore Ramón Vega vuole sfidare Gianni Infantino alle elezioni della FIFA",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/ex-vescovo-cattolico-australiano-condannato-sei-anni-carcere-abusi-sessuali/"
+      "url": "https://www.ilpost.it/2026/10/08/ramon-vega-candidato-presidente-fifa-sfida-gianni-infantino/"
+    },
+    {
+      "cat": "sport",
+      "title": "Non c&#8217;è solo la Federcalcio",
+      "summary": "Sono commissariate anche le federazioni di cricket, rafting e pesistica, e la metà di quella del tiro a segno che dipende dal ministero dell…",
+      "fullSummary": "Sono commissariate anche le federazioni di cricket, rafting e pesistica, e la metà di quella del tiro a segno che dipende dal ministero della Difesa",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/08/coni-federazioni-sportive-commissariate/"
     },
     {
       "cat": "sport",
       "title": "Una influencer ha provato a barare in una maratona, ma è stata scoperta",
       "summary": "Si era fatta dare un passaggio in bici per qualche chilometro, ma un profilo Instagram che vigila su casi strani e tempi sospetti se n'è acc…",
-      "fullSummary": "Si era fatta dare un passaggio in bici per qualche chilometro, ma un profilo Instagram che vigila su casi strani e tempi sospetti se n'è accorto",
+      "fullSummary": "Il 27 settembre, durante la maratona di Berlino, l’influencer cinese trentenne Yuanyuan Sun ha barato facendosi dare un passaggio sul retro di una bicicletta per percorrere una parte della fase finale della gara. Sun, che non stava correndo mentre qualcun altro pedalava, aveva completato il percorso di 42 chilometri e 195 metri in poco meno di cinque ore, vantandosi poi sui social network di aver ottenuto la propria miglior prestazione di sempre. In seguito all'accaduto, la donna è stata squalificata da una delle maratone più importanti del mondo.\n\nA segnalare l'irregolarità è stato il noto profilo Instagram Official Marathon Time Integrity Unit (OMTIU), che vigila sulle prestazioni podistiche e corregge o verifica i tempi dichiarati dai corridori. L’OMTIU ha diffuso foto inequivocabili che mostrano Sun a bordo della bicicletta, facendo inoltre notare un’evidente anomalia: l’influencer ha fatto registrare la sua frazione di cinque chilometri più veloce tra il 35° e il 40° chilometro, proprio nel tratto in cui molti maratoneti, specie se amatoriali e con tempi simili ai suoi, affrontano i momenti di maggiore difficoltà.\n\nIl caso ha avuto grande risonanza poiché Sun, nota sui social media con lo pseudonimo di “Abeeeer”, conta oltre mezzo milione di follower sull’applicazione cinese RedNote ed era sponsorizzata da Brooks, nota azienda di scarpe da corsa. La società ha reagito negativamente all’inganno e ha interrotto il contratto di sponsorizzazione con l'atleta, ribadendo tramite un portavoce al sito The Athletic il proprio impegno a tutela dell’integrità, della correttezza e dello spirito sportivo delle maratone. Successivamente, Sun ha ammesso su RedNote di aver sfruttato il passaggio in bicicletta per tagliare il traguardo a causa di un malessere fisico accusato durante la corsa, chiedendo scusa per aver deliberatamente nascosto la scorrettezza nelle immagini pubblicate dopo la competizione.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/07/maratona-berlino-influencer-bici-omtiu/"
     },
     {
-      "cat": "sport",
-      "title": "Il calciatore che ha reso un libro di Tolstoj il più acquistato in Brasile",
-      "summary": "Gustavo Scarpa ha consigliato ai suoi follower di leggere “La morte di Ivan Il’ič” e in molti lo hanno ascoltato, fondando anche un club del…",
-      "fullSummary": "Gustavo Scarpa ha consigliato ai suoi follower di leggere “La morte di Ivan Il’ič” e in molti lo hanno ascoltato, fondando anche un club del libro",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/calciatore-brasile-libri-youtube/"
-    },
-    {
-      "cat": "sport",
-      "title": "Malagò ha fatto più o meno capire perché la Federcalcio è stata commissariata",
-      "summary": "Il nuovo commissario della FIGC ha parlato di «incomprensioni» tra lui e il presidente del CONI Luciano Buonfiglio, ma c'era dietro anche al…",
-      "fullSummary": "Il nuovo commissario della FIGC ha parlato di «incomprensioni» tra lui e il presidente del CONI Luciano Buonfiglio, ma c'era dietro anche altro",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/commissariamento-figc-giovanni-malago-buonfiglio-rapporti-influenza-politica/"
-    },
-    {
-      "cat": "sport",
-      "title": "Ma quindi cos&#8217;ha Jannik Sinner?",
-      "summary": "Qualcosa al ginocchio, ma cosa di preciso non si sa, e forse non lo sa nemmeno lui",
-      "fullSummary": "Qualcosa al ginocchio, ma cosa di preciso non si sa, e forse non lo sa nemmeno lui",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/jannik-sinner-infortunio-2027-ginocchio/"
+      "cat": "scienza",
+      "title": "HPV: un altro importante beneficio del vaccino",
+      "summary": "Vaccinarsi contro il papilloma virus umano (HPV) protegge dai tumori che colpiscono la bocca, il naso e la gola, poco conosciuti ma con effe…",
+      "fullSummary": "Vaccinarsi contro il papilloma virus umano (HPV) protegge dai tumori che colpiscono la bocca, il naso e la gola, poco conosciuti ma con effetti seri.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/il-vaccino-contro-l-hpv-riduce-anche-il-rischio-di-tumori-testa-collo"
     },
     {
       "cat": "scienza",
@@ -122,12 +130,12 @@
       "url": "https://www.focus.it/scienza/salute/la-caffeina-peggiora-la-qualita-del-sonno"
     },
     {
-      "cat": "scienza",
-      "title": "In quali Paesi è ancora endemica la peste?",
-      "summary": "La ricercatrice Darya Shipilova sarebbe morta per una forma di peste polmonare, non confermata. La malattia è ancora endemica in Siberia e n…",
-      "fullSummary": "La ricercatrice Darya Shipilova sarebbe morta per una forma di peste polmonare, non confermata. La malattia è ancora endemica in Siberia e non solo.",
+      "cat": "storia",
+      "title": "Grand era una “Las Vegas” dell&#039;antica Roma?",
+      "summary": "A Grand, antica citt&amp;agrave;-santuario nei Vosgi, gli archeologi hanno trovato pi&amp;ugrave; di mille dadi incisi con estrema precision…",
+      "fullSummary": "A Grand, antica citt&amp;agrave;-santuario nei Vosgi, gli archeologi hanno trovato pi&amp;ugrave; di mille dadi incisi con estrema precisione. Si trattava di una sala da gioco, una bottega artigiana o un luogo dove si praticava l&#039;arte divinatoria?",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/sospetto-caso-di-peste-polmonare-in-siberia-dove-ancora-endemica-la-malattia"
+      "url": "https://www.focus.it/cultura/storia/las-vegas-antichita-francia-ritrovati-oltre-1-000-dadi-di-osso-romani"
     },
     {
       "cat": "storia",
@@ -152,14 +160,6 @@
       "fullSummary": "Antonio e Cleopatra: uniti nella vita, nel suicidio e in un&#039;eterna sepoltura segreta. Dalle rovine sommerse di Alessandria ai tunnel sotterranei di Taposiris Magna, la caccia ai resti degli amanti pi&amp;ugrave; famosi della Storia continua.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/antonio-e-cleopatra-cercasi-dove-riposano-i-corpi-dei-due-amanti-suicidi"
-    },
-    {
-      "cat": "storia",
-      "title": "Pompei è un &quot;orologio geologico&quot;",
-      "summary": "L&#039;analisi di campioni di sanidino, un minerale ricco di potassio prelevato a Pompei, trasforma l&#039;eruzione del Vesuvio in un &quot;…",
-      "fullSummary": "L&#039;analisi di campioni di sanidino, un minerale ricco di potassio prelevato a Pompei, trasforma l&#039;eruzione del Vesuvio in un &quot;orologio geologico&quot;.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/pompei-e-una-macchina-del-tempo-le-ceneri-del-vesuvio-svelano-i-segreti-della-terra"
     },
     {
       "cat": "tech",
