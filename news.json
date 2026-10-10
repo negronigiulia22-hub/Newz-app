@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-10T00:46:43.595Z",
+  "generatedAt": "2026-10-10T10:04:16.707Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Cosa sappiamo su quando si voterà",
+      "summary": "Primavera o autunno? Aprile, giugno o settembre? L'articolo perfetto per chi ama portarsi avanti",
+      "fullSummary": "Primavera o autunno? Aprile, giugno o settembre? L'articolo perfetto per chi ama portarsi avanti",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/09/elezioni-data-legislatura-voto-anticipato-legge-elettorale/"
+    },
+    {
+      "cat": "politica",
+      "title": "Com&#8217;è fatta e cosa prevede la nuova legge elettorale",
+      "summary": "Premio di maggioranza, preferenze, capilista bloccati: le cose importanti da sapere",
+      "fullSummary": "Premio di maggioranza, preferenze, capilista bloccati: le cose importanti da sapere",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/09/legge-elettorale-come-si-vota-stabilicum-melonellum-elezioni-politiche-2027/"
+    },
     {
       "cat": "politica",
       "title": "È stata definitivamente approvata la nuova legge elettorale",
       "summary": "Nonostante i timori per il voto segreto non ci sono stati intoppi: nel 2027 si voterà con il cosiddetto “Stabilicum”",
-      "fullSummary": "La Camera dei deputati ha approvato in via definitiva la nuova legge elettorale, denominata “Stabilicum”, promossa dal governo di Giorgia Meloni in vista delle consultazioni del 2027. L'approvazione è avvenuta a scrutinio segreto con 227 voti favorevoli e 164 contrari, dopo il passaggio al Senato di metà settembre. Nonostante i timori legati a possibili franchi tiratori della maggioranza – emersi già a luglio sul tema delle preferenze –, il testo è passato senza intoppi, favorito dall’avvertimento della presidente del Consiglio: una bocciatura avrebbe provocato la caduta dell'esecutivo e il voto anticipato, impedendo ai numerosi parlamentari alla prima legislatura di raggiungere i requisiti per la pensione.\n\nLo “Stabilicum”, concepito per favorire la stabilità delle alleanze di governo sebbene gli esperti esprimano forti perplessità, adotta un impianto prevalentemente proporzionale, integrato da un premio di maggioranza. Alla coalizione che ottiene almeno il 42 per cento dei voti vengono attribuiti 70 deputati e 35 senatori supplementari, fino a un limite massimo di 220 deputati e 113 senatori. Sono inoltre stabilite soglie di sbarramento al 3 per cento per le singole liste (con ripescaggio per la prima esclusa) e al 10 per cento per le coalizioni. Viene introdotto un meccanismo di preferenze attenuato: gli elettori possono esprimere fino a tre preferenze non dello stesso genere tra sei candidati, mentre il capolista rimane bloccato. Le coalizioni dovranno infine indicare formalmente un candidato premier.\n\nLa riforma risponde a due motivazioni centrali per Meloni: surrogare l'abbandonata riforma costituzionale del premierato per evitare i rischi di un referendum confermativo, e superare il precedente Rosatellum. Con le vecchie regole, complice la ricompattazione del centrosinistra avanti nei sondaggi, una riconferma della maggioranza appariva improbabile e avrebbe rischiato di condurre a un sostanziale pareggio parlamentare, aprendo lo scenario di un governo di larghe intese che la presidente del Consiglio rifiuta.",
+      "fullSummary": "Nonostante i timori per il voto segreto non ci sono stati intoppi: nel 2027 si voterà con il cosiddetto “Stabilicum”",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/08/approvata-riforma-elettorale-camera/"
     },
@@ -13,89 +29,97 @@
       "cat": "politica",
       "title": "L&#8217;indagine per corruzione che ha messo in crisi la giunta della Sicilia",
       "summary": "Il presidente Renato Schifani sta valutando se dimettersi, dopo che la procura ha chiesto l'arresto per il suo ex consulente Gaetano Armao",
-      "fullSummary": "Il 2 ottobre la procura di Palermo ha richiesto l’arresto di Gaetano Armao, avvocato, docente ed ex vicepresidente della Regione Siciliana, indagato per corruzione insieme ad altre otto persone, tra cui il deputato regionale Giuseppe Geremia Lombardo, l’avvocato Pierluigi Matta e alcuni imprenditori. Fino a poco prima, Armao operava a stretto contatto con l'attuale presidente Renato Schifani in qualità di consulente, incarico da cui si è dimesso con l’emersione dell’inchiesta.\n\nAl centro delle accuse vi è l’operato di Armao alla guida della Commissione tecnica specialistica regionale per le autorizzazioni ambientali. Secondo gli investigatori, che si basano su perquisizioni, intercettazioni e riprese video, l'indagato avrebbe intascato tangenti e sostituito commissari per far approvare progetti su energie rinnovabili, infrastrutture, rifiuti e risorse idriche. L'avvocato Matta avrebbe mediato i contatti con le imprese, incassando parcelle legali utilizzate per dissimulare le somme poi versate in contanti ad Armao, il quale è stato anche ripreso mentre prelevava denaro nascosto in un orologio a pendolo nel proprio studio. \n\nLa procura contesta inoltre ad Armao un’ingerenza indebita sui vertici politici regionali, come nel caso del blocco dei decreti attuativi sulle cure palliative per favorire due associazioni dietro compenso illecito. Armao, che respinge ogni accusa, sarà interrogato dal giudice per le indagini preliminari il 13 ottobre per valutare l'applicazione delle misure cautelari.\n\nLa vicenda ha innescato forti ripercussioni sulla giunta regionale. La commissione Antimafia dell'Assemblea regionale ha aperto un’indagine conoscitiva sui controlli interni e ascolterà Schifani in audizione. Contestualmente, lo stesso presidente della Regione, pressato anche dal proprio partito, Forza Italia, affinché lasci l’incarico, ha convocato una giunta straordinaria per l’8 ottobre, comunicando di voler valutare a breve e con senso di responsabilità le decisioni da prendere.",
+      "fullSummary": "Il presidente Renato Schifani sta valutando se dimettersi, dopo che la procura ha chiesto l'arresto per il suo ex consulente Gaetano Armao",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/07/indagini-vicepresidente-sicilia-gaetano-armao/"
     },
     {
-      "cat": "politica",
-      "title": "La Camera ha approvato tutti gli articoli della legge elettorale ancora in discussione: ora manca solo il voto finale",
+      "cat": "mondo",
+      "title": "Il costo delle cure mediche ricevute in Svizzera dai 12 italiani feriti nell&#8217;incendio di Crans-Montana è di circa 1,6 milioni di euro",
       "summary": "",
-      "fullSummary": "La Camera ha approvato tutti gli articoli della legge elettorale ancora in discussione: ora manca solo il voto finale",
+      "fullSummary": "Secondo quanto è stato reso noto da Radio Télévision Suisse, vale a dire la divisione francofona appartenente all’azienda radiotelevisiva pubblica svizzera, ammonta a circa 1,6 milioni di euro il costo complessivo delle cure mediche che sono state ricevute in territorio elvetico dai dodici ragazzi italiani rimasti feriti nell’incendio di Capodanno. Il rogo si era sviluppato all’interno del locale denominato Le Constellation, situato a Crans-Montana, in un tragico evento nel quale avevano perso la vita complessivamente quarantuno persone.\n\nLa questione riguardante il pagamento di queste prestazioni sanitarie è al centro dell'attenzione e se ne parla già a partire dal mese di aprile. La vicenda ha avuto inizio nel momento in cui una struttura ospedaliera del canton Vallese ha scelto di recapitare direttamente alle famiglie di tre dei giovani feriti una copia delle fatture per le cure mediche ricevute. Questa decisione ha suscitato le immediate rimostranze e le proteste formali del governo italiano, il quale ha fatto chiaramente intendere fin dal principio di non essere intenzionato a pagare gli importi richiesti.\n\nSotto il profilo formale, le regole stabiliscono che le cure mediche ricevute in Svizzera da parte di un cittadino dell’Unione Europea dovrebbero ricadere ed essere a carico del paese di residenza del paziente stesso. Tuttavia, la posizione sostenuta dall’Italia è che in questa specifica circostanza debba essere riconosciuto e pienamente rispettato un principio di reciprocità. Il governo italiano ritiene infatti che tale criterio debba essere applicato per due motivi precisi: da una parte, alcuni cittadini svizzeri rimasti a loro volta feriti nel medesimo incendio sono stati curati all'interno di ospedali italiani; dall'altra parte, enti italiani hanno partecipato in prima persona e in modo diretto alle operazioni di soccorso coordinate a seguito dell'evento.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/camera-articoli-legge-elettorale-fiducia/"
-    },
-    {
-      "cat": "politica",
-      "title": "Lo “Stabilicum” rischia di portare molta instabilità politica",
-      "summary": "La nuova legge elettorale pensata per garantire governi duraturi potrebbe avere l'effetto opposto: dipenderà quasi tutto dal premio di maggi…",
-      "fullSummary": "La nuova legge elettorale pensata per garantire governi duraturi potrebbe avere l'effetto opposto: dipenderà quasi tutto dal premio di maggioranza",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/07/legge-elettorale-stabilicum-premio-di-maggioranza-42-per-cento/"
+      "url": "https://www.ilpost.it/2026/10/10/fatture-svizzera-16-milioni-euro-crans-montana/"
     },
     {
       "cat": "mondo",
-      "title": "Nel Regno Unito i Laburisti hanno vinto le prime elezioni suppletive da quando Andy Burnham è primo ministro",
-      "summary": "",
-      "fullSummary": "Nel Regno Unito i Laburisti hanno vinto le prime elezioni suppletive da quando Andy Burnham è primo ministro",
+      "title": "L&#8217;accordo di Trump e Putin sul gasolio potrebbe non servire a molto",
+      "summary": "Non è abbastanza per far scendere i prezzi del carburante in modo consistente, e finirà soprattutto per legittimare il regime russo",
+      "fullSummary": "Non è abbastanza per far scendere i prezzi del carburante in modo consistente, e finirà soprattutto per legittimare il regime russo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/09/regno-unito-elezioni-suppletive-holborn-e-st-pancras/"
+      "url": "https://www.ilpost.it/2026/10/10/accordo-diesel-trump-putin/"
     },
     {
       "cat": "mondo",
-      "title": "Il Pentagono vuole trasmettere in diretta streaming la fucilazione dell&#8217;autore della strage di Fort Hood",
-      "summary": "Non è mai stato fatto negli Stati Uniti e molti, oltre a criticare la decisione, ne contestano la fattibilità",
-      "fullSummary": "Non è mai stato fatto negli Stati Uniti e molti, oltre a criticare la decisione, ne contestano la fattibilità",
+      "title": "Donald Trump ha detto che la Russia fornirà 300mila tonnellate di gasolio «al mercato statunitense e globale»",
+      "summary": "",
+      "fullSummary": "Sul proprio social network Truth, il presidente degli Stati Uniti Donald Trump ha scritto che la Russia fornirà «immediatamente» 300mila tonnellate di gasolio destinate «al mercato statunitense e globale». Trump ha inoltre aggiunto che un'ulteriore quota di 500mila tonnellate verrà consegnata nel corso del mese di novembre, a cui farà seguito subito dopo un altro carico consistente di un milione di tonnellate.\n\nQuesto annuncio costituisce una chiara mossa elettorale in vista delle elezioni di metà mandato, che si terranno negli Stati Uniti all'inizio di novembre per rinnovare la Camera e parte del Senato. In tutto il mondo, il prezzo dei carburanti e in particolar modo quello del gasolio ha subito un forte incremento per effetto del conflitto in Medio Oriente e degli attacchi condotti dall'Ucraina contro le raffinerie russe.\n\nSul territorio statunitense, il costo del gasolio ha ormai superato in molti distributori la soglia dei 6 dollari al gallone, andando ben oltre il limite psicologico ritenuto tollerabile da molti elettori. I rincari hanno penalizzato la popolarità sia di Trump sia del suo Partito Repubblicano, spingendo il presidente a cercare attivamente dei modi per abbassare i prezzi prima dell'appuntamento elettorale.\n\nNei giorni scorsi, gli Stati Uniti avevano già avanzato la richiesta ai grandi paesi europei, tra cui Francia e Germania, di mettere a disposizione almeno 100 milioni di barili di gasolio attingendo alle loro riserve di emergenza entro un lasso di tempo di 20 giorni. Infine, dopo aver subito forti pressioni da parte di Trump, la scorsa settimana anche i leader delle nazioni del G7 — Canada, Francia, Germania, Italia, Regno Unito, Giappone e Stati Uniti — hanno dato il proprio consenso all'utilizzo di circa 100 milioni di barili complessivi di gasolio e greggio provenienti dalle rispettive riserve emergenziali.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/09/condanna-a-morte-fort-hood-diretta-streaming-annuncio/"
+      "url": "https://www.ilpost.it/2026/10/09/donald-trump-gasolio/"
     },
     {
       "cat": "mondo",
-      "title": "Un agente dell’ICE ha sparato a un uomo a New York durante un arresto, mentre nell’auto c’era anche un bambino di cinque anni",
+      "title": "C&#8217;è stato un forte terremoto a Panama",
+      "summary": "Ha provocato danni in tutto il paese e causato l'evacuazione di scuole ed edifici; è stata emessa un'allerta tsunami",
+      "fullSummary": "Ha provocato danni in tutto il paese e causato l'evacuazione di scuole ed edifici; è stata emessa un'allerta tsunami",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/09/terremoto-panama/"
+    },
+    {
+      "cat": "sport",
+      "title": "La Cina non è più così imbattibile a tennistavolo",
+      "summary": "Nelle prime tre posizioni del ranking maschile non c’è nemmeno un atleta cinese: non succedeva dal 1998",
+      "fullSummary": "Nelle prime tre posizioni del ranking maschile non c’è nemmeno un atleta cinese: non succedeva dal 1998",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/10/cina-tennistavolo-sconfitte-storia/"
+    },
+    {
+      "cat": "sport",
+      "title": "La finale della WNBA sarà Golden State Valkyries-Atlanta Dream",
       "summary": "",
-      "fullSummary": "Un agente dell’ICE ha sparato a un uomo a New York durante un arresto, mentre nell’auto c’era anche un bambino di cinque anni",
+      "fullSummary": "Le Golden State Valkyries e le Atlanta Dream sono le due formazioni che si sfideranno per il titolo nelle finali della WNBA, il campionato statunitense femminile di basket. Entrambe le squadre hanno conquistato la qualificazione al termine dei rispettivi confronti, riuscendo a imporsi sulle avversarie per accedere alla fase decisiva del torneo.\n\nPer quanto riguarda le Golden State Valkyries, l'accesso alla serie finale è arrivato grazie alla vittoria ottenuta contro le Las Vegas Aces, squadra che si presentava come campionessa in carica della lega. Le Valkyries hanno battuto le rivali con il punteggio di 87-77 nella terza partita della serie. Tale turno si disputava con la formula al meglio delle cinque partite, e il successo nella terza gara ha chiuso definitivamente il confronto.\n\nNell'altra sfida, anche le Atlanta Dream hanno staccato il biglietto per la finale superando le New York Liberty. La partita si è conclusa con l'affermazione delle Dream per 85-83. Esattamente come avvenuto nell'altro scontro, la qualificazione è maturata nel corso della terza gara della serie, anch'essa programmata e disputata secondo la formula al meglio delle cinque partite.\n\nL'approdo in finale delle Golden State Valkyries rappresenta un risultato notevole per una società giovanissima nel panorama cestistico. La franchigia ha infatti esordito nella WNBA soltanto lo scorso anno, stagione in cui aveva già raggiunto a sorpresa i playoff. La squadra annovera tra le sue fila Cecilia Zandalasini, ala indicata come la giocatrice italiana di maggior talento e con più esperienza internazionale.\n\nL'ultimo atto del campionato tra Golden State Valkyries e Atlanta Dream prenderà il via il 17 ottobre. Per l'assegnazione del titolo WNBA è previsto un cambiamento di formato rispetto alle serie precedenti: le finaliste non giocheranno più su cinque gare, bensì si affronteranno in una serie al meglio delle sette partite.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/09/ice-new-york-agente-spara-uomo-bambino-auto/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il corteo per ricordare Maricarmen Abascal",
-      "summary": "Cioè la donna di 87 anni per cui erano cominciate le proteste contro gli sfratti in Spagna: giovedì sera a Madrid c'erano circa 20mila perso…",
-      "fullSummary": "Cioè la donna di 87 anni per cui erano cominciate le proteste contro gli sfratti in Spagna: giovedì sera a Madrid c'erano circa 20mila persone",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/spagna-madrid-corteo-maricarmen-abascal/"
+      "url": "https://www.ilpost.it/2026/10/10/finali-wnba/"
     },
     {
       "cat": "sport",
-      "title": "A&#8217;ja Wilson è stata nominata per la quinta volta migliore giocatrice della WNBA, il campionato di basket femminile statunitense",
+      "title": "L&#8217;Italia ha battuto la Bielorussia 2-0 nella semifinale d&#8217;andata delle qualificazioni per i Mondiali femminili",
       "summary": "",
-      "fullSummary": "A&#8217;ja Wilson è stata nominata per la quinta volta migliore giocatrice della WNBA, il campionato di basket femminile statunitense",
+      "fullSummary": "L&#8217;Italia ha battuto la Bielorussia 2-0 nella semifinale d&#8217;andata delle qualificazioni per i Mondiali femminili",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/09/aja-wilson-mvp-wnba-2026/"
+      "url": "https://www.ilpost.it/2026/10/09/italia-bielorussia-2-0-qualificazioni-mondiali/"
     },
     {
       "cat": "sport",
-      "title": "L&#8217;Italia prova di nuovo ad andare ai Mondiali di calcio",
-      "summary": "Quelli femminili del 2027: oggi c'è la prima di – speriamo – quattro partite molto importanti, per non fare come la Nazionale maschile",
-      "fullSummary": "Quelli femminili del 2027: oggi c'è la prima di – speriamo – quattro partite molto importanti, per non fare come la Nazionale maschile",
+      "title": "La corsa che non c&#8217;è",
+      "summary": "Nel ciclismo il Giro di Lombardia maschile c’è dal 1905, quello femminile ancora no: è colpa del traffico, dicono",
+      "fullSummary": "Nel ciclismo, il Giro di Lombardia – ufficialmente denominato “Il Lombardia” – rappresenta la quinta e ultima classica monumento della stagione maschile, ma non ha ancora un equivalente femminile. A differenza delle altre quattro grandi classiche, che hanno introdotto una prova per le donne (dal Giro delle Fiandre oltre vent’anni fa, alla Liegi-Bastogne-Liegi nel 2017, la Roubaix nel 2021 e la Sanremo nel 2025), la gara lombarda femminile non è mai esistita e non ha una collocazione ufficiale.\n\nRCS Sport, la società guidata da Urbano Cairo che organizza le principali corse italiane, non ha rilasciato programmi concreti e ha dichiarato al Post di non poter prevedere un debutto per il 2027, il 2028 o gli anni a venire. Nel 2023 l'amministratore delegato Paolo Bellino definì il progetto complesso da pensare e calibrare, mentre nel 2025 accennò a un possibile arrivo nel 2026, senza ulteriori conferme.\n\nL’assenza del Lombardia fa terminare la stagione d'élite femminile con largo anticipo rispetto a quella maschile. Protagoniste di vertice come Elisa Longo Borghini e Demi Vollering hanno evidenziato questo vuoto nel calendario: il percorso lombardo, caratterizzato da forti dislivelli e salite impegnative, risulterebbe ideale per le scalatrici e garantirebbe grande spettacolarità.\n\nI motivi della mancata organizzazione riguardano fattori economici, con la necessità di sponsor, budget e sostenibilità duratura, ma soprattutto problemi logistici. Il nodo principale è costituito dal traffico e dalla chiusura delle strade in aree lombarde densamente popolate e frequentate. Tuttavia, una collocazione nello stesso fine settimana della gara maschile favorirebbe la copertura mediatica. Inoltre, RCS Sport gestisce già la domenica la Gran Fondo amatoriale Felice Gimondi, che condivide parte del percorso e richiede analoghi blocchi della viabilità. Nonostante il movimento femminile possieda corse storiche autonome come il Trofeo Alfredo Binda, abbinare la prova al monumento maschile permetterebbe di capitalizzarne la notorietà e l'interesse del pubblico.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/09/italia-calcio-femminile-qualificazione-playoff-mondiali-calcio-2027/"
+      "url": "https://www.ilpost.it/2026/10/09/giro-di-lombardia-femminile-non-esiste/"
     },
     {
-      "cat": "sport",
-      "title": "La Wikipedia del calcio dilettantistico in Italia",
-      "summary": "Su Tuttocampo si trovano notizie, risultati e cronache di migliaia di partite, inserite da chi le guarda o le gioca",
-      "fullSummary": "Su Tuttocampo si trovano notizie, risultati e cronache di migliaia di partite, inserite da chi le guarda o le gioca",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/tuttocampo-app-calcio-dilettanti-cos-e-come-funziona/"
+      "cat": "scienza",
+      "title": "Cosa c&#039;è dietro la scossa record di 7.7 a Panama",
+      "summary": "Un violento terremoto ha colpito la penisola di Azuero. La faglia, rimasta &quot;silenziosa&quot; per anni, ha accumulato una tensione liber…",
+      "fullSummary": "Un violento terremoto ha colpito la penisola di Azuero. La faglia, rimasta &quot;silenziosa&quot; per anni, ha accumulato una tensione liberata all&#039;improvviso: cause geologiche e i rischi per le zone colpite.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/terremoto-di-magnitudo-7-7-a-panama-perche-si-e-scatenata-la-scossa-piu-forte-mai-registrata-sulla-terraferma"
     },
     {
-      "cat": "sport",
-      "title": "Il più grande problema del tennis contemporaneo",
-      "summary": "Gli infortuni",
-      "fullSummary": "Il tennis contemporaneo sta affrontando una grave crisi legata al costante aumento di infortuni e ritiri improvvisi tra i suoi migliori atleti. Nel 2026, protagonisti come Jannik Sinner e Carlos Alcaraz non si sono più affrontati dopo il torneo di Monte Carlo di aprile: Alcaraz ha saltato cinque mesi per un problema al polso, mentre Sinner è fermo da luglio per il ginocchio e rientrerà nel 2027. Anche altri tennisti di vertice, tra cui Musetti, Draper, Rune, Djokovic e Fils, hanno subito battute d'arresto fisiche, permettendo ad Alexander Zverev di chiudere l'anno in vetta al ranking grazie alla propria continuità.\n\nI numeri confermano questa tendenza: secondo uno studio dell'Universitat Central de Catalunya, negli ultimi venticinque anni i ritiri a partita in corso sono cresciuti del 25 per cento nel circuito maschile e del 50 per cento in quello femminile. Episodi come il ritiro di Lorenzo Musetti contro Novak Djokovic testimoniano come la salute dei giocatori decida ormai gli esiti dei tornei tanto quanto la tecnica.\n\nLe cause del problema sono molteplici. La stagione agonistica dura ben undici mesi e l'estensione di quasi tutti i Masters 1000 da una a due settimane ha aumentato le partite e i viaggi, riducendo i tempi di riposo. Sul campo, l'intensità è cresciuta: gli atleti sono più potenti, i materiali come le corde sollecitano maggiormente le articolazioni e le superfici favoriscono scambi lunghi ed estenuanti a fondo campo, a discapito di tattiche rapide come il serve and volley. Poiché le partite non hanno limiti di tempo e possono durare diverse ore, gli infortuni da sovraccarico si moltiplicano. Infine, il recupero è ulteriormente compromesso da orari notturni estremi — come l'incontro tra Alcaraz e Ben Shelton terminato alle 3:30 agli US Open —, dal jet lag e dall'aumento delle temperature.",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/08/infortuni-tennisti-perche-sinner-alcaraz/"
+      "cat": "scienza",
+      "title": "UAP nei cieli del Kuwait? No, uccelli",
+      "summary": "Analizzando la frequenza del battito e la luminosit&amp;agrave; a infrarossi, i ricercatori hanno dimostrato che gli oggetti non identificat…",
+      "fullSummary": "Un nuovo studio guidato da Jacob Haqq-Misra e da altri membri del Consiglio consultivo scientifico dell'UAP offre una spiegazione per il caso di sei presunti UAP ripresi da un aereo militare sopra l'isola di Qaruh, vicino al Kuwait, il 29 luglio 2025. Nel filmato, reso pubblico nel settembre 2026 nell'ambito del programma PURSUE del Dipartimento della Guerra degli Stati Uniti, gli oggetti sembravano muoversi in gruppo in modo agile a circa 480 miglia orarie (circa 777 chilometri orari).\n\nA causa della censura applicata ai dati a schermo, i video non indicano la distanza tra il sensore e il bersaglio, fattore che rende incerte le stime di velocità e dimensioni, analogamente a quanto accaduto nel celebre caso \"Go Fast\" del 2015. Per aggirare il problema, i ricercatori hanno analizzato un parametro indipendente dalla distanza: la variazione periodica della luminosità a infrarossi e dell'area causata dal battito delle ali.\n\nL'esame fotogramma per fotogramma ha evidenziato che i sei punti pulsano regolarmente a frequenze comprese tra 7,11 e 7,85 battiti al secondo, ciascuno con il proprio ritmo e con fasi sfalsate. Questo sfasamento esclude artefatti della telecamera o della compressione video. Le misurazioni sono risultate del tutto coerenti con i dati raccolti su uccelli in volo tramite telecamere a infrarossi a Las Vegas.\n\nLa velocità stimata di 480 miglia orarie deriverebbe da un effetto di parallasse: uccelli relativamente lenti, situati a una quota inferiore rispetto al velivolo, possono apparire molto più veloci se proiettati sul terreno sottostante. Anche le continue variazioni di disposizione dello stormo coincidono con il comportamento degli uccelli marini tipici dell'isola di Qaruh a fine luglio. Gli autori sottolineano tuttavia che per conferme definitive sarebbero necessari i video originali non censurati e i dati telemetrici dell'aereo.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/uap-nei-cieli-del-kuwait-il-mistero-dei-sei-puntini-luminosi-svelato-da-un-nuovo-studio"
+    },
+    {
+      "cat": "scienza",
+      "title": "Le nuove tecnologie danno dipendenza?",
+      "summary": "Le nuove tecnologie creano una dipendenza? In occasione della Giornata mondiale della salute mentale, gli esperti lanciano l&#039;allarme su…",
+      "fullSummary": "L'uso pervasivo di Internet, smartphone e social media coinvolge adolescenti e adulti, esponendoli al rischio di dipendenze tecnologiche. Come spiegato dallo psichiatra Keith Humphreys, la vulnerabilità umana deriva da un cervello antico immerso in un ambiente moderno, in cui gli strumenti digitali stimolano picchi di piacere paragonabili a quelli provocati dalle sostanze d'abuso. Sebbene per l'Organizzazione mondiale della sanità solo il gioco d'azzardo e il gaming abbiano criteri diagnostici precisi, Massimo Clerici della Società italiana di psichiatria definisce queste dipendenze comportamentali come autentici disturbi del sistema nervoso centrale.\n\nIn Italia la diffusione è rilevante: stando ai dati dell'Istituto superiore di sanità e dello studio Espad, circa 15.000 studenti tra gli 11 e i 13 anni abusano dei social, mentre tra i 15 e i 19 anni quasi 370.000 trascurano sonno e relazioni per la rete e oltre 420.000 minorenni hanno provato le scommesse in Borsa. A livello clinico, la privazione di riposo accresce il rischio di ansia e depressione. Lo psichiatra Marco Potenza evidenzia inoltre che nei più giovani l'iperconnessione può alterare le connessioni cerebrali, ostacolare il linguaggio e anticipare la maturazione sessuale attraverso l'accesso alla pornografia. Al contempo, gli algoritmi che propongono immagini corporee alimentano problematiche come l'anoressia e la cosmeticoressia, con una maggiore vulnerabilità tra i soggetti con tratti di deficit di attenzione e iperattività.\n\nIn assenza di farmaci specifici, la cura si concentra sulla gestione dei sintomi e sull'individuazione dei campanelli d'allarme, tra cui il desiderio ossessivo di connettersi, le menzogne sulle ore trascorse online, i disturbi fisici come mal di testa e problemi visivi, e le difficoltà relazionali. Poiché limitare l'accesso tecnologico è considerato irrealistico, gli specialisti raccomandano alle famiglie di coltivare il dialogo e di verificare con attenzione quali attività e contenuti impegnino i minori.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/giornata-mondiale-della-salute-mentale-non-riusciamo-staccarci-schermo"
     },
     {
       "cat": "scienza",
@@ -106,34 +130,10 @@
       "url": "https://www.focus.it/scienza/scienze/terremoto-di-magnitudo-6-3-a-vanuatu-cosa-e-successo-e-perche"
     },
     {
-      "cat": "scienza",
-      "title": "Torna l&#039;influenza (in grande anticipo)",
-      "summary": "I casi di influenza stanno emergendo settimane prima del solito, sollevando domande sulle tempistiche dei vaccini: ma qual è il ceppo domina…",
-      "fullSummary": "I casi di influenza stanno emergendo settimane prima del solito, sollevando domande sulle tempistiche dei vaccini: ma qual è il ceppo dominante?",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/l-influenza-nel-nostro-emisfero-sembra-essere-cominciata-un-mese-in-anticipo"
-    },
-    {
-      "cat": "scienza",
-      "title": "Il riscaldamento globale allunga le giornate",
-      "summary": "I cambiamenti nella circolazione atmosferica guidati dal clima rallentano la rotazione della Terra, provocando un aumento della durata del g…",
-      "fullSummary": "I cambiamenti nella circolazione atmosferica guidati dal clima rallentano la rotazione della Terra, provocando un aumento della durata del giorno entro la fine del secolo.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/il-riscaldamento-globale-sta-allungando-le-nostre-giornate-ecco-perche-la-terra-ruota-piu-lentamente"
-    },
-    {
-      "cat": "scienza",
-      "title": "Morta Margaret Hamilton: informatica di Apollo 11",
-      "summary": "&amp;Egrave; morta a novant&#039;anni Margaret Hamilton, la programmatrice del MIT che svilupp&amp;ograve; il software di bordo per il Progr…",
-      "fullSummary": "&amp;Egrave; morta a novant&#039;anni Margaret Hamilton, la programmatrice del MIT che svilupp&amp;ograve; il software di bordo per il Programma Apollo e rese possibile il primo storico allunaggio del 1969.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/e-morta-margaret-hamilton-la-scienziata-che-salvo-lo-sbarco-sulla-luna-con-il-suo-codice"
-    },
-    {
       "cat": "storia",
       "title": "Chi è Navi Pillay, Nobel per la Pace 2026",
       "summary": "La lotta all&#039;apartheid, il lavoro per il riconoscimento dei crimini in Ruanda e a Gaza: l&#039;impegno della giudice Navi Pillay, Premi…",
-      "fullSummary": "La lotta all&#039;apartheid, il lavoro per il riconoscimento dei crimini in Ruanda e a Gaza: l&#039;impegno della giudice Navi Pillay, Premio Nobel per la Pace.",
+      "fullSummary": "La magistrata e avvocata sudafricana Navanethem \"Navi\" Pillay è stata insignita del Premio Nobel per la Pace 2026 per la sua costante lotta contro le discriminazioni strutturali e la segregazione razziale. Il Comitato norvegese ha motivato l'assegnazione riconoscendo il suo ruolo determinante nel garantire che crimini di guerra, crimini contro l'umanità e genocidio vengano perseguiti, richiamando Stati e leader al rispetto del diritto internazionale per proteggere le vittime e preservare la pace.\n\nNata nel 1941 a Durban in una famiglia di origini indiane, discendente di lavoratori a contratto nelle piantagioni di canna da zucchero, Pillay ha studiato giurisprudenza grazie al supporto della sua comunità. Dopo aver sperimentato l'apartheid, ha difeso per trent'anni numerosi attivisti, tra cui Nelson Mandela, denunciando metodi di interrogatorio illegali, torture e detenzioni disumane. Nel 1995 è divenuta la prima donna non bianca a presiedere l'Alta Corte del Sudafrica e la Commissione per il servizio giuridico.\n\nSuccessivamente è stata giudice e presidente del Tribunale penale internazionale per il Ruanda. Nel processo contro Jean Paul Akayesu, la corte da lei guidata ha emesso la prima condanna al mondo per genocidio da parte di un tribunale internazionale, stabilendo per la prima volta che lo stupro e la violenza sessuale costituiscono atti di genocidio e crimini contro l'umanità, oltre a perseguire l'incitamento basato sulla propaganda.\n\nNel suo percorso ha operato anche come giudice della Corte penale internazionale, Alto Commissario ONU per i diritti umani e giudice della Corte internazionale di giustizia nel caso sul genocidio in Myanmar. Più di recente, ha guidato la Commissione d'inchiesta dell'ONU che ha attestato il genocidio commesso da Israele a Gaza tra l'ottobre 2023 e il luglio 2025, documentando uccisioni di civili in cerca di cibo. Commentando i fatti, Pillay ha ricordato il dovere internazionale di bloccare le armi e garantire soccorsi, affermando che l'inazione equivale a complicità.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/curiosita/chi-e-navi-pillay-la-solida-bussola-morale-vincitrice-del-nobel-per-la-pace-2026"
     },
@@ -141,7 +141,7 @@
       "cat": "storia",
       "title": "La longevità? La vera rivoluzione del nostro tempo",
       "summary": "Federico Rampini, nel nuovo libro &quot;Argento vivo&quot;, ribalta il catastrofismo demografico: vivere pi&amp;ugrave; a lungo non &amp;egr…",
-      "fullSummary": "Federico Rampini, nel nuovo libro &quot;Argento vivo&quot;, ribalta il catastrofismo demografico: vivere pi&amp;ugrave; a lungo non &amp;egrave; un costo ma la pi&amp;ugrave; grande conquista della storia.",
+      "fullSummary": "Nel dibattito pubblico e nei media, l’invecchiamento demografico viene frequentemente descritto come un disastro economico, caratterizzato da costi insostenibili per pensioni e sanità, impoverimento delle nuove generazioni e perdita di dinamismo. Nel libro Argento vivo, Federico Rampini ribalta questa narrazione catastrofista, ricordando che i precedenti allarmismi sulla bomba demografica e le carestie mondiali si sono dimostrati del tutto infondati. Per l’autore, l’aumento della longevità costituisce invece la più straordinaria conquista nella storia dell’umanità.\n\nConsiderare l’allungamento della vita solo come una spesa significa ignorare il capitale umano aggiuntivo e la ricchezza prodotti dagli anziani. Essi continuano infatti a generare benessere lavorando, impegnandosi nel volontariato o garantendo un welfare familiare gratuito a supporto di figli, nipoti e genitori anziani. Questa trasformazione culturale, economica e sociale vede protagonista la numerosa generazione dei Baby Boomer, nati tra il 1946 e il 1964. Dopo aver segnato le epoche passate con i consumi giovanili e il femminismo, questa fascia anagrafica si appresta a reinventare la terza e la quarta età, ribellandosi all’ageismo e agli schemi convenzionali.\n\nRampini smentisce inoltre che gli anziani attivi sottraggano occupazione ai giovani: il lavoro non è una risorsa fissa da razionare, ma una fonte di ricchezza che cresce con il numero degli occupati. Negli Stati Uniti, ad esempio, alla presenza di giovani amministratori delegati nella Silicon Valley si affianca una forte crescita di imprese avviate da ultra-settantenni, favorita da un’età pensionabile estremamente flessibile. In Giappone, nazione pioniera dell'invecchiamento e della denatalità, si valorizza il cosiddetto longevity dividend, impiegando la creatività e l'esperienza degli anziani nella collettività o reinserendoli nelle aziende, mentre la Cina investe con decisione nella Silver Economy. L'Italia, infine, si trova frenata da normative anacronistiche e da una politica orientata ad abbassare l'età di pensionamento, a fronte però di una società civile assai più dinamica e creativa.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/curiosita/la-longevita-la-vera-rivoluzione-del-nostro-tempo"
     },
@@ -157,7 +157,7 @@
       "cat": "storia",
       "title": "Chi ha assassinato Francesco de&#039; Medici?",
       "summary": "Per secoli si &amp;egrave; parlato del veleno del fratello cardinale, ma le analisi del DNA sulle costole del Granduca di Toscana hanno svel…",
-      "fullSummary": "Per secoli si &amp;egrave; parlato del veleno del fratello cardinale, ma le analisi del DNA sulle costole del Granduca di Toscana hanno svelato com&#039;&amp;egrave; morto veramente Francesco de&#039; Medici (e la moglie Bianca Cappello).",
+      "fullSummary": "Per secoli la scomparsa di Francesco I de' Medici, granduca di Toscana, e di sua moglie Bianca Cappello è stata accompagnata da dicerie e sospetti legati a un presunto omicidio. Secondo quanto sostenuto per lungo tempo dalle malelingue, il granduca sarebbe stato fatto avvelenare dal proprio fratello, il cardinale Ferdinando. L'ipotesi dell'avvelenamento per mano del prelato è stata tramandata per secoli, ma sono stati necessari ben 439 anni e il ricorso alle tecniche più sofisticate della genetica per chiarire in modo definitivo la vicenda e riuscire finalmente a incastrare il vero responsabile della morte del sovrano.\n\nI fatti storici ricordano che Francesco I de' Medici era deceduto dopo aver manifestato forti febbri e intensi dolori, comparsi subito dopo il suo rientro da un soggiorno trascorso lungo la costa pisana. Per scoprire come andarono realmente le cose, è stata eseguita una complessa indagine scientifica condotta congiuntamente dall'Università di Pisa e dall'Università di Yale, negli Stati Uniti. I ricercatori hanno analizzato alcuni campioni biologici estratti direttamente dalle costole del granduca, e proprio l'analisi del DNA ha permesso di rilevare la presenza inequivocabile di due parassiti specifici: il Plasmodium falciparum e il Plasmodium malariae.\n\nI risultati delle analisi hanno dimostrato che a provocare la morte di Francesco de' Medici non fu il veleno del fratello cardinale, bensì la malaria contratta durante la permanenza sulla costa. Questa importante conferma genetica ha ribadito quanto era già stato ipotizzato all'epoca dai medici di corte. Inoltre, la ricerca ha chiarito che, con ogni probabilità, la stessa identica sorte toccò anche alla moglie Bianca Cappello, la quale morì insieme al marito nelle medesime circostanze. L'esame del DNA ha quindi svelato com'è morto veramente il granduca, archiviando secoli di dicerie sul presunto avvelenamento e identificando nella malaria l'unica causa della tragedia.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/chi-ha-assassinato-francesco-de-medici-incastrato-dalla-genetica-dopo-439-anni"
     },
