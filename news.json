@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T22:59:56.614Z",
+  "generatedAt": "2026-10-18T03:53:10.980Z",
   "items": [
     {
       "cat": "politica",
       "title": "L&#8217;Italia ha prorogato di sette giorni i controlli per chi arriva dalla Spagna",
       "summary": "",
-      "fullSummary": "L&#8217;Italia ha prorogato di sette giorni i controlli per chi arriva dalla Spagna",
+      "fullSummary": "Il governo italiano ha deciso di prorogare per un’ulteriore settimana i controlli nei confronti di chi arriva dalla Spagna, come comunicato da fonti governative alle agenzie di stampa. Si tratta di procedure che, normalmente, non risultano necessarie all'interno del contesto europeo, in quanto vige il principio della libera circolazione tra gli Stati.\n\nTali misure erano state originariamente introdotte dall'esecutivo italiano all'inizio del mese di agosto. La decisione era stata motivata dall'intenzione di prevenire potenziali rischi per la sicurezza interna dell'Italia dopo gli avvenimenti legati alla crisi migratoria a Ceuta, l'exclave spagnola in cui decine di migliaia di persone erano entrate a partire dal Marocco. A seguito di questa scelta italiana, la Spagna aveva manifestato la propria contestazione e aveva reagito istituendo analoghi controlli destinati a coloro che provenivano dal territorio italiano.\n\nLa nuova proroga di sette giorni è stata stabilita con lo scopo di allineare con precisione la scadenza delle misure attualmente in vigore nei due rispettivi Paesi. Secondo i termini precedentemente fissati, infatti, i controlli italiani avrebbero avuto termine il 16 ottobre, mentre quelli predisposti dalle autorità spagnole sarebbero durati fino al 22 ottobre.\n\nSul piano del dialogo politico, la presidente del Consiglio Giorgia Meloni ha riferito di aver svolto un incontro con il primo ministro spagnolo Pedro Sánchez. Il colloquio ha avuto luogo durante i lavori del Consiglio europeo a Bruxelles, conclusosi venerdì. In questa occasione, Meloni e Sánchez hanno concordato che, a partire dalla prossima settimana, i ministeri dell'Interno di Italia e Spagna si dedicheranno alla definizione di apposite misure di cooperazione per sostituire gli attuali controlli alle frontiere. Tra queste soluzioni concordate rientrano, in particolare, una più stretta collaborazione tra le rispettive polizie e uno scambio di informazioni che possa risultare più efficace.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/16/italia-spagna-controlli-schengen-proroga/"
     },
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "Potrebbe essere una delle leggi di bilancio più modeste di sempre",
       "summary": "Ci sono misure per 23,5 miliardi, ma 14 per ora non si possono toccare: dipenderà tutto da un negoziato con la Commissione europea",
-      "fullSummary": "Ci sono misure per 23,5 miliardi, ma 14 per ora non si possono toccare: dipenderà tutto da un negoziato con la Commissione europea",
+      "fullSummary": "Il Documento Programmatico di Bilancio (DPB), inviato dal governo alla Commissione europea per la verifica dei conti e del rispetto dei vincoli comunitari, delinea una legge di bilancio complessiva da 23,5 miliardi di euro per il 2027. Tuttavia, le risorse effettive per le misure ordinarie ammontano a soli 9,1 miliardi: ben 14,4 miliardi risultano infatti vincolati a investimenti strutturali in energia e difesa attraverso la clausola di salvaguardia nazionale (NEC), che consente un indebitamento straordinario. Per questa ragione, l'esecutivo guidato da Giorgia Meloni sta preparando una manovra insolitamente modesta, proprio nell'anno precedente alle elezioni politiche.\n\nNel tentativo di reperire ulteriori risorse, il governo sta negoziando con Bruxelles la possibilità di utilizzare parte dei fondi vincolati per spese correnti, come gli interventi per calmierare le bollette e il taglio delle accise sui carburanti. La lista definitiva degli interventi dipenderà dall'esito di questo confronto, atteso nelle prossime settimane.\n\nIn base al quadro attuale del DPB, tra le spese figurano 5 miliardi di euro stanziati per le politiche a favore delle famiglie, 4,5 miliardi per la difesa e 3,3 miliardi per il sostegno alle imprese. I 2,1 miliardi riservati alla riduzione delle imposte risultano insufficienti per realizzare sia il taglio dell'IRPEF per i redditi fino a 60mila euro, sia l'innalzamento a 100mila euro della soglia della flat tax per gli autonomi.\n\nPer quanto riguarda le coperture, 13 miliardi deriveranno dall'indebitamento straordinario, mentre 10,3 miliardi proverranno da nuove entrate e risparmi. Tra questi ultimi figurano 1,2 miliardi di tagli ai ministeri, 720 milioni da imposte sui giochi e 5 miliardi attesi dal settore bancario e assicurativo. Su tale contributo permangono incertezze, dato che l'ABI ha segnalato l'assenza di un dialogo in corso. A causa di queste complessità e delle trattative europee, la presentazione del disegno di legge vero e proprio è in ritardo.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/15/legge-di-bilancio-2027-documento-programmatico-di-bilancio/"
     },
@@ -99,6 +99,14 @@
     },
     {
       "cat": "scienza",
+      "title": "Di che colore sono le stelle?",
+      "summary": "&amp;Egrave; una questione di densit&amp;agrave;, e non solo di temperatura come si credeva finora: i resti di antichi pianeti creano nane b…",
+      "fullSummary": "&amp;Egrave; una questione di densit&amp;agrave;, e non solo di temperatura come si credeva finora: i resti di antichi pianeti creano nane bianche dai colori mai visti prima.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/le-nane-bianche-non-sono-solo-bianche-scoperte-stelle-rosa-viola-e-per-la-prima-volta-una-verde"
+    },
+    {
+      "cat": "scienza",
       "title": "Dolore: soffrono di più gli uomini o le donne?",
       "summary": "Uno studio condotto su oltre sei milioni di persone ha rivelato che nel mondo si soffre soprattutto di mal di schiena, e che le donne provan…",
       "fullSummary": "Uno studio condotto su oltre sei milioni di persone ha rivelato che nel mondo si soffre soprattutto di mal di schiena, e che le donne provano più dolore degli uomini.",
@@ -120,14 +128,6 @@
       "fullSummary": "Le donne italiane vivono in media quattro anni pi&amp;ugrave; degli uomini, ma ne passano tre in meno in buona salute. Dove nasce il paradosso della longevit&amp;agrave; e che cosa si pu&amp;ograve; fare.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/piu-anni-ma-in-salute"
-    },
-    {
-      "cat": "scienza",
-      "title": "Nicotina in utero: danni immunitari duraturi",
-      "summary": "Topi entrati a contatto con la nicotina durante la gravidanza della madre o appena dopo la nascita ne portano le conseguenze sul sistema imm…",
-      "fullSummary": "Topi entrati a contatto con la nicotina durante la gravidanza della madre o appena dopo la nascita ne portano le conseguenze sul sistema immunitario.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/l-esposizione-precoce-alla-nicotina-aumenta-la-gravita-dell-influenza-in-eta-adulta"
     },
     {
       "cat": "storia",
