@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:56:20.860Z",
+  "generatedAt": "2026-10-21T21:34:46.966Z",
   "items": [
     {
       "cat": "politica",
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "L&#8217;uso di soldati per l&#8217;ordine pubblico nelle città è un&#8217;anomalia italiana",
       "summary": "Concretamente non possono fare granché, ma il governo ne schiererà 500 in più a Milano: c'entra molto la scelta del prossimo candidato sinda…",
-      "fullSummary": "Concretamente non possono fare granché, ma il governo ne schiererà 500 in più a Milano: c'entra molto la scelta del prossimo candidato sindaco",
+      "fullSummary": "In seguito ai recenti disordini urbani, il governo Meloni ha deciso di rafforzare le misure di ordine pubblico inviando altri 500 soldati a Milano. L'ipotesi iniziale di conferire loro funzioni tipiche della polizia, come l'arresto in flagranza, è stata però bloccata dal veto della presidenza della Repubblica, mantenendone limitati i poteri. Con questo incremento, i militari impiegati complessivamente in Italia per la pubblica sicurezza salgono a 7.300: 6.000 nell'operazione “Strade sicure”, 800 in “Stazioni sicure” e i 500 destinati al capoluogo lombardo.\n\nTale assetto costituisce un’anomalia tra i paesi occidentali. Nel contesto europeo e del G7, un impiego continuativo si riscontra unicamente in Francia, dove dal 2015 l’operazione Sentinelle mantiene stabilmente attivi circa 3.000 militari su 10.000 previsti. Il Regno Unito, invece, limita il ricorso all’esercito a circostanze del tutto eccezionali e temporanee.\n\nIn Italia, “Strade sicure” nacque nel 2008 sotto il governo Berlusconi come misura transitoria di sei mesi per un massimo di 3.000 uomini, volta a sopperire ai tagli di bilancio e al blocco delle assunzioni nella Polizia. Nonostante la natura provvisoria, il programma è diventato strutturale e si è espanso per convenienza economica e consenso politico, arrivando a toccare gli 8.000 effettivi. Dopo un tentativo di progressivo smantellamento avviato nel 2022 dal ministro Lorenzo Guerini, nel 2023 il successore Guido Crosetto ha nuovamente incrementato il contingente.\n\nLa presenza delle forze armate nelle città solleva tuttavia precise questioni operative. Dalla riforma del 1981 la Polizia di Stato è un corpo civile, nettamente distinto dai militari. Ai soldati di “Strade sicure” è riconosciuta solo la qualifica di agenti di pubblica sicurezza: possono presidiare siti sensibili e svolgere controlli mirati, ma non possiedono le funzioni di polizia giudiziaria. Di conseguenza, a differenza delle forze dell’ordine tradizionali, non possono svolgere indagini, raccogliere prove, redigere verbali né arrestare persone in flagranza di reato.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/20/500-soldati-milano-strade-sicure/"
     },
@@ -45,7 +45,7 @@
       "cat": "mondo",
       "title": "Il satellite russo che ha pedinato un satellite usato dall&#8217;Ucraina",
       "summary": "Si è pericolosamente avvicinato a poche centinaia di metri, e resta il mistero sull'obiettivo della missione",
-      "fullSummary": "Si è pericolosamente avvicinato a poche centinaia di metri, e resta il mistero sull'obiettivo della missione",
+      "fullSummary": "Durante lo scorso fine settimana, il satellite russo Kosmos 2612 si è avvicinato pericolosamente al satellite statunitense ICEYE-X36, restando a una distanza insolita di circa 500 metri per molte ore prima di allontanarsi. ICEYE-X36 è un satellite per l'osservazione terrestre di proprietà di ICEYE US, filiale della società finlandese ICEYE. Questo dispositivo fornisce rappresentazioni radar ad alta risoluzione all'esercito ucraino, garantendo un vantaggio strategico fondamentale per controllare in tempo reale gli spostamenti delle truppe russe sia al fronte sia nelle retrovie. L'evento evidenzia l'espansione del confronto spaziale, che finora aveva coinvolto satelliti militari, anche verso infrastrutture commerciali usate dai governi a scopi bellici.\n\nKosmos 2612 era stato lanciato in orbita lo scorso aprile senza alcuna indicazione sulle sue finalità operative, per poi iniziare ad avvicinarsi progressivamente a partire da venerdì 16 ottobre. La strumentazione a bordo rimane sconosciuta: la Russia sviluppa da tempo cosiddetti \"satelliti ispettori\" destinati a fotografare veicoli vicini, captare e disturbare le comunicazioni o persino colpire fisicamente i bersagli. Questa eventualità desta forte allarme per la possibile dispersione di detriti spaziali e per il rischio di innescare la sindrome di Kessler, una reazione a catena distruttiva che comprometterebbe le future attività umane nello Spazio, anche se la quota di circa 500 chilometri potrebbe limitarne l'impatto su vasta scala.\n\nLa manovra ha dimostrato la capacità russa di compiere avvicinamenti rapidi ed estremamente precisi. Il successivo allontanamento di Kosmos 2612 è avvenuto un paio di giorni dopo la decisione del presidente statunitense Donald Trump di sospendere alcune sanzioni economiche verso la Russia. L'episodio riflette le crescenti tensioni geopolitiche nell'orbita bassa terrestre tra Russia, Stati Uniti e Cina. Gli analisti temono che il dispiegamento di veicoli con capacità non dichiarate e di vere e proprie armi possa innescare una pericolosa escalation, sollevando seri dubbi sul loro utilizzo come mero strumento di deterrenza e superando i limiti finora fissati dagli accordi internazionali.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/21/satellite-russo-avvicinamento-ucraina/"
     },
@@ -131,6 +131,14 @@
     },
     {
       "cat": "storia",
+      "title": "Gli aeroporti italiani più e meno puntuali",
+      "summary": "Ancona l&#039;aeroporto meno puntuale, Reggio Calabria il migliore: i dati Eurocontrol sui ritardi aerei in Italia tra meteo, vulcani e traf…",
+      "fullSummary": "Il 2026 si è affermato come un anno da record per l’aviazione civile, caratterizzato da una generale espansione del traffico nei cieli nonostante le criticità causate dai conflitti in Medio Oriente. A livello globale, il 23 luglio sono stati registrati 153.359 voli, con oltre 6.300 movimenti all'ora, mentre l'Europa ha toccato il proprio primato il 10 luglio con 37.640 collegamenti. Anche l'Italia ha segnato il suo picco il 1° agosto, raggiungendo quota 8.555 voli.\n\nSulla regolarità delle tratte hanno pesato fattori critici imprevisti: in particolare le eruzioni dell'Etna, che hanno generato cancellazioni e ritardi a cascata, e l'avaria al sistema di elaborazione dei piani di volo dell'ente britannico NATS avvenuta l'8 settembre, con dirette conseguenze sul traffico aereo tra l'Italia e il Regno Unito.\n\nIn merito alle prestazioni degli scali nazionali, i dati del 2025 forniti da Eurocontrol evidenziano un ritardo medio alla partenza di 15,7 minuti per i voli in decollo dall'Italia. L'aeroporto che ha accumulato i maggiori ritardi medi è stato Ancona, con 25 minuti alla partenza e 22,6 all'arrivo, seguito da Olbia, Verona, Perugia e Bergamo. Al contrario, lo scalo più puntuale del Paese è risultato Reggio Calabria, con una media di appena 5,8 minuti di ritardo in partenza e 4,7 all'arrivo, posizionandosi davanti ad altri aeroporti con tempi bassi come Parma, Trieste e Milano Linate.\n\nQueste evidenze contrastano apparentemente con le rilevazioni dell'Enav, secondo cui i ritardi ammontano a soli 0,01 minuti a volo, pari a sei decimi di secondo. Luca Falessi, direttore dello spazio aereo di Enac, ha spiegato che la gestione diretta dei flussi aerei ha un impatto minimo. La causa più frequente risiede invece nei cosiddetti \"ritardi di reazione\", ossia quelli ereditati dalle rotazioni precedenti di aerei o equipaggi: un velivolo che giunge tardi ripartirà inevitabilmente in ritardo, facendo sì che il problema spesso non origini nello scalo in cui viene registrato.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/curiosita/aeroporti-classifica-italia-ritardi"
+    },
+    {
+      "cat": "storia",
       "title": "10 invenzioni dell&#039;antica Roma arrivate fino a noi",
       "summary": "Acquedotti, giornali, calcestruzzo e welfare: molte delle infrastrutture e dei servizi che diamo per scontati oggi sono nati proprio nell&#0…",
       "fullSummary": "Acquedotti, giornali, calcestruzzo e welfare: molte delle infrastrutture e dei servizi che diamo per scontati oggi sono nati proprio nell&#039;Urbe. Ecco l&#039;eredit&amp;agrave; che i Romani ci hanno lasciato.",
@@ -152,14 +160,6 @@
       "fullSummary": "Prima del Rinascimento ci si puliva su tovaglie o vestiti. Poi sono arrivati i tovaglioli: giganti, profumati, piegati a forma di animale e legati a una tradizione che paghiamo ancora oggi al ristorante.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/curiosita/da-dove-arriva-l-usanza-di-usare-i-tovaglioli-a-tavola-e-cosa-c-entra-con-il-coperto"
-    },
-    {
-      "cat": "storia",
-      "title": "Messico: scoperto antico osservatorio astronomico",
-      "summary": "Un osservatorio astronomico di oltre 2.600 anni fa, pensato per tracciare il Sole e il calendario agricolo, &amp;egrave; stata individuato n…",
-      "fullSummary": "Un osservatorio astronomico di oltre 2.600 anni fa, pensato per tracciare il Sole e il calendario agricolo, &amp;egrave; stata individuato nello Stato di Puebla: finora si pensava che strutture cos&amp;igrave; fossero solo maya.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/scoperto-in-messico-un-antico-osservatorio-astronomico-per-la-prima-volta-fuori-dal-territorio-maya"
     },
     {
       "cat": "tech",
