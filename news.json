@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T16:51:27.575Z",
+  "generatedAt": "2026-10-23T21:27:16.596Z",
   "items": [
     {
       "cat": "politica",
       "title": "Pierfrancesco Majorino si candiderà a sindaco di Milano",
       "summary": "Il capogruppo del PD in Lombardia ha detto che parteciperà alle primarie del centrosinistra, che sono già piuttosto affollate",
-      "fullSummary": "Pierfrancesco Majorino, capogruppo del Partito Democratico in Lombardia, ha annunciato ufficialmente la propria intenzione di partecipare alle primarie del centrosinistra per la carica di sindaco di Milano, in vista delle elezioni comunali previste per la primavera del 2027. La comunicazione è avvenuta prima di una serata organizzata al Teatro della Quattordicesima, nel quartiere Corvetto. La candidatura era comunque considerata molto probabile da tempo, favorita da una crescente presenza di Majorino nelle trasmissioni televisive e sui social network registrata a partire da inizio ottobre.\n\nMajorino, che ha 53 anni, vanta un lungo percorso politico a Palazzo Marino. Eletto per la prima volta in consiglio comunale nel 2006, nel 2008 è diventato capogruppo del PD e punto di riferimento dell’opposizione alla giunta guidata da Letizia Moratti. Successivamente, dal 2011 al 2019, è stato assessore alle Politiche sociali nella giunta di centrosinistra di Giuliano Pisapia, dimettendosi poi per passare al Parlamento europeo. Nel 2023 si è candidato alla presidenza della Lombardia, arrivando secondo con il 34 per cento dei voti contro Attilio Fontana e Letizia Moratti, per poi assumere la guida dell’opposizione in Regione.\n\nLe primarie della coalizione di centrosinistra – formata da PD, Movimento 5 Stelle, Italia Viva e Alleanza Verdi e Sinistra – dovrebbero tenersi all'inizio del 2027. La competizione vede già diversi partecipanti attivi nella campagna elettorale, come Lorenzo Pacini, Carlotta Cossutta e Tommaso Goisis, oltre all'attuale vicesindaca Anna Scavuzzo, che ha espresso la volontà di correre. Tra i contendenti attesi c'è anche l’ex direttore di Repubblica e della Stampa Mario Calabresi, che assieme a Majorino è ritenuto uno dei candidati più forti. Nel frattempo, anche all'interno dello schieramento di centrodestra sono emerse diverse candidature, sebbene non sia ancora chiaro se la decisione finale avverrà attraverso consultazioni primarie o tramite un accordo tra i leader della coalizione.",
+      "fullSummary": "Il capogruppo del PD in Lombardia ha detto che parteciperà alle primarie del centrosinistra, che sono già piuttosto affollate",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/22/pierfrancesco-majorino-pd-annuncio-candidato-sindaco-milano/"
     },
@@ -45,7 +45,7 @@
       "cat": "mondo",
       "title": "È da un pezzo che Macron non piace più ai giovani",
       "summary": "Lo si è visto nelle proteste delle ultime settimane: c'entrano tra le altre cose due riforme della scuola e una generale crisi di consensi",
-      "fullSummary": "Lo si è visto nelle proteste delle ultime settimane: c'entrano tra le altre cose due riforme della scuola e una generale crisi di consensi",
+      "fullSummary": "In Francia gli studenti protestano da oltre un mese chiedendo l’eliminazione di due riforme scolastiche volute da Emmanuel Macron: una che ha reso l’orario dei licei simile a quello universitario e l'altra che ha introdotto il Parcoursup. Questa piattaforma d’accesso agli atenei, creata nel 2018 sotto la guida del ministro Jean-Michel Blanquer con l'intento di promuovere la meritocrazia, viene accusata di accentuare le disuguaglianze sociali a discapito degli studenti provenienti da contesti e scuole più svantaggiati, mentre cresce il divario tra istituti centrali e periferici.\n\nOggi Macron è ampiamente impopolare tra i giovani, a differenza del 2017 quando, a trentanove anni, vinse le presidenziali puntando sullo svecchiamento del paese e sull'emancipazione dei giovani adulti. Sebbene al primo turno del 2017 fosse arrivato terzo tra i 18-24enni, era risultato il più votato nella fascia 25-34 anni. Tuttavia, il consenso è progressivamente crollato: alle presidenziali del 2022 è stato superato in queste fasce d'età da Marine Le Pen e Jean-Luc Mélenchon, trovando sostegno solido solo negli over 65, fino ad arrivare alle legislative del 2024 con meno di un giovane su dieci a favore della sua coalizione.\n\nA pesare su questo declino sono state anche le riforme economiche liberali, il contestato aumento dell’età pensionabile e i tagli al sussidio per l'affitto rivolto a studenti e lavoratori precari. Durante il secondo mandato, questioni internazionali e debito pubblico hanno distolto l’attenzione dalle politiche giovanili, mentre l’avvicendamento di sette ministri dell’Istruzione in quattro anni ha minato la continuità scolastica. Nemmeno le interviste a canali amati dai giovani come Brut o HugoDécrypte hanno arginato la perdita di gradimento. L'accentramento del potere e il ricorso a forzature legislative hanno consolidato un forte malcontento tra le nuove generazioni, per molte delle quali Macron rappresenta l'unico presidente mai conosciuto, legando direttamente a lui i problemi vissuti dal paese nell'ultimo decennio.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/23/macron-giovani-distanza-proteste/"
     },
@@ -64,14 +64,6 @@
       "fullSummary": "Con il primo caso in Nigeria il virus ha raggiunto l’Africa occidentale: per la prima volta ha coinvolto tre regioni del continente",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/23/epidemia-ebola-africa-estesa/"
-    },
-    {
-      "cat": "sport",
-      "title": "La confederazione asiatica di calcio ha detto che molti suoi membri appoggeranno Gianni Infantino alle prossime elezioni della FIFA",
-      "summary": "",
-      "fullSummary": "La confederazione asiatica di calcio ha detto che molti suoi membri appoggeranno Gianni Infantino alle prossime elezioni della FIFA",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/23/calcio-fifa-elezioni-afc-appoggio-infantino/"
     },
     {
       "cat": "sport",
@@ -98,10 +90,18 @@
       "url": "https://www.ilpost.it/2026/10/22/bournemouth-perche-e-rossonero-ispirato-al-milan-europea-league/"
     },
     {
+      "cat": "sport",
+      "title": "La Vero Volley Milano è partita alla grande, ma",
+      "summary": "C'è il suo solito, grande e quasi-imbattibile MA: Conegliano",
+      "fullSummary": "C'è il suo solito, grande e quasi-imbattibile MA: Conegliano",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/22/milano-pallavolo-partenza-migliore-serie-a-egonu-blengini/"
+    },
+    {
       "cat": "scienza",
       "title": "Ultraprocessati e ictus silenziosi",
       "summary": "Chi mette abitualmente nel piatto grandi quantità di ultraprocessati ha maggiori probabilità di incorrere in microlesioni cerebrali senza si…",
-      "fullSummary": "Chi mette abitualmente nel piatto grandi quantità di ultraprocessati ha maggiori probabilità di incorrere in microlesioni cerebrali senza sintomi.",
+      "fullSummary": "Uno studio pubblicato su JAMA Network Open e condotto dal Population Health Research Institute della McMaster University, in Canada, evidenzia che gli adulti sani che consumano grandi quantità di cibi ultraprocessati presentano un rischio maggiore di incorrere in ictus silenziosi. I ricercatori hanno esaminato le risonanze magnetiche cerebrali di 9.000 cittadini canadesi tra i 35 e i 69 anni, senza precedenti di patologie cardiache, riscontrando una più elevata frequenza di microlesioni cerebrali nei soggetti con diete ricche di prodotti industriali iperlavorati, caratterizzati da additivi, conservanti, coloranti, zuccheri e grassi aggiunti.\n\nNello specifico, nel gruppo in cui tali alimenti costituivano il 45% della dieta, il rischio di ictus silenziosi risultava superiore del 40% rispetto a chi ne assumeva solo il 16%. In media, il campione consumava circa il 25% di ultraprocessati. Questi ictus silenti consistono in attacchi ischemici o microemorragie privi di manifestazioni acute riconoscibili, poiché colpiscono zone del cervello non legate a funzioni evidenti come il linguaggio, la vista o il movimento. Pur passando inosservati, provocano la morte di gruppi di neuroni e il loro accumulo nel tempo può compromettere memoria, concentrazione, attenzione e ragionamento complesso, favorendo persino la demenza vascolare.\n\nI ricercatori sono rimasti sorpresi nel rilevare in soggetti sani lesioni tipiche dell'età avanzata. L'associazione è apparsa particolarmente marcata tra le donne: quelle con i consumi più elevati avevano il doppio delle probabilità di mostrare danni rispetto a chi ne consumava meno. Inoltre, chi mangiava più cibi ultraprocessati mostrava maggiori livelli di grasso viscerale, collegato a infiammazioni e danni vascolari. Infine, gli studiosi ipotizzano che il danno possa derivare anche dalla contestuale privazione di alimenti salutari come frutta, verdura, fibre e cereali integrali, sottolineando la necessità di ulteriori ricerche a lungo termine per accertare un legame causale diretto.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/una-dieta-ricca-di-ultraprocessati-e-associata-a-un-rischio-piu-alto-di-ictus-silenziosi"
     },
@@ -131,6 +131,14 @@
     },
     {
       "cat": "storia",
+      "title": "Questo era il volto di un denisoviano",
+      "summary": "Un nuovo studio su Nature descrive il volto di un denisoviano, rianalizzando dei resti scoperti in Cina cinquant’anni fa e attribuiti per er…",
+      "fullSummary": "Un nuovo studio su Nature descrive il volto di un denisoviano, rianalizzando dei resti scoperti in Cina cinquant’anni fa e attribuiti per errore a un&#039;altra specie.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/manca-immagine-questo-era-il-volto-di-un-denisoviano"
+    },
+    {
+      "cat": "storia",
       "title": "La Notte stellata: il 22 luglio 1889",
       "summary": "Stelle, Luna e pianeti della Notte stellata corrispondono a quelli del cielo prima dell&#039;alba di una data diversa da quelle proposte in …",
       "fullSummary": "Stelle, Luna e pianeti della Notte stellata corrispondono a quelli del cielo prima dell&#039;alba di una data diversa da quelle proposte in precedenza.",
@@ -152,14 +160,6 @@
       "fullSummary": "Ancona l&#039;aeroporto meno puntuale, Reggio Calabria il migliore: i dati Eurocontrol sui ritardi aerei in Italia tra meteo, vulcani e traffico record.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/curiosita/aeroporti-classifica-italia-ritardi"
-    },
-    {
-      "cat": "storia",
-      "title": "10 invenzioni dell&#039;antica Roma arrivate fino a noi",
-      "summary": "Acquedotti, giornali, calcestruzzo e welfare: molte delle infrastrutture e dei servizi che diamo per scontati oggi sono nati proprio nell&#0…",
-      "fullSummary": "Acquedotti, giornali, calcestruzzo e welfare: molte delle infrastrutture e dei servizi che diamo per scontati oggi sono nati proprio nell&#039;Urbe. Ecco l&#039;eredit&amp;agrave; che i Romani ci hanno lasciato.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/pompieri-centri-commerciali-10-invenzioni-antichi-romani-che-usiamo-ancora"
     },
     {
       "cat": "tech",
