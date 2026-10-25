@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-25T15:51:38.858Z",
+  "generatedAt": "2026-10-25T20:40:52.153Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Matteo Salvini è stato rieletto segretario della Lega",
+      "summary": "",
+      "fullSummary": "Il congresso straordinario della Lega, svoltosi a Milano, si è concluso nella giornata di domenica sancendo la rielezione di Matteo Salvini come segretario del partito. Tale esito non è giunto in modo inatteso, dal momento che era stato lo stesso Salvini a volere e indire l'assise congressuale, con il preciso obiettivo di consolidare e rafforzare la propria leadership interna prima che prenda ufficialmente il via la campagna elettorale in vista delle prossime elezioni politiche.\n\nDal punto di vista dei numeri emersi dalla votazione, Salvini ha ottenuto il consenso di 465 delegati su un totale di 614 registrati per esprimere la propria preferenza, una cifra corrispondente a poco meno del 76 per cento dei voti complessivi. Il suo contendente interno, il senatore ed ex ministro del Turismo Massimo Garavaglia, si è invece attestato attorno al 24 per cento dei consensi.\n\nNel corso del discorso pronunciato prima dello svolgimento del voto, il segretario ha inoltre colto l'occasione per presentare ufficialmente il nuovo simbolo della Lega. All'interno del contrassegno, per la prima volta nell'arco di quasi dieci anni, non compare più il nome di Salvini: la tradizionale dicitura «Salvini premier» è stata infatti sostituita dall'espressione «Italia federale».\n\nQuesta novità giunge in una fase in cui Salvini si trova da tempo ad affrontare un momento di difficoltà, sia sul piano delle rilevazioni dei sondaggi, sia per quanto concerne la tenuta del consenso all'interno del partito medesimo. Da parte di diversi dirigenti leghisti era infatti emersa la richiesta di tornare a concentrarsi in maniera decisa sui temi storici e tradizionali della forza politica, ovvero il federalismo e una maggiore autonomia delle regioni settentrionali rispetto all'autorità del governo centrale. La scelta di adottare la formula «Italia federale» nel simbolo si muove proprio verso queste istanze, riflettendo contestualmente la presa d'atto del fatto che la guida della coalizione di destra appartiene ormai stabilmente alla presidente del Consiglio Giorgia Meloni.",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/25/salvini-rieletto-segretario-lega/"
+    },
     {
       "cat": "politica",
       "title": "Pierfrancesco Majorino si candida a sindaco di Milano",
@@ -24,14 +32,6 @@
       "fullSummary": "Il ministro dell'Interno Matteo Piantedosi ha descritto in modo molto enfatico i disordini avvenuti in centro a Milano",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/21/piantedosi-disordini-milano/"
-    },
-    {
-      "cat": "politica",
-      "title": "Il governo ha approvato un decreto in risposta ai disordini del fine settimana",
-      "summary": "Ci sono soprattutto misure sulla criminalità minorile e l'impiego di 500 soldati aggiuntivi a Milano",
-      "fullSummary": "Ci sono soprattutto misure sulla criminalità minorile e l'impiego di 500 soldati aggiuntivi a Milano",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/20/decreto-cortei-disordini-milano-governo-sicurezza-500-soldati/"
     },
     {
       "cat": "mondo",
