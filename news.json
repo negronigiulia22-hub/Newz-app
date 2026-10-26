@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:08:48.848Z",
+  "generatedAt": "2026-10-26T13:05:55.421Z",
   "items": [
     {
       "cat": "politica",
@@ -21,7 +21,7 @@
       "cat": "politica",
       "title": "C&#8217;era UN problema che il governo voleva evitare",
       "summary": "Per mesi le ha provate tutte per accontentare gli autotrasportatori: non è bastato, e ora non ci sono soldi né idee",
-      "fullSummary": "Per mesi le ha provate tutte per accontentare gli autotrasportatori: non è bastato, e ora non ci sono soldi né idee",
+      "fullSummary": "A sei mesi dagli avvertimenti del ministro dell’Economia Giancarlo Giorgetti sul rischio che i rincari dei carburanti alimentassero l’inflazione e il malcontento, il governo affronta ampie proteste e blocchi stradali di autotrasportatori e agricoltori nel Sud Italia. Le mobilitazioni, partite da Calabria e Puglia e diffuse in Basilicata e Sicilia, nascono dall’esasperazione per il costo insostenibile del combustibile e per i rincari imposti dalla grande distribuzione.\n\nI settori in protesta rappresentano una base storica della destra, e già la scorsa primavera il governo era intervenuto con tagli delle accise e agevolazioni fiscali per scongiurare uno sciopero a maggio. Tuttavia, la crisi si è riaccesa. La presidente del Consiglio Giorgia Meloni ha dichiarato illegittimi i blocchi, denunciando infiltrazioni criminali e promettendo azioni per rimuoverli, mentre un Consiglio dei ministri straordinario ha stanziato nuovi sostegni per carburanti, agricoltura e pesca. I margini finanziari dell’esecutivo restano però ridotti a causa dell’alto debito pubblico, dell’inflazione e dell’instabilità dei mercati, fattori che impongono rigore nella legge di bilancio. Anche l’intesa con le compagnie petrolifere per ribassare i prezzi ha sortito effetti limitati, lasciando benzina e gasolio a livelli elevati poi aggravati dalla riduzione del taglio delle accise.\n\nPer attenuare le tensioni, il ministro dei Trasporti Matteo Salvini ha incontrato i rappresentanti del settore, offrendo lo sblocco di 430 milioni di crediti d’imposta più ulteriori 50, promettendo 150 milioni entro fine anno e fondi futuri nel 2027 per rinnovare i mezzi. Pur riconoscendo la parzialità degli aiuti, Salvini ha ottenuto la revoca provvisoria dei blocchi in Sicilia in attesa del vertice nazionale del 27 ottobre. Nel frattempo, le proteste generano gravi disagi: carenze nei supermercati, code ai distributori, riduzione dei servizi di nettezza urbana e scuolabus, difficoltà nei collegamenti e il passaggio alle lezioni online per l’università Federico II di Napoli.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/22/proteste-autotrasportatori-salvini-meloni-governo/"
     },
@@ -35,43 +35,59 @@
     },
     {
       "cat": "mondo",
-      "title": "Uno dei più grossi risarcimenti per abusi sessuali da parte della Chiesa cattolica",
-      "summary": "Lo pagherà l'arcidiocesi di New York a circa 1.300 persone che l'hanno denunciata: in tutto si supereranno gli 800 milioni di dollari",
-      "fullSummary": "Lo pagherà l'arcidiocesi di New York a circa 1.300 persone che l'hanno denunciata: in tutto si supereranno gli 800 milioni di dollari",
+      "title": "Oxford Street è infine diventata pedonale",
+      "summary": "E altri interventi la cambieranno nei prossimi mesi, dopo anni di discussioni sul declino della famosa via dello shopping di Londra",
+      "fullSummary": "A Londra è scattata la pedonalizzazione totale di un tratto di circa un chilometro di Oxford Street, compreso tra Orchard Street e Great Portland Street, con il divieto di transito per qualsiasi veicolo a tutte le ore, fatta eccezione per i furgoni delle consegne tra mezzanotte e le sette del mattino. L'obiettivo a lungo termine dell'amministrazione guidata dal sindaco laburista Sadiq Khan, che aveva già proposto il piano nel 2017 superando l'opposizione dei Conservatori, è quello di estendere l'area pedonale da Marble Arch a Tottenham Court Road.\n\nL'intervento, dal costo di circa 150 milioni di sterline (172 milioni di euro), è gestito dalla Oxford Street Development Corporation e prevede, entro la fine della primavera del 2027, la piantumazione di 50 nuovi alberi e l'installazione di 100 posti a sedere. L'opera mira a contrastare il progressivo declino della celebre strada, accentuato dopo la pandemia tra turismo sfrenato, chiusura di botteghe storiche, locali sfitti saliti dal 4,5 al 16,9 per cento tra il 2019 e il 2023 e la diffusione di negozi sospetti. La riqualificazione punta a rendere la via più vivibile e frequentata anche dai londinesi, riconnettendola a quartieri come Soho, Fitzrovia, Mayfair e Marylebone.\n\nIl progetto ha tuttavia sollevato polemiche. Ai timori dei commercianti per il possibile calo di clientela e a quelli dei tassisti si aggiungono le proteste dei residenti per l'impatto del traffico sulle vie adiacenti. Le critiche maggiori riguardano però la deviazione di una quindicina di linee di autobus, contestata soprattutto dalle associazioni per i diritti dei disabili; a questo proposito l'ente promotore ha garantito che le fermate non distano più di 200 metri e che l'accessibilità è rimasta una priorità. L'operazione segna un passaggio chiave nella visione di Khan, in carica dal 2016, per allineare Londra ad altre capitali europee sul fronte della mobilità sostenibile.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/25/arcidiocesi-new-york-accordo-pagare-800-milioni-di-dollari-vittime-abusi-sessuali-clero/"
+      "url": "https://www.ilpost.it/2026/10/26/oxford-street-pedonalizzazione-dibattito/"
     },
     {
       "cat": "mondo",
-      "title": "In Israele gli ultraortodossi vivono in una bolla",
-      "summary": "Abitano in quartieri delimitati, frequentano solo scuole religiose, si autoimpongono di usare poco internet: alle elezioni di martedì votera…",
-      "fullSummary": "Abitano in quartieri delimitati, frequentano solo scuole religiose, si autoimpongono di usare poco internet: alle elezioni di martedì voteranno anche per conservare tutto questo",
+      "title": "I detenuti australiani non hanno diritto al cibo australiano per eccellenza",
+      "summary": "Lo ha deciso un tribunale negando a un carcerato la Vegemite, una crema spalmabile che nel resto del mondo non viene proprio compresa",
+      "fullSummary": "Lo ha deciso un tribunale negando a un carcerato la Vegemite, una crema spalmabile che nel resto del mondo non viene proprio compresa",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/25/israele-ultraortodossi-haredi-gerusalemme/"
+      "url": "https://www.ilpost.it/2026/10/26/australia-vegemite-carcere/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;aeroporto di Riyad, in Arabia Saudita, ha ripreso i voli internazionali dopo gli attacchi compiuti dagli Houthi",
+      "title": "Anthropic è stata accusata di aver usato senza autorizzazione 274 canzoni di Elvis Presley per addestrare Claude",
       "summary": "",
-      "fullSummary": "L&#8217;aeroporto di Riyad, in Arabia Saudita, ha ripreso i voli internazionali dopo gli attacchi compiuti dagli Houthi",
+      "fullSummary": "Anthropic è stata accusata di aver usato senza autorizzazione 274 canzoni di Elvis Presley per addestrare Claude",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/25/arabia-saudita-riapertura-voli-internazionali-aeroporto-riyad/"
+      "url": "https://www.ilpost.it/2026/10/26/elvis-presley-causa-anthropic/"
     },
     {
       "cat": "mondo",
-      "title": "Anche a Barcellona sabato ci sono state proteste con danni e saccheggi in centro: un centinaio di persone sono state arrestate",
-      "summary": "",
-      "fullSummary": "Anche a Barcellona sabato ci sono state proteste con danni e saccheggi in centro: un centinaio di persone sono state arrestate",
+      "title": "Come ha fatto Lula a recuperare lo svantaggio su Bolsonaro",
+      "summary": "Dopo la sconfitta al primo turno: ha riconquistato uno stato decisivo, promesso più sussidi e investito su una chat di WhatsApp",
+      "fullSummary": "Dopo la sconfitta al primo turno: ha riconquistato uno stato decisivo, promesso più sussidi e investito su una chat di WhatsApp",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/25/scontri-saccheggi-barcellona/"
+      "url": "https://www.ilpost.it/2026/10/26/ragioni-rimonta-lula-brasile/"
     },
     {
       "cat": "sport",
-      "title": "Un grande classico del Clásico",
-      "summary": "Le polemiche: ci sono per ogni Barcellona-Real Madrid, ma quest'anno sono di più, perché è tornato lui",
-      "fullSummary": "Le polemiche: ci sono per ogni Barcellona-Real Madrid, ma quest'anno sono di più, perché è tornato lui",
+      "title": "Nel 2027 la gara automobilistica Rally Dakar non si terrà in Arabia Saudita a causa degli attacchi degli Houthi",
+      "summary": "",
+      "fullSummary": "La prossima edizione della competizione automobilistica Rally Dakar, storicamente nota come Parigi-Dakar e programmata per svolgersi dal primo al quindici gennaio del 2027, non avrà luogo in Arabia Saudita come precedentemente stabilito. L'annuncio ufficiale è giunto congiuntamente dai due soggetti organizzatori dell'evento: la società francese Amaury Sport Organisation, indicata con la sigla ASO e organizzatrice anche del Tour de France di ciclismo, e la realtà saudita Saudi Motorsport Company, nota come SMC.\n\nNel comunicato diffuso, ASO e SMC hanno motivato la decisione richiamando i recenti sviluppi nell'area, con chiaro riferimento ai conflitti in Medio Oriente e nello specifico ai rilevanti attacchi militari sferrati dagli Houthi contro l'aeroporto di Riyad, capitale dell'Arabia Saudita. A causa dei medesimi attacchi ad opera degli Houthi, è stato inoltre rinviato a fine dicembre anche un altro evento sportivo, il torneo tennistico Six Kings Slam.\n\nAl momento, le organizzazioni coinvolte non hanno comunicato quale sarà la sede alternativa per l'edizione del 2027. Tuttavia, stando a quanto reso noto dal sito internet dell'emittente televisiva qatariota Al Jazeera, la competizione prevista per il gennaio 2027 potrebbe disputarsi in Marocco oppure in Spagna. A dispetto di questo cambio di programma, ASO e SMC hanno precisato l'intenzione di ritornare in Arabia Saudita già nel 2028, in occasione della cinquantesima edizione della corsa.\n\nIl Rally Dakar si svolge in territorio saudita dal 2020. Dal punto di vista storico, la manifestazione ha smesso di terminare a Dakar, capitale del Senegal, a partire dal 2009. Successivamente, nel corso degli anni Dieci, la gara era stata trasferita nel continente sudamericano, dove si è disputata attraversando i territori di Argentina, Paraguay, Cile e Perù prima del successivo approdo nella penisola araba.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/25/barcellona-real-madrid-clasico-calcio-mourinho/"
+      "url": "https://www.ilpost.it/2026/10/26/rally-dakar-2027-arabia-saudita-houthi/"
+    },
+    {
+      "cat": "sport",
+      "title": "Harry Kane, Lamine Yamal o Kylian Mbappé?",
+      "summary": "C'è ancora grande incertezza su chi vincerà il Pallone d'oro, che viene assegnato stasera: forse nessuno di questi tre",
+      "fullSummary": "C'è ancora grande incertezza su chi vincerà il Pallone d'oro, che viene assegnato stasera: forse nessuno di questi tre",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/26/pallone-d-oro-2026-kane-yamal-mbappe-messi/"
+    },
+    {
+      "cat": "sport",
+      "title": "Due calciatori inattesi in testa alla classifica marcatori di Serie A",
+      "summary": "In un campionato dove gli attaccanti sono tornati a segnare parecchio, Antonio Raimondo e Gustavo Varela lo stanno facendo più di tutti",
+      "fullSummary": "In un campionato dove gli attaccanti sono tornati a segnare parecchio, Antonio Raimondo e Gustavo Varela lo stanno facendo più di tutti",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/26/classifica-marcatori-serie-a-varela-raimondo/"
     },
     {
       "cat": "sport",
@@ -82,20 +98,12 @@
       "url": "https://www.ilpost.it/2026/10/25/kimi-antonelli-vince-mondiale-se/"
     },
     {
-      "cat": "sport",
-      "title": "Kimi Antonelli prima della Formula 1",
-      "summary": "Forte, vincente, predestinato: scelto, quando ancora non aveva la patente, per prendere il posto di Lewis Hamilton",
-      "fullSummary": "Forte, vincente, predestinato: scelto, quando ancora non aveva la patente, per prendere il posto di Lewis Hamilton",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/25/kimi-antonelli-predestinato-storia-kart-mercedes-junior-program-formula-2/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il Gran Premio d’Australia di MotoGP è stato annullato per le condizioni meteo",
-      "summary": "",
-      "fullSummary": "Il Gran Premio d’Australia di MotoGP è stato annullato per le condizioni meteo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/25/gp-australia-motogp-annullato/"
+      "cat": "scienza",
+      "title": "Come è vario il genoma umano!",
+      "summary": "Una nuova analisi del genoma umano &quot;medio&quot; fornisce informazioni sulla normale variabilità genetica tra gli individui e sul rischi…",
+      "fullSummary": "Una nuova analisi del genoma umano &quot;medio&quot; fornisce informazioni sulla normale variabilità genetica tra gli individui e sul rischio di malattie.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/descritto-per-la-prima-volta-il-genoma-umano-medio-ecco-che-cosa-abbiamo-scoperto"
     },
     {
       "cat": "scienza",
@@ -117,23 +125,31 @@
       "cat": "scienza",
       "title": "Ultraprocessati e ictus silenziosi",
       "summary": "Chi mette abitualmente nel piatto grandi quantità di ultraprocessati ha maggiori probabilità di incorrere in microlesioni cerebrali senza si…",
-      "fullSummary": "Chi mette abitualmente nel piatto grandi quantità di ultraprocessati ha maggiori probabilità di incorrere in microlesioni cerebrali senza sintomi.",
+      "fullSummary": "Uno studio pubblicato su JAMA Network Open, condotto dai ricercatori del Population Health Research Institute della McMaster University in Canada, ha esaminato le risonanze magnetiche cerebrali di 9.000 cittadini canadesi tra i 35 e i 69 anni, privi di pregresse malattie cardiache. L’indagine ha evidenziato che gli adulti sani che consumano quantità elevate di alimenti ultraprocessati presentano una maggiore frequenza di ictus silenziosi, ovvero microlesioni cerebrali asintomatiche.\n\nNel campione analizzato, dove in media questi alimenti costituivano circa il 25% della dieta quotidiana, la fascia con il consumo più alto (pari al 45% del cibo ingerito) ha mostrato un rischio di lesioni cerebrali superiore del 40% rispetto a quella con l'apporto minimo (16%). Questi cibi iperlavorati si caratterizzano per l'abbondanza di additivi, coloranti, conservanti, grassi e zuccheri aggiunti.\n\nGli ictus silenziosi consistono in attacchi ischemici o, più raramente, microemorragie che determinano la morte di neuroni senza sintomi evidenti, poiché colpiscono zone non legate a funzioni visibili come vista, linguaggio o movimento, o perché di dimensioni minime. L’insidia risiede nel fatto che chi ne è colpito non cerca cure; tuttavia, il loro accumulo può compromettere memoria, concentrazione e ragionamento complesso, oltre a favorire la demenza vascolare.\n\nLo studio ha destato sorpresa poiché ha rilevato in adulti sani danni tipici di persone molto più anziane. L'associazione si è dimostrata ancor più marcata nelle donne, nelle quali l'alto consumo raddoppia la probabilità di lesioni rispetto a quello minimo. Chi assumeva più ultraprocessati presentava inoltre una quantità maggiore di grasso corporeo, in particolare grasso viscerale, associato a infiammazione e danni ai vasi sanguigni.\n\nInfine, il fenomeno potrebbe essere legato non solo a tali prodotti, ma anche alla contemporanea esclusione di cibi sani come frutta, verdura, fibre, proteine e cereali integrali. Saranno perciò necessarie ricerche prolungate nel tempo per chiarire se il rischio dipenda in modo diretto dagli ultraprocessati o da altri fattori correlati.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/una-dieta-ricca-di-ultraprocessati-e-associata-a-un-rischio-piu-alto-di-ictus-silenziosi"
     },
     {
-      "cat": "scienza",
-      "title": "Dormire meno di 4 ore riduce la resistenza fisica",
-      "summary": "Se dormiamo poco la nostra resistenza fisica peggiora, anche se i muscoli si stancano come sempre. Il motivo? Il cervello assonnato cambia l…",
-      "fullSummary": "Se dormiamo poco la nostra resistenza fisica peggiora, anche se i muscoli si stancano come sempre. Il motivo? Il cervello assonnato cambia le proprie connessioni.",
+      "cat": "storia",
+      "title": "Davvero un capodoglio può ingoiarci?",
+      "summary": "Al cinema Whalefall: nella balena ci racconta di un subacqueo che viene intrappolato nello stomaco di un capodoglio: ma nella realtà sarebbe…",
+      "fullSummary": "Al cinema Whalefall: nella balena ci racconta di un subacqueo che viene intrappolato nello stomaco di un capodoglio: ma nella realtà sarebbe possibile?",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/dormire-meno-di-4-ore-riduce-la-resistenza-fisica-e-la-colpa-non-e-dei-muscoli"
+      "url": "https://www.focus.it/cultura/curiosita/possibile-essere-ingoiati-da-un-capodoglio"
+    },
+    {
+      "cat": "storia",
+      "title": "San Francesco partecipò alle Crociate?",
+      "summary": "Non con le armi: nel 1219, durante la quinta Crociata, san Francesco raggiunse il porto di Damietta per un incontro pacifico con il sultano …",
+      "fullSummary": "Non con le armi: nel 1219, durante la quinta Crociata, san Francesco raggiunse il porto di Damietta per un incontro pacifico con il sultano al-Malik al-Kamil.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/san-francesco-partecipo-alle-crociate-la-verita-sul-suo-viaggio-in-egitto"
     },
     {
       "cat": "storia",
       "title": "Questo era il volto di un denisoviano",
       "summary": "Un nuovo studio su Nature descrive il volto di un denisoviano, rianalizzando dei resti scoperti in Cina cinquant’anni fa e attribuiti per er…",
-      "fullSummary": "Un nuovo studio su Nature descrive il volto di un denisoviano, rianalizzando dei resti scoperti in Cina cinquant’anni fa e attribuiti per errore a un&#039;altra specie.",
+      "fullSummary": "Uno studio recentemente pubblicato sulla rivista Nature ha permesso di ricostruire l'aspetto facciale dei denisoviani, ominini identificati per la prima volta nel 2010 in seguito ai ritrovamenti nella grotta di Denisova, in Siberia. La ricerca si è concentrata sull'analisi di frammenti fossili risalenti ad almeno 130.000 anni fa, rinvenuti durante gli anni Settanta del secolo scorso nel sito archeologico di Xujiayao, situato in Cina.\n\nAll'epoca del loro ritrovamento, questi reperti ossei erano stati attribuiti in modo errato a una specie denominata Homo juluensis. A distanza di cinquant'anni, un gruppo di esperti ha esaminato i peptidi presenti nelle ossa, confrontandoli con quelli appartenenti a reperti fossili di Neanderthal e di Sapiens. Tale indagine ha evidenziato una specifica variazione a livello di un singolo amminoacido, nota per essere tipica dei denisoviani. L'evidenza molecolare, affiancata da approfondite analisi filogenetiche, ha consentito di dimostrare con notevole solidità che i resti appartengono effettivamente ai denisoviani e non a Homo juluensis.\n\nDal punto di vista anatomico, il volto e la struttura cranica dei denisoviani rivelano una combinazione peculiare di tratti riconducibili a differenti specie. La porzione superiore e posteriore del cranio appare bassa e larga, mostrando una somiglianza con quella di Homo erectus. Al contempo, la parte superiore dell'osso temporale, collocata ai lati del cranio presso tempie e orecchie, risulta arcuata, richiamando la configurazione presente nei Neanderthal, nei Sapiens e in altri ominini più recenti. A queste caratteristiche condivise si affiancano elementi unici ed esclusivi, quali una fronte bassa, una spessa arcata sopraccigliare, orbite squadrate, zigomi piatti, un naso dal dorso moderatamente pronunciato, un cranio appiattito e allungato e un osso posteriore a forma di placca. Come sottolineato dall'autrice Qiaomei Fu, l'identificazione di questi caratteri tipici offrirà la possibilità di classificare correttamente altri reperti fossili che fino a oggi non era stato possibile attribuire ai denisoviani.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/manca-immagine-questo-era-il-volto-di-un-denisoviano"
     },
@@ -141,25 +157,9 @@
       "cat": "storia",
       "title": "La Notte stellata: il 22 luglio 1889",
       "summary": "Stelle, Luna e pianeti della Notte stellata corrispondono a quelli del cielo prima dell&#039;alba di una data diversa da quelle proposte in …",
-      "fullSummary": "Stelle, Luna e pianeti della Notte stellata corrispondono a quelli del cielo prima dell&#039;alba di una data diversa da quelle proposte in precedenza.",
+      "fullSummary": "Uno studio pubblicato sulla rivista Scientific Reports propone una nuova datazione per la Notte stellata di Vincent Van Gogh. Secondo i ricercatori della società sudcoreana SLLAB e della Scuola di Ricerca Spaziale dell’Università Kyung Hee di Seoul, il celebre dipinto raffigurerebbe il cielo visibile poco prima dell'alba attorno al 22 luglio 1889, e non quello di una notte di metà giugno, come finora ipotizzato. Nelle prime ore di quel giorno, infatti, la disposizione della Luna, di Venere e delle stelle corrispondeva esattamente a quella ritratta sulla tela.\n\nIn precedenza, si riteneva che l'opera potesse risalire alla notte del 18 giugno 1889, momento in cui Van Gogh descrisse al fratello Theo un nuovo studio sul cielo stellato. Tuttavia, gli scienziati hanno rilevato un'incongruenza astronomica: in quel periodo la volta celeste mostrava una luna gibbosa calante, illuminata per oltre la metà del disco, a differenza della sottile falce presente nel quadro. Al contrario, verso il 22 luglio la fase lunare nei cieli di Provenza coincideva con la falce dipinta, mentre a Est sorgevano Venere e l'ammasso aperto delle Iadi, nella costellazione del Toro.\n\nAttraverso un'indagine sul campo presso la clinica di Saint-Rémy-de-Provence, dove l'artista era ricoverato, i ricercatori hanno individuato il suo punto di osservazione originale, ricostruendone la visuale. Confrontando la configurazione degli astri dipinti con quella reale delle Iadi, gli esperti hanno ritenuto poco attendibili le vecchie interpretazioni che identificavano la costellazione dell'Ariete. Lo studio ha quindi stabilito che la raffigurazione celeste si basava su un'osservazione reale e non su una pura invenzione, nonostante il paesaggio mantenga un aspetto onirico. Applicando il medesimo metodo, gli studiosi hanno infine proposto che le stelle presenti in un'altra opera del pittore, Terrazza del caffè la sera del 1888, appartengano al Triangolo Estivo, formato da Altair, Deneb e Vega.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/arte/la-notte-stellata-di-van-gogh-potrebbe-essere-stata-quella-del-22-luglio-1889"
-    },
-    {
-      "cat": "storia",
-      "title": "Le curiosità sul traffico aereo: quante ne sai?",
-      "summary": "Quante persone viaggiano in aereo? Quali sono le mete più gettonate? Quali sono le compagnie e gli scali con i ritardi più rilevanti e perch…",
-      "fullSummary": "Quante persone viaggiano in aereo? Quali sono le mete più gettonate? Quali sono le compagnie e gli scali con i ritardi più rilevanti e perché? Mettiti alla prova!",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/tutte-le-curiosita-sul-traffico-aereo-quante-ne-sai"
-    },
-    {
-      "cat": "storia",
-      "title": "Gli aeroporti italiani più e meno puntuali",
-      "summary": "Ancona l&#039;aeroporto meno puntuale, Reggio Calabria il migliore: i dati Eurocontrol sui ritardi aerei in Italia tra meteo, vulcani e traf…",
-      "fullSummary": "Ancona l&#039;aeroporto meno puntuale, Reggio Calabria il migliore: i dati Eurocontrol sui ritardi aerei in Italia tra meteo, vulcani e traffico record.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/aeroporti-classifica-italia-ritardi"
     },
     {
       "cat": "tech",
