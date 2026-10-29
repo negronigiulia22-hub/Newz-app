@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-10-29T10:47:40.035Z",
+  "generatedAt": "2026-10-29T18:24:17.272Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "L&#8217;elezione dei nuovi membri del Consiglio Superiore della Magistratura, spiegata",
+      "summary": "C'è molta politica nelle procedure per rinnovare l'organismo di autogoverno dei magistrati",
+      "fullSummary": "C'è molta politica nelle procedure per rinnovare l'organismo di autogoverno dei magistrati",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/29/elezione-nuovo-csm-di-pietro/"
+    },
     {
       "cat": "politica",
       "title": "Le donne devono aspettare 300 giorni prima di risposarsi, gli uomini no",
       "summary": "Nel codice civile italiano c'è una norma obsoleta e discriminatoria che lo impone, e che ora un disegno di legge vorrebbe eliminare",
-      "fullSummary": "L’articolo 89 del codice civile italiano, intitolato “Divieto temporaneo di nuove nozze” e storicamente noto come “lutto vedovile”, impone esclusivamente alle donne di attendere 300 giorni dalla fine di un matrimonio prima di potersi risposare, mentre per gli uomini non è previsto alcun vincolo temporale. Tale norma comporta una limitazione della libertà personale e costringe le donne a ulteriori procedure burocratiche e giudiziarie, obbligandole a dover giustificare aspetti intimi della propria vita privata per superare il divieto.\n\nLa legge stabilisce tuttavia alcune eccezioni: l'obbligo non si applica se il divorzio è stato preceduto da una separazione giudiziale (avvenuta in tribunale senza accordo) o consensuale, se il matrimonio non è stato consumato, oppure qualora sia stato dichiarato nullo per impotenza, anche solo generativa, di uno dei coniugi. Negli altri casi, il tribunale può autorizzare le nuove nozze anticipatamente se un esame medico certificato esclude inequivocabilmente la gravidanza, o se una sentenza passata in giudicato certifica che i coniugi non hanno convissuto nei 300 giorni antecedenti. Il vincolo cessa comunque alla conclusione dell'eventuale gravidanza.\n\nQuesta disciplina affonda le proprie radici nel diritto romano e fu mantenuta nel codice civile del 1942, redatto sotto il regime fascista, con l'intento di evitare la cosiddetta *commixtio* o *turbatio sanguinis* (mescolanza del sangue) e prevenire incertezze sulla paternità. Oggi, grazie alla certezza offerta dai test del DNA, tale restrizione è ritenuta anacronistica e in palese contrasto con i divieti di discriminazione fondati sul genere tutelati dalla CEDU.\n\nNel giugno del 2025 una cittadina statunitense ha promosso un ricorso dinanzi alla Corte europea contro tale imposizione, e il caso è stato qualificato ad “alto impatto”. Parallelamente, a fine settembre la senatrice di Italia Viva Raffaella Paita ha presentato un disegno di legge composto da un solo articolo per abrogare la norma, definendola retrograda e intrisa di stereotipi. L'iter parlamentare è attualmente alle fasi iniziali.",
+      "fullSummary": "Nel codice civile italiano c'è una norma obsoleta e discriminatoria che lo impone, e che ora un disegno di legge vorrebbe eliminare",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/28/lutto-vedovile-discriminazione-donne-matrimonio-300-giorni/"
     },
@@ -13,7 +21,7 @@
       "cat": "politica",
       "title": "La legge di bilancio in dieci punti",
       "summary": "Ci sono una riduzione dell'IRPEF, l'aumento delle tasse sulle banche, ma anche una misura inaspettata sulle targhe delle auto",
-      "fullSummary": "Il Consiglio dei ministri ha approvato il disegno di legge di bilancio per il 2027, del valore complessivo di 26 miliardi di euro, che passa ora all'esame del parlamento per l'approvazione definitiva entro il 31 dicembre. A causa delle scarse risorse disponibili e dei vincoli europei, gran parte dei fondi (14,4 miliardi di euro) è destinata a investimenti su difesa ed efficienza energetica, inclusi interventi per riscaldamento o climatizzazione nelle scuole e negli ospedali.\n\nTra le principali misure di spesa spicca la revisione dell’IRPEF, che alza da 50mila a 55mila euro la soglia del secondo scaglione tassato al 33 per cento, garantendo un beneficio massimo di 500 euro annui per i redditi medi, a fronte di un costo di 1,2 miliardi. Per i lavoratori dipendenti con redditi fino a 33mila euro viene riconfermata la tassazione agevolata al 5 per cento sui rinnovi contrattuali, mentre per gli autonomi la soglia del regime forfettario sale da 85mila a 100mila euro, mantenendo comunque l'obbligo di IVA oltre gli 85mila.\n\nSul fronte fiscale si prevedono anche una tassazione ridotta all’1 per cento sui primi 2.500 euro di reddito per gli under 30, la cedolare secca all’1 per cento per chi affitta a giovani sotto i 35 anni e l’esenzione strutturale dal bollo per motocicli e vetture sotto gli 80 kW.\n\nIn ambito sanitario sono stanziati 3,4 miliardi, destinati in parte agli aumenti per i medici di pronto soccorso, affiancati da una card di 300 euro per over 75 con pensioni fino a 28mila euro. Per le famiglie aumenta il congedo parentale retribuito all’80 per cento (da 3 a 4 mesi per il primo figlio, fino a 6 per i successivi), si istituiscono voucher per gli autonomi e un versamento di 100 euro alla nascita in un fondo pensione INPS. Per le imprese non figurano incentivi inediti ma solo conferme.\n\nLa copertura finanziaria poggia principalmente sull'indebitamento concordato con l'Unione Europea, su 1,2 miliardi di tagli ai ministeri e su 720 milioni ricavati dall'aumento delle tasse sui giochi.",
+      "fullSummary": "Ci sono una riduzione dell'IRPEF, l'aumento delle tasse sulle banche, ma anche una misura inaspettata sulle targhe delle auto",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/28/disegno-di-legge-di-bilancio-2027-cosa-contiene/"
     },
@@ -21,55 +29,63 @@
       "cat": "politica",
       "title": "Il tribunale di Milano ha risposto molto duramente a Meloni e Tajani sul caso di Youssef Siher",
       "summary": "Ha definito le loro dichiarazioni sulla scarcerazione «irricevibili» e indice di «una scarsa conoscenza» di come funziona la giustizia",
-      "fullSummary": "Il tribunale di Milano ha diffuso un comunicato ufficiale per replicare con toni molto duri alle critiche espresse da esponenti politici, in particolare dalla presidente del Consiglio Giorgia Meloni e dal ministro degli Esteri Antonio Tajani, in merito alla scarcerazione di Youssef Siher. L'uomo, un trentenne ritenuto amministratore dei canali social del \"Movimento 17 ottobre\", era stato fermato in via preventiva a seguito dei disordini avvenuti a Milano il 17 e 18 ottobre. Tuttavia, la giudice per le indagini preliminari Tiziana Landoni non ha convalidato il fermo richiesto dalla procura, ritenendo assenti i presupposti di legge per la custodia cautelare.\n\nLa decisione era stata definita «vergognosa» da Meloni, la quale, così come Tajani, aveva attribuito a Siher la responsabilità diretta delle violenze e delle devastazioni dei negozi. In realtà, secondo gli inquirenti, Siher non è accusato dei disordini di quelle giornate, ma di averne approfittato per organizzare ulteriori manifestazioni per il 24 ottobre.\n\nNel proprio comunicato, la presidenza del tribunale ha definito le dichiarazioni politiche «irricevibili» e testimonianza di una «scarsa conoscenza» degli istituti di uno stato di diritto. Pur senza menzionare esplicitamente Meloni e Tajani, la nota fa riferimento a figure con ruoli istituzionali e replica all'accusa sostenendo che la vergogna attiene ad altri ambiti della società e non all'esercizio della giurisdizione.\n\nL'intervento del tribunale risulta particolarmente insolito e assume un rilievo politico significativo per la severità della risposta indirizzata verso l'esecutivo. Inoltre, la reazione di Meloni si pone in contraddizione con le posizioni da lei sostenute durante la campagna per il referendum sulla giustizia. All'epoca, la premier difendeva la separazione delle carriere per evitare l'adesione acritica dei giudici alle tesi dei pubblici ministeri, dinamica che si è concretizzata proprio nel caso di Siher, dove la giudice ha respinto le richieste della procura.",
+      "fullSummary": "Ha definito le loro dichiarazioni sulla scarcerazione «irricevibili» e indice di «una scarsa conoscenza» di come funziona la giustizia",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/28/tribunale-milano-critiche-meloni-tajani-youssef-siher/"
     },
     {
-      "cat": "politica",
-      "title": "Salvini non esce poi così rafforzato dal congresso della Lega",
-      "summary": "È stato riconfermato come segretario, ma era scontato, e le divisioni e i problemi interni al partito restano",
-      "fullSummary": "È stato riconfermato come segretario, ma era scontato, e le divisioni e i problemi interni al partito restano",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/27/salvini-congresso-lega-garavaglia-giorgetti-zaia/"
-    },
-    {
       "cat": "mondo",
-      "title": "Chi partecipa alle proteste violente in Albania potrà essere punito con multe fino a 5.500 euro",
+      "title": "La Finlandia ha aperto un&#8217;indagine sull&#8217;abbattimento di una foresta da parte di Google per costruire un data center",
       "summary": "",
-      "fullSummary": "Chi partecipa alle proteste violente in Albania potrà essere punito con multe fino a 5.500 euro",
+      "fullSummary": "La Finlandia ha aperto un&#8217;indagine sull&#8217;abbattimento di una foresta da parte di Google per costruire un data center",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/29/albania-sanzioni-proteste-violente/"
+      "url": "https://www.ilpost.it/2026/10/29/finladia-google-disboscamento-foresta-data-center-blocco-lavori/"
     },
     {
       "cat": "mondo",
-      "title": "In Spagna si cercano ancora persone disperse",
-      "summary": "Nel disastro ferroviario vicino a Toledo sono morte almeno 68 persone, il governo Sánchez ha dichiarato tre giorni di lutto nazionale",
-      "fullSummary": "In Spagna continuano le ricerche delle persone disperse dopo il gravissimo incidente ferroviario avvenuto mercoledì mattina a Urda, a sud di Madrid. Un treno ad alta velocità della compagnia statale Renfe si è scontrato con un convoglio della compagnia privata Iryo, fermo sui binari. A bordo dei due treni viaggiavano complessivamente 544 persone: il bilancio provvisorio registra almeno 69 morti e oltre cento feriti, cinquanta dei quali ancora ricoverati in ospedale. La Guardia Civil ha ricevuto 64 denunce di scomparsa da parte dei familiari; tra i dispersi figurano tre cittadine italiane e l’ex ministra del Lavoro spagnola Fátima Báñez, mentre altri sei cittadini italiani risultano coinvolti, con cinque soccorsi e uno ricoverato a Toledo.\n\nI soccorritori e le unità cinofile sono impegnati a estrarre i corpi dalle due carrozze dell'Iryo maggiormente danneggiate. I feriti sono stati smistati negli ospedali della zona e di Madrid, dove è stato annullato uno sciopero del personale medico, mentre le salme sono state trasferite all'obitorio di Toledo, ampliato con strutture provvisorie. La gestione dell'emergenza ha visto riunirsi il premier Pedro Sánchez e altre autorità, con la proclamazione di tre giorni di lutto nazionale. In serata, circa mille persone hanno manifestato davanti al ministero dei Trasporti chiedendo le dimissioni del governo, provocando scontri con la polizia. Si tratta del secondo scontro tra treni Renfe e Iryo in meno di un anno, dopo quello del 18 gennaio in Andalusia.\n\nSecondo la ricostruzione del ministro dei Trasporti Óscar Puente, alle 8:30 un guasto al sistema di sicurezza LZB ha bloccato sei treni sulla linea Madrid-Siviglia, costringendo a una gestione manuale da Madrid. Alle 8:36 il centro di controllo ha autorizzato il treno Renfe a viaggiare a velocità normale, una decisione definita «inspiegabile» poiché i protocolli imponevano di non superare i 40 km/h. Sebbene la macchinista dell'Iryo avesse segnalato due volte di essere ferma per problemi tecnici, alle 8:53 il convoglio Renfe ha impattato contro di esso, nonostante una brusca frenata finale.",
+      "title": "L&#8217;incidente ferroviario in Spagna complica la scommessa elettorale di Sánchez",
+      "summary": "Il primo ministro aveva convocato le elezioni anticipate pensando di imporre tempi e temi della campagna",
+      "fullSummary": "Il primo ministro aveva convocato le elezioni anticipate pensando di imporre tempi e temi della campagna",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/29/spagna-soccorsi-incidente-ferroviario-urda/"
+      "url": "https://www.ilpost.it/2026/10/29/campagna-elettorale-spagna-incidente-ferroviario/"
     },
     {
       "cat": "mondo",
-      "title": "Qualche partito israeliano dovrà rimangiarsi le sue promesse, se vorrà governare",
-      "summary": "Nessuna delle due coalizioni ha abbastanza voti, ma per formare alleanze ci sono tre grossi ostacoli",
-      "fullSummary": "Nessuna delle due coalizioni ha abbastanza voti, ma per formare alleanze ci sono tre grossi ostacoli",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/29/promesse-elettorali-partiti-israele-elezioni/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Ci sono tre italiane disperse a causa del grave incidente ferroviario in Spagna",
+      "title": "Due turisti sono morti nella regione turca della Cappadocia per il crollo di un pinnacolo di roccia",
       "summary": "",
-      "fullSummary": "Nella serata di mercoledì, il ministero degli Esteri italiano ha comunicato che tre cittadine italiane risultano disperse a seguito del grave incidente ferroviario avvenuto in Spagna. Nel tragico scontro hanno perso la vita almeno 68 persone, determinando un bilancio complessivo particolarmente grave.\n\nL’incidente ferroviario si è verificato vicino a Toledo e ha visto coinvolti due convogli che si trovavano sulla stessa linea. In base a quanto riportato, un treno ad alta velocità (AVE) appartenente alla compagnia statale Renfe, che stava trasportando 397 passeggeri, si è scontrato con un convoglio della compagnia privata Iryo. Quest’ultimo treno si trovava fermo proprio sullo stesso binario sul quale viaggiava l'altro mezzo e aveva a bordo 147 persone nel momento in cui è avvenuto l’impatto.\n\nRiguardo alla presenza e alla situazione dei cittadini di nazionalità italiana che viaggiavano a bordo dei due treni entrati in collisione, il ministero degli Esteri ha fornito aggiornamenti successivi. Inizialmente, il ministero aveva dichiarato che a bordo si trovavano in totale sette cittadini italiani: di questi, quattro persone risultavano essere state soccorse, mentre un’altra persona italiana era stata ricoverata in ospedale.\n\nSuccessivamente, sulla base di una segnalazione proveniente direttamente dalle autorità spagnole, il ministero degli Esteri italiano ha dovuto aggiornare il quadro della situazione, confermando in maniera ufficiale che è presente una terza cittadina italiana che risulta dispersa. Oltre a dare conferma di questa terza dispersa, il ministero ha integrato le informazioni precedenti, aggiungendo che altre cinque persone italiane sono state effettivamente soccorse e che una persona italiana è attualmente ricoverata in ospedale. In questo modo è stato delineato lo stato dei cittadini italiani coinvolti nel disastro ferroviario avvenuto in territorio spagnolo.",
+      "fullSummary": "Due turisti sono morti nella regione turca della Cappadocia per il crollo di un pinnacolo di roccia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/28/italiane-disperse-incidente-spagna/"
+      "url": "https://www.ilpost.it/2026/10/29/due-turisti-morti-cappadocia-turchia-crollo/"
+    },
+    {
+      "cat": "mondo",
+      "title": "L&#8217;Unione Europea non è più sicura di rendere il Canada un &#8220;membro associato&#8221;",
+      "summary": "Il nuovo status, proposto a settembre per rafforzare la loro alleanza, è sparito da documenti riservati visti da Reuters e Politico",
+      "fullSummary": "Il nuovo status, proposto a settembre per rafforzare la loro alleanza, è sparito da documenti riservati visti da Reuters e Politico",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/29/unione-europea-canada-ritiro-membro-associato/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il profilo Instagram che sbugiarda chi bara nelle maratone",
+      "summary": "Si chiama \"Unità ufficiale per l’integrità dei tempi di una maratona\", e secondo qualcuno a volte esagera",
+      "fullSummary": "Si chiama \"Unità ufficiale per l’integrità dei tempi di una maratona\", e secondo qualcuno a volte esagera",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/29/tempi-maratona-omtiu-barare-strava/"
+    },
+    {
+      "cat": "sport",
+      "title": "L&#8217;ultimo italiano a vincere la Formula 1",
+      "summary": "Per ora è Alberto Ascari, pilota eccezionale e spericolato, che ce la fece nel 1953",
+      "fullSummary": "Per ora è Alberto Ascari, pilota eccezionale e spericolato, che ce la fece nel 1953",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/10/29/alberto-ascari-formula-1-chi-era-mondiale-vinto-morte/"
     },
     {
       "cat": "sport",
       "title": "I Milwaukee Brewers hanno vinto la Major League di baseball per la prima volta",
       "summary": "Hanno battuto i Tampa Bay Rays nelle World Series, dopo aver eliminato pure i fortissimi Los Angeles Dodgers",
-      "fullSummary": "I Milwaukee Brewers hanno vinto per la prima volta nella loro storia le World Series, le finali della Major League di baseball (MLB), che costituiscono il campionato nordamericano e il più importante al mondo. La squadra ha superato i Tampa Bay Rays vincendo per 4 a 1 gara-5, disputata nella notte italiana tra mercoledì e giovedì, e chiudendo la serie finale, che si gioca al meglio delle sette partite, con il medesimo punteggio di 4 a 1. La franchigia, fondata nel 1969 come Seattle Pilots, cambiò nome e città già nel 1970 per omaggiare la tradizione birraria di Milwaukee, in Wisconsin, legata all'arrivo di molti tedeschi nell'Ottocento; il termine \"Brewers\" significa infatti \"birrai\".\n\nQuesto trionfo evidenzia come la disponibilità economica non sia fondamentale per vincere. Nella MLB, a differenza di quasi tutti gli altri campionati nordamericani, non esiste un tetto salariale per gli stipendi. I Brewers sono meno conosciuti rispetto alle squadre di grandi città come New York, Boston, Los Angeles o Chicago e spendono per i salari meno della metà rispetto a Mets, Dodgers e Yankees. Ciononostante, nel loro percorso hanno eliminato anche i ricchissimi Los Angeles Dodgers di Shohei Ohtani, vincendo tutte le partite della serie.\n\nIl successo è frutto del lavoro di una squadra giovane e ben organizzata, capace di ingaggiare e valorizzare atleti considerati erroneamente scarsi. Per riuscirci hanno seguito un approccio \"alla Moneyball\", basato sull'uso delle statistiche per individuare giocatori poco considerati ma dotati di grande potenziale. Sul campo, i Brewers vincono con uno stile per certi versi anacronistico: realizzano pochi fuoricampo, l'azione più spettacolare che garantisce almeno un punto, preferendo battute rasoterra utili per avanzare tra le basi. Ne è stata una chiara dimostrazione gara-3, terminata 10 a 1, nella quale hanno realizzato otto punti soltanto nel quinto dei nove tempi di gioco.",
+      "fullSummary": "Hanno battuto i Tampa Bay Rays nelle World Series, dopo aver eliminato pure i fortissimi Los Angeles Dodgers",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/29/milwaukee-brewers-major-league-baseball-mlb-2026/"
     },
@@ -77,25 +93,17 @@
       "cat": "sport",
       "title": "La squadra inglese di quarta serie che ha eliminato l’Arsenal",
       "summary": "La solita piccola che batte la solita grande nella Coppa di Lega: ma questa volta è una piccola che aveva provato a diventare grande, senza …",
-      "fullSummary": "Il Fleetwood, squadra di quarta serie del calcio inglese, ha realizzato una clamorosa impresa eliminando ai rigori l’Arsenal, campione d’Inghilterra, nella Coppa di Lega. L’incontro si è disputato nello stadio di casa del Fleetwood, l’Highbury da 5.300 posti. Nel torneo tali sorprese avvengono con una certa frequenza: i club di Premier League tendono a schierare riserve o giovani calciatori affrontando trasferte insolite, mentre le squadre minori scendono in campo con la massima determinazione.\n\nLa formazione allenata da Matt Lawlor si è difesa con ordine ed è passata in vantaggio al 21º minuto grazie alla rete del ventenne Aaron Loupalo-Bi. Nonostante una rosa ricca di alternative di lusso come Viktor Gyökeres e Kai Havertz, l'Arsenal ha dovuto inserire nella ripresa il capitano Martin Ødegaard per cambiare ritmo. Dopo il pareggio firmato al 50º minuto da Gyökeres, i londinesi sono rimasti in dieci per l'espulsione del sedicenne Max Dowman. La gara si è quindi conclusa ai calci di rigore, dove è risultata decisiva la parata del portiere Jay Lynch sul tiro di Bruno Guimarães. La vittoria, definita da Lawlor la più grande nella storia del club, ha fruttato un premio di circa 400mila sterline, particolarmente prezioso per una squadra attualmente a due punti dalla zona retrocessione.\n\nFondato nel 1908, il Fleetwood vanta un passato singolare: nel 2012 vendette Jamie Vardy per un milione di sterline e, sotto la guida del ricco imprenditore Andrew Pilley, ottenne sei promozioni tra il 2004 e il 2014, scalando dalla nona alla terza divisione. Le ambizioni societarie, che comprendevano partnership internazionali, si sono però interrotte nel 2023 a seguito della condanna a 13 anni per frode inflitta a Pilley, evento a cui è seguita la retrocessione nel 2024. Attualmente il club mantiene un legame con la squadra irlandese del Waterford FC e fa affidamento su un florido settore giovanile.",
+      "fullSummary": "La solita piccola che batte la solita grande nella Coppa di Lega: ma questa volta è una piccola che aveva provato a diventare grande, senza riuscirci",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/10/28/fleetwood-arsenal-carabao-cup-cose-successo-storia-fleetwood/"
     },
     {
-      "cat": "sport",
-      "title": "La Lazio non era mai partita così bene",
-      "summary": "Contro il Sassuolo ha fatto 6 gol e sbagliato 2 rigori, ed è prima in Serie A",
-      "fullSummary": "Contro il Sassuolo ha fatto 6 gol e sbagliato 2 rigori, ed è prima in Serie A",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/28/lazio-grande-inizio-serie-a-gattuso/"
-    },
-    {
-      "cat": "sport",
-      "title": "Le semifinali e la finale dell&#8217;Eurolega di basket si giocheranno ad Abu Dhabi nel 2027 e nel 2029",
-      "summary": "",
-      "fullSummary": "Le Final Four dell’Eurolega, vale a dire la fase decisiva che comprende le semifinali e la finale del più importante torneo europeo di basket, si giocheranno ad Abu Dhabi, negli Emirati Arabi Uniti, in due edizioni stabilite per il 2027 e per il 2029. Per quanto riguarda il primo dei due appuntamenti, quello fissato nel 2027, questo avrà luogo precisamente alla fine di questa stagione.\n\nLa scelta di svolgere le Final Four ad Abu Dhabi è una notizia rilevante anche oltre il mondo del basket. Tale novità arriva infatti proprio negli stessi giorni in cui la Formula 1 sta valutando e decidendo se cancellare o meno i Gran Premi in programma tra i mesi di novembre e dicembre in Qatar e negli Emirati Arabi Uniti. Sul futuro di tali Gran Premi ci sono infatti diversi dubbi causati dalle conseguenze della guerra in Medio Oriente.\n\nCome accade per l'NBA, anche l’Eurolega è a tutti gli effetti una lega privata, e al suo interno gioca inoltre una squadra di Dubai. La struttura e la proprietà del torneo appartengono a tredici squadre permanenti, e tra queste tredici squadre proprietarie figura l’Olimpia Milano. Tutte le altre formazioni non sono proprietarie permanenti ma partecipano invece al torneo a rotazione; tra queste squadre che partecipano a rotazione c’è da qualche anno anche la Virtus Bologna.\n\nInfine, per il più importante torneo europeo di basket non è una novità che la competizione esca dai confini dell’Europa: le Final Four, ovvero le semifinali e la finale della manifestazione, si erano infatti già disputate e giocate proprio ad Abu Dhabi nel 2025.",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/27/final-four-eurolega-abu-dhabi-2027-2029/"
+      "cat": "scienza",
+      "title": "Tumore del polmone: una buona notizia",
+      "summary": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progre…",
+      "fullSummary": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/tumore-ai-polmoni-buone-notizie-anche-per-la-forma-piu-temuta"
     },
     {
       "cat": "scienza",
@@ -109,7 +117,7 @@
       "cat": "scienza",
       "title": "Cervelli viziati dagli ultraprocessati",
       "summary": "Il cervello potrebbe diventare più sensibile agli stimoli alimentari, quando i bambini consumano più cibi ultraprocessati.",
-      "fullSummary": "Una ricerca condotta dalla Keck School of Medicine presso l'Università della California Meridionale e pubblicata sulla rivista JAMA Network Open ha individuato un possibile meccanismo neurobiologico che collega il consumo di cibi ultraprocessati all'aumento di peso. Lo studio suggerisce che un cervello abituato a tali alimenti mostri una maggiore sensibilità agli stimoli di ricompensa generati dai cibi appetitosi, favorendone un consumo più elevato.\n\nNegli Stati Uniti, i cibi ultraprocessati — prodotti industriali caratterizzati da additivi, conservanti e coloranti, ideati per essere appetibili, economici e a lunga conservazione — forniscono in media il 67% dell'apporto calorico giornaliero dei bambini. In letteratura scientifica, questi alimenti risultano già associati a problemi di salute come obesità infantile, diabete di tipo 2 e patologie cardiovascolari.\n\nLa sperimentazione ha coinvolto quarantasei bambini tra i sette e i dieci anni, inizialmente con un peso corporeo nella norma. I ricercatori hanno effettuato risonanze magnetiche cerebrali mentre i partecipanti osservavano immagini di cibi invitanti come patatine o biscotti, raccogliendo contemporaneamente informazioni sull'alimentazione, sull'indice di massa corporea, sulla percentuale di grasso corporeo e sul girovita. Tali rilevazioni sono state poi ripetute dopo un anno.\n\nI risultati hanno evidenziato che i bambini con un consumo maggiore di cibi ultraprocessati mostravano un'attivazione più intensa nello striato dorsale, un'area cerebrale legata ai processi di motivazione e ricompensa. Inoltre, questa risposta neurale più marcata è risultata direttamente correlata a un incremento dell'indice di massa corporea e della percentuale di massa grassa registrato a distanza di dodici mesi.\n\nIn conclusione, gli autori spiegano che una maggiore recettività del cervello verso la gratificazione da cibo appetitoso potrebbe condurre a una più marcata assunzione di cibi ultraprocessati, determinando l'aumento ponderale. Tuttavia, gli studiosi evidenziano che per contrastare il fenomeno non basta modificare le scelte individuali e le abitudini delle famiglie: è necessario intervenire direttamente sull'offerta complessiva di cibo, poiché questi prodotti industriali rimangono spesso l'opzione più economica e pratica.",
+      "fullSummary": "Il cervello potrebbe diventare più sensibile agli stimoli alimentari, quando i bambini consumano più cibi ultraprocessati.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/cibi-ultraprocessati-le-risposte-del-cervello-potrebbero-contribuire-all-aumento-di-peso"
     },
@@ -117,17 +125,9 @@
       "cat": "scienza",
       "title": "Ritorno sulla Luna: la NASA svela i piani",
       "summary": "Nel 2027 l&#039;equipaggio con a bordo Parmitano piloter&amp;agrave; l&#039;attracco ai due lander commerciali. Ma per sbarcare davvero nel …",
-      "fullSummary": "La NASA ha chiarito i piani per le prossime missioni del programma Artemis. Nel Vehicle Assembly Building è iniziata l'integrazione dei razzi ausiliari di Artemis IV, mentre il lanciatore SLS di Artemis III è già pronto per accogliere la navicella Orion, senza necessità di un secondo stadio.\n\nArtemis III, prevista per il 2027, non atterrerà sulla Luna ma rimarrà in orbita terrestre bassa per verificare i sistemi operativi fondamentali. L’equipaggio, guidato dal comandante Randolph Bresnik e dal pilota Luca Parmitano, con gli specialisti Frank Rubio e Andre Douglas (e Bob Hines come riserva), effettuerà manovre di attracco con due lander commerciali: il Blue Moon Mark 2 di Blue Origin e la Starship V3 di SpaceX. Questo test servirà a capire quale veicolo sia più pronto per la missione successiva, dopo che le difficoltà incontrate da SpaceX hanno spinto la NASA a sollecitare lo sviluppo di Blue Origin.\n\nArtemis IV, programmata per riportare l'uomo sulla Luna nel 2028, richiederà invece uno stadio superiore per la spinta finale. Resta l'incertezza tra l'impiego del provvisorio ICPS e il più moderno e potente Centaur V di ULA. Quest'ultimo, se completato in tempo, renderà necessari interventi di adattamento sulla torre del Mobile Launcher.\n\nIn seguito alla sospensione del Lunar Gateway, il viaggio verso la Luna sarà diretto. L’architettura di Blue Origin prevede tre stadi di trasferimento assemblati in orbita terrestre che spingeranno il lander Mk2, lanciato da un razzo New Glenn 9×4, verso l'orbita lunare per unirsi a Orion. L'architettura di SpaceX richiede invece una nave deposito rifornita da più voli cisterna per permettere a Starship di fare rifornimento prima di agganciarsi a Orion e dirigersi verso la Luna. In entrambi i casi, due astronauti scenderanno sulla superficie per poi risalire su Orion e tornare a Terra. La NASA mantiene aperte entrambe le soluzioni per massimizzare la flessibilità e le probabilità di un allunaggio nel 2028.",
+      "fullSummary": "Nel 2027 l&#039;equipaggio con a bordo Parmitano piloter&amp;agrave; l&#039;attracco ai due lander commerciali. Ma per sbarcare davvero nel 2028, la NASA ha molti nodi da sciogliere...",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/spazio/ritorno-sulla-luna-la-nasa-svela-i-piani-per-artemis-iii-e-iv-e-le-tante-incognite-dell-allunaggio"
-    },
-    {
-      "cat": "scienza",
-      "title": "Il vaccino che previene la ricomparsa del melanoma",
-      "summary": "Un vaccino confezionato su misura per il paziente, usato con l&#039;immunoterapia, riduce del 42% le recidive di melanoma: i risultati del t…",
-      "fullSummary": "Un vaccino a mRNA sviluppato da Merck e Moderna, somministrato insieme al farmaco immunoterapico pembrolizumab, ha ridotto del 42% il rischio di recidiva nei pazienti già operati per la rimozione di un melanoma. Questo trattamento non mira a prevenire l'insorgenza iniziale della patologia, bensì a evitarne la ricomparsa in soggetti a rischio che non rispondono adeguatamente alla sola immunoterapia. I risultati dettagliati della sperimentazione clinica di fase 3 sono stati illustrati a Madrid durante il congresso della Società Europea di Oncologia Medica (ESMO).\n\nIl vaccino, denominato intismeran, è una terapia personalizzata basata sul sequenziamento del DNA tumorale del singolo individuo. Il farmaco racchiude le istruzioni per codificare fino a 34 mutazioni specifiche, denominate neoantigeni, che funzionano come segnali per allenare le cellule T a distinguere e colpire selettivamente le cellule maligne. In contemporanea, l'impiego del pembrolizumab stimola le difese immunitarie, spinge le cellule tumorali all'autodistruzione e frena la formazione di vasi sanguigni destinati ad alimentarle.\n\nLo studio ha coinvolto 1.137 partecipanti seguiti per un periodo di circa 25 mesi. A distanza di due anni dall'inizio delle cure, l'82% dei pazienti trattati con la combinazione sperimentale era ancora in vita e libero da recidive, contro il 70% registrato tra coloro che avevano ricevuto esclusivamente l'immunoterapico insieme a un placebo. Il vaccino non ha provocato effetti collaterali gravi.\n\nIl gruppo di ricerca, guidato dall'oncologa Georgina Long del Melanoma Institute Australia, sta analizzando i dati per individuare chi possa trarre i maggiori benefici dalla terapia, la cui approvazione negli Stati Uniti e in Europa potrebbe avvenire nel 2027. Restano tuttavia aperte le sfide legate ai tempi lunghi di preparazione e ai costi elevati: una stima di Reuters indica una spesa di circa 200.000 dollari a paziente, una cifra complessa da sostenere su larga scala da parte dei sistemi sanitari.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/melanoma-come-funziona-il-primo-vaccino-a-mrna-contro-il-cancro"
     },
     {
       "cat": "storia",
@@ -163,6 +163,14 @@
     },
     {
       "cat": "tech",
+      "title": "Cosa può fare un&#039;IA che pensa in italiano?",
+      "summary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di&#039;IA che pens…",
+      "fullSummary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di&#039;IA che pensa in Italiano.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/cosa-puo-fare-un-ia-che-pensa-in-italiano"
+    },
+    {
+      "cat": "tech",
       "title": "L&#039;IA di Google che funziona senza internet",
       "summary": "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud: ecco come l&#039;IA &quot;o…",
       "fullSummary": "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud: ecco come l&#039;IA &quot;on-device&quot; (per ora solo su Mac) garantisce privacy e autonomia anche offline.",
@@ -184,14 +192,6 @@
       "fullSummary": "Instagram potrebbe mettere i Reel al centro al posto del feed fotografico. Dal montaggio automatico a un algoritmo sempre pi&amp;ugrave; simile a TikTok: ecco come si sta evolvendo il social media.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/instagram-cambia-ancora-l-app-potrebbe-aprirsi-direttamente-sui-reel"
-    },
-    {
-      "cat": "tech",
-      "title": "Addio Indiana Jones? L&#039;archeologia tra IA e Lidar",
-      "summary": "Dalle scansioni Lidar alla decifrazione automatica dei papiri, le nuove tecnologie e l&#039;IA stanno rivoluzionando la ricerca archeologica…",
-      "fullSummary": "Dalle scansioni Lidar alla decifrazione automatica dei papiri, le nuove tecnologie e l&#039;IA stanno rivoluzionando la ricerca archeologica. Ma senza l&#039;analisi del contesto e la guida del cervello umano, gli errori sono dietro l&#039;angolo.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/innovazione/addio-indiana-jones-le-scoperte-archeologiche-le-fanno-ia-e-droni-ma-senza-l-occhio-umano-il-rischio-abbagli-e-in-agguato"
     }
   ]
 }
