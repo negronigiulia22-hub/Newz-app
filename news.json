@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:58:15.303Z",
+  "generatedAt": "2026-10-31T17:12:06.657Z",
   "items": [
     {
       "cat": "politica",
@@ -163,6 +163,14 @@
     },
     {
       "cat": "tech",
+      "title": "Sentire gli odori attraverso internet",
+      "summary": "Scentronic è una sorta di naso digitale che permette di ricostruire le essenze trasmesse attraverso algoritmi e impulsi elettrici.",
+      "fullSummary": "Scentronic è una sorta di naso digitale che permette di ricostruire le essenze trasmesse attraverso algoritmi e impulsi elettrici.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/innovazione/scentronic-il-naso-digitale-per-sentire-gli-odori-attraverso-internet"
+    },
+    {
+      "cat": "tech",
       "title": "Cosa può fare un&#039;IA che pensa in italiano?",
       "summary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di&#039;IA che pens…",
       "fullSummary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di&#039;IA che pensa in Italiano.",
@@ -184,14 +192,6 @@
       "fullSummary": "&lt;p dir=&quot;ltr&quot;&gt;L&#039;intelligenza artificiale generativa &amp;egrave; gi&amp;agrave; usata da 6 medici su 10, ma pochi ne conoscono i limiti. Lo racconta un nuovo podcast con i dati del Politecnico di Milano.&lt;/p&gt;",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/Il-medico-chiede-all-IA"
-    },
-    {
-      "cat": "tech",
-      "title": "Instagram cambia: i Reel finiscono al centro",
-      "summary": "Instagram potrebbe mettere i Reel al centro al posto del feed fotografico. Dal montaggio automatico a un algoritmo sempre pi&amp;ugrave; sim…",
-      "fullSummary": "Instagram potrebbe mettere i Reel al centro al posto del feed fotografico. Dal montaggio automatico a un algoritmo sempre pi&amp;ugrave; simile a TikTok: ecco come si sta evolvendo il social media.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/innovazione/instagram-cambia-ancora-l-app-potrebbe-aprirsi-direttamente-sui-reel"
     }
   ]
 }
