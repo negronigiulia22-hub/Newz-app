@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-03T05:59:16.704Z",
+  "generatedAt": "2026-11-03T14:11:46.882Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Il paradosso delle pensioni nella legge di bilancio",
+      "summary": "Il governo vuole togliere soldi a molti pensionati per permettere a poche persone di andare in pensione prima",
+      "fullSummary": "Il governo vuole togliere soldi a molti pensionati per permettere a poche persone di andare in pensione prima",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/02/il-paradosso-delle-pensioni-nella-legge-di-bilancio/"
+    },
     {
       "cat": "politica",
       "title": "Il caos sull&#8217;aumento degli stipendi dei magistrati, in ordine",
@@ -26,44 +34,44 @@
       "url": "https://www.ilpost.it/2026/10/31/legge-bilancio-2027-proroga-500-soldati-milano/"
     },
     {
-      "cat": "politica",
-      "title": "Il Consiglio superiore della magistratura si è spostato a sinistra",
-      "summary": "È l'esito dell'elezione dei 20 membri togati, cioè i magistrati, e avrà ripercussioni anche sui 10 che deve scegliere il parlamento",
-      "fullSummary": "È l'esito dell'elezione dei 20 membri togati, cioè i magistrati, e avrà ripercussioni anche sui 10 che deve scegliere il parlamento",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/30/elezione-csm-sinistra-toghe-rosse-cosimo-ferri/"
-    },
-    {
       "cat": "mondo",
-      "title": "La Russia si è ritirata da un accordo del Consiglio d&#8217;Europa contro la tortura",
+      "title": "Dopo cinque settimane, la polizia ha iniziato lo sgombero dell&#8217;accampamento di Puerta del Sol, a Madrid",
       "summary": "",
-      "fullSummary": "La Russia si è ritirata da un accordo del Consiglio d&#8217;Europa contro la tortura",
+      "fullSummary": "Dopo cinque settimane, la polizia ha iniziato lo sgombero dell&#8217;accampamento di Puerta del Sol, a Madrid",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/02/russia-ritiro-convenzione-contro-tortura-consiglio-europa/"
+      "url": "https://www.ilpost.it/2026/11/03/polizia-sgombero-accampamento-puerta-del-sol-madrid/"
     },
     {
       "cat": "mondo",
-      "title": "Reti, gabbie e pneumatici contro i droni ucraini",
-      "summary": "La Russia ha iniziato a proteggere con metodi un po’ improvvisati le navi della sua “flotta fantasma”, che commerciano carburante aggirando …",
-      "fullSummary": "La Russia ha iniziato a proteggere con metodi un po’ improvvisati le navi della sua “flotta fantasma”, che commerciano carburante aggirando le sanzioni",
+      "title": "L&#8217;Uganda ha iniziato il ritiro delle sue truppe dalla Somalia dopo quasi vent&#8217;anni di presenza militare nel paese",
+      "summary": "",
+      "fullSummary": "L&#8217;Uganda ha iniziato il ritiro delle sue truppe dalla Somalia dopo quasi vent&#8217;anni di presenza militare nel paese",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/02/protezioni-navi-flotta-fantasma-russa-reti-pneumatici/"
+      "url": "https://www.ilpost.it/2026/11/03/uganda-ritiro-truppe-somalia/"
     },
     {
       "cat": "mondo",
-      "title": "Gli studenti di origini asiatiche erano penalizzati dalle misure per favorire le minoranze etniche?",
-      "summary": "Da quando la Corte Suprema statunitense le ha abolite, in alcune prestigiose università ne sono entrati molti di più",
-      "fullSummary": "Da quando la Corte Suprema statunitense le ha abolite, in alcune prestigiose università ne sono entrati molti di più",
+      "title": "Il bizzarro ultimo discorso di Trump prima del voto",
+      "summary": "Invece di fare appelli politici si è dilungato sui dettagli tecnici della riapertura della vasca del Lincoln Memorial, come i tubi di scaric…",
+      "fullSummary": "Invece di fare appelli politici si è dilungato sui dettagli tecnici della riapertura della vasca del Lincoln Memorial, come i tubi di scarico",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/02/harvard-studenti-asiatici-aumento/"
+      "url": "https://www.ilpost.it/2026/11/03/trump-discorso-prima-midterm-vasca-washington/"
     },
     {
       "cat": "mondo",
-      "title": "Dopo 28 anni, Karl Bushby ha completato il suo giro del mondo a piedi",
-      "summary": "L'ex paracadutista inglese era partito nel 1998: ha attraversato quattro continenti, e oggi è stato accolto nella sua città",
-      "fullSummary": "L'ex paracadutista inglese era partito nel 1998: ha attraversato quattro continenti, e oggi è stato accolto nella sua città",
+      "title": "È il giorno delle elezioni di metà mandato negli Stati Uniti",
+      "summary": "Si vota per rinnovare la Camera e circa un terzo del Senato, ed è una specie di referendum su Trump: una guida con le cose da sapere",
+      "fullSummary": "Si vota per rinnovare la Camera e circa un terzo del Senato, ed è una specie di referendum su Trump: una guida con le cose da sapere",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/02/karl-bushby-giro-del-mondo-completato-28-anni/"
+      "url": "https://www.ilpost.it/2026/11/03/guida-elezioni-meta-mandato-stati-uniti-2026/"
+    },
+    {
+      "cat": "sport",
+      "title": "E la Ferrari?",
+      "summary": "È stato un anno di alti e bassi, e mentre Antonelli vinceva il Mondiale i suoi piloti litigavano",
+      "fullSummary": "È stato un anno di alti e bassi, e mentre Antonelli vinceva il Mondiale i suoi piloti litigavano",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/02/come-sta-andando-la-ferrari-formula-1-2026/"
     },
     {
       "cat": "sport",
@@ -90,12 +98,28 @@
       "url": "https://www.ilpost.it/2026/11/02/kimi-antonelli-vittoria-formula-1-prime-pagine-commenti-giornali-italia-estero/"
     },
     {
-      "cat": "sport",
-      "title": "Quattro calciatori del Frosinone che è il caso di conoscere",
-      "summary": "Tra i protagonisti della squadra finora più sorprendente in Serie A",
-      "fullSummary": "Tra i protagonisti della squadra finora più sorprendente in Serie A",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/02/frosinone-calciatori-calo-kvernadze-ghedjemis-schmid/"
+      "cat": "scienza",
+      "title": "Un anno su Marte, senza lasciare Houston",
+      "summary": "Per la missione CHAPEA sono stati in isolamento per oltre un anno per simulare le condizioni abitative su Marte e l&#039;impatto su salute e…",
+      "fullSummary": "Per la missione CHAPEA sono stati in isolamento per oltre un anno per simulare le condizioni abitative su Marte e l&#039;impatto su salute e perfomance.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/un-anno-su-marte-senza-lasciare-houston-l-equipaggio-chapea-e-tornato-sulla-terra"
+    },
+    {
+      "cat": "scienza",
+      "title": "DNA e malattie: il legame che mancava",
+      "summary": "Individuate le cellule immunitarie la cui attività è direttamente influenzata da varianti genetiche: l&#039;anello mancante per lo sviluppo …",
+      "fullSummary": "Individuate le cellule immunitarie la cui attività è direttamente influenzata da varianti genetiche: l&#039;anello mancante per lo sviluppo di malattie.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/scoperto-il-collegamento-nascosto-tra-varianti-genetiche-e-malattie"
+    },
+    {
+      "cat": "scienza",
+      "title": "La prossima era glaciale era già iniziata...",
+      "summary": "Duemila anni fa i ghiacci dell&#039;Artico canadese avevano ricominciato a espandersi, avviando un nuovo ciclo glaciale. Dagli anni Sessanta…",
+      "fullSummary": "Duemila anni fa i ghiacci dell&#039;Artico canadese avevano ricominciato a espandersi, avviando un nuovo ciclo glaciale. Dagli anni Sessanta, il riscaldamento globale ha interrotto il processo, invertendo la rotta di un fenomeno naturale.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/la-prossima-era-glaciale-era-gia-iniziata-ecco-come-il-riscaldamento-globale-l-ha-fermata"
     },
     {
       "cat": "scienza",
@@ -104,30 +128,6 @@
       "fullSummary": "Dal palco di Lucca Comics all&#039;analisi di decine di studi clinici: ecco perch&amp;eacute; i fumetti possono essere decisivi nella prevenzione di tumori come il &lt;em&gt;papillomavirus&lt;/em&gt;.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/graphic-medicine-i-fumetti-possono-aiutarci-a-prevenire-i-tumori"
-    },
-    {
-      "cat": "scienza",
-      "title": "Chi ha il QI più alto mai registrato?",
-      "summary": "Dai &quot;fenomeni&quot; come Marilyn vos Savant e Terence Tao ai limiti del test del QI oltre certe soglie: ecco perch&amp;eacute; per gli …",
-      "fullSummary": "Dai &quot;fenomeni&quot; come Marilyn vos Savant e Terence Tao ai limiti del test del QI oltre certe soglie: ecco perch&amp;eacute; per gli psicologi un primato assoluto non ha valore scientifico.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/chi-ha-il-qi-piu-alto-mai-registrato-e-perche-la-scienza-frena-sui-punteggi-record"
-    },
-    {
-      "cat": "scienza",
-      "title": "Futuro Remoto, il festival scientifico più longevo",
-      "summary": "Festeggia 40 anni il festival della scienza di Napoli, il primo nato in Europa. Dal 10 al 15 novembre con mostre, dibattiti e spettacoli gra…",
-      "fullSummary": "Festeggia 40 anni il festival della scienza di Napoli, il primo nato in Europa. Dal 10 al 15 novembre con mostre, dibattiti e spettacoli gratuiti",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/napoli-al-via-futuro-remoto-il-festival-scientifico-piu-longevo-d-europa"
-    },
-    {
-      "cat": "scienza",
-      "title": "Tumori colon-retto: differenze anagrafiche",
-      "summary": "Individuate diversità sostanziali tra i tumori colorettali nei giovani e quelli che interessano gli anziani: i primi godono di un maggiore &…",
-      "fullSummary": "Individuate diversità sostanziali tra i tumori colorettali nei giovani e quelli che interessano gli anziani: i primi godono di un maggiore &quot;supporto&quot;.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/tumori-colon-retto-piu-aggressivi-nei-giovani"
     },
     {
       "cat": "storia",
@@ -163,6 +163,14 @@
     },
     {
       "cat": "tech",
+      "title": "Su Minecraft esiste una biblioteca segreta che aggira la censura",
+      "summary": "The Uncensored Library &amp;egrave; stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengo…",
+      "fullSummary": "The Uncensored Library &amp;egrave; stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengono bloccati, Minecraft continua a funzionare.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/innovazione/su-minecraft-esiste-una-biblioteca-segreta-che-aggira-la-censura"
+    },
+    {
+      "cat": "tech",
       "title": "Sentire gli odori attraverso internet",
       "summary": "Scentronic è una sorta di naso digitale che permette di ricostruire le essenze trasmesse attraverso algoritmi e impulsi elettrici.",
       "fullSummary": "Scentronic è una sorta di naso digitale che permette di ricostruire le essenze trasmesse attraverso algoritmi e impulsi elettrici.",
@@ -184,14 +192,6 @@
       "fullSummary": "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud: ecco come l&#039;IA &quot;on-device&quot; (per ora solo su Mac) garantisce privacy e autonomia anche offline.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/google-lancia-ia-che-funziona-senza-internet-come-lavora-foresight-direttamente-sul-computer"
-    },
-    {
-      "cat": "tech",
-      "title": "Il medico chiede all’IA",
-      "summary": "&lt;p dir=&quot;ltr&quot;&gt;L&#039;intelligenza artificiale generativa &amp;egrave; gi&amp;agrave; usata da 6 medici su 10, ma pochi ne con…",
-      "fullSummary": "&lt;p dir=&quot;ltr&quot;&gt;L&#039;intelligenza artificiale generativa &amp;egrave; gi&amp;agrave; usata da 6 medici su 10, ma pochi ne conoscono i limiti. Lo racconta un nuovo podcast con i dati del Politecnico di Milano.&lt;/p&gt;",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/innovazione/Il-medico-chiede-all-IA"
     }
   ]
 }
