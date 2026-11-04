@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T10:46:32.293Z",
+  "generatedAt": "2026-11-04T19:41:41.664Z",
   "items": [
     {
       "cat": "politica",
@@ -35,35 +35,51 @@
     },
     {
       "cat": "mondo",
-      "title": "Di nuovo in diretta col Post sulle elezioni di metà mandato, stasera",
-      "summary": "Dalle 19 alle 21, per parlare di come sono andate con Francesco Costa, Laura Loguercio e Luca Misculin",
-      "fullSummary": "Dalle 19 alle 21, per parlare di come sono andate con Francesco Costa, Laura Loguercio e Luca Misculin",
+      "title": "Qualche grafico per capire meglio il risultato delle elezioni negli Stati Uniti",
+      "summary": "Dove e di quanto hanno vinto i Democratici? Quali posti si sono spostati più a sinistra? Dov'è che i Repubblicani hanno retto?",
+      "fullSummary": "Dove e di quanto hanno vinto i Democratici? Quali posti si sono spostati più a sinistra? Dov'è che i Repubblicani hanno retto?",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/elezioni-meta-mandato-risultati-diretta-video-post/"
+      "url": "https://www.ilpost.it/2026/11/04/risultati-midterm-2026-grafici/"
     },
     {
       "cat": "mondo",
-      "title": "I massi gettati da Greenpeace nel mare del Nord contro la pesca a strascico",
-      "summary": "Servono a ostacolare le reti in un'area a est dell'Inghilterra, per proteggere una specie di cetacei",
-      "fullSummary": "Servono a ostacolare le reti in un'area a est dell'Inghilterra, per proteggere una specie di cetacei",
+      "title": "C&#8217;è un accordo per alzare il salario minimo nel settore tessile in Bangladesh, secondo produttore di abbigliamento al mondo",
+      "summary": "",
+      "fullSummary": "C&#8217;è un accordo per alzare il salario minimo nel settore tessile in Bangladesh, secondo produttore di abbigliamento al mondo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/attivisti-greenpeace-sassi-mare-del-nord/"
+      "url": "https://www.ilpost.it/2026/11/04/bangladesh-aumento-salario-minimo-settore-tessile/"
     },
     {
       "cat": "mondo",
-      "title": "Le foto della notte elettorale negli Stati Uniti",
-      "summary": "Tra Democratici in festa per la grande vittoria e Repubblicani che invece non se ne capacitano",
-      "fullSummary": "Tra Democratici in festa per la grande vittoria e Repubblicani che invece non se ne capacitano",
+      "title": "Posti improbabili dove hanno votato gli statunitensi",
+      "summary": "Dalla Stazione spaziale internazionale a un centro di cultura iraniana; in chiese e supermercati, circondati da urne funerarie o da procioni",
+      "fullSummary": "Dalla Stazione spaziale internazionale a un centro di cultura iraniana; in chiese e supermercati, circondati da urne funerarie o da procioni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/foto-notte-elezioni-midterm-stati-uniti/"
+      "url": "https://www.ilpost.it/2026/11/04/posti-strani-dove-votano-statunitensi/"
     },
     {
       "cat": "mondo",
-      "title": "In Repubblica Ceca c’è chi ci tiene a pagare il canone",
-      "summary": "Il governo vuole far approvare una legge che elimina la tassa con cui si finanziano i media pubblici: molti lo accusano di volerli controlla…",
-      "fullSummary": "Il governo vuole far approvare una legge che elimina la tassa con cui si finanziano i media pubblici: molti lo accusano di volerli controllare",
+      "title": "È ripartita la nave da crociera di lusso che si era fermata in Cambogia a causa dei prezzi del carburante, ma senza i passeggeri",
+      "summary": "",
+      "fullSummary": "È ripartita la nave da crociera di lusso che si era fermata in Cambogia a causa dei prezzi del carburante, ma senza i passeggeri",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/repubblica-ceca-proteste-canone-televisione/"
+      "url": "https://www.ilpost.it/2026/11/04/nave-cambogia-ripartita/"
+    },
+    {
+      "cat": "sport",
+      "title": "La squadra più in forma di Napoli",
+      "summary": "No, non quella di calcio, ma quella di basket, che continua a vincere e ha grandi ambizioni",
+      "fullSummary": "No, non quella di calcio, ma quella di basket, che continua a vincere e ha grandi ambizioni",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/04/napoli-basket-e-forte-serie-a-eurocup-matt-rizzetta-ambizioni-napoli-calcio-polisportiva/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il Canada non vuole la Russia ai tornei di hockey su ghiaccio",
+      "summary": "Lo ha detto il primo ministro Mark Carney, dopo che altri paesi europei avevano già protestato contro la riammissione delle nazionali russe",
+      "fullSummary": "Lo ha detto il primo ministro Mark Carney, dopo che altri paesi europei avevano già protestato contro la riammissione delle nazionali russe",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/04/hockey-su-ghiaccio-canada-opposizione-russia-guerra-in-ucraina/"
     },
     {
       "cat": "sport",
@@ -82,20 +98,12 @@
       "url": "https://www.ilpost.it/2026/11/03/chi-sono-campioni-e-campionesse-italiane-del-mondo-kimi-antonelli/"
     },
     {
-      "cat": "sport",
-      "title": "Il percorso del Giro d&#8217;Italia del 2027",
-      "summary": "E quello del Giro d'Italia Women, che partiranno rispettivamente da Trieste e da Viareggio",
-      "fullSummary": "E quello del Giro d'Italia Women, che partiranno rispettivamente da Trieste e da Viareggio",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/03/giro-italia-percorso-tappe-2027/"
-    },
-    {
-      "cat": "sport",
-      "title": "Si sono chiuse le candidature per le Olimpiadi del 2036",
-      "summary": "Tra i sette paesi ancora in corsa non c'è l'Italia e solo due – Germania e Corea del Sud – ne hanno già ospitato un'edizione",
-      "fullSummary": "Tra i sette paesi ancora in corsa non c'è l'Italia e solo due – Germania e Corea del Sud – ne hanno già ospitato un'edizione",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/03/olimpiadi-2036-paesi-citta-candidature/"
+      "cat": "scienza",
+      "title": "Perché rischi più a calcetto che sugli sci",
+      "summary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. I dati sorpre…",
+      "fullSummary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. I dati sorprendono: quasi la met&amp;agrave; si infortuna su un normale campo da calcio o calcetto, molto pi&amp;ugrave; che negli sport invernali. Ecco cosa succede al nostro corpo quando giochiamo senza preparazione.&lt;/p&gt;",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/il-calcetto-e-il-padel-mandano-in-tilt-i-pronto-soccorso-perche-rischi-piu-tra-amici-che-sugli-sci"
     },
     {
       "cat": "scienza",
@@ -122,12 +130,12 @@
       "url": "https://www.focus.it/scienza/salute/scoperto-il-collegamento-nascosto-tra-varianti-genetiche-e-malattie"
     },
     {
-      "cat": "scienza",
-      "title": "La prossima era glaciale era già iniziata...",
-      "summary": "Duemila anni fa i ghiacci dell&#039;Artico canadese avevano ricominciato a espandersi, avviando un nuovo ciclo glaciale. Dagli anni Sessanta…",
-      "fullSummary": "Duemila anni fa i ghiacci dell&#039;Artico canadese avevano ricominciato a espandersi, avviando un nuovo ciclo glaciale. Dagli anni Sessanta, il riscaldamento globale ha interrotto il processo, invertendo la rotta di un fenomeno naturale.",
+      "cat": "storia",
+      "title": "Che cos&#039;è un&#039;anatra zoppa?",
+      "summary": "Il termine anatra zoppa (&lt;em&gt;lame duck&lt;/em&gt;), nata tra i broker della Londra del Settecento, indica un presidente che resta al p…",
+      "fullSummary": "Il termine anatra zoppa (&lt;em&gt;lame duck&lt;/em&gt;), nata tra i broker della Londra del Settecento, indica un presidente che resta al potere tra voto e insediamento del successore.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/la-prossima-era-glaciale-era-gia-iniziata-ecco-come-il-riscaldamento-globale-l-ha-fermata"
+      "url": "https://www.focus.it/cultura/storia/che-cos-e-un-anatra-zoppa-origini-di-un-espressione-che-indica-un-presidente-a-fine-mandato"
     },
     {
       "cat": "storia",
@@ -152,14 +160,6 @@
       "fullSummary": "Il 3 novembre negli Stati Uniti si vota per elezioni di mid-term: nessun colpo è proibito, ecco come funzionano le campagne elettorali americane.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/le-piu-famose-strategie-delle-campagne-elettorali-americane"
-    },
-    {
-      "cat": "storia",
-      "title": "Quale è stato il primo matrimonio omosessuale?",
-      "summary": "Tra &#039;600 e &#039;700, i marinai stringevano un patto per dividersi bottino ed eredit&amp;agrave; che diventava un&#039;unione di fatto:…",
-      "fullSummary": "Tra &#039;600 e &#039;700, i marinai stringevano un patto per dividersi bottino ed eredit&amp;agrave; che diventava un&#039;unione di fatto: come funzionava questo accordo prima che la legge riconoscesse il matrimonio omosessuale nel 2001.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/quale-e-stato-il-primo-matrimonio-omosessuale-quello-tra-i-pirati-dei-caraibi-la-storia-del-matelotage"
     },
     {
       "cat": "tech",
@@ -189,7 +189,7 @@
       "cat": "tech",
       "title": "Cosa può fare un&#039;IA che pensa in italiano?",
       "summary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di&#039;IA che pens…",
-      "fullSummary": "Emma-6, intelligenza artificiale sviluppata dalla società italiana Egomnia di Matteo Achilli, è attualmente in fase di sperimentazione Beta e manifesta frequenti \"allucinazioni\", fornendo risposte incoerenti ed errate perfino su calcoli elementari. Con 1,55 miliardi di parametri e un addestramento basato su circa 25 miliardi di token, presenta dimensioni molto contenute rispetto ai grandi modelli internazionali. Ciononostante, il progetto solleva importanti riflessioni sulle potenzialità e sulle sfide legate alla creazione di modelli linguistici focalizzati sulla lingua italiana.\n\nSebbene le intelligenze artificiali non pensino in senso umano ma elaborino rappresentazioni matematiche, un modello addestrato primariamente in italiano può interpretare meglio espressioni idiomatiche, sfumature culturali e registri differenti, dal gergo burocratico a quello colloquiale. Inoltre, le dimensioni ridotte comportano un minore fabbisogno di memoria e calcolo, consentendo il funzionamento su server locali. Ciò favorisce la riduzione dei costi e la protezione dei dati, aprendo ad applicazioni utili nella pubblica amministrazione, nella sanità o nelle imprese per interpretare normative o riassumere documenti, a patto che intervengano controlli umani e fonti certificate.\n\nLo sviluppo di soluzioni interne risponde anche all'obiettivo strategico della sovranità digitale, riducendo la dipendenza da colossi tecnologici stranieri per la gestione di infrastrutture e informazioni sensibili. In tale contesto, Emma non rappresenta un caso isolato nel panorama italiano ed europeo: la ricerca include infatti progetti come Minerva, nato dalla Sapienza con il Cineca; FastwebMIIA, rivolto a imprese e pubblica amministrazione con calcolo localizzato in Italia; Velvet 25B di Almawave, esteso a 24 lingue europee; e la francese Mistral AI.\n\nAnche se al momento Emma fatica nelle operazioni più semplici e non può essere ritenuta affidabile, le sue criticità evidenziano il percorso di crescita e gli ostacoli necessari per costruire una tecnologia nazionale ed europea indipendente.",
+      "fullSummary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di&#039;IA che pensa in Italiano.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/cosa-puo-fare-un-ia-che-pensa-in-italiano"
     }
