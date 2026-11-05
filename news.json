@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:34:19.473Z",
+  "generatedAt": "2026-11-05T10:54:22.129Z",
   "items": [
     {
       "cat": "politica",
@@ -99,6 +99,22 @@
     },
     {
       "cat": "scienza",
+      "title": "Il corteggiamento ha una dimensione collettiva",
+      "summary": "L&#039;ambiente e le dinamiche sociali influenzano i meccanismi cerebrali e sensoriali alla base del corteggiamento: è così nelle drosofile,…",
+      "fullSummary": "L&#039;ambiente e le dinamiche sociali influenzano i meccanismi cerebrali e sensoriali alla base del corteggiamento: è così nelle drosofile, ma non solo.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/corteggiamento-non-duetto-rito-collettivo-influenzato-contesto"
+    },
+    {
+      "cat": "scienza",
+      "title": "Il deposito (definitivo) per scorie nucleari",
+      "summary": "Scavato a 400 metri di profondit&amp;agrave;, l&#039;impianto sfrutta un sistema multibarriera in rame e bentonite per isolare le scorie nuc…",
+      "fullSummary": "Scavato a 400 metri di profondit&amp;agrave;, l&#039;impianto sfrutta un sistema multibarriera in rame e bentonite per isolare le scorie nucleari per un milione di anni.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/energia/onkalo-e-un-bunker-progettato-per-sigillare-le-scorie-nucleari-per-un-milione-di-anni"
+    },
+    {
+      "cat": "scienza",
       "title": "Perché rischi più a calcetto che sugli sci",
       "summary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. I dati sorpre…",
       "fullSummary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. I dati sorprendono: quasi la met&amp;agrave; si infortuna su un normale campo da calcio o calcetto, molto pi&amp;ugrave; che negli sport invernali. Ecco cosa succede al nostro corpo quando giochiamo senza preparazione.&lt;/p&gt;",
@@ -112,22 +128,6 @@
       "fullSummary": "Tracce di una molecola derivata dall&#039;emoglobina scoperte nell&#039;arto di un dinosauro di 115 milioni di anni fa: non si tratta però di sangue intatto.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/scienze/globuli-rossi-fossili-in-un-osso-di-dinosauro"
-    },
-    {
-      "cat": "scienza",
-      "title": "La nuova frontiera delle cure contro i tumori: terapie sempre più personalizzate",
-      "summary": "Siamo stati nei laboratori dove si studiano le nuove molecole e abbiamo scoperto come biologia e chimica si uniscano per sviluppare cure con…",
-      "fullSummary": "Siamo stati nei laboratori dove si studiano le nuove molecole e abbiamo scoperto come biologia e chimica si uniscano per sviluppare cure contro i tumori sempre pi&amp;ugrave; mirate e precise.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/la-nuova-frontiera-delle-cure-contro-i-tumori-terapie-sempre-piu-personalizzate"
-    },
-    {
-      "cat": "scienza",
-      "title": "Un anno su Marte, senza lasciare Houston",
-      "summary": "Per la missione CHAPEA sono stati in isolamento per oltre un anno per simulare le condizioni abitative su Marte e l&#039;impatto su salute e…",
-      "fullSummary": "Per la missione CHAPEA sono stati in isolamento per oltre un anno per simulare le condizioni abitative su Marte e l&#039;impatto su salute e perfomance.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/un-anno-su-marte-senza-lasciare-houston-l-equipaggio-chapea-e-tornato-sulla-terra"
     },
     {
       "cat": "storia",
