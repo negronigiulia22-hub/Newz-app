@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-05T10:54:22.129Z",
+  "generatedAt": "2026-11-05T19:48:52.979Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "I tagli al personale scolastico hanno messo in imbarazzo il governo",
+      "summary": "Sono stati decisi nella legge di bilancio con motivazioni chiare, ma se ne sono stupiti persino Salvini e Valditara",
+      "fullSummary": "Sono stati decisi nella legge di bilancio con motivazioni chiare, ma se ne sono stupiti persino Salvini e Valditara",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/04/tagli-scuola-personale-salvini-valditara/"
+    },
     {
       "cat": "politica",
       "title": "La legge di bilancio che doveva essere per i giovani ha ben poco da offrire ai giovani",
@@ -26,76 +34,68 @@
       "url": "https://www.ilpost.it/2026/11/02/aumento-stipendi-magistrati-istat-media-ponderata-legge-di-bilancio/"
     },
     {
-      "cat": "politica",
-      "title": "Matteo Salvini dice che non pagherebbe per una targa personalizzata",
-      "summary": "Anche se è stato proprio lui a riproporle nell’ultima riforma del codice della strada",
-      "fullSummary": "Anche se è stato proprio lui a riproporle nell’ultima riforma del codice della strada",
+      "cat": "mondo",
+      "title": "Qualcosa sta già cambiando in Serbia",
+      "summary": "Nella polizia, nelle televisioni e a capo di un'importante banca: sembrano tutti effetti della vittoria del movimento degli studenti alle el…",
+      "fullSummary": "Nella polizia, nelle televisioni e a capo di un'importante banca: sembrano tutti effetti della vittoria del movimento degli studenti alle elezioni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/10/31/targhe-personalizzate-matteo-salvini/"
+      "url": "https://www.ilpost.it/2026/11/05/serbia-arresti-cambiamenti-elezioni-studenti/"
     },
     {
       "cat": "mondo",
-      "title": "Qualche grafico per capire meglio il risultato delle elezioni negli Stati Uniti",
-      "summary": "Dove e di quanto hanno vinto i Democratici? Quali posti si sono spostati più a sinistra? Dov'è che i Repubblicani hanno retto?",
-      "fullSummary": "Dove e di quanto hanno vinto i Democratici? Quali posti si sono spostati più a sinistra? Dov'è che i Repubblicani hanno retto?",
+      "title": "Dopo la sconfitta, Trump è in difficoltà anche in Medio Oriente",
+      "summary": "Potrebbe dover cambiare i suoi piani contro l'Iran, e rivedere i rapporti con il governo di Netanyahu",
+      "fullSummary": "Potrebbe dover cambiare i suoi piani contro l'Iran, e rivedere i rapporti con il governo di Netanyahu",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/risultati-midterm-2026-grafici/"
+      "url": "https://www.ilpost.it/2026/11/05/trump-meta-mandato-medio-oriente/"
     },
     {
       "cat": "mondo",
-      "title": "C&#8217;è un accordo per alzare il salario minimo nel settore tessile in Bangladesh, secondo produttore di abbigliamento al mondo",
+      "title": "In Finlandia due persone sono state condannate per sabotaggio nel caso del cavo sottomarino danneggiato dalla Fitburg",
       "summary": "",
-      "fullSummary": "C&#8217;è un accordo per alzare il salario minimo nel settore tessile in Bangladesh, secondo produttore di abbigliamento al mondo",
+      "fullSummary": "In Finlandia due persone sono state condannate per sabotaggio nel caso del cavo sottomarino danneggiato dalla Fitburg",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/bangladesh-aumento-salario-minimo-settore-tessile/"
+      "url": "https://www.ilpost.it/2026/11/05/finlandia-condanne-sabotaggio-cavo-sottomarino/"
     },
     {
       "cat": "mondo",
-      "title": "Posti improbabili dove hanno votato gli statunitensi",
-      "summary": "Dalla Stazione spaziale internazionale a un centro di cultura iraniana; in chiese e supermercati, circondati da urne funerarie o da procioni",
-      "fullSummary": "Dalla Stazione spaziale internazionale a un centro di cultura iraniana; in chiese e supermercati, circondati da urne funerarie o da procioni",
+      "title": "Ci sono stati allarmi bomba su una ventina di voli in Europa",
+      "summary": "Per la seconda volta in pochi giorni: diversi aerei sono stati deviati",
+      "fullSummary": "Per la seconda volta in pochi giorni: diversi aerei sono stati deviati",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/posti-strani-dove-votano-statunitensi/"
+      "url": "https://www.ilpost.it/2026/11/05/aereo-diretto-a-roma-ridirottato-in-francia-allarme-bomba/"
     },
     {
-      "cat": "mondo",
-      "title": "È ripartita la nave da crociera di lusso che si era fermata in Cambogia a causa dei prezzi del carburante, ma senza i passeggeri",
+      "cat": "sport",
+      "title": "Il dirigente sportivo giapponese Kozo Tashima ha detto che sfiderà Gianni Infantino alle elezioni della FIFA",
       "summary": "",
-      "fullSummary": "È ripartita la nave da crociera di lusso che si era fermata in Cambogia a causa dei prezzi del carburante, ma senza i passeggeri",
+      "fullSummary": "Il dirigente sportivo giapponese Kozo Tashima ha detto che sfiderà Gianni Infantino alle elezioni della FIFA",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/nave-cambogia-ripartita/"
+      "url": "https://www.ilpost.it/2026/11/05/kozo-tashima-elezioni-fifa-infantino/"
     },
     {
       "cat": "sport",
-      "title": "La squadra più in forma di Napoli",
-      "summary": "No, non quella di calcio, ma quella di basket, che continua a vincere e ha grandi ambizioni",
-      "fullSummary": "No, non quella di calcio, ma quella di basket, che continua a vincere e ha grandi ambizioni",
+      "title": "Cristiano Ronaldo si è ritirato dalla nazionale portoghese",
+      "summary": "Dopo 234 partite, 146 gol e qualche polemica nell'ultimo periodo",
+      "fullSummary": "Dopo 234 partite, 146 gol e qualche polemica nell'ultimo periodo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/napoli-basket-e-forte-serie-a-eurocup-matt-rizzetta-ambizioni-napoli-calcio-polisportiva/"
+      "url": "https://www.ilpost.it/2026/11/05/cristiano-ronaldo-addio-nazionale-portogallo/"
     },
     {
       "cat": "sport",
-      "title": "Il Canada non vuole la Russia ai tornei di hockey su ghiaccio",
-      "summary": "Lo ha detto il primo ministro Mark Carney, dopo che altri paesi europei avevano già protestato contro la riammissione delle nazionali russe",
-      "fullSummary": "Lo ha detto il primo ministro Mark Carney, dopo che altri paesi europei avevano già protestato contro la riammissione delle nazionali russe",
+      "title": "Vittorie tanto a poco, nel calcio",
+      "summary": "O spesso tanto a zero, dove tanto vuol dire 36-0 o perfino 149-0",
+      "fullSummary": "O spesso tanto a zero, dove tanto vuol dire 36-0 o perfino 149-0",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/hockey-su-ghiaccio-canada-opposizione-russia-guerra-in-ucraina/"
+      "url": "https://www.ilpost.it/2026/11/05/vittorie-con-tanti-gol-di-scarto-como-lens-9-1/"
     },
     {
       "cat": "sport",
-      "title": "Il tennista Flavio Cobolli si è qualificato per le ATP Finals",
-      "summary": "",
-      "fullSummary": "Il tennista Flavio Cobolli si è qualificato per le ATP Finals",
+      "title": "Il Como ha vinto per 9-1 in Champions League",
+      "summary": "Contro il Lens: nessuna squadra italiana aveva mai fatto così tanti gol nella più importante competizione europea",
+      "fullSummary": "Contro il Lens: nessuna squadra italiana aveva mai fatto così tanti gol nella più importante competizione europea",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/04/flavio-cobolli-qualificato-atp-finals-2026-tennis/"
-    },
-    {
-      "cat": "sport",
-      "title": "Campioni e campionesse del mondo, dall&#8217;Italia",
-      "summary": "Oltre ad Antonelli in Formula 1, ce ne sono a decine; a voler ben vedere anche Sinner lo è ancora",
-      "fullSummary": "Oltre ad Antonelli in Formula 1, ce ne sono a decine; a voler ben vedere anche Sinner lo è ancora",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/03/chi-sono-campioni-e-campionesse-italiane-del-mondo-kimi-antonelli/"
+      "url": "https://www.ilpost.it/2026/11/04/como-lens-9-1-champions-league-record/"
     },
     {
       "cat": "scienza",
@@ -131,6 +131,14 @@
     },
     {
       "cat": "storia",
+      "title": "Da quando doniamo il sangue",
+      "summary": "Dai primi esperimenti nel Seicento alla scoperta dei gruppi sanguigni: l&#039;arrivo delle tecniche di conservazione e la nascita delle prim…",
+      "fullSummary": "Dai primi esperimenti nel Seicento alla scoperta dei gruppi sanguigni: l&#039;arrivo delle tecniche di conservazione e la nascita delle prime banche del sangue negli anni Trenta hanno rivoluzionato la medicina.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/curiosita/quando-abbiamo-iniziato-a-donare-il-sangue"
+    },
+    {
+      "cat": "storia",
       "title": "Che cos&#039;è un&#039;anatra zoppa?",
       "summary": "Il termine anatra zoppa (&lt;em&gt;lame duck&lt;/em&gt;), nata tra i broker della Londra del Settecento, indica un presidente che resta al p…",
       "fullSummary": "Il termine anatra zoppa (&lt;em&gt;lame duck&lt;/em&gt;), nata tra i broker della Londra del Settecento, indica un presidente che resta al potere tra voto e insediamento del successore.",
@@ -152,14 +160,6 @@
       "fullSummary": "Non ci sono prove che Lucrezia Borgia fosse una campionessa, ma sicuramente prese lezioni dal migliore: Francesch Vicent che scrisse il primo trattato sulle regole degli scacchi moderni.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/curiosita/e-vero-che-lucrezia-borgia-era-un-abile-scacchista"
-    },
-    {
-      "cat": "storia",
-      "title": "Elezioni USA: le strategie elettorali più famose",
-      "summary": "Il 3 novembre negli Stati Uniti si vota per elezioni di mid-term: nessun colpo è proibito, ecco come funzionano le campagne elettorali ameri…",
-      "fullSummary": "Il 3 novembre negli Stati Uniti si vota per elezioni di mid-term: nessun colpo è proibito, ecco come funzionano le campagne elettorali americane.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/le-piu-famose-strategie-delle-campagne-elettorali-americane"
     },
     {
       "cat": "tech",
