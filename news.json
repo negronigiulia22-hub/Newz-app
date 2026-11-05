@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:41:41.664Z",
+  "generatedAt": "2026-11-05T01:34:19.473Z",
   "items": [
     {
       "cat": "politica",
@@ -115,19 +115,19 @@
     },
     {
       "cat": "scienza",
+      "title": "La nuova frontiera delle cure contro i tumori: terapie sempre più personalizzate",
+      "summary": "Siamo stati nei laboratori dove si studiano le nuove molecole e abbiamo scoperto come biologia e chimica si uniscano per sviluppare cure con…",
+      "fullSummary": "Siamo stati nei laboratori dove si studiano le nuove molecole e abbiamo scoperto come biologia e chimica si uniscano per sviluppare cure contro i tumori sempre pi&amp;ugrave; mirate e precise.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/la-nuova-frontiera-delle-cure-contro-i-tumori-terapie-sempre-piu-personalizzate"
+    },
+    {
+      "cat": "scienza",
       "title": "Un anno su Marte, senza lasciare Houston",
       "summary": "Per la missione CHAPEA sono stati in isolamento per oltre un anno per simulare le condizioni abitative su Marte e l&#039;impatto su salute e…",
       "fullSummary": "Per la missione CHAPEA sono stati in isolamento per oltre un anno per simulare le condizioni abitative su Marte e l&#039;impatto su salute e perfomance.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/spazio/un-anno-su-marte-senza-lasciare-houston-l-equipaggio-chapea-e-tornato-sulla-terra"
-    },
-    {
-      "cat": "scienza",
-      "title": "DNA e malattie: il legame che mancava",
-      "summary": "Individuate le cellule immunitarie la cui attività è direttamente influenzata da varianti genetiche: l&#039;anello mancante per lo sviluppo …",
-      "fullSummary": "Individuate le cellule immunitarie la cui attività è direttamente influenzata da varianti genetiche: l&#039;anello mancante per lo sviluppo di malattie.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/scoperto-il-collegamento-nascosto-tra-varianti-genetiche-e-malattie"
     },
     {
       "cat": "storia",
