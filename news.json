@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:48:52.979Z",
+  "generatedAt": "2026-11-06T01:28:10.431Z",
   "items": [
     {
       "cat": "politica",
@@ -163,6 +163,14 @@
     },
     {
       "cat": "tech",
+      "title": "Attacchi hacker: l’Italia è pronta a difendersi?",
+      "summary": "Abbiamo chiesto ad Alessandro Armando, del comitato tecnico-scientifico dell&#039;Agenzia di Cybersicurezza Nazionale, come ci stiamo muoven…",
+      "fullSummary": "Abbiamo chiesto ad Alessandro Armando, del comitato tecnico-scientifico dell&#039;Agenzia di Cybersicurezza Nazionale, come ci stiamo muovendo contro gli attacchi informatici.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/innovazione/attacchi-hacker-la-rete-italiana-di-cybersicurezza-e-pronta"
+    },
+    {
+      "cat": "tech",
       "title": "Su Minecraft esiste una biblioteca segreta che aggira la censura",
       "summary": "The Uncensored Library &amp;egrave; stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengo…",
       "fullSummary": "The Uncensored Library &amp;egrave; stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengono bloccati, Minecraft continua a funzionare.",
@@ -184,14 +192,6 @@
       "fullSummary": "Scentronic è una sorta di naso digitale che permette di ricostruire le essenze trasmesse attraverso algoritmi e impulsi elettrici.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/scentronic-il-naso-digitale-per-sentire-gli-odori-attraverso-internet"
-    },
-    {
-      "cat": "tech",
-      "title": "Cosa può fare un&#039;IA che pensa in italiano?",
-      "summary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di&#039;IA che pens…",
-      "fullSummary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di&#039;IA che pensa in Italiano.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/cosa-puo-fare-un-ia-che-pensa-in-italiano"
     }
   ]
 }
