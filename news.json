@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:28:10.431Z",
+  "generatedAt": "2026-11-06T10:50:35.232Z",
   "items": [
     {
       "cat": "politica",
@@ -99,9 +99,17 @@
     },
     {
       "cat": "scienza",
+      "title": "Il freddo aiuta a perdere peso?",
+      "summary": "Non basta una doccia gelata per dimagrire: indossando gilet e cintura a 15 &amp;deg;C per due ore al giorno, i partecipanti a una ricerca ha…",
+      "fullSummary": "Non basta una doccia gelata per dimagrire: indossando gilet e cintura a 15 &amp;deg;C per due ore al giorno, i partecipanti a una ricerca hanno perso quasi un kg di grasso in 6 settimane grazie all&#039;attivazione del tessuto adiposo bruno.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/il-freddo-fa-dimagrire-lo-studio-che-rivela-quante-ore-servono-e-come-funziona"
+    },
+    {
+      "cat": "scienza",
       "title": "Il corteggiamento ha una dimensione collettiva",
       "summary": "L&#039;ambiente e le dinamiche sociali influenzano i meccanismi cerebrali e sensoriali alla base del corteggiamento: è così nelle drosofile,…",
-      "fullSummary": "L&#039;ambiente e le dinamiche sociali influenzano i meccanismi cerebrali e sensoriali alla base del corteggiamento: è così nelle drosofile, ma non solo.",
+      "fullSummary": "Secondo uno studio pubblicato su Nature e condotto dai neuroscienziati evolutivi del Max Planck Institute for Brain Research di Francoforte, il corteggiamento animale non è un semplice passo a due, ma una dinamica influenzata in modo determinante dal contesto ecologico e sociale, capace di agire direttamente sui circuiti neurali.\n\nLa ricerca, guidata da Vanessa Ruta, ha analizzato il comportamento della Drosophila erecta, una specie di moscerino della frutta non sociale. A differenza della Drosophila melanogaster, che si accoppia indifferentemente con o senza stimoli olfattivi, i maschi di D. erecta necessitano dell'odore di cibo per innescare l'attrazione. Nei test di laboratorio, ricreando vari contesti ambientali con aceto di mele per simulare la frutta in fermentazione, gli scienziati hanno osservato che in assenza di profumo i maschi restavano immobili e disinteressati. Al contrario, l'aroma del cibo ha scatenato un intenso corteggiamento verso i moscerini vicini: nove accoppiamenti su dieci sono avvenuti nell'area profumata.\n\nL'esperimento ha inoltre evidenziato che il movimento e la presenza di altri individui amplificano l'eccitazione sessuale, inducendo i maschi a corteggiare con maggior vigore rispetto a quanto accade in coppie isolate. A livello biologico, i neuroni visivi di D. erecta si attivano esclusivamente in presenza dell'odore alimentare; la maggiore acuità visiva spinge gli insetti verso le zone più affollate, generando un meccanismo di feedback collettivo paragonabile a quello che si verifica nei banchi di pesci, negli stormi o negli sciami.\n\nQuesto adattamento possiede una precisa spiegazione evolutiva: D. erecta si nutre dei frutti della Pandanus candelabrum, una palma tipica di Senegal e Camerun disponibile solo per due-quattro mesi all'anno. In una finestra temporale così ridotta, l'ambiente diventa altamente competitivo e le informazioni olfattive agiscono come un filtro determinante per calibrare le risposte visive, spingendo i moscerini a non restare indietro nel corteggiamento.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/scienze/corteggiamento-non-duetto-rito-collettivo-influenzato-contesto"
     },
@@ -120,14 +128,6 @@
       "fullSummary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. I dati sorprendono: quasi la met&amp;agrave; si infortuna su un normale campo da calcio o calcetto, molto pi&amp;ugrave; che negli sport invernali. Ecco cosa succede al nostro corpo quando giochiamo senza preparazione.&lt;/p&gt;",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/il-calcetto-e-il-padel-mandano-in-tilt-i-pronto-soccorso-perche-rischi-piu-tra-amici-che-sugli-sci"
-    },
-    {
-      "cat": "scienza",
-      "title": "Globuli rossi fossili in un osso di dinosauro",
-      "summary": "Tracce di una molecola derivata dall&#039;emoglobina scoperte nell&#039;arto di un dinosauro di 115 milioni di anni fa: non si tratta però d…",
-      "fullSummary": "Tracce di una molecola derivata dall&#039;emoglobina scoperte nell&#039;arto di un dinosauro di 115 milioni di anni fa: non si tratta però di sangue intatto.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/globuli-rossi-fossili-in-un-osso-di-dinosauro"
     },
     {
       "cat": "storia",
