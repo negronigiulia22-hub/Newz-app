@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-11-11T05:33:18.986Z",
+  "generatedAt": "2026-11-11T14:25:46.574Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Come funziona la tassa sui ricchi che se ne vanno dall’Italia proposta dal governo",
+      "summary": "E di cui forse si è già pentito",
+      "fullSummary": "E di cui forse si è già pentito",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/11/come-funziona-exit-tax-governo/"
+    },
     {
       "cat": "politica",
       "title": "Perché anche le regioni di destra ce l&#8217;hanno col governo sulla sanità",
       "summary": "Lamentano di avere sempre meno soldi, e hanno ragione, ma il governo rivendica di avercene messi di più, e ha ragione: vi spieghiamo",
-      "fullSummary": "Gli assessori regionali alla Sanità protestano contro i fondi destinati al settore nell’ultima legge di bilancio. La contestazione è particolarmente rilevante poiché guidata da Guido Bertolaso, assessore al Welfare della Lombardia, a cui si sono uniti altri esponenti delle giunte di centrodestra e presidenti di varie aree politiche. \n\nIl dibattito mette a confronto due diverse interpretazioni dei dati. Da una parte, il governo e il ministro della Salute Orazio Schillaci rivendicano la crescita in termini assoluti del Fondo sanitario nazionale, che sale dai 125 miliardi di euro del 2022 ai 146,3 miliardi stimati per il 2027. Dall’altra, le opposizioni e diverse associazioni denunciano una riduzione della spesa in rapporto al PIL, che scende dal 6,3 per cento del 2022 al 6,1 per cento nel 2027, con un’ulteriore discesa al 5,9 per cento prevista per il 2029. L'incremento nominale risulta insufficiente a fronte dei rincari dovuti all’inflazione, dei crescenti costi di gestione ospedaliera e dell’invecchiamento della popolazione.\n\nA gravare sul malcontento è anche il continuo ridimensionamento dei fondi rispetto alle promesse degli anni passati. Se nel 2024 erano stati prospettati aumenti fino a 5,7 miliardi per il 2027, l'attuale manovra ne stanzia soltanto 2,3, disattendendo le richieste dello stesso ministro Schillaci, che aveva auspicato tra i 5 e i 5,5 miliardi. Questi ricalcoli al ribasso ostacolano la programmazione a medio e lungo termine delle regioni.\n\nInfine, le amministrazioni locali contestano la perdita di autonomia gestionale. Gran parte delle risorse è rigidamente vincolata a voci specifiche, tra cui l'adeguamento delle tariffe per i casi acuti (500 milioni), le indennità per il personale del pronto soccorso (380 milioni), i dispositivi medici (146 milioni) e l'assistenza per l'Alzheimer (100 milioni). Come rilevato dalla Corte dei Conti, tali destinazioni obbligate limitano fortemente i margini delle regioni per contrastare l'inflazione e soddisfare il fabbisogno ordinario.",
+      "fullSummary": "Lamentano di avere sempre meno soldi, e hanno ragione, ma il governo rivendica di avercene messi di più, e ha ragione: vi spieghiamo",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/10/regioni-tagli-sanita-fondi-soldi-legge-di-bilancio-bertolaso/"
     },
@@ -13,7 +21,7 @@
       "cat": "politica",
       "title": "L’ex senatore Tommaso Casillo è in custodia cautelare in carcere con l’accusa di aver ricevuto tangenti",
       "summary": "",
-      "fullSummary": "La Guardia di Finanza ha eseguito un'ordinanza di custodia cautelare in carcere nei confronti di Tommaso Casillo, ex senatore e attuale presidente di Soresa, la società che si occupa di gestire gli appalti pubblici nel settore della sanità nella regione Campania. L’accusa formulata a suo carico dagli inquirenti è quella di aver intascato delle tangenti in due distinte vicende.\n\nSecondo le tesi di chi indaga, nel primo episodio Casillo avrebbe ricevuto una tangente da 100mila euro per favorire una società nell'ambito di una gara d’appalto da 23,8 milioni di euro, avente per oggetto il noleggio di barelle destinate agli ospedali campani. Nel secondo caso, invece, l'ex senatore avrebbe percepito 20mila euro all'interno di un accordo corruttivo ben più esteso, pari a 150mila euro, finalizzato ad agevolare alcuni imprenditori in una gara d'appalto da 29,6 milioni di euro per la gestione dei rifiuti a Somma Vesuviana, in provincia di Napoli.\n\nCasillo ricopre la presidenza di Soresa dal 2022. In passato ha ricoperto diversi ruoli istituzionali: ha svolto il mandato di senatore per i Socialisti Democratici Italiani tra il 2001 e il 2006, è stato sottosegretario al ministero delle Infrastrutture tra il 2006 e il 2008 durante il secondo governo Prodi, e ha poi svolto la funzione di vicepresidente del consiglio regionale della Campania tra il 2015 e il 2020.\n\nLa custodia cautelare che ha raggiunto Casillo è stata autorizzata dal gip del tribunale di Napoli, accogliendo la richiesta formulata dalla Direzione distrettuale antimafia. L’inchiesta coinvolge anche altre 12 persone, per le quali sono state stabilite misure restrittive: otto di queste sono finite in carcere, mentre quattro sono state poste agli arresti domiciliari. A carico degli altri soggetti indagati figurano accuse per vari reati, tra i quali l'associazione di tipo mafioso, il concorso esterno in associazione mafiosa e la tentata estorsione aggravata.",
+      "fullSummary": "L’ex senatore Tommaso Casillo è in custodia cautelare in carcere con l’accusa di aver ricevuto tangenti",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/10/ex-senatore-tommaso-casillo-custodia-cautelare-carcere-accusa-tangenti/"
     },
@@ -21,55 +29,63 @@
       "cat": "politica",
       "title": "Se non può farli eleggere, Salvini li nomina negli enti pubblici",
       "summary": "Alberto Bagnai all'Antitrust, Giulio Centemero alla Consob, Mirco Carloni al porto di Ancona e altri ancora: il motivo è sempre la crisi del…",
-      "fullSummary": "Negli ultimi tempi la Lega guidata da Matteo Salvini sta promuovendo la nomina di propri parlamentari ed esponenti di rilievo all'interno di autorità ed enti pubblici indipendenti. Questa strategia risponde a una convergenza di interessi legata alla crisi di consensi del partito e alle regole della nuova legge elettorale: dei 54 deputati e 29 senatori leghisti attualmente in carica, meno di un quarto ha la certezza di essere rieletto nel 2027, con i seggi sicuri riservati ai fedelissimi e gli altri costretti a campagne costose e incerte per via della parziale reintroduzione delle preferenze. Offrire ruoli di prestigio consente quindi a Salvini di ridurre le richieste per le future liste elettorali e garantisce ai parlamentari uscite dignitose e incarichi stabili.\n\nTale dinamica emerge chiaramente da diversi casi recenti. Figure come Antonio Maria Rinaldi e Laura Ravetto hanno lasciato la Lega per passare con Roberto Vannacci in Futuro Nazionale proprio dopo il fallimento delle nomine a cui aspiravano (rispettivamente a COVIP e ARERA), bloccate da Fratelli d’Italia. Al contrario, il deputato Alberto Bagnai ha ottenuto un incarico settennale come commissario dell’AGCM, sebbene la legge richieda una notoria indipendenza; il suo seggio alla Camera verrà conteso in un'elezione suppletiva a Chieti.\n\nIl deputato Mirco Carloni è stato invece nominato dal ministero dei Trasporti alla presidenza dell’Autorità portuale del mare Adriatico centrale: Carloni ha mantenuto il doppio incarico per oltre tre mesi, dimettendosi da parlamentare solo il 19 ottobre per evitare la suppletiva, non prevista a meno di un anno dal termine della legislatura. Infine, dopo la mancata nomina di Federico Freni alla presidenza della Consob, il Consiglio dei ministri ha approvato la designazione del deputato leghista Giulio Centemero come commissario dell'autorità, nomina che ora dovrà passare al vaglio delle commissioni Finanze.",
+      "fullSummary": "Alberto Bagnai all'Antitrust, Giulio Centemero alla Consob, Mirco Carloni al porto di Ancona e altri ancora: il motivo è sempre la crisi della Lega",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/09/salvini-anac-altieri-consob-centemero/"
     },
     {
-      "cat": "politica",
-      "title": "Di quanto potrebbero ridursi le multe per eccesso di velocità",
-      "summary": "È una delle questioni più criticate del nuovo Codice della strada e potrebbe avere conseguenze sulla sicurezza e sulle casse dei comuni",
-      "fullSummary": "Il 13 ottobre il Consiglio dei ministri ha approvato in via preliminare il nuovo Codice della strada, composto da 294 articoli e con entrata in vigore prevista per il primo gennaio 2028, previo esame delle commissioni parlamentari. Tra le novità principali figura una netta riduzione delle sanzioni per eccesso di velocità e un alleggerimento del taglio dei punti della patente. Secondo il ministero dei Trasporti, l'intervento intende correggere le attuali disparità sanzionatorie, parametrando le multe al limite vigente e punendo in modo più severo le violazioni su limiti più alti a causa della loro maggiore pericolosità.\n\nIl nuovo meccanismo sostituisce le quattro fasce vigenti con una quota per chilometro orario di superamento: 5 euro a chilometro fino a 20 km/h sulle strade ordinarie e 10 euro sulle autostrade, per poi salire a 10 euro ovunque oltre i 20 km/h. Restano confermati lo sconto del 30 per cento per i pagamenti entro cinque giorni e la tolleranza minima di 5 km/h per gli apparecchi di rilevamento, mentre la maggiorazione per le ore notturne scende da un terzo a un quinto, con arrotondamenti al ribasso.\n\nLa modifica ha suscitato perplessità da parte dell'ANCI, dell'ASAPS e delle associazioni delle vittime della strada. Luigi Altamura, referente ANCI e comandante della polizia locale di Verona, e Giordano Biserni, presidente ASAPS, temono che importi ridotti a pochi euro cancellino il potere deterrente delle sanzioni e che i costi per produrre e notificare i verbali superino le somme riscosse. Vengono inoltre ricordati i rischi per l'incolumità pubblica: studi di OMS, Unione Europea e ISTAT attestano che la velocità eccessiva è la prima o tra le principali cause di sinistri mortali. Infine, la riforma comporterà un marcato calo delle entrate comunali, sebbene venga valutata positivamente la scelta di vincolare totalmente i proventi delle multe alla sicurezza stradale.",
+      "cat": "mondo",
+      "title": "Sappiamo poco della donna al centro dello scandalo di Nvidia",
+      "summary": "Di Alice Huang non si sa nemmeno quanti anni abbia, né dove sia in questo momento",
+      "fullSummary": "Di Alice Huang non si sa nemmeno quanti anni abbia, né dove sia in questo momento",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/08/nuovo-codice-della-strada-multe-per-eccesso-di-velocita/"
+      "url": "https://www.ilpost.it/2026/11/11/alice-huang-profilo-scandalo-nvidia/"
     },
     {
       "cat": "mondo",
-      "title": "Gli Stati Uniti hanno incriminato tre uomini per il presunto piano per attaccare la base inglese RAF Fairford",
+      "title": "In Portogallo le scuole sono state chiuse e ci sono più di 360 voli cancellati a causa della tempesta Charles",
       "summary": "",
-      "fullSummary": "Gli Stati Uniti hanno incriminato tre uomini per il presunto piano per attaccare la base inglese RAF Fairford",
+      "fullSummary": "In Portogallo le scuole sono state chiuse e ci sono più di 360 voli cancellati a causa della tempesta Charles",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/stati-uniti-incriminazione-raf-fairford/"
+      "url": "https://www.ilpost.it/2026/11/11/portogallo-scuole-chiuse-voli-cancellati-tempesta-charles/"
     },
     {
       "cat": "mondo",
-      "title": "Un soldato dell&#8217;esercito statunitense è stato arrestato nel Regno Unito con l&#8217;accusa di spionaggio a favore della Russia",
+      "title": "Friedrich Merz ha legato il bilancio europeo all’Ucraina",
+      "summary": "La Germania ha detto che lo terrà bloccato finché tutti i paesi non contribuiranno a un nuovo prestito: alcuni sono molto arrabbiati",
+      "fullSummary": "La Germania ha detto che lo terrà bloccato finché tutti i paesi non contribuiranno a un nuovo prestito: alcuni sono molto arrabbiati",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/11/friedrich-merz-germania-bilancio-europeo-fondi-ucraina/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Spagna c&#8217;è il primo sciopero generale in 14 anni",
+      "summary": "È contro la crisi abitativa, è appoggiato dal governo e osteggiato dall'opposizione, e tra poco meno di tre settimane si vota",
+      "fullSummary": "È contro la crisi abitativa, è appoggiato dal governo e osteggiato dall'opposizione, e tra poco meno di tre settimane si vota",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/11/sciopero-generale-spagna-elezioni/"
+    },
+    {
+      "cat": "sport",
+      "title": "Le maglie «brutte e generiche» di Stati Uniti e Canada ai Mondiali di hockey su ghiaccio",
+      "summary": "Le stanno indossando perché non riescono a mettersi d'accordo con la federazione internazionale su chi detiene i diritti commerciali",
+      "fullSummary": "Le stanno indossando perché non riescono a mettersi d'accordo con la federazione internazionale su chi detiene i diritti commerciali",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/11/hockey-ghiaccio-stati-uniti-canada-maglie-mondiali-2026/"
+    },
+    {
+      "cat": "sport",
+      "title": "Sara Errani e Jasmine Paolini sono in semifinale alle WTA Finals di tennis",
       "summary": "",
-      "fullSummary": "Un soldato dell&#8217;esercito statunitense è stato arrestato nel Regno Unito con l&#8217;accusa di spionaggio a favore della Russia",
+      "fullSummary": "Sara Errani e Jasmine Paolini sono in semifinale alle WTA Finals di tennis",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/10/soldato-esercito-stati-uniti-arresto-regno-unito-spionaggio-russia/"
-    },
-    {
-      "cat": "mondo",
-      "title": "L&#8217;inchiesta che David Walliams ha provato a non far uscire",
-      "summary": "L'ha fatta il Guardian e accusa l'autore e comico inglese di molestie: un giudice ha autorizzato la pubblicazione anche se potrebbe mettere …",
-      "fullSummary": "L'ha fatta il Guardian e accusa l'autore e comico inglese di molestie: un giudice ha autorizzato la pubblicazione anche se potrebbe mettere a rischio la sua vita",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/10/david-walliams-abuso-potere/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Bulgaria almeno 11 persone sono morte in due incidenti stradali che hanno coinvolto più di 70 veicoli",
-      "summary": "",
-      "fullSummary": "In Bulgaria almeno 11 persone sono morte in due incidenti stradali che hanno coinvolto più di 70 veicoli",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/10/bulgaria-incidente-decine-auto-coinvolte/"
+      "url": "https://www.ilpost.it/2026/11/11/errani-paolini-semifinale-wta-finals-qualificate/"
     },
     {
       "cat": "sport",
       "title": "Le inconcludenti interviste in mezzo alle partite",
       "summary": "Quelle tra primo e secondo tempo, a calciatori ancor meno loquaci del solito: tranne in un caso recente, che si è fatto notare",
-      "fullSummary": "Un recente episodio che ha coinvolto Pablo Maffeo, difensore del Valencia, ha riacceso il dibattito sulle interviste a metà partita. Intervistato da DAZN durante l’intervallo della gara contro il Real Madrid, con la propria squadra sotto di due reti, il calciatore ha espresso con toni volgari – scusandosi in seguito – l'inutilità di tali interventi a gara in corso. L'accaduto rispecchia un'opinione diffusa: queste brevi conversazioni, pensate dalle emittenti televisive per far sentire lo spettatore dentro la partita, si riducono spesso a scambi frettolosi di una trentina di secondi con atleti affannati o distratti, offrendo ben pochi spunti di reale approfondimento.\n\nIn ambito televisivo questi interventi prendono il nome di \"miniflash\". In Italia esistono dalla stagione 2015/16 e, da tre anni a questa parte, si tengono poco prima dell'avvio del secondo tempo direttamente a bordocampo. La procedura di selezione coinvolge la Lega Serie A e l'ufficio stampa della squadra che sta andando meglio nella partita, che sceglie chi mandare anche all'ultimo momento. Come spiegato da un giornalista di bordocampo di DAZN, il tempo per preparare le domande è ridottissimo. Per alleggerire la pressione sui calciatori, talvolta si presentano gli allenatori stessi, come faceva Thiago Motta quando allenava la Juventus, offrendo risposte più profonde.\n\nLa frequente banalità delle risposte dipende anche dalla forte pressione e dal contesto: in Serie A ciascuna delle trentotto partite stagionali è percepita come fondamentale, a differenza di quanto accade nei campionati statunitensi come NBA o MLB, da cui il format proviene, dove l'alto numero di gare favorisce maggiore leggerezza. Inoltre, nel calcio europeo i club limitano fortemente i contatti tra tesserati e stampa all'infuori dei canali istituzionali. All'estero le regole possono variare: nel campionato inglese i club possono ritirare la disponibilità se stanno perdendo e i regolamenti impongono domande positive prive di controversie.",
+      "fullSummary": "Quelle tra primo e secondo tempo, a calciatori ancor meno loquaci del solito: tranne in un caso recente, che si è fatto notare",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/10/interviste-calciatori-intervallo-miniflash-inutili/"
     },
@@ -80,22 +96,6 @@
       "fullSummary": "O almeno ci proverà: vuol dire che non si correrà a Imola",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/10/formula-1-qatar-abu-dhabi-imola/"
-    },
-    {
-      "cat": "sport",
-      "title": "È l&#8217;anno buono per la squadra più tormentata del football americano?",
-      "summary": "I Buffalo Bills hanno appena battuto una delle avversarie più forti in NFL, ma meglio essere prudenti con loro",
-      "fullSummary": "I Buffalo Bills hanno appena battuto una delle avversarie più forti in NFL, ma meglio essere prudenti con loro",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/10/buffalo-bills-minnesota-vikings-nfl-meta-stagione-favoriti/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Corea del Nord è fortissima nel sollevamento pesi",
-      "summary": "Ha appena vinto, di nuovo, il medagliere ai Mondiali, a cui nel 2023 non aveva partecipato per questioni di doping",
-      "fullSummary": "La Corea del Nord ha conquistato per la terza volta consecutiva il primo posto nel medagliere dei Mondiali di sollevamento pesi a Ningbo, in Cina, stabilendo anche diversi record del mondo. Dopo aver saltato due edizioni delle Olimpiadi a causa della pandemia di Covid-19, la squadra nordcoreana punta ora a presentarsi come favorita ai Giochi di Los Angeles del 2028.\n\nIl rapporto del paese con le manifestazioni internazionali è stato a lungo discontinuo. La Corea del Nord non partecipò ai Mondiali del 2017 negli Stati Uniti, saltò quelli del 2021 e del 2022 per le restrizioni sanitarie interne e rinunciò all'edizione del 2023 per evitare i controlli delle agenzie antidoping indipendenti. Il rientro alle competizioni è stato reso possibile dalla ripresa della collaborazione, avviata nel febbraio 2024, con l'Agenzia mondiale antidoping (WADA), a cui sono stati concessi visti per effettuare controlli al di fuori delle gare all'interno del paese.\n\nGli atleti ottengono risultati eccellenti soprattutto nelle categorie di peso inferiori. Secondo la federazione britannica, esiste una favorevole predisposizione fisica caratterizzata da braccia corte, schiena lunga e gambe corte. Inoltre, la disciplina viene impiegata come strumento di propaganda dal regime guidato da Kim Jong Un: in una nazione povera e colpita da sanzioni, le risorse vengono concentrate su sport che non necessitano di grandi strutture e valorizzano forza e tecnica. I giovani vengono così reclutati in programmi di allenamento centralizzati interamente dedicati a questa attività.\n\nMentre il responsabile della squadra, Jang Song Nam, sostiene che i trionfi derivino unicamente dal duro lavoro, permangono forti sospetti sull'uso del doping. Questa pratica vanta infatti diversi precedenti nello sport nordcoreano: nel 2011 cinque calciatrici furono trovate positive, determinando l'esclusione della nazionale dal Mondiale successivo, e recentemente, il 3 novembre, un lottatore è stato sospeso per l'assunzione di una sostanza vietata.",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/10/corea-del-nord-sollevamento-pesi-mondiali-2026/"
     },
     {
       "cat": "scienza",
@@ -131,6 +131,22 @@
     },
     {
       "cat": "storia",
+      "title": "Da Nefertiti ad Attila: i sepolcri svaniti",
+      "summary": "Da Nefertiti ad Attila fino a Gengis Khan, la storia ha preservato le gesta dei grandi sovrani cancellando per&amp;ograve; i loro sepolcri. …",
+      "fullSummary": "Da Nefertiti ad Attila fino a Gengis Khan, la storia ha preservato le gesta dei grandi sovrani cancellando per&amp;ograve; i loro sepolcri. Tra indizi, leggende e ricerche mai concluse, il punto sugli scavi.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/mistero/alla-ricerca-della-tomba-perduta-il-mistero-dei-sepolcri-svaniti-nel-nulla"
+    },
+    {
+      "cat": "storia",
+      "title": "Perché non abbiamo una stagione degli amori?",
+      "summary": "A differenza di quasi tutti i mammiferi, possiamo riprodurci tutto l&#039;anno. Dietro questa eccezione c&#039;&amp;egrave; una precisa stra…",
+      "fullSummary": "A differenza di quasi tutti i mammiferi, possiamo riprodurci tutto l&#039;anno. Dietro questa eccezione c&#039;&amp;egrave; una precisa strategia evolutiva legata alla cura dei figli (anche se le vacanze estive alterano ancora i numeri).",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/curiosita/perche-gli-umani-diversamente-dagli-altri-mammiferi-non-hanno-una-stagione-degli-amori"
+    },
+    {
+      "cat": "storia",
       "title": "Qual è il programma nucleare cinese?",
       "summary": "La prima esplosione atomica sperimentale avvenne nel 1964. Oggi, secondo le stime, la Cina avrebbe 620 ordigni nucleari, ma ribadisce la lin…",
       "fullSummary": "La prima esplosione atomica sperimentale avvenne nel 1964. Oggi, secondo le stime, la Cina avrebbe 620 ordigni nucleari, ma ribadisce la linea del &quot;no al primo colpo&quot;: solo deterrenza e rappresaglia.",
@@ -144,22 +160,6 @@
       "fullSummary": "Pedalare con la tua musica preferita riduce la fatica e allunga la resistenza fino al 20% in pi&amp;ugrave;. Il segreto &amp;egrave; nei battiti, capaci di allinearsi al ritmo cardiaco senza appesantire il cuore.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/curiosita/ascoltare-la-tua-musica-preferita-durante-un-allenamento-aumenta-la-resistenza"
-    },
-    {
-      "cat": "storia",
-      "title": "Quante fontane c&#039;erano nell&#039;antica Roma?",
-      "summary": "Nel IV secolo Roma contava oltre 1.200 fontane pubbliche, 900 bagni e 11 acquedotti: ecco i numeri del colossale sistema idrico prima delle …",
-      "fullSummary": "Nel IV secolo Roma contava oltre 1.200 fontane pubbliche, 900 bagni e 11 acquedotti: ecco i numeri del colossale sistema idrico prima delle invasioni barbariche.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/quante-fontane-c-erano-nell-antica-roma"
-    },
-    {
-      "cat": "storia",
-      "title": "Da quando doniamo il sangue",
-      "summary": "Dai primi esperimenti nel Seicento alla scoperta dei gruppi sanguigni: l&#039;arrivo delle tecniche di conservazione e la nascita delle prim…",
-      "fullSummary": "La storia della donazione e della trasfusione del sangue affonda le proprie radici nel passato, per poi evolversi e strutturarsi nel modello volontario e organizzato che conosciamo oggi. L'idea di trasferire il sangue da un individuo all'altro cominciò a farsi strada a partire dal 1616, anno in cui William Harvey scoprì la circolazione sanguigna. Da quel momento storico iniziarono a essere ipotizzate le prime trasfusioni, le quali vennero effettuate inizialmente da animale ad animale e, in seguito, tra animali ed esseri umani; tuttavia, tali tentativi si risolsero frequentemente con conseguenze catastrofiche per chi vi si sottoponeva.\n\nIl momento di svolta decisivo avvenne a cavallo tra il diciannovesimo e il ventesimo secolo, grazie alla scoperta dei gruppi sanguigni. A compiere questo fondamentale passo in avanti fu Karl Landsteiner, medico austriaco che nel 1901 riuscì a identificare i gruppi sanguigni A, B e 0, a cui si aggiunse successivamente l'individuazione del fattore Rh. Grazie a queste ricerche, per le quali gli venne conferito il Premio Nobel per la Medicina nel 1930, fu finalmente possibile comprendere i meccanismi della compatibilità tra i differenti tipi di sangue. In questo modo, la pratica della trasfusione smise di essere una procedura altamente rischiosa e si trasformò a tutti gli effetti in un intervento salvavita. Proprio in corrispondenza del giorno di nascita di Landsteiner, la Giornata mondiale del donatore di sangue viene celebrata ogni anno il 14 giugno.\n\nInfine, la donazione strutturata e volontaria assunse la fisionomia contemporanea a partire dagli anni Trenta del Novecento. Questo sviluppo divenne possibile nel momento in cui l'evoluzione delle tecniche di conservazione del plasma e dei concentrati ematici consentì la nascita delle cosiddette banche del sangue, la prima delle quali venne istituita nel 1937 presso il Cook County Hospital di Chicago.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/quando-abbiamo-iniziato-a-donare-il-sangue"
     },
     {
       "cat": "tech",
