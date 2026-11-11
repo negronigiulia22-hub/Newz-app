@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:25:46.574Z",
+  "generatedAt": "2026-11-11T22:04:27.591Z",
   "items": [
     {
       "cat": "politica",
@@ -13,7 +13,7 @@
       "cat": "politica",
       "title": "Perché anche le regioni di destra ce l&#8217;hanno col governo sulla sanità",
       "summary": "Lamentano di avere sempre meno soldi, e hanno ragione, ma il governo rivendica di avercene messi di più, e ha ragione: vi spieghiamo",
-      "fullSummary": "Lamentano di avere sempre meno soldi, e hanno ragione, ma il governo rivendica di avercene messi di più, e ha ragione: vi spieghiamo",
+      "fullSummary": "Gli assessori regionali alla Sanità protestano contro le misure destinate al settore nella nuova legge di bilancio. A guidare le rimostranze è Guido Bertolaso, assessore al Welfare della Lombardia, affiancato da colleghi di giunte di destra e centrodestra e da presidenti regionali di ogni schieramento politico. La sanità costituisce la principale voce di spesa per gli enti locali, che lamentano una carenza di risorse.\n\nIl ministro della Salute, Orazio Schillaci, difende l’operato dell’esecutivo evidenziando la crescita del Fondo sanitario nazionale in termini assoluti, che passa dai 125 miliardi di euro del 2022 ai 146,3 miliardi previsti per il 2027. Tuttavia, le opposizioni e le associazioni di categoria rilevano il calo della spesa sanitaria rispetto al PIL, che scende dal 6,3 per cento del 2022 al 6,1 per cento nel 2027, fino al 5,9 per cento nel 2029. Questi stanziamenti risultano inadeguati a causa dell’invecchiamento demografico, dell’aumento delle prestazioni richieste e dell’inflazione sui costi ospedalieri.\n\nUn altro elemento critico riguarda la costante riduzione dei fondi rispetto alle previsioni degli anni precedenti. Per il 2027, ad esempio, le risorse aggiuntive stimate sono passate dai 5,7 miliardi calcolati nel 2024, ai 2,6 miliardi del 2025, fino agli attuali 2,3 miliardi stanziati dal Consiglio dei ministri. La discrepanza è resa evidente dal fatto che lo stesso Schillaci aveva richiesto tra i 5 e i 5,5 miliardi di euro.\n\nInfine, la manovra vincola rigidamente la destinazione di gran parte dei fondi a capitoli specifici, come l'aggiornamento tariffario per i casi acuti (500 milioni), le indennità del pronto soccorso (380 milioni), i dispositivi medici (146 milioni) e l'Alzheimer (100 milioni). Come osservato dalla Corte dei Conti, questa destinazione vincolata riduce l’autonomia di gestione delle regioni, lasciando loro margini ridotti per assorbire l’inflazione e coprire il fabbisogno ordinario.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/10/regioni-tagli-sanita-fondi-soldi-legge-di-bilancio-bertolaso/"
     },
@@ -35,6 +35,30 @@
     },
     {
       "cat": "mondo",
+      "title": "I paesi che guidano la conferenza sul clima hanno una cosa in comune: il carbone",
+      "summary": "Turchia e Australia, che hanno appena inaugurato la COP31, ne sono dipendenti",
+      "fullSummary": "Turchia e Australia, che hanno appena inaugurato la COP31, ne sono dipendenti",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/11/turchia-australia-cop31/"
+    },
+    {
+      "cat": "mondo",
+      "title": "La famiglia Kennedy contro l&#8217;arco di trionfo voluto da Trump",
+      "summary": "I familiari dell'ex presidente ritengono che il monumento ne oscurerebbe la tomba: per il momento una giudice ha bloccato i lavori",
+      "fullSummary": "I familiari dell'ex presidente ritengono che il monumento ne oscurerebbe la tomba: per il momento una giudice ha bloccato i lavori",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/11/trump-arco-di-trionfo-kennedy-causa/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Ci sono stati allarmi bomba anche in molte scuole di Scozia, Irlanda e Irlanda del Nord",
+      "summary": "",
+      "fullSummary": "Ci sono stati allarmi bomba anche in molte scuole di Scozia, Irlanda e Irlanda del Nord",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-irlanda/"
+    },
+    {
+      "cat": "mondo",
       "title": "Sappiamo poco della donna al centro dello scandalo di Nvidia",
       "summary": "Di Alice Huang non si sa nemmeno quanti anni abbia, né dove sia in questo momento",
       "fullSummary": "Di Alice Huang non si sa nemmeno quanti anni abbia, né dove sia in questo momento",
@@ -42,28 +66,12 @@
       "url": "https://www.ilpost.it/2026/11/11/alice-huang-profilo-scandalo-nvidia/"
     },
     {
-      "cat": "mondo",
-      "title": "In Portogallo le scuole sono state chiuse e ci sono più di 360 voli cancellati a causa della tempesta Charles",
-      "summary": "",
-      "fullSummary": "In Portogallo le scuole sono state chiuse e ci sono più di 360 voli cancellati a causa della tempesta Charles",
+      "cat": "sport",
+      "title": "50 federazioni sportive, 49 presidenti maschi",
+      "summary": "Con un'età media di 63 anni",
+      "fullSummary": "Con un'età media di 63 anni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/portogallo-scuole-chiuse-voli-cancellati-tempesta-charles/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Friedrich Merz ha legato il bilancio europeo all’Ucraina",
-      "summary": "La Germania ha detto che lo terrà bloccato finché tutti i paesi non contribuiranno a un nuovo prestito: alcuni sono molto arrabbiati",
-      "fullSummary": "La Germania ha detto che lo terrà bloccato finché tutti i paesi non contribuiranno a un nuovo prestito: alcuni sono molto arrabbiati",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/friedrich-merz-germania-bilancio-europeo-fondi-ucraina/"
-    },
-    {
-      "cat": "mondo",
-      "title": "In Spagna c&#8217;è il primo sciopero generale in 14 anni",
-      "summary": "È contro la crisi abitativa, è appoggiato dal governo e osteggiato dall'opposizione, e tra poco meno di tre settimane si vota",
-      "fullSummary": "È contro la crisi abitativa, è appoggiato dal governo e osteggiato dall'opposizione, e tra poco meno di tre settimane si vota",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/sciopero-generale-spagna-elezioni/"
+      "url": "https://www.ilpost.it/2026/11/11/federazioni-coni-presidenti-maschi-donne-disparita-di-genere/"
     },
     {
       "cat": "sport",
@@ -88,14 +96,6 @@
       "fullSummary": "Quelle tra primo e secondo tempo, a calciatori ancor meno loquaci del solito: tranne in un caso recente, che si è fatto notare",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/10/interviste-calciatori-intervallo-miniflash-inutili/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Formula 1 si concluderà in Medio Oriente",
-      "summary": "O almeno ci proverà: vuol dire che non si correrà a Imola",
-      "fullSummary": "O almeno ci proverà: vuol dire che non si correrà a Imola",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/10/formula-1-qatar-abu-dhabi-imola/"
     },
     {
       "cat": "scienza",
