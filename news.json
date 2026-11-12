@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-12T06:46:00.890Z",
+  "generatedAt": "2026-11-12T17:34:59.192Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Il problema vero sull&#8217;Ucraina, per Meloni, sarà nel 2027",
+      "summary": "Perché ci sarà la campagna elettorale, e un decreto-legge spinoso da approvare",
+      "fullSummary": "Perché ci sarà la campagna elettorale, e un decreto-legge spinoso da approvare",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/12/invio-armi-ucraina-copasir-borghi-lega-crosetto-giorgetti/"
+    },
     {
       "cat": "politica",
       "title": "Come funziona la tassa sui ricchi che se ne vanno dall’Italia proposta dal governo",
@@ -26,76 +34,84 @@
       "url": "https://www.ilpost.it/2026/11/10/ex-senatore-tommaso-casillo-custodia-cautelare-carcere-accusa-tangenti/"
     },
     {
-      "cat": "politica",
-      "title": "Se non può farli eleggere, Salvini li nomina negli enti pubblici",
-      "summary": "Alberto Bagnai all'Antitrust, Giulio Centemero alla Consob, Mirco Carloni al porto di Ancona e altri ancora: il motivo è sempre la crisi del…",
-      "fullSummary": "Alberto Bagnai all'Antitrust, Giulio Centemero alla Consob, Mirco Carloni al porto di Ancona e altri ancora: il motivo è sempre la crisi della Lega",
+      "cat": "mondo",
+      "title": "Nvidia è tornata a perdere parecchio in borsa",
+      "summary": "Il prezzo delle azioni è calato di più del 10 per cento, a causa delle dimissioni del suo capo e delle conseguenze su tutto il settore tecno…",
+      "fullSummary": "Il prezzo delle azioni è calato di più del 10 per cento, a causa delle dimissioni del suo capo e delle conseguenze su tutto il settore tecnologico",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/09/salvini-anac-altieri-consob-centemero/"
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-valore-borsa-diminuzione/"
     },
     {
       "cat": "mondo",
-      "title": "I paesi che guidano la conferenza sul clima hanno una cosa in comune: il carbone",
-      "summary": "Turchia e Australia, che hanno appena inaugurato la COP31, ne sono dipendenti",
-      "fullSummary": "Turchia e Australia, che hanno appena inaugurato la COP31, ne sono dipendenti",
+      "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia",
+      "summary": "La notizia della sua relazione con una presunta spia cinese aveva provocato un netto calo in borsa, e un grave scandalo per l'azienda",
+      "fullSummary": "La notizia della sua relazione con una presunta spia cinese aveva provocato un netto calo in borsa, e un grave scandalo per l'azienda",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/turchia-australia-cop31/"
+      "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/"
     },
     {
       "cat": "mondo",
-      "title": "La famiglia Kennedy contro l&#8217;arco di trionfo voluto da Trump",
-      "summary": "I familiari dell'ex presidente ritengono che il monumento ne oscurerebbe la tomba: per il momento una giudice ha bloccato i lavori",
-      "fullSummary": "I familiari dell'ex presidente ritengono che il monumento ne oscurerebbe la tomba: per il momento una giudice ha bloccato i lavori",
+      "title": "Si sta rompendo la più grande alleanza politica dell&#8217;Indonesia",
+      "summary": "Tra il presidente e l'ex presidente: c'entrano scandali di intercettazioni che mettono a rischio la stabilità del paese",
+      "fullSummary": "Tra il presidente e l'ex presidente: c'entrano scandali di intercettazioni che mettono a rischio la stabilità del paese",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/trump-arco-di-trionfo-kennedy-causa/"
+      "url": "https://www.ilpost.it/2026/11/12/prabowo-widodo-indonesia-alleanza/"
     },
     {
       "cat": "mondo",
-      "title": "Ci sono stati allarmi bomba anche in molte scuole di Scozia, Irlanda e Irlanda del Nord",
+      "title": "L&#8217;Ucraina ha detto che ci sono di nuovo interruzioni di Starshield",
       "summary": "",
-      "fullSummary": "Ci sono stati allarmi bomba anche in molte scuole di Scozia, Irlanda e Irlanda del Nord",
+      "fullSummary": "L&#8217;Ucraina ha detto che ci sono di nuovo interruzioni di Starshield",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-irlanda/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Sappiamo poco della donna al centro dello scandalo di Nvidia",
-      "summary": "Di Alice Huang non si sa nemmeno quanti anni abbia, né dove sia in questo momento",
-      "fullSummary": "Di Alice Huang non si sa nemmeno quanti anni abbia, né dove sia in questo momento",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/alice-huang-profilo-scandalo-nvidia/"
+      "url": "https://www.ilpost.it/2026/11/12/ucraina-nuovi-problemi-starshield/"
     },
     {
       "cat": "sport",
-      "title": "50 federazioni sportive, 49 presidenti maschi",
-      "summary": "Con un'età media di 63 anni",
-      "fullSummary": "Con un'età media di 63 anni",
+      "title": "La giovane Italia di Roberto Mancini",
+      "summary": "Da quando è tornato ad allenare la Nazionale sta convocando ancor più calciatori con poca esperienza, a volte anche solo per dare un messagg…",
+      "fullSummary": "Da quando è tornato ad allenare la Nazionale sta convocando ancor più calciatori con poca esperienza, a volte anche solo per dare un messaggio",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/federazioni-coni-presidenti-maschi-donne-disparita-di-genere/"
+      "url": "https://www.ilpost.it/2026/11/12/calciatori-giovani-italia-francia-roberto-mancini/"
     },
     {
       "cat": "sport",
-      "title": "Le maglie «brutte e generiche» di Stati Uniti e Canada ai Mondiali di hockey su ghiaccio",
-      "summary": "Le stanno indossando perché non riescono a mettersi d'accordo con la federazione internazionale su chi detiene i diritti commerciali",
-      "fullSummary": "Le stanno indossando perché non riescono a mettersi d'accordo con la federazione internazionale su chi detiene i diritti commerciali",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/hockey-ghiaccio-stati-uniti-canada-maglie-mondiali-2026/"
-    },
-    {
-      "cat": "sport",
-      "title": "Sara Errani e Jasmine Paolini sono in semifinale alle WTA Finals di tennis",
+      "title": "Sono stati sorteggiati i gironi delle ATP Finals di tennis",
       "summary": "",
-      "fullSummary": "Sara Errani e Jasmine Paolini sono in semifinale alle WTA Finals di tennis",
+      "fullSummary": "Sono stati sorteggiati i gironi delle ATP Finals di tennis",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/errani-paolini-semifinale-wta-finals-qualificate/"
+      "url": "https://www.ilpost.it/2026/11/12/atp-finals-2026-gironi-cobolli/"
     },
     {
       "cat": "sport",
-      "title": "Le inconcludenti interviste in mezzo alle partite",
-      "summary": "Quelle tra primo e secondo tempo, a calciatori ancor meno loquaci del solito: tranne in un caso recente, che si è fatto notare",
-      "fullSummary": "Quelle tra primo e secondo tempo, a calciatori ancor meno loquaci del solito: tranne in un caso recente, che si è fatto notare",
+      "title": "13 anni, 13 allenatori e molto caos",
+      "summary": "Il Manchester United ne ha appena cambiato un altro, e sono ormai quasi tre anni che non vince cinque partite di fila, come sa bene un certo…",
+      "fullSummary": "Il Manchester United ne ha appena cambiato un altro, e sono ormai quasi tre anni che non vince cinque partite di fila, come sa bene un certo tifoso",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/10/interviste-calciatori-intervallo-miniflash-inutili/"
+      "url": "https://www.ilpost.it/2026/11/12/13-anni-13-allenatori-e-molto-caos/"
+    },
+    {
+      "cat": "sport",
+      "title": "Michael Carrick non è più l&#8217;allenatore del Manchester United",
+      "summary": "",
+      "fullSummary": "Michael Carrick non è più l&#8217;allenatore del Manchester United",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/12/manchester-united-michael-carrick-esonerato/"
+    },
+    {
+      "cat": "scienza",
+      "title": "Un&#039;atomica in orbita spegnerebbe 99% dei satelliti",
+      "summary": "Una simulazione mostra cosa accadrebbe se una bomba nucleare venisse fatta detonare in orbita bassa: in 15 giorni si paralizzerebbero GPS, m…",
+      "fullSummary": "Una simulazione mostra cosa accadrebbe se una bomba nucleare venisse fatta detonare in orbita bassa: in 15 giorni si paralizzerebbero GPS, meteo e telecomunicazioni, innescando una reazione a catena di detriti spaziali.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/basterebbe-una-sola-bomba-nucleare-nello-spazio-per-spegnere-il-99-dei-satelliti-e-i-nostri-servizi-in-due-settimane"
+    },
+    {
+      "cat": "scienza",
+      "title": "Sindrome della persona rigida e CAR-T",
+      "summary": "Un&#039;immunoterapia basata sulle CAR-T ha permesso a persone con la stessa malattia autoimmune di Céline Dion di riacquisire i movimenti q…",
+      "fullSummary": "Un&#039;immunoterapia basata sulle CAR-T ha permesso a persone con la stessa malattia autoimmune di Céline Dion di riacquisire i movimenti quotidiani.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/una-terapia-a-base-di-car-t-da-speranza-contro-la-sindrome-della-persona-rigida"
     },
     {
       "cat": "scienza",
@@ -114,20 +130,12 @@
       "url": "https://www.focus.it/scienza/scienze/l-origine-delle-lingue-germaniche-e-celtiche"
     },
     {
-      "cat": "scienza",
-      "title": "Nps e &quot;cocaina rosa&quot;: cosa c&#039;è nei nuovi mix",
-      "summary": "Confezionate per sigarette elettroniche o vendute sotto forma di mix: le nuove droghe spingono a un aumento dei consumi, ma l&#039;allarme &…",
-      "fullSummary": "Confezionate per sigarette elettroniche o vendute sotto forma di mix: le nuove droghe spingono a un aumento dei consumi, ma l&#039;allarme &amp;egrave; sui cocktail letali.",
+      "cat": "storia",
+      "title": "Come la Cina è diventata la fabbrica del mondo?",
+      "summary": "Dalle riforme di Deng Xiaoping alle zone economiche speciali, la strategia che ha trasformato la Cina in un colosso manifatturiero mantenend…",
+      "fullSummary": "Dalle riforme di Deng Xiaoping alle zone economiche speciali, la strategia che ha trasformato la Cina in un colosso manifatturiero mantenendo il controllo politico.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/dalla-cocaina-rosa-alle-nps-che-cosa-c-e-nelle-nuove-droghe-consumate-dai-ragazzi"
-    },
-    {
-      "cat": "scienza",
-      "title": "Bevande vegetali? Meglio se &quot;arricchite&quot;",
-      "summary": "Le alternative vegetali a latte e derivati sono sempre più popolari per motivi etici e ambientali, ma meglio scegliere quelle addizionate di…",
-      "fullSummary": "Le alternative vegetali a latte e derivati sono sempre più popolari per motivi etici e ambientali, ma meglio scegliere quelle addizionate di iodio.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/bevande-vegetali-al-posto-del-latte-vaccino-attenti-alle-carenze-di-iodio"
+      "url": "https://www.focus.it/cultura/storia/da-quando-la-cina-e-diventata-la-fabbrica-del-mondo-il-prezzo-del-miracolo-economico-cinese"
     },
     {
       "cat": "storia",
@@ -154,12 +162,12 @@
       "url": "https://www.focus.it/cultura/storia/qual-e-il-programma-nucleare-cinese-e-in-che-misura-sta-crescendo"
     },
     {
-      "cat": "storia",
-      "title": "La musica che ci piace aumenta la resistenza?",
-      "summary": "Pedalare con la tua musica preferita riduce la fatica e allunga la resistenza fino al 20% in pi&amp;ugrave;. Il segreto &amp;egrave; nei bat…",
-      "fullSummary": "Pedalare con la tua musica preferita riduce la fatica e allunga la resistenza fino al 20% in pi&amp;ugrave;. Il segreto &amp;egrave; nei battiti, capaci di allinearsi al ritmo cardiaco senza appesantire il cuore.",
+      "cat": "tech",
+      "title": "Ma esistono anche gruppi hacker italiani?",
+      "summary": "Nel 2013 un ragazzo attaccò otto domini legati alla NASA, mentre nel 2023 un gruppo di hacker italiani violò un satellite, ma con finalità d…",
+      "fullSummary": "Nel 2013 un ragazzo attaccò otto domini legati alla NASA, mentre nel 2023 un gruppo di hacker italiani violò un satellite, ma con finalità diverse.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/ascoltare-la-tua-musica-preferita-durante-un-allenamento-aumenta-la-resistenza"
+      "url": "https://www.focus.it/tecnologia/innovazione/esistono-anche-gruppi-hacker-italiani"
     },
     {
       "cat": "tech",
@@ -184,14 +192,6 @@
       "fullSummary": "Abbiamo chiesto ad Alessandro Armando, del comitato tecnico-scientifico dell&#039;Agenzia di Cybersicurezza Nazionale, come ci stiamo muovendo contro gli attacchi informatici.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/attacchi-hacker-la-rete-italiana-di-cybersicurezza-e-pronta"
-    },
-    {
-      "cat": "tech",
-      "title": "Su Minecraft esiste una biblioteca segreta che aggira la censura",
-      "summary": "The Uncensored Library &amp;egrave; stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengo…",
-      "fullSummary": "The Uncensored Library &amp;egrave; stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengono bloccati, Minecraft continua a funzionare.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/innovazione/su-minecraft-esiste-una-biblioteca-segreta-che-aggira-la-censura"
     }
   ]
 }
