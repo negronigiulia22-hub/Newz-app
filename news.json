@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T06:06:40.108Z",
+  "generatedAt": "2026-11-13T14:31:37.675Z",
   "items": [
     {
       "cat": "politica",
@@ -35,67 +35,83 @@
     },
     {
       "cat": "mondo",
-      "title": "Nvidia è tornata a perdere parecchio in borsa",
-      "summary": "Il prezzo delle azioni è calato di più del 10 per cento, a causa delle dimissioni del suo capo e delle conseguenze su tutto il settore tecno…",
-      "fullSummary": "Il prezzo delle azioni è calato di più del 10 per cento, a causa delle dimissioni del suo capo e delle conseguenze su tutto il settore tecnologico",
+      "title": "Mada Masr era l&#8217;ultimo giornale indipendente in Egitto",
+      "summary": "Era stato fondato pochi giorni prima del colpo di stato dell'attuale presidente al Sisi, ed è stato chiuso proprio dal suo regime",
+      "fullSummary": "Era stato fondato pochi giorni prima del colpo di stato dell'attuale presidente al Sisi, ed è stato chiuso proprio dal suo regime",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/nvidia-valore-borsa-diminuzione/"
+      "url": "https://www.ilpost.it/2026/11/13/mada-masr-giornale-egitto/"
     },
     {
       "cat": "mondo",
-      "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia",
-      "summary": "La notizia della sua relazione con una presunta spia cinese aveva provocato un netto calo in borsa, e un grave scandalo per l'azienda",
-      "fullSummary": "La notizia della sua relazione con una presunta spia cinese aveva provocato un netto calo in borsa, e un grave scandalo per l'azienda",
+      "title": "L&#8217;FBI ha bloccato un sistema usato da hacker nordcoreani per rubare 400 milioni di dollari in criptovalute",
+      "summary": "",
+      "fullSummary": "L&#8217;FBI ha bloccato un sistema usato da hacker nordcoreani per rubare 400 milioni di dollari in criptovalute",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/"
+      "url": "https://www.ilpost.it/2026/11/13/fbi-truffa-hacker-videochiamate-corea-del-nord/"
     },
     {
       "cat": "mondo",
-      "title": "Si sta rompendo la più grande alleanza politica dell&#8217;Indonesia",
-      "summary": "Tra il presidente e l'ex presidente: c'entrano scandali di intercettazioni che mettono a rischio la stabilità del paese",
-      "fullSummary": "Tra il presidente e l'ex presidente: c'entrano scandali di intercettazioni che mettono a rischio la stabilità del paese",
+      "title": "A Cuba il carburante lo vendono gli Stati Uniti",
+      "summary": "Almeno in parte, e in maniera paradossale, perché contemporaneamente hanno imposto un embargo su tutta l'isola",
+      "fullSummary": "Almeno in parte, e in maniera paradossale, perché contemporaneamente hanno imposto un embargo su tutta l'isola",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/prabowo-widodo-indonesia-alleanza/"
+      "url": "https://www.ilpost.it/2026/11/13/cuba-carburante-stati-uniti/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;Ucraina ha detto che ci sono di nuovo interruzioni di Starshield",
+      "title": "Chi rappresenta l&#8217;Unione Europea nei colloqui sull&#8217;Ucraina?",
+      "summary": "I leader europei ne stanno discutendo senza trovare un accordo: le opzioni sul tavolo sono tre",
+      "fullSummary": "I leader europei ne stanno discutendo senza trovare un accordo: le opzioni sul tavolo sono tre",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/"
+    },
+    {
+      "cat": "sport",
+      "title": "Mauricio Pochettino è il nuovo allenatore del Manchester United, e smetterà di allenare gli Stati Uniti",
       "summary": "",
-      "fullSummary": "L&#8217;Ucraina ha detto che ci sono di nuovo interruzioni di Starshield",
+      "fullSummary": "Mauricio Pochettino è il nuovo allenatore del Manchester United, e smetterà di allenare gli Stati Uniti",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/ucraina-nuovi-problemi-starshield/"
+      "url": "https://www.ilpost.it/2026/11/13/mauricio-pochettino-allenatore-manchester-united-lascia-stati-uniti/"
     },
     {
       "cat": "sport",
-      "title": "La giovane Italia di Roberto Mancini",
-      "summary": "Da quando è tornato ad allenare la Nazionale sta convocando ancor più calciatori con poca esperienza, a volte anche solo per dare un messagg…",
-      "fullSummary": "Da quando è tornato ad allenare la Nazionale sta convocando ancor più calciatori con poca esperienza, a volte anche solo per dare un messaggio",
+      "title": "Come sta Lindsey Vonn",
+      "summary": "La sciatrice statunitense si è operata per la nona volta in nove mesi: riuscirà mai a tornare a gareggiare?",
+      "fullSummary": "La sciatrice statunitense si è operata per la nona volta in nove mesi: riuscirà mai a tornare a gareggiare?",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/calciatori-giovani-italia-francia-roberto-mancini/"
+      "url": "https://www.ilpost.it/2026/11/13/come-sta-lindsey-vonn-infortunio-operazioni-recupero-quando-torna/"
     },
     {
       "cat": "sport",
-      "title": "Sono stati sorteggiati i gironi delle ATP Finals di tennis",
+      "title": "Era un pezzo che l’Italia non aveva un attaccante così",
+      "summary": "Francesco Pio Esposito è un centravanti \"alla vecchia maniera\" e ha già segnato gli stessi gol in Nazionale di Totti e Boninsegna",
+      "fullSummary": "Francesco Pio Esposito è un centravanti \"alla vecchia maniera\" e ha già segnato gli stessi gol in Nazionale di Totti e Boninsegna",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/13/nazionale-pio-esposito-attaccante-italia-francia/"
+    },
+    {
+      "cat": "sport",
+      "title": "Lionel Scaloni ha rinnovato il contratto da allenatore della nazionale di calcio maschile dell&#8217;Argentina fino al 2030",
       "summary": "",
-      "fullSummary": "Sono stati sorteggiati i gironi delle ATP Finals di tennis",
+      "fullSummary": "Lionel Scaloni ha rinnovato il contratto da allenatore della nazionale di calcio maschile dell&#8217;Argentina fino al 2030",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/atp-finals-2026-gironi-cobolli/"
+      "url": "https://www.ilpost.it/2026/11/13/lionel-scaloni-allenatore-argentina/"
     },
     {
-      "cat": "sport",
-      "title": "13 anni, 13 allenatori e molto caos",
-      "summary": "Il Manchester United ne ha appena cambiato un altro, e sono ormai quasi tre anni che non vince cinque partite di fila, come sa bene un certo…",
-      "fullSummary": "Il Manchester United ne ha appena cambiato un altro, e sono ormai quasi tre anni che non vince cinque partite di fila, come sa bene un certo tifoso",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/13-anni-13-allenatori-e-molto-caos/"
+      "cat": "scienza",
+      "title": "Starship: stanotte il doppio recupero alla torre",
+      "summary": "Il Flight 15 di SpaceX (decollo previsto tra le 23:45 e l&#039;1:00 ora italiana) prova il doppio &quot;aggancio&quot; alla torre di Starbas…",
+      "fullSummary": "Il Flight 15 di SpaceX (decollo previsto tra le 23:45 e l&#039;1:00 ora italiana) prova il doppio &quot;aggancio&quot; alla torre di Starbase: se andr&amp;agrave; bene, sar&amp;agrave; il primo recupero completo di un sistema di lancio orbitale. Ecco orari, tappe e cosa c&#039;&amp;egrave; in gioco.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/starship-stanotte-tentativo-storico-di-spacex-recuperare-sia-il-booster-sia-la-navicella-nella-stessa-missione"
     },
     {
-      "cat": "sport",
-      "title": "Michael Carrick non è più l&#8217;allenatore del Manchester United",
-      "summary": "",
-      "fullSummary": "Michael Carrick non è più l&#8217;allenatore del Manchester United",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/manchester-united-michael-carrick-esonerato/"
+      "cat": "scienza",
+      "title": "Cervello: una barriera intelligente",
+      "summary": "Rivisto il ruolo della barriera emato-encefalica: serve anche a traghettare proteine utili nel cervello (e potremmo usarla a nostro vantaggi…",
+      "fullSummary": "Rivisto il ruolo della barriera emato-encefalica: serve anche a traghettare proteine utili nel cervello (e potremmo usarla a nostro vantaggio).",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/una-barriera-che-seleziona-proteine-essenziali-per-il-cervello-potrebbe-aiutarci-contro-l-alzheimer"
     },
     {
       "cat": "scienza",
@@ -114,26 +130,18 @@
       "url": "https://www.focus.it/scienza/salute/una-terapia-a-base-di-car-t-da-speranza-contro-la-sindrome-della-persona-rigida"
     },
     {
-      "cat": "scienza",
-      "title": "Smog: i limiti salverebbero 9 milioni di vite",
-      "summary": "Rientrare nelle soglie massime di inquinamento da PM2,5 e biossido di azoto ridurrebbe anche malattie croniche, spese sanitarie, ore di lavo…",
-      "fullSummary": "Rientrare nelle soglie massime di inquinamento da PM2,5 e biossido di azoto ridurrebbe anche malattie croniche, spese sanitarie, ore di lavoro perse.",
+      "cat": "storia",
+      "title": "Com&#039;è nato l&#039;insegnante di sostegno in Italia?",
+      "summary": "Dalle prime intuizioni di Antonio Gonnelli-Cioni e Maria Montessori alla gestione moderna di BES e DSA: origini e aumento delle certificazio…",
+      "fullSummary": "Dalle prime intuizioni di Antonio Gonnelli-Cioni e Maria Montessori alla gestione moderna di BES e DSA: origini e aumento delle certificazioni nella scuola italiana.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/inquinamento-dell-aria-rispettare-i-limiti-dell-oms-eviterebbe-oltre-9-milioni-di-morti-l-anno"
-    },
-    {
-      "cat": "scienza",
-      "title": "L’origine delle lingue germaniche e celtiche",
-      "summary": "Due studi su Nature incrociano genomi, archeologia e linguistica per ricostruire le origini delle lingue celtiche e germaniche.",
-      "fullSummary": "Due studi su Nature incrociano genomi, archeologia e linguistica per ricostruire le origini delle lingue celtiche e germaniche.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/l-origine-delle-lingue-germaniche-e-celtiche"
+      "url": "https://www.focus.it/cultura/storia/dall-ortofrenia-alle-diagnosi-di-dsa-com-e-nato-l-insegnante-di-sostegno-in-italia"
     },
     {
       "cat": "storia",
       "title": "Come la Cina è diventata la fabbrica del mondo?",
       "summary": "Dalle riforme di Deng Xiaoping alle zone economiche speciali, la strategia che ha trasformato la Cina in un colosso manifatturiero mantenend…",
-      "fullSummary": "Alla fine degli anni Settanta, dopo la morte di Zhou Enlai e Mao Zedong e a seguito dei gravi squilibri economici e sociali causati dal Grande balzo in avanti e dalla Rivoluzione culturale, la Cina si trovò a un bivio. La svolta maturò tra il 1978 e il 1979 con Deng Xiaoping, il quale si impose alla guida del Partito comunista cinese sostenendo che l'esperienza concreta dovesse prevalere sul dogmatismo ideologico. Per garantire il futuro del sistema, Deng avviò riforme economiche e aprì il Paese agli investimenti stranieri.\n\nDopo il riavvicinamento diplomatico agli Stati Uniti, la leadership promosse il programma delle \"quattro modernizzazioni\", incentrato su agricoltura, industria, scienza e difesa. Negli anni Ottanta comparvero le imprese private accanto a quelle pubbliche, furono introdotti incentivi legati alla produttività e venne progressivamente abbandonato il sistema delle comuni agricole. Per attrarre capitali esteri furono create le prime quattro zone economiche speciali a Shenzhen, Zhuhai, Shantou e Xiamen, cui si aggiunse Hainan nel 1988, mentre le città portuali del Sud assunsero un ruolo centrale.\n\nQuesta transizione verso un'economia di mercato con elementi capitalistici rimase sotto il fermo controllo dello Stato. Il partito preservò il monopolio politico e respinse le aperture ideologiche, reprimendo duramente il dissenso interno, come avvenne con l'intervento armato contro le proteste studentesche di piazza Tiananmen nel 1989.\n\nNegli anni Novanta, mentre Deng cedeva la guida a figure come Jiang Zemin, riaprì la Borsa di Shanghai, nacquero piccole banche private e rientrarono sotto la sovranità cinese Hong Kong e Macao. Sostenuta dal basso costo della manodopera, da una valuta competitiva e dagli investimenti di multinazionali, la Cina divenne la \"fabbrica del mondo\". Il Pil crebbe in media del 10% l'anno, il Pil pro capite triplicò e aumentarono gli attivi commerciali e i titoli esteri acquistati, soprattutto statunitensi. L'ingresso nell'Organizzazione mondiale del commercio nel 2001 sancì la definitiva integrazione globale del Paese.",
+      "fullSummary": "Dalle riforme di Deng Xiaoping alle zone economiche speciali, la strategia che ha trasformato la Cina in un colosso manifatturiero mantenendo il controllo politico.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/da-quando-la-cina-e-diventata-la-fabbrica-del-mondo-il-prezzo-del-miracolo-economico-cinese"
     },
@@ -154,12 +162,12 @@
       "url": "https://www.focus.it/cultura/curiosita/perche-gli-umani-diversamente-dagli-altri-mammiferi-non-hanno-una-stagione-degli-amori"
     },
     {
-      "cat": "storia",
-      "title": "Qual è il programma nucleare cinese?",
-      "summary": "La prima esplosione atomica sperimentale avvenne nel 1964. Oggi, secondo le stime, la Cina avrebbe 620 ordigni nucleari, ma ribadisce la lin…",
-      "fullSummary": "La prima esplosione atomica sperimentale avvenne nel 1964. Oggi, secondo le stime, la Cina avrebbe 620 ordigni nucleari, ma ribadisce la linea del &quot;no al primo colpo&quot;: solo deterrenza e rappresaglia.",
+      "cat": "tech",
+      "title": "Dormire poco ci espone di più alle truffe online",
+      "summary": "Un’ora di sonno persa può renderci più esposti alle truffe online: dopo il cambio dell’ora i dipendenti di una grande azienda hanno cliccato…",
+      "fullSummary": "Un’ora di sonno persa può renderci più esposti alle truffe online: dopo il cambio dell’ora i dipendenti di una grande azienda hanno cliccato di più sulle e-mail di phishing.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/qual-e-il-programma-nucleare-cinese-e-in-che-misura-sta-crescendo"
+      "url": "https://www.focus.it/tecnologia/il-cambio-dell-ora-ci-rende-piu-vulnerabili-al-phishing"
     },
     {
       "cat": "tech",
@@ -184,14 +192,6 @@
       "fullSummary": "Mentre il 70% dei genitori pensa che i figli usino gli schermi in modo consapevole, tra gli adolescenti solo uno su cinque dichiara di riuscirci: emergono le differenze tra le paure degli adulti e i timori reali dei ragazzi.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/hi-tech/genitori-e-smartphone-l-illusione-del-controllo-e-le-paure-reali-dei-ragazzi"
-    },
-    {
-      "cat": "tech",
-      "title": "Attacchi hacker: l’Italia è pronta a difendersi?",
-      "summary": "Abbiamo chiesto ad Alessandro Armando, del comitato tecnico-scientifico dell&#039;Agenzia di Cybersicurezza Nazionale, come ci stiamo muoven…",
-      "fullSummary": "Abbiamo chiesto ad Alessandro Armando, del comitato tecnico-scientifico dell&#039;Agenzia di Cybersicurezza Nazionale, come ci stiamo muovendo contro gli attacchi informatici.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/innovazione/attacchi-hacker-la-rete-italiana-di-cybersicurezza-e-pronta"
     }
   ]
 }
