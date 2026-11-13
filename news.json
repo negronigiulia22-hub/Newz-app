@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T14:31:37.675Z",
+  "generatedAt": "2026-11-13T21:27:15.709Z",
   "items": [
     {
       "cat": "politica",
@@ -99,6 +99,14 @@
     },
     {
       "cat": "scienza",
+      "title": "Quante volte al giorno si deve fare la cacca?",
+      "summary": "Uno studio su 1.425 adulti sani ha individuato un&#039;associazione tra l&#039;evacuare una o due volte al giorno, il microbioma intestinale…",
+      "fullSummary": "Uno studio su 1.425 adulti sani ha individuato un&#039;associazione tra l&#039;evacuare una o due volte al giorno, il microbioma intestinale e alcuni indicatori della salute di reni e fegato. I risultati suggeriscono possibili collegamenti metabolici, senza dimostrare un effetto protettivo diretto.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/quante-volte-giorno-cacca-andare-bagno-reni-fegato"
+    },
+    {
+      "cat": "scienza",
       "title": "Starship: stanotte il doppio recupero alla torre",
       "summary": "Il Flight 15 di SpaceX (decollo previsto tra le 23:45 e l&#039;1:00 ora italiana) prova il doppio &quot;aggancio&quot; alla torre di Starbas…",
       "fullSummary": "Il Flight 15 di SpaceX (decollo previsto tra le 23:45 e l&#039;1:00 ora italiana) prova il doppio &quot;aggancio&quot; alla torre di Starbase: se andr&amp;agrave; bene, sar&amp;agrave; il primo recupero completo di un sistema di lancio orbitale. Ecco orari, tappe e cosa c&#039;&amp;egrave; in gioco.",
@@ -120,14 +128,6 @@
       "fullSummary": "Una simulazione mostra cosa accadrebbe se una bomba nucleare venisse fatta detonare in orbita bassa: in 15 giorni si paralizzerebbero GPS, meteo e telecomunicazioni, innescando una reazione a catena di detriti spaziali.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/spazio/basterebbe-una-sola-bomba-nucleare-nello-spazio-per-spegnere-il-99-dei-satelliti-e-i-nostri-servizi-in-due-settimane"
-    },
-    {
-      "cat": "scienza",
-      "title": "Sindrome della persona rigida e CAR-T",
-      "summary": "Un&#039;immunoterapia basata sulle CAR-T ha permesso a persone con la stessa malattia autoimmune di Céline Dion di riacquisire i movimenti q…",
-      "fullSummary": "Un&#039;immunoterapia basata sulle CAR-T ha permesso a persone con la stessa malattia autoimmune di Céline Dion di riacquisire i movimenti quotidiani.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/una-terapia-a-base-di-car-t-da-speranza-contro-la-sindrome-della-persona-rigida"
     },
     {
       "cat": "storia",
