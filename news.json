@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T05:59:04.707Z",
+  "generatedAt": "2026-11-14T14:02:37.444Z",
   "items": [
     {
       "cat": "politica",
       "title": "Il problema vero sull&#8217;Ucraina, per Meloni, sarà nel 2027",
       "summary": "Perché ci sarà la campagna elettorale, e un decreto-legge spinoso da approvare",
-      "fullSummary": "Il ministro della Difesa Guido Crosetto ha illustrato al Copasir il tredicesimo pacchetto di aiuti militari destinati all'Ucraina. La procedura, che prevede la secretazione dei dettagli secondo la prassi avviata nel 2022 dal governo Draghi, si è svolta con un ritardo insolito di un anno rispetto alla fornitura precedente del novembre 2025. Tale rallentamento riflette motivazioni politiche: le incertezze sul campo, il parziale disimpegno degli Stati Uniti guidati da Donald Trump, la freddezza italiana verso gli sforzi di Francia, Regno Unito e Germania, e le resistenze interne della Lega e di Roberto Vannacci, leader di Futuro Nazionale. Ciononostante, per Giorgia Meloni il rifornimento restava necessario per evitare l'estromissione dell'Italia dai futuri tavoli negoziali.\n\nL'iter è stato accompagnato da polemiche interne alla maggioranza, alimentate dalla temporanea mancanza della firma del ministro dell'Economia Giancarlo Giorgetti sul decreto interministeriale, dovuta a un'operazione chirurgica e a impegni a Bruxelles. Nonostante le strumentalizzazioni e i rilievi critici mossi al Copasir dal senatore leghista Claudio Borghi, Giorgetti ha regolarmente firmato e Crosetto ha respinto le obiezioni.\n\nIl nodo più complesso si presenterà all'inizio del prossimo anno con la necessità di varare il decreto-legge annuale per prorogare il sostegno militare a Kiev nel 2027, derogando alla legge del 1990. Meloni, Crosetto e il ministro degli Esteri Antonio Tajani considerano la proroga indispensabile per non isolare il Paese nello scenario europeo. Tuttavia, l'avvicinarsi della campagna elettorale potrebbe spingere la Lega, il Movimento 5 Stelle, la sinistra radicale e Vannacci ad accentuare la propria opposizione. Di fronte a queste tensioni politiche, il governo potrebbe valutare l'opzione di attendere e posticipare l'atto normativo finché non si renderà concretamente necessario un ulteriore invio di armi.",
+      "fullSummary": "Perché ci sarà la campagna elettorale, e un decreto-legge spinoso da approvare",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/12/invio-armi-ucraina-copasir-borghi-lega-crosetto-giorgetti/"
     },
@@ -45,7 +45,7 @@
       "cat": "mondo",
       "title": "L&#8217;FBI ha bloccato un sistema usato da hacker nordcoreani per rubare 400 milioni di dollari in criptovalute",
       "summary": "",
-      "fullSummary": "L&#8217;FBI ha bloccato un sistema usato da hacker nordcoreani per rubare 400 milioni di dollari in criptovalute",
+      "fullSummary": "L’FBI, l’agenzia investigativa della polizia federale statunitense, ha dichiarato di aver smantellato un sistema di truffe tramite cui un gruppo di hacker nordcoreani ha rubato oltre 400 milioni di dollari in criptovalute (circa 361 milioni di euro) nell'arco di un anno e mezzo. Secondo quanto riferito dal dipartimento di Giustizia, gli hacker sono collegati al regime della Corea del Nord, il quale starebbe cercando di sfruttare tali attacchi informatici per reperire finanziamenti.\n\nIl meccanismo illecito è stato battezzato dall’FBI con il nome di FaceStealer («ladro di facce»). Gli hacker attiravano le vittime invitandole a partecipare a una videochiamata tramite l'account rubato a una persona di loro conoscenza. Durante la conversazione veniva mostrato un video preregistrato di tale conoscente, mentre venivano riprese e registrate le immagini della webcam della vittima per predisporre ulteriori raggiri. Gli autori simulavano poi un problema tecnico, invitando la vittima a cliccare su un apposito link: in questo modo installavano sul suo dispositivo un programma malevolo utile a sottrarre criptovalute e a penetrare in altri account. L’agenzia ha sequestrato più di 900 video registrati, pur senza chiarire quante persone siano state effettivamente derubate.\n\nPoche settimane fa si era verificato inoltre un ingente furto di criptovalute ai danni di Binance, la piattaforma di scambi più grande al mondo. Due note società di analisi del settore, TRM Labs e Chainalysis, avevano imputato l'operazione al gruppo nordcoreano TraderTraitor, una pista confermata anche dall’FBI. Nonostante la Corea del Nord sia tra i paesi più isolati al mondo e i cittadini abbiano un accesso a internet fortemente ridotto, da molti anni il regime addestra gruppi di hacker specializzati, reclutando sistematicamente i migliori talenti delle università per inserirli all'interno di unità operative che rispondono direttamente ai servizi di intelligence.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/13/fbi-truffa-hacker-videochiamate-corea-del-nord/"
     },
@@ -99,6 +99,22 @@
     },
     {
       "cat": "scienza",
+      "title": "Perché rischi più a calcetto che sugli sci",
+      "summary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. Che cosa succ…",
+      "fullSummary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. Che cosa succede al nostro corpo quando giochiamo senza preparazione? Ne parliamo a Torino con un esperto.&lt;/p&gt;",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/il-calcetto-e-il-padel-mandano-in-tilt-i-pronto-soccorso-perche-rischi-piu-tra-amici-che-sugli-sci"
+    },
+    {
+      "cat": "scienza",
+      "title": "USA, il morbillo è di nuovo endemico",
+      "summary": "Secondo gli esperti i dati genetici mostrano che il morbillo circola stabilmente negli USA, ma si attende la decisione ufficiale dell’Organi…",
+      "fullSummary": "Con quasi 5.200 casi segnalati dall'inizio dell'anno, gli Stati Uniti rischiano di perdere la qualifica di Paese \"morbillo-free\" ottenuta nel 2000. Negli ultimi due anni l'infezione si è diffusa in diversi Stati nordamericani, provocando nel 2026 otto decessi, tutti tra soggetti non vaccinati. Per stabilire se dichiarare ufficialmente il ritorno all'endemicità, lo scorso 10 novembre si è riunito un comitato dell'Organizzazione Panamericana della Sanità (centro regionale dell'OMS), che renderà nota la decisione il 17 novembre. Secondo l'OMS, un Paese perde lo status di libero dalla malattia quando lo stesso ceppo virale circola ininterrottamente per dodici mesi o più, a differenza dei casi importati che non generano catene continuative di trasmissione. Analizzando le variazioni genetiche del virus per comprendere l'evoluzione dei contagi, esperti interpellati dal New York Times – tra cui il biologo J.T. McCrone – concordano sul fatto che il morbillo sia ormai endemico, con focolai che ne alimentano altri.\n\nNumerosi esperti attribuiscono la recrudescenza all'esitazione vaccinale, favorita da Robert F. Kennedy Jr, segretario del Dipartimento della Salute e dei Servizi Umani. Kennedy contesta da decenni la sicurezza dei vaccini, in particolare del trivalente MPR (morbillo, parotite e rosolia): nel 2005 pubblicò su Rolling Stone e Salon un articolo che collegava i vaccini all'autismo (nesso smentito dalla scienza), e a Fox News affermò che il vaccino provoca decessi annuali e perde rapidamente efficacia, sostenendo anche che contenga \"resti fetali\". Solo di recente, e tardivamente, ha riconosciuto l'importanza dell'immunità di gregge.\n\nIl fenomeno tocca anche Spagna e Regno Unito, che hanno perso lo status di nazioni libere dall'infezione. Nonostante la pandemia da Covid-19 abbia accentuato la diffidenza verso le iniezioni, per il morbillo esiste già un vaccino efficace: la vera sfida consiste nel superare l'esitazione delle persone per arrestare la trasmissione e scongiurare ulteriori vittime.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/usa-il-morbillo-e-di-nuovo-endemico"
+    },
+    {
+      "cat": "scienza",
       "title": "Quante volte al giorno si deve fare la cacca?",
       "summary": "Uno studio su 1.425 adulti sani ha individuato un&#039;associazione tra l&#039;evacuare una o due volte al giorno, il microbioma intestinale…",
       "fullSummary": "Uno studio su 1.425 adulti sani ha individuato un&#039;associazione tra l&#039;evacuare una o due volte al giorno, il microbioma intestinale e alcuni indicatori della salute di reni e fegato. I risultati suggeriscono possibili collegamenti metabolici, senza dimostrare un effetto protettivo diretto.",
@@ -112,22 +128,6 @@
       "fullSummary": "Il Flight 15 di SpaceX (decollo previsto tra le 23:45 e l&#039;1:00 ora italiana) prova il doppio &quot;aggancio&quot; alla torre di Starbase: se andr&amp;agrave; bene, sar&amp;agrave; il primo recupero completo di un sistema di lancio orbitale. Ecco orari, tappe e cosa c&#039;&amp;egrave; in gioco.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/spazio/starship-stanotte-tentativo-storico-di-spacex-recuperare-sia-il-booster-sia-la-navicella-nella-stessa-missione"
-    },
-    {
-      "cat": "scienza",
-      "title": "Cervello: una barriera intelligente",
-      "summary": "Rivisto il ruolo della barriera emato-encefalica: serve anche a traghettare proteine utili nel cervello (e potremmo usarla a nostro vantaggi…",
-      "fullSummary": "Rivisto il ruolo della barriera emato-encefalica: serve anche a traghettare proteine utili nel cervello (e potremmo usarla a nostro vantaggio).",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/una-barriera-che-seleziona-proteine-essenziali-per-il-cervello-potrebbe-aiutarci-contro-l-alzheimer"
-    },
-    {
-      "cat": "scienza",
-      "title": "Un&#039;atomica in orbita spegnerebbe 99% dei satelliti",
-      "summary": "Una simulazione mostra cosa accadrebbe se una bomba nucleare venisse fatta detonare in orbita bassa: in 15 giorni si paralizzerebbero GPS, m…",
-      "fullSummary": "Una simulazione mostra cosa accadrebbe se una bomba nucleare venisse fatta detonare in orbita bassa: in 15 giorni si paralizzerebbero GPS, meteo e telecomunicazioni, innescando una reazione a catena di detriti spaziali.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/basterebbe-una-sola-bomba-nucleare-nello-spazio-per-spegnere-il-99-dei-satelliti-e-i-nostri-servizi-in-due-settimane"
     },
     {
       "cat": "storia",
@@ -163,6 +163,14 @@
     },
     {
       "cat": "tech",
+      "title": "Instagram scoprirà se mentiamo sulla nostra età",
+      "summary": "Introdurrà l&#039;uso dell&#039;IA per individuare gli account di minori di 17 anni e applicare le protezioni per gli adolescenti.",
+      "fullSummary": "Introdurrà l&#039;uso dell&#039;IA per individuare gli account di minori di 17 anni e applicare le protezioni per gli adolescenti.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/tecnologia/innovazione/instagram-usera-l-ia-per-scoprire-se-mentiamo-sulla-nostra-eta"
+    },
+    {
+      "cat": "tech",
       "title": "Dormire poco ci espone di più alle truffe online",
       "summary": "Un’ora di sonno persa può renderci più esposti alle truffe online: dopo il cambio dell’ora i dipendenti di una grande azienda hanno cliccato…",
       "fullSummary": "Un’ora di sonno persa può renderci più esposti alle truffe online: dopo il cambio dell’ora i dipendenti di una grande azienda hanno cliccato di più sulle e-mail di phishing.",
@@ -184,14 +192,6 @@
       "fullSummary": "Per gestire la fame di dati dell&#039;IA, i data center riscoprono i vantaggi dei nastri magnetici VHS: consumi energetici azzerati a riposo, protezione dai ransomware e capacit&amp;agrave; di archiviare fino a 40 terabyte.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/hi-tech/l-intelligenza-artificiale-fa-resuscitare-i-nastri-magnetici-il-ritorno-della-tecnologia-delle-vhs"
-    },
-    {
-      "cat": "tech",
-      "title": "Genitori e smartphone: l&#039;illusione del controllo",
-      "summary": "Mentre il 70% dei genitori pensa che i figli usino gli schermi in modo consapevole, tra gli adolescenti solo uno su cinque dichiara di riusc…",
-      "fullSummary": "Mentre il 70% dei genitori pensa che i figli usino gli schermi in modo consapevole, tra gli adolescenti solo uno su cinque dichiara di riuscirci: emergono le differenze tra le paure degli adulti e i timori reali dei ragazzi.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/hi-tech/genitori-e-smartphone-l-illusione-del-controllo-e-le-paure-reali-dei-ragazzi"
     }
   ]
 }
