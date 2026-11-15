@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-15T11:37:07.939Z",
+  "generatedAt": "2026-11-15T18:52:48.035Z",
   "items": [
     {
       "cat": "politica",
       "title": "Anche quest&#8217;anno l&#8217;inflazione ci farà pagare più tasse",
       "summary": "L'Istat ha calcolato che tornerà l'ormai famigerato “fiscal drag” e renderà inefficaci le misure della legge di bilancio a favore dei reddit…",
-      "fullSummary": "L'Istat ha calcolato che tornerà l'ormai famigerato “fiscal drag” e renderà inefficaci le misure della legge di bilancio a favore dei redditi",
+      "fullSummary": "Nel disegno di legge di bilancio attualmente in discussione, il governo Meloni ha previsto nuove riduzioni delle imposte sui redditi, le quali tuttavia rischiano di essere vanificate dall'inflazione e dal drenaggio fiscale (fiscal drag). Nei sistemi tributari progressivi come quello italiano, l'aumento dei redditi per adeguarsi al costo della vita spinge i contribuenti oltre le soglie per usufruire di bonus e detrazioni o verso scaglioni con aliquote più elevate, riducendo di fatto il potere d'acquisto effettivo.\n\nTra il 2022 e il 2025, a causa dei rincari dovuti a pandemia e guerra in Ucraina, lo Stato ha incassato quasi 20 miliardi di euro in più, rendendo l'esecutivo Meloni quello che ha aumentato maggiormente le tasse dai tempi del governo Monti. Nonostante le riduzioni delle aliquote abbiano compensato tale fenomeno fino al 2025, la ripresa dell'inflazione provocata dal conflitto in Medio Oriente ha interrotto questo equilibrio. Nuovi calcoli dell'ISTAT stimano che, con un'inflazione al 3,4 per cento nel 2026, l'erario incasserà almeno ulteriori 6,5 miliardi di euro.\n\nTra il 2021 e il 2027, a fronte di tagli fiscali medi cumulati per circa mille euro a contribuente — conteggiando anche l'abbassamento dell'aliquota IRPEF dal 43 al 33 per cento per la fascia tra 50 e 55mila euro — il drenaggio fiscale ha sottratto risorse superiori. L'unica fascia pienamente compensata è quella con redditi inferiori a 20mila euro annui, mentre i pensionati subiscono le perdite maggiori per via del ridimensionamento della rivalutazione. Di fronte a questo scenario, opposizioni ed economisti chiedono l'indicizzazione automatica delle soglie all'inflazione, uno strumento costoso adottato negli Stati Uniti e in rari paesi dell'Unione Europea come Francia, Austria, Croazia e Slovacchia. L'Italia ha invece preferito finora intervenire discrezionalmente abbassando le aliquote.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/13/tasse-fiscal-drag-istat-irpef-legge-di-bilancio-2027/"
     },
@@ -35,35 +35,51 @@
     },
     {
       "cat": "mondo",
-      "title": "La bufala del blackout del 17 novembre",
-      "summary": "Mette insieme in modo complottista alcune notizie recenti e una puntata dei “Simpson”, e sta circolando molto sui social",
-      "fullSummary": "Mette insieme in modo complottista alcune notizie recenti e una puntata dei “Simpson”, e sta circolando molto sui social",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/14/blackout-17-novembre-bufala/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Perché non si trova un delegato europeo per i negoziati per l&#8217;Ucraina",
-      "summary": "Per i colloqui iniziati questa settimana ad Abu Dhabi l'obiettivo era sceglierne uno solo, e invece saranno sette",
-      "fullSummary": "Per i colloqui iniziati questa settimana ad Abu Dhabi l'obiettivo era sceglierne uno solo, e invece saranno sette",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/14/europa-negoziatore-unico-guerra-ucraina/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il comico e autore inglese David Walliams è indagato per violenze sessuali",
+      "title": "L&#8217;Alta rappresentante Kaja Kallas ha detto che le forze europee hanno intercettato una nave della &#8220;flotta fantasma&#8221; russa nel Mediterraneo",
       "summary": "",
-      "fullSummary": "Il comico e autore inglese David Walliams è indagato per violenze sessuali",
+      "fullSummary": "L&#8217;Alta rappresentante Kaja Kallas ha detto che le forze europee hanno intercettato una nave della &#8220;flotta fantasma&#8221; russa nel Mediterraneo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/14/david-walliams-indagato-violenze-sessuali/"
+      "url": "https://www.ilpost.it/2026/11/15/kallas-intercettata-petroliera-flotta-fantasma-russa-mediterraneo/"
     },
     {
       "cat": "mondo",
-      "title": "Gli Stati Uniti hanno detto di aver risposto all&#8217;attività sospetta di un drone in una base britannica",
-      "summary": "",
-      "fullSummary": "Gli Stati Uniti hanno detto di aver risposto all&#8217;attività sospetta di un drone in una base britannica",
+      "title": "C&#8217;è un&#8217;altra cosa per cui protestano in Francia",
+      "summary": "È una proposta di legge sull'uso delle armi da parte delle forze dell'ordine, che i critici chiamano «licenza di uccidere»",
+      "fullSummary": "È una proposta di legge sull'uso delle armi da parte delle forze dell'ordine, che i critici chiamano «licenza di uccidere»",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/14/stati-uniti-drone-raf-lakenheath/"
+      "url": "https://www.ilpost.it/2026/11/15/legge-difesa-polizia-francia-proteste/"
+    },
+    {
+      "cat": "mondo",
+      "title": "L&#8217;esercito yemenita ha detto che lascerà la zona dello stretto di Bab el Mandeb per proteggere Aden, sede del governo",
+      "summary": "",
+      "fullSummary": "L&#8217;esercito yemenita ha detto che lascerà la zona dello stretto di Bab el Mandeb per proteggere Aden, sede del governo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/15/yemen-governo-si-ritira-stretto-bab-el-mandeb-houthi/"
+    },
+    {
+      "cat": "mondo",
+      "title": "L&#8217;Unione Europea può risolvere il problema della casa?",
+      "summary": "Ci vuole provare con un piano per ridurre gli affitti brevi e la speculazione immobiliare, ma non è detto che sia sufficiente",
+      "fullSummary": "La crisi abitativa è al centro di crescenti proteste e dibattiti in tutta Europa. Tra il 2015 e il 2025, nell’Unione Europea il prezzo medio delle case è cresciuto del 62 per cento e gli affitti del 20 per cento, con rincari marcati in Portogallo (+163%) e Spagna (+80%). In Italia l’aumento è stato del 16,2 per cento, in un contesto in cui il reddito familiare è diminuito negli ultimi vent’anni. All’origine dell'emergenza figurano il trasferimento dalle zone rurali ai centri urbani, la scarsità di alloggi, la proliferazione degli affitti brevi e la finanziarizzazione del mercato immobiliare da parte di grandi fondi, evidente in contesti come Berlino.\n\nPer rispondere alle richieste delle amministrazioni locali, l’Unione Europea ha presentato a dicembre 2025 l’Affordable Housing Plan. La strategia favorisce l'accesso al credito per costruire o ristrutturare immobili e introduce l’Affordable Housing Act, presentato a settembre 2026 ma ancora da approvare. Questo regolamento intende offrire una base giuridica per consentire agli enti locali di limitare gli affitti brevi e l'acquisto di case non destinate a residenza principale nelle aree caratterizzate da «tensione abitativa». Tale condizione si applica quando il prezzo medio di un'abitazione supera di almeno otto volte lo stipendio lordo medio annuo, insieme a una crescita decennale, oppure direttamente quando supera le dieci volte.\n\nTuttavia, il testo presenta diversi limiti. Oltre alle limitate competenze dell’Unione in materia di politiche abitative, la norma obbliga le amministrazioni a provare il complesso nesso causale tra gli aumenti dei prezzi, gli affitti brevi e la finanziarizzazione, dimostrando inoltre che le restrizioni siano l’unica soluzione praticabile. Infine, un gruppo di oltre trecento associazioni ed eurodeputati, tra cui Benedetta Scuderi, ha criticato la definizione di tensione abitativa, ritenuta carente perché ignora fattori determinanti come sfratti, pignoramenti e parametri sul sovraffollamento delle abitazioni.",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/15/affordable-housing-act-crisi-abitativa-unione-europea/"
+    },
+    {
+      "cat": "sport",
+      "title": "Le tenniste italiane Sara Errani e Jasmine Paolini sono in finale alle WTA Finals",
+      "summary": "",
+      "fullSummary": "Le tenniste italiane Sara Errani e Jasmine Paolini sono in finale alle WTA Finals",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/15/sara-errani-jasmine-paolini-finale-wta-finals-tennis/"
+    },
+    {
+      "cat": "sport",
+      "title": "Le renne e altri animali come premi per le gare sportive",
+      "summary": "Avviene ancora oggi soprattutto nello sci alpino e nel ciclismo, tra chi ne apprezza il folklore e chi invece pensa sia un'usanza da elimina…",
+      "fullSummary": "Avviene ancora oggi soprattutto nello sci alpino e nel ciclismo, tra chi ne apprezza il folklore e chi invece pensa sia un'usanza da eliminare",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/15/animali-premi-sport-renne-live-shiffrin/"
     },
     {
       "cat": "sport",
@@ -82,20 +98,12 @@
       "url": "https://www.ilpost.it/2026/11/14/cosa-fa-squadra-serie-a-serie-b-durante-sosta-per-nazionali/"
     },
     {
-      "cat": "sport",
-      "title": "Una regata solitaria finita male",
-      "summary": "Dopo una brutta caduta in barca nell'oceano verso Guadalupa, Ambrogio Beccaria si è ritirato ma ha comunque dovuto raggiungere le Azzorre",
-      "fullSummary": "Dopo una brutta caduta in barca nell'oceano verso Guadalupa, Ambrogio Beccaria si è ritirato ma ha comunque dovuto raggiungere le Azzorre",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/13/regata-finita-male-ambrogio-beccaria/"
-    },
-    {
-      "cat": "sport",
-      "title": "Mauricio Pochettino è il nuovo allenatore del Manchester United, e smetterà di allenare gli Stati Uniti",
-      "summary": "",
-      "fullSummary": "Mauricio Pochettino lascerà il suo incarico nella nazionale maschile degli Stati Uniti per diventare il nuovo allenatore del Manchester United, che nella giornata di giovedì aveva esonerato Michael Carrick. In questo modo, Pochettino si appresta a diventare il tredicesimo allenatore in tredici anni per il Manchester United. Il club viene descritto come una squadra storica, ricchissima e sostenuta da moltissimi tifosi in tutto il mondo; tuttavia, la formazione continua ad alternare periodi in cui le cose vanno benino ad altri momenti in cui va male oppure malissimo. Attualmente la squadra si trova al diciottesimo posto in Premier League, il massimo campionato inglese, dopo aver vinto una sola partita sulle dieci complessivamente disputate.\n\nRispetto a Carrick, la cui carriera da allenatore era stata breve prima dell'arrivo allo United, Pochettino vanta molta più esperienza. Il tecnico si fece notare soprattutto tra il 2014 e il 2019, periodo in cui allenò il Tottenham, una delle squadre di Londra, portandola fino a una finale di Champions League. Successivamente ha guidato altre squadre importanti, come il Paris Saint-Germain e il Chelsea, anch'esso club di Londra. Nel 2024 è diventato l'allenatore degli Stati Uniti, selezione con cui ha preso parte agli ultimi Mondiali arrivando fino agli ottavi di finale. Pochettino conosce bene la Premier League ed è abituato ad allenare grandi squadre, anche se finora non ha vinto molti trofei rilevanti.\n\nPoiché nel calcio è ancora in corso la sosta, quel momento dell'anno in cui i club smettono di giocare per fare spazio alle partite delle nazionali, Pochettino continuerà ad allenare gli Stati Uniti ancora per qualche giorno. Rimarrà infatti alla guida in vista delle gare di sabato e di mercoledì contro Haiti. La prossima partita del Manchester United si disputerà invece domenica 22 novembre alle ore 17:30, quando affronterà il Liverpool.",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/13/mauricio-pochettino-allenatore-manchester-united-lascia-stati-uniti/"
+      "cat": "scienza",
+      "title": "Starship: impresa storica, ma il Booster esplode",
+      "summary": "SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall&#039;orbita dopo oltre 22 ore…",
+      "fullSummary": "SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall&#039;orbita dopo oltre 22 ore nello spazio. A rovinare la festa &amp;egrave; stato il razzo Super Heavy: un allarme carburante ha costretto il Booster 22 ad ammarare.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/impresa-storica-per-spacex-la-torre-afferra-al-volo-la-starship-42-ma-il-booster-22-esplode-nel-golfo-del-messico"
     },
     {
       "cat": "scienza",
@@ -107,6 +115,14 @@
     },
     {
       "cat": "scienza",
+      "title": "Il pensiero che cura",
+      "summary": "In Italia l&#039;85% dei bambini colpiti da un tumore &amp;egrave; vivo a cinque anni dalla diagnosi. Merito della ricerca, che a Natale si …",
+      "fullSummary": "In Italia l&#039;85% dei bambini colpiti da un tumore &amp;egrave; vivo a cinque anni dalla diagnosi. Merito della ricerca, che a Natale si pu&amp;ograve; finanziare anche con un panettone o una moka. Ecco come, con i regali di Fondazione AIRC.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/il-pensiero-che-cura"
+    },
+    {
+      "cat": "scienza",
       "title": "Perché rischi più a calcetto che sugli sci",
       "summary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. Che cosa succ…",
       "fullSummary": "&lt;p data-path-to-node=&quot;8&quot;&gt;Ogni anno circa 300.000 italiani finiscono al pronto soccorso per un trauma sportivo. Che cosa succede al nostro corpo quando giochiamo senza preparazione? Ne parliamo a Torino con un esperto.&lt;/p&gt;",
@@ -114,26 +130,10 @@
       "url": "https://www.focus.it/scienza/salute/il-calcetto-e-il-padel-mandano-in-tilt-i-pronto-soccorso-perche-rischi-piu-tra-amici-che-sugli-sci"
     },
     {
-      "cat": "scienza",
-      "title": "USA, il morbillo è di nuovo endemico",
-      "summary": "Secondo gli esperti i dati genetici mostrano che il morbillo circola stabilmente negli USA, ma si attende la decisione ufficiale dell’Organi…",
-      "fullSummary": "Gli Stati Uniti rischiano di perdere la qualifica di Paese libero dal morbillo, detenuta dal 2000, dopo aver registrato quasi 5.200 casi dall'inizio dell'anno e otto decessi nel 2026, tutti tra individui non vaccinati. Per valutare se dichiarare formalmente l'infezione di nuovo endemica, un comitato dell'Organizzazione Panamericana della Sanità, centro regionale dell'OMS, si è riunito il 10 novembre, con la decisione attesa per il 17 novembre. Secondo i criteri dell'OMS, una malattia diventa endemica quando lo stesso ceppo virale circola ininterrottamente per almeno dodici mesi, a differenza dei casi importati dall'estero che generano solo trasmissioni locali limitate. Esperti consultati dal New York Times, tra cui il biologo evoluzionista J.T. McCrone, confermano l'endemicità analizzando i dati genetici del virus, evidenziando una dinamica in cui focolai distinti si alimentano a vicenda.\n\nLa diffusione della malattia è attribuita in gran parte all'esitazione vaccinale, alimentata dalle posizioni di Robert F. Kennedy Jr, segretario del Dipartimento della Salute e dei Servizi Umani. Kennedy ha espresso dubbi decennali sulla sicurezza del vaccino trivalente contro morbillo, parotite e rosolia: nel 2005 ha collegato i vaccini all'autismo in articoli per Rolling Stone e Salon, e più recentemente ha sostenuto che il vaccino causi decessi, perda rapidamente efficacia e contenga resti fetali. Solo di recente ha ammesso l'importanza dell'immunizzazione per l'immunità di gregge.\n\nIl fenomeno non riguarda unicamente il Nord America, ma coinvolge anche nazioni come Spagna e Regno Unito, le quali hanno anch'esse perso lo status di Paesi privi di morbillo. A fronte di una diffidenza verso le vaccinazioni cresciuta durante la pandemia di covid, la comunità scientifica dispone già di una risposta efficace: la vera sfida attuale consiste nel superare i timori della popolazione, ribadendo il valore preventivo del vaccino per arrestare i contagi e le morti provocate dal virus.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/usa-il-morbillo-e-di-nuovo-endemico"
-    },
-    {
-      "cat": "scienza",
-      "title": "Quante volte al giorno si deve fare la cacca?",
-      "summary": "Uno studio su 1.425 adulti sani ha individuato un&#039;associazione tra l&#039;evacuare una o due volte al giorno, il microbioma intestinale…",
-      "fullSummary": "Uno studio su 1.425 adulti sani ha individuato un&#039;associazione tra l&#039;evacuare una o due volte al giorno, il microbioma intestinale e alcuni indicatori della salute di reni e fegato. I risultati suggeriscono possibili collegamenti metabolici, senza dimostrare un effetto protettivo diretto.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/quante-volte-giorno-cacca-andare-bagno-reni-fegato"
-    },
-    {
       "cat": "storia",
       "title": "Perché si dice “anno sabbatico”?",
       "summary": "Dalla tradizione ebraica dello &lt;em&gt;shabbat&lt;/em&gt; al congedo per la ricerca universitaria: ecco perch&amp;eacute; l&#039;anno sabb…",
-      "fullSummary": "L'espressione \"anno sabbatico\", giunta fino a noi come congedo per la ricerca universitaria, trae origine dalla tradizione ebraica e dalle leggi di Mosè, raffigurato mentre riceve le Tavole della Legge in una miniatura tedesca del quindicesimo secolo. In base alle leggi mosaiche, ogni sette anni ricorreva un anno speciale dedicato a Dio. Il termine deriva dallo shabbat, la festa del riposo celebrata il sabato, settimo giorno della settimana, considerando che per gli ebrei il primo giorno è la domenica. Come avveniva per il settimo giorno, anche durante il settimo anno era prescritta una pausa: venivano sospesi sia il lavoro nei campi sia la riscossione dei debiti, e gli schiavi debitori, divenuti tali per non aver pagato i propri creditori, venivano liberati. Oggi il termine indica il congedo retribuito che i docenti universitari possono richiedere per dedicarsi alla ricerca; per i professori italiani questo periodo cade due volte ogni dieci anni, risultando più frequente rispetto a quello ebraico. Nel linguaggio comune l'espressione è inoltre sinonimo di riposo dal lavoro.\n\nIl testo include anche le presentazioni delle riviste in edicola del mondo Focus, periodico di divulgazione scientifica più letto in Italia, affiancato da Focus Domande & Risposte e da Focus Storia. Quest'ultimo dedica un dossier all'informazione di regime e alla censura fascista, dal delitto Matteotti al MinCulPop, analizzando il bavaglio alla stampa, la propaganda tramite radio, cinegiornali e la \"fabbrica dei sogni\" di Cinecittà, fino al bando di libri, fumetti e parole straniere per controllare pensiero e cultura. Il nuovo numero di Focus approfondisce invece il significato profondo dell'intelligenza, i test del QI e i limiti dell'IA, confrontando algoritmi e capacità biologiche, descrivendo la fisiologia mentale come rete di hub interconnessi ed esplorando le doti cognitive animali, dalla memoria di ferro dei volatili all'astuzia dei maiali.",
+      "fullSummary": "Dalla tradizione ebraica dello &lt;em&gt;shabbat&lt;/em&gt; al congedo per la ricerca universitaria: ecco perch&amp;eacute; l&#039;anno sabbatico, il settimo anno di pausa previsto nelle leggi di Mos&amp;egrave;, &amp;egrave; arrivato fino a noi.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/curiosita/perche-si-dice-anno-sabbatico"
     },
@@ -165,7 +165,7 @@
       "cat": "tech",
       "title": "Instagram scoprirà se mentiamo sulla nostra età",
       "summary": "Introdurrà l&#039;uso dell&#039;IA per individuare gli account di minori di 17 anni e applicare le protezioni per gli adolescenti.",
-      "fullSummary": "Su Instagram è facile dichiarare un'età falsa per sembrare maggiorenni. Per risolvere questo problema, Meta ha deciso di implementare a livello globale un sistema basato sull'intelligenza artificiale, precedentemente testato in Paesi come Stati Uniti, Australia, Canada, Regno Unito e all'interno dell'Unione Europea. L'obiettivo primario consiste nell'individuare gli account di adolescenti tra i 13 e i 17 anni che fingono di essere adulti, in modo da assegnarli automaticamente alle protezioni previste per la loro fascia d'età.\n\nPer stimare l'età, l'algoritmo non impiega il riconoscimento facciale o impronte biometriche, ma elabora una serie di indizi e segnali probabilistici. L'analisi esamina post, commenti, biografie e didascalie alla ricerca di riferimenti a compleanni o alla scuola, associandoli a elementi visivi di foto e video, quali altezza o corporatura, insieme alle attività complessive del profilo.\n\nQualora il sistema ritenga che un utente abbia tra 13 e 17 anni, lo inserisce d'ufficio nei cosiddetti Teen Accounts, anche se ha indicato un'età adulta. Questa modalità introduce protezioni più rigide: i messaggi privati vengono limitati a persone già seguite o conosciute, aumentano i filtri su contenuti sensibili e commenti offensivi, si attivano avvisi dopo 60 minuti di permanenza e subentra la modalità notturna con notifiche silenziate tra le 22 e le 7. Per chi ha meno di 16 anni, la revoca di gran parte di tali vincoli esige l'approvazione genitoriale, mentre i profili attribuiti a minori di 13 anni possono essere disattivati in attesa di verifiche.\n\nTuttavia, la necessità di monitorare i contenuti per determinare l'età effettiva solleva questioni di accuratezza: esiste infatti la possibilità di errori, come la classificazione errata di adulti dall'aspetto giovanile o la mancata individuazione di alcuni adolescenti. Qualora Instagram sospetti che qualcuno modifichi la propria data di nascita per eludere le restrizioni, può richiedere un documento d'identità o una verifica tramite video-selfie con sistemi esterni. Meta intende infine estendere questo sistema anche a Facebook e, in seguito, a Threads.",
+      "fullSummary": "Introdurrà l&#039;uso dell&#039;IA per individuare gli account di minori di 17 anni e applicare le protezioni per gli adolescenti.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/instagram-usera-l-ia-per-scoprire-se-mentiamo-sulla-nostra-eta"
     },
