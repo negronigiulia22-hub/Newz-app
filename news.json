@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-16T11:40:44.294Z",
+  "generatedAt": "2026-11-16T21:58:36.310Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Sei grafici per capire quanto sono messe male le regioni sulla sanità",
+      "summary": "Nel 2025 le spese hanno superato le entrate di 3,5 miliardi di euro",
+      "fullSummary": "Nel 2025 le spese hanno superato le entrate di 3,5 miliardi di euro",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/"
+    },
     {
       "cat": "politica",
       "title": "Anche quest&#8217;anno l&#8217;inflazione ci farà pagare più tasse",
@@ -26,76 +34,76 @@
       "url": "https://www.ilpost.it/2026/11/11/come-funziona-exit-tax-governo/"
     },
     {
-      "cat": "politica",
-      "title": "Perché anche le regioni di destra ce l&#8217;hanno col governo sulla sanità",
-      "summary": "Lamentano di avere sempre meno soldi, e hanno ragione, ma il governo rivendica di avercene messi di più, e ha ragione: vi spieghiamo",
-      "fullSummary": "Lamentano di avere sempre meno soldi, e hanno ragione, ma il governo rivendica di avercene messi di più, e ha ragione: vi spieghiamo",
+      "cat": "mondo",
+      "title": "L&#8217;Unione Europea ha approvato sanzioni contro un&#8217;agenzia di relazioni pubbliche russa accusandola di disinformazione",
+      "summary": "",
+      "fullSummary": "L&#8217;Unione Europea ha approvato sanzioni contro un&#8217;agenzia di relazioni pubbliche russa accusandola di disinformazione",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/10/regioni-tagli-sanita-fondi-soldi-legge-di-bilancio-bertolaso/"
+      "url": "https://www.ilpost.it/2026/11/16/unione-europea-agenzia-pr-russia-sanzioni/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;Alta rappresentante Kaja Kallas ha detto che le forze europee hanno intercettato una nave della &#8220;flotta fantasma&#8221; russa nel Mediterraneo",
+      "title": "In Corea del Sud saranno controllati gli occhiali dei candidati all’esame di ammissione all’università per evitare imbrogli",
       "summary": "",
-      "fullSummary": "L&#8217;Alta rappresentante Kaja Kallas ha detto che le forze europee hanno intercettato una nave della &#8220;flotta fantasma&#8221; russa nel Mediterraneo",
+      "fullSummary": "In Corea del Sud saranno controllati gli occhiali dei candidati all’esame di ammissione all’università per evitare imbrogli",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/15/kallas-intercettata-petroliera-flotta-fantasma-russa-mediterraneo/"
+      "url": "https://www.ilpost.it/2026/11/16/corea-del-sud-controllo-occhiali-smart-esame-ammissione-universita/"
     },
     {
       "cat": "mondo",
-      "title": "C&#8217;è un&#8217;altra cosa per cui protestano in Francia",
-      "summary": "È una proposta di legge sull'uso delle armi da parte delle forze dell'ordine, che i critici chiamano «licenza di uccidere»",
-      "fullSummary": "È una proposta di legge sull'uso delle armi da parte delle forze dell'ordine, che i critici chiamano «licenza di uccidere»",
+      "title": "Portare un museo in Cisgiordania",
+      "summary": "Da Gerusalemme, superando muri e checkpoint: è l'idea di un progetto che prova ad aggirare le restrizioni israeliane sui palestinesi",
+      "fullSummary": "Da Gerusalemme, superando muri e checkpoint: è l'idea di un progetto che prova ad aggirare le restrizioni israeliane sui palestinesi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/15/legge-difesa-polizia-francia-proteste/"
+      "url": "https://www.ilpost.it/2026/11/16/museo-gerusalemme-cisgiordania/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;esercito yemenita ha detto che lascerà la zona dello stretto di Bab el Mandeb per proteggere Aden, sede del governo",
+      "title": "Andy Burnham è sempre più critico su Brexit",
+      "summary": "In un discorso fatto arrivare ai media, il primo ministro britannico dice che uscendo dall'Unione Europea il Regno Unito ha perso «più di qu…",
+      "fullSummary": "In un discorso fatto arrivare ai media, il primo ministro britannico dice che uscendo dall'Unione Europea il Regno Unito ha perso «più di quanto abbiamo guadagnato»",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/"
+    },
+    {
+      "cat": "sport",
+      "title": "Aryna Sabalenka si è un po&#8217; persa",
+      "summary": "Era la tennista più forte al mondo, ora fatica a dominare e sempre più spesso perde in modo rovinoso",
+      "fullSummary": "Era la tennista più forte al mondo, ora fatica a dominare e sempre più spesso perde in modo rovinoso",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/16/aryna-sabalenka-tennis-problemi/"
+    },
+    {
+      "cat": "sport",
+      "title": "La prima doppietta di sempre per un calciatore di San Marino",
+      "summary": "In una partita persa comunque 7-2 contro la Finlandia",
+      "fullSummary": "In una partita persa comunque 7-2 contro la Finlandia",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/16/san-marino-finlandia-nations-league-doppietta-nanni-record/"
+    },
+    {
+      "cat": "sport",
+      "title": "La Federazione internazionale di hockey su ghiaccio ha confermato che la Russia non parteciperà ai Mondiali giovanili in Canada",
       "summary": "",
-      "fullSummary": "L’esercito dello Yemen ha annunciato che si ritirerà dal territorio attorno allo stretto di Bab el Mandeb, che collega il mar Rosso con l’oceano Indiano. La decisione delle forze armate è finalizzata a rafforzare la protezione intorno ad Aden, una rilevante città nel sud dello Yemen in cui si trova la sede del governo riconosciuto a livello internazionale. La capitale dello Yemen, Sana’a, è invece sotto il controllo degli Houthi, il gruppo politico e militare alleato dell’Iran con il quale il governo è tornato a scontrarsi negli ultimi mesi.\n\nL’annuncio, reso noto domenica, mette in evidenza come la situazione sia ancora instabile. L’esercito governativo si trova infatti costretto ad abbandonare i territori appena riconquistati a ottobre, dopo che a settembre gli Houthi ne avevano assunto il controllo, con l'obiettivo primario di difendere la città di Aden.\n\nLo stretto di Bab el Mandeb si colloca sul versante opposto della penisola Arabica rispetto allo stretto di Hormuz. In seguito all’inizio della guerra in Medio Oriente, lo stretto di Hormuz era stato chiuso dall’Iran: per questa ragione l’Arabia Saudita, alleata del governo yemenita e impegnata al suo fianco nella guerra civile contro gli Houthi, ha deviato verso la rotta del mar Rosso gran parte del petrolio che precedentemente esportava attraverso il golfo Persico.\n\nNegli ultimi mesi i combattimenti interni allo Yemen si sono intensificati, e gli Houthi hanno attaccato anche importanti infrastrutture petrolifere in Arabia Saudita. A ottobre il governo aveva espresso l'intenzione di puntare alla riconquista di Sana’a, controllata dagli Houthi fin dall’inizio della guerra civile nel 2014. Tra quell’anno e il 2022 il conflitto ha provocato oltre 300mila morti e una devastante crisi umanitaria, e i combattimenti delle ultime settimane hanno di fatto rinfocolato il conflitto.",
+      "fullSummary": "La Federazione internazionale di hockey su ghiaccio ha confermato che la Russia non parteciperà ai Mondiali giovanili in Canada",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/15/yemen-governo-si-ritira-stretto-bab-el-mandeb-houthi/"
-    },
-    {
-      "cat": "mondo",
-      "title": "L&#8217;Unione Europea può risolvere il problema della casa?",
-      "summary": "Ci vuole provare con un piano per ridurre gli affitti brevi e la speculazione immobiliare, ma non è detto che sia sufficiente",
-      "fullSummary": "Ci vuole provare con un piano per ridurre gli affitti brevi e la speculazione immobiliare, ma non è detto che sia sufficiente",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/15/affordable-housing-act-crisi-abitativa-unione-europea/"
+      "url": "https://www.ilpost.it/2026/11/16/hockey-su-ghiaccio-federazione-internazionale-di-hockey-su-ghiaccio-russia-canada-mondiali-giovanili/"
     },
     {
       "cat": "sport",
-      "title": "Le tenniste italiane Sara Errani e Jasmine Paolini sono in finale alle WTA Finals",
-      "summary": "",
-      "fullSummary": "Le tenniste italiane Sara Errani e Jasmine Paolini sono in finale alle WTA Finals",
+      "title": "Ho visto Ronaldinho",
+      "summary": "O quel che rimane del calciatore che fu: ha combinato poco nel “derby della piadina” tra Ravenna e Forlì, ma se n'è parlato in tutto il mond…",
+      "fullSummary": "O quel che rimane del calciatore che fu: ha combinato poco nel “derby della piadina” tra Ravenna e Forlì, ma se n'è parlato in tutto il mondo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/15/sara-errani-jasmine-paolini-finale-wta-finals-tennis/"
+      "url": "https://www.ilpost.it/2026/11/16/ronaldinho-ravenna-calcio-serie-c/"
     },
     {
-      "cat": "sport",
-      "title": "Le renne e altri animali come premi per le gare sportive",
-      "summary": "Avviene ancora oggi soprattutto nello sci alpino e nel ciclismo, tra chi ne apprezza il folklore e chi invece pensa sia un'usanza da elimina…",
-      "fullSummary": "In diverse discipline sportive gli animali, sia vivi sia sotto forma di prodotti alimentari, vengono tradizionalmente assegnati come premi ai vincitori. Nello sci alpino, dal 2013 lo slalom di Levi in Finlandia assegna una renna: la campionessa statunitense Mikaela Shiffrin ne ha vinte nove, che risiedono stabilmente nella fattoria lappone Ounaskievari. A causa delle normative locali sull'allevamento, gli atleti non possono portarle via, agendo di fatto come loro padrini. Al contrario, nella discesa francese di Val d’Isère i premi possono essere trasferiti, come i due vitelli portati da Sofia Goggia in un agriturismo della Valle Brembana o la mucca che Lindsey Vonn scelse al posto di un assegno da 5mila dollari.\n\nL'impiego di animali come trofei alimenta un dibattito etico e legale: c'è chi lo considera un'innocente usanza folcloristica e chi ne chiede l'eliminazione o regole più stringenti per tutelare il benessere animale. Nondimeno, la consuetudine è diffusa a livello globale, spaziando dai formaggi o salami regalati negli eventi italiani fino a maiali, mucche, pecore o pesci assegnati in maratone e tornei calcistici cinesi.\n\nAnche il ciclismo è ricco di queste pratiche. L’Arctic Race of Norway è nota per regalare quantitativi consistenti di salmone al miglior scalatore, spediti successivamente e solitamente condivisi con la squadra o devoluti a enti assistenziali, come avvenuto nei casi di Jelle Johannink e Morthen Wang Baksaas. In Francia, la corsa Tro-Bro Léon premiava il miglior ciclista bretone con un maialino vivo; a seguito di polemiche animaliste nate da alcune battute dei corridori, l'animale vero è stato sostituito quest'anno da uno di legno. Altre gare ciclistiche impiegano ormai animali finti, come il peluche di asino alla Kuurne-Bruxelles-Kuurne e le popolari papere giocattolo sponsorizzate nel ciclocross dall'azienda X2O.",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/15/animali-premi-sport-renne-live-shiffrin/"
-    },
-    {
-      "cat": "sport",
-      "title": "L&#8217;Estonia non ospiterà atleti russi e bielorussi come ritorsione per la guerra in Ucraina",
-      "summary": "",
-      "fullSummary": "L&#8217;Estonia non ospiterà atleti russi e bielorussi come ritorsione per la guerra in Ucraina",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/14/estonia-divieto-atleti-russi-bielorussi/"
-    },
-    {
-      "cat": "sport",
-      "title": "Cosa fa una squadra di Serie A durante la sosta per le nazionali",
-      "summary": "Spera che i suoi calciatori migliori non si facciano male, gioca amichevoli più o meno esotiche e promuove dolci e magliette",
-      "fullSummary": "Spera che i suoi calciatori migliori non si facciano male, gioca amichevoli più o meno esotiche e promuove dolci e magliette",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/14/cosa-fa-squadra-serie-a-serie-b-durante-sosta-per-nazionali/"
+      "cat": "scienza",
+      "title": "Obesità: oltre l&#039;Indice di Massa Corporea",
+      "summary": "Una nuova definizione di obesità che vada oltre l&#039;unico parametro usato finora renderà più facile capire il livello di rischio e indiri…",
+      "fullSummary": "Una nuova definizione di obesità che vada oltre l&#039;unico parametro usato finora renderà più facile capire il livello di rischio e indirizzare le cure.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/obesita-perche-bisogna-andare-oltre-l-indice-di-massa-corporea"
     },
     {
       "cat": "scienza",
@@ -120,14 +128,6 @@
       "fullSummary": "SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall&#039;orbita dopo oltre 22 ore nello spazio. A rovinare la festa &amp;egrave; stato il razzo Super Heavy: un allarme carburante ha costretto il Booster 22 ad ammarare.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/spazio/impresa-storica-per-spacex-la-torre-afferra-al-volo-la-starship-42-ma-il-booster-22-esplode-nel-golfo-del-messico"
-    },
-    {
-      "cat": "scienza",
-      "title": "Virus RSV: drastico calo dei ricoveri",
-      "summary": "Stiamo vincendo la battaglia contro il virus RSV: la diffusione di vaccini per donne in gravidanza e anziani riduce i casi nei più vulnerabi…",
-      "fullSummary": "Stiamo vincendo la battaglia contro il virus RSV: la diffusione di vaccini per donne in gravidanza e anziani riduce i casi nei più vulnerabili.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/virus-respiratorio-sinciziale-rsv-drastico-calo-dei-ricoveri-grazie-a-vaccini-e-anticorpi-monoclonali"
     },
     {
       "cat": "storia",
