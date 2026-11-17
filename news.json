@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-17T07:34:39.764Z",
+  "generatedAt": "2026-11-17T18:24:01.354Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Lo strambo dibattito italiano sulla patrimoniale",
+      "summary": "Storia della tassa più controversa e su cui si litiga periodicamente, che non è per forza di sinistra e in varie forme esiste già",
+      "fullSummary": "Storia della tassa più controversa e su cui si litiga periodicamente, che non è per forza di sinistra e in varie forme esiste già",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/16/patrimoniale-schlein-tassa-exit-tax-campo-largo-conte-sinistra/"
+    },
     {
       "cat": "politica",
       "title": "Sei grafici per capire quanto sono messe male le regioni sulla sanità",
@@ -12,8 +20,8 @@
     {
       "cat": "politica",
       "title": "Anche quest&#8217;anno l&#8217;inflazione ci farà pagare più tasse",
-      "summary": "L'Istat ha calcolato che tornerà l'ormai famigerato “fiscal drag” e renderà inefficaci le misure della legge di bilancio a favore dei reddit…",
-      "fullSummary": "L'Istat ha calcolato che tornerà l'ormai famigerato “fiscal drag” e renderà inefficaci le misure della legge di bilancio a favore dei redditi",
+      "summary": "Tornerà l'ormai famigerato “fiscal drag”, dice l'Istat, e renderà inefficaci le misure della legge di bilancio a favore dei redditi",
+      "fullSummary": "Tornerà l'ormai famigerato “fiscal drag”, dice l'Istat, e renderà inefficaci le misure della legge di bilancio a favore dei redditi",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/13/tasse-fiscal-drag-istat-irpef-legge-di-bilancio-2027/"
     },
@@ -26,76 +34,76 @@
       "url": "https://www.ilpost.it/2026/11/12/invio-armi-ucraina-copasir-borghi-lega-crosetto-giorgetti/"
     },
     {
-      "cat": "politica",
-      "title": "Come funziona la tassa sui ricchi che se ne vanno dall’Italia proposta dal governo",
-      "summary": "E di cui forse si è già pentito",
-      "fullSummary": "E di cui forse si è già pentito",
+      "cat": "mondo",
+      "title": "L&#8217;enorme inchiesta sui molti scandali di Deutsche Bank",
+      "summary": "L'analisi di 15 milioni di documenti interni ha rivelato che la banca tedesca ignorava allarmi e possibili violazioni, anche per proteggere …",
+      "fullSummary": "L'analisi di 15 milioni di documenti interni ha rivelato che la banca tedesca ignorava allarmi e possibili violazioni, anche per proteggere i conti degli oligarchi russi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/11/come-funziona-exit-tax-governo/"
+      "url": "https://www.ilpost.it/2026/11/17/inchiesta-deutsche-bank/"
     },
     {
       "cat": "mondo",
-      "title": "L&#8217;Unione Europea ha approvato sanzioni contro un&#8217;agenzia di relazioni pubbliche russa accusandola di disinformazione",
+      "title": "Il presidente della Mongolia ha detto che si dimetterà per un&#8217;accusa di corruzione",
       "summary": "",
-      "fullSummary": "L&#8217;Unione Europea ha approvato sanzioni contro un&#8217;agenzia di relazioni pubbliche russa accusandola di disinformazione",
+      "fullSummary": "Il presidente della Mongolia ha detto che si dimetterà per un&#8217;accusa di corruzione",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/unione-europea-agenzia-pr-russia-sanzioni/"
+      "url": "https://www.ilpost.it/2026/11/17/mongolia-corruzione-presidente/"
     },
     {
       "cat": "mondo",
-      "title": "In Corea del Sud saranno controllati gli occhiali dei candidati all’esame di ammissione all’università per evitare imbrogli",
+      "title": "La polizia turca ha perquisito la sede del canale tv Sözcü, vicino all’opposizione, interrompendo le trasmissioni",
       "summary": "",
-      "fullSummary": "In Corea del Sud saranno controllati gli occhiali dei candidati all’esame di ammissione all’università per evitare imbrogli",
+      "fullSummary": "La polizia turca ha perquisito la sede del canale tv Sözcü, vicino all’opposizione, interrompendo le trasmissioni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/corea-del-sud-controllo-occhiali-smart-esame-ammissione-universita/"
+      "url": "https://www.ilpost.it/2026/11/17/sozcu-tv-turchia-irruzione-polizia/"
     },
     {
       "cat": "mondo",
-      "title": "Portare un museo in Cisgiordania",
-      "summary": "Da Gerusalemme, superando muri e checkpoint: è l'idea di un progetto che prova ad aggirare le restrizioni israeliane sui palestinesi",
-      "fullSummary": "Da Gerusalemme, superando muri e checkpoint: è l'idea di un progetto che prova ad aggirare le restrizioni israeliane sui palestinesi",
+      "title": "Nell&#8217;amministrazione Trump si litiga sulla Cina",
+      "summary": "E su come reagire allo scandalo di Nvidia: Trump stesso non è sicuro, ma intanto incontrerà di nuovo il presidente cinese Xi Jinping",
+      "fullSummary": "E su come reagire allo scandalo di Nvidia: Trump stesso non è sicuro, ma intanto incontrerà di nuovo il presidente cinese Xi Jinping",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/museo-gerusalemme-cisgiordania/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Andy Burnham è sempre più critico su Brexit",
-      "summary": "In un discorso fatto arrivare ai media, il primo ministro britannico dice che uscendo dall'Unione Europea il Regno Unito ha perso «più di qu…",
-      "fullSummary": "In un discorso fatto arrivare ai media, il primo ministro britannico dice che uscendo dall'Unione Europea il Regno Unito ha perso «più di quanto abbiamo guadagnato»",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/"
+      "url": "https://www.ilpost.it/2026/11/17/trump-litigi-cina/"
     },
     {
       "cat": "sport",
-      "title": "Aryna Sabalenka si è un po&#8217; persa",
-      "summary": "Era la tennista più forte al mondo, ora fatica a dominare e sempre più spesso perde in modo rovinoso",
-      "fullSummary": "Era la tennista più forte al mondo, ora fatica a dominare e sempre più spesso perde in modo rovinoso",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/aryna-sabalenka-tennis-problemi/"
-    },
-    {
-      "cat": "sport",
-      "title": "La prima doppietta di sempre per un calciatore di San Marino",
-      "summary": "In una partita persa comunque 7-2 contro la Finlandia",
-      "fullSummary": "In una partita persa comunque 7-2 contro la Finlandia",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/san-marino-finlandia-nations-league-doppietta-nanni-record/"
-    },
-    {
-      "cat": "sport",
-      "title": "La Federazione internazionale di hockey su ghiaccio ha confermato che la Russia non parteciperà ai Mondiali giovanili in Canada",
+      "title": "Tiger Woods tornerà a giocare un torneo professionistico di golf dopo più di due anni",
       "summary": "",
-      "fullSummary": "La Federazione internazionale di hockey su ghiaccio ha confermato che la Russia non parteciperà ai Mondiali giovanili in Canada",
+      "fullSummary": "Tiger Woods tornerà a giocare un torneo professionistico di golf dopo più di due anni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/hockey-su-ghiaccio-federazione-internazionale-di-hockey-su-ghiaccio-russia-canada-mondiali-giovanili/"
+      "url": "https://www.ilpost.it/2026/11/17/tiger-woods-torna-a-giocare-un-torneo-professionistico-di-golf/"
     },
     {
       "cat": "sport",
-      "title": "Ho visto Ronaldinho",
-      "summary": "O quel che rimane del calciatore che fu: ha combinato poco nel “derby della piadina” tra Ravenna e Forlì, ma se n'è parlato in tutto il mond…",
-      "fullSummary": "O quel che rimane del calciatore che fu: ha combinato poco nel “derby della piadina” tra Ravenna e Forlì, ma se n'è parlato in tutto il mondo",
+      "title": "E voi cosa facevate a 14 anni?",
+      "summary": "A questa età Leihani Zoric ha appena vinto i Mondiali di surf, e ora punta alle Olimpiadi",
+      "fullSummary": "A questa età Leihani Zoric ha appena vinto i Mondiali di surf, e ora punta alle Olimpiadi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/ronaldinho-ravenna-calcio-serie-c/"
+      "url": "https://www.ilpost.it/2026/11/17/leihani-zoric-vinto-mondiali-surf-2026/"
+    },
+    {
+      "cat": "sport",
+      "title": "Fernando Alonso parteciperà al Rally Dakar",
+      "summary": "Con la sua scuderia di Formula 1, assieme a un ex campione del mondo di 52 anni e su una macchina uscita da un videogioco",
+      "fullSummary": "Con la sua scuderia di Formula 1, assieme a un ex campione del mondo di 52 anni e su una macchina uscita da un videogioco",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/17/fernando-alonso-rally-dakar-aston-martin/"
+    },
+    {
+      "cat": "sport",
+      "title": "Victor Wembanyama al centro, tre guardie attorno",
+      "summary": "Cioè giocatori più bassi e creativi: è quello che stanno facendo i San Antonio Spurs in NBA, giocando un basket per il momento efficace",
+      "fullSummary": "Cioè giocatori più bassi e creativi: è quello che stanno facendo i San Antonio Spurs in NBA, giocando un basket per il momento efficace",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/17/san-antonio-spurs-nba-scommessa-tre-guardie-wembanyama-castle-fox-harper/"
+    },
+    {
+      "cat": "scienza",
+      "title": "Cortisolo alto? I sintomi reali e le fake news",
+      "summary": "Quello dei sintomi del cortisolo alto è un trend social che si sta intensidicando: alcuni ricercatori britannici lo hanno analizzato nel det…",
+      "fullSummary": "Quello dei sintomi del cortisolo alto è un trend social che si sta intensidicando: alcuni ricercatori britannici lo hanno analizzato nel dettaglio.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/cortisolo-alto-i-sintomi-reali-e-le-fake-news-che-circolano-sui-social"
     },
     {
       "cat": "scienza",
@@ -122,12 +130,20 @@
       "url": "https://www.focus.it/scienza/salute/ultima-epidemia-ebola-congo-sorveglianza-fallita"
     },
     {
-      "cat": "scienza",
-      "title": "Starship: impresa storica, ma il Booster esplode",
-      "summary": "SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall&#039;orbita dopo oltre 22 ore…",
-      "fullSummary": "SpaceX: i bracci meccanici di Starbase hanno catturato per la prima volta uno stadio superiore di ritorno dall&#039;orbita dopo oltre 22 ore nello spazio. A rovinare la festa &amp;egrave; stato il razzo Super Heavy: un allarme carburante ha costretto il Booster 22 ad ammarare.",
+      "cat": "storia",
+      "title": "Il cibo dello Spazio ha cambiato le nostre tavole",
+      "summary": "Dai tubetti di carne consumati dagli astronauti alle serre verticali per Marte, la necessit&amp;agrave; di nutrire gli astronauti ha trasfor…",
+      "fullSummary": "Dai tubetti di carne consumati dagli astronauti alle serre verticali per Marte, la necessit&amp;agrave; di nutrire gli astronauti ha trasformato il modo in cui mangiamo: cos&amp;igrave; sono nati i protocolli di sicurezza alimentare Haccp.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/impresa-storica-per-spacex-la-torre-afferra-al-volo-la-starship-42-ma-il-booster-22-esplode-nel-golfo-del-messico"
+      "url": "https://www.focus.it/cultura/curiosita/alimentazione-astronauti-cambiato-modo-mangiare-terra"
+    },
+    {
+      "cat": "storia",
+      "title": "La lunga guerra dell&#039;uomo contro virus e batteri",
+      "summary": "Un viaggio nella storia delle malattie pi&amp;ugrave; letali, dal vaiolo eradicato alla tubercolosi fino al ritorno del morbillo in Italia: …",
+      "fullSummary": "Un viaggio nella storia delle malattie pi&amp;ugrave; letali, dal vaiolo eradicato alla tubercolosi fino al ritorno del morbillo in Italia: ecco come vaccini e antibiotici hanno salvato 154 milioni di vite e perch&amp;eacute; non bisogna abbassare la guardia.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/cultura/storia/dalla-peste-al-morbillo-la-lunga-battaglia-contro-le-malattie-infettive-che-minacciano-ancora-oggi"
     },
     {
       "cat": "storia",
@@ -144,22 +160,6 @@
       "fullSummary": "Dalle prime intuizioni di Antonio Gonnelli-Cioni e Maria Montessori alla gestione moderna di BES e DSA: origini e aumento delle certificazioni nella scuola italiana.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/dall-ortofrenia-alle-diagnosi-di-dsa-com-e-nato-l-insegnante-di-sostegno-in-italia"
-    },
-    {
-      "cat": "storia",
-      "title": "Come la Cina è diventata la fabbrica del mondo?",
-      "summary": "Dalle riforme di Deng Xiaoping alle zone economiche speciali, la strategia che ha trasformato la Cina in un colosso manifatturiero mantenend…",
-      "fullSummary": "Dalle riforme di Deng Xiaoping alle zone economiche speciali, la strategia che ha trasformato la Cina in un colosso manifatturiero mantenendo il controllo politico.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/da-quando-la-cina-e-diventata-la-fabbrica-del-mondo-il-prezzo-del-miracolo-economico-cinese"
-    },
-    {
-      "cat": "storia",
-      "title": "Da Nefertiti ad Attila: i sepolcri svaniti",
-      "summary": "Da Nefertiti ad Attila fino a Gengis Khan, la storia ha preservato le gesta dei grandi sovrani cancellando per&amp;ograve; i loro sepolcri. …",
-      "fullSummary": "Da Nefertiti ad Attila fino a Gengis Khan, la storia ha preservato le gesta dei grandi sovrani cancellando per&amp;ograve; i loro sepolcri. Tra indizi, leggende e ricerche mai concluse, il punto sugli scavi.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/mistero/alla-ricerca-della-tomba-perduta-il-mistero-dei-sepolcri-svaniti-nel-nulla"
     },
     {
       "cat": "tech",
