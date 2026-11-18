@@ -1,69 +1,93 @@
 {
-  "generatedAt": "2026-11-18T03:10:20.746Z",
+  "generatedAt": "2026-11-18T11:43:43.028Z",
   "items": [
     {
       "cat": "politica",
-      "title": "Lo strambo dibattito italiano sulla patrimoniale",
-      "summary": "Storia della tassa più controversa e su cui si litiga periodicamente, che non è per forza di sinistra e in varie forme esiste già",
-      "fullSummary": "Storia della tassa più controversa e su cui si litiga periodicamente, che non è per forza di sinistra e in varie forme esiste già",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/patrimoniale-schlein-tassa-exit-tax-campo-largo-conte-sinistra/"
-    },
-    {
-      "cat": "politica",
-      "title": "Sei grafici per capire quanto sono messe male le regioni sulla sanità",
-      "summary": "Nel 2025 le spese hanno superato le entrate di 3,5 miliardi di euro",
-      "fullSummary": "Nel 2025 le spese hanno superato le entrate di 3,5 miliardi di euro",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/"
-    },
-    {
-      "cat": "politica",
-      "title": "Anche quest&#8217;anno l&#8217;inflazione ci farà pagare più tasse",
-      "summary": "Tornerà l'ormai famigerato “fiscal drag”, dice l'Istat, e renderà inefficaci le misure della legge di bilancio a favore dei redditi",
-      "fullSummary": "Tornerà l'ormai famigerato “fiscal drag”, dice l'Istat, e renderà inefficaci le misure della legge di bilancio a favore dei redditi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/13/tasse-fiscal-drag-istat-irpef-legge-di-bilancio-2027/"
-    },
-    {
-      "cat": "politica",
-      "title": "Il problema vero sull&#8217;Ucraina, per Meloni, sarà nel 2027",
-      "summary": "Perché ci sarà la campagna elettorale, e un decreto-legge spinoso da approvare",
-      "fullSummary": "Perché ci sarà la campagna elettorale, e un decreto-legge spinoso da approvare",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/12/invio-armi-ucraina-copasir-borghi-lega-crosetto-giorgetti/"
-    },
-    {
-      "cat": "mondo",
-      "title": "L&#8217;enorme inchiesta sui molti scandali di Deutsche Bank",
-      "summary": "L'analisi di 15 milioni di documenti interni ha rivelato che la banca tedesca ignorava allarmi e possibili violazioni, anche per proteggere …",
-      "fullSummary": "L'analisi di 15 milioni di documenti interni ha rivelato che la banca tedesca ignorava allarmi e possibili violazioni, anche per proteggere i conti degli oligarchi russi",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/17/inchiesta-deutsche-bank/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il presidente della Mongolia ha detto che si dimetterà per un&#8217;accusa di corruzione",
+      "title": "Emanuele Fiano ha lasciato il PD a causa del mancato sostegno del partito alla legge sull’antisemitismo",
       "summary": "",
-      "fullSummary": "Il presidente della Mongolia ha detto che si dimetterà per un&#8217;accusa di corruzione",
+      "fullSummary": "Emanuele Fiano ha lasciato il PD a causa del mancato sostegno del partito alla legge sull’antisemitismo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/17/mongolia-corruzione-presidente/"
+      "url": "https://www.ilpost.it/2026/11/18/emanuele-fiano-lascia-pd-mancato-sostegno-legge-antisemitismo/"
     },
     {
-      "cat": "mondo",
-      "title": "La polizia turca ha perquisito la sede del canale tv Sözcü, vicino all’opposizione, interrompendo le trasmissioni",
+      "cat": "politica",
+      "title": "La Camera ha chiesto di togliere i simboli fascisti dalla mostra su Pino Rauti",
+      "summary": "È stata organizzata con il patrocinio del ministero della Cultura per il centenario della nascita del fondatore di Ordine Nuovo",
+      "fullSummary": "È stata organizzata con il patrocinio del ministero della Cultura per il centenario della nascita del fondatore di Ordine Nuovo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/18/mostra-camera-pino-rauti-palazzo-valdina/"
+    },
+    {
+      "cat": "politica",
+      "title": "Il capogruppo della Lega al Senato Massimiliano Romeo è stato sfiduciato: al suo posto è stato nominato Marco Dreosto",
       "summary": "",
-      "fullSummary": "La polizia turca ha perquisito la sede del canale tv Sözcü, vicino all’opposizione, interrompendo le trasmissioni",
+      "fullSummary": "Il capogruppo della Lega al Senato Massimiliano Romeo è stato sfiduciato: al suo posto è stato nominato Marco Dreosto",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/17/sozcu-tv-turchia-irruzione-polizia/"
+      "url": "https://www.ilpost.it/2026/11/18/capogruppo-lega-senato-massimiliano-romeo-sfiduciato-dreosto/"
+    },
+    {
+      "cat": "politica",
+      "title": "Il contestato disegno di legge sull’antisemitismo è stato approvato",
+      "summary": "Il centrosinistra ha votato contro, ma nel PD una parte della corrente moderata si è astenuta",
+      "fullSummary": "Il centrosinistra ha votato contro, ma nel PD una parte della corrente moderata si è astenuta",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/18/disegno-di-legge-antisemitismo-approvato/"
     },
     {
       "cat": "mondo",
-      "title": "Nell&#8217;amministrazione Trump si litiga sulla Cina",
-      "summary": "E su come reagire allo scandalo di Nvidia: Trump stesso non è sicuro, ma intanto incontrerà di nuovo il presidente cinese Xi Jinping",
-      "fullSummary": "E su come reagire allo scandalo di Nvidia: Trump stesso non è sicuro, ma intanto incontrerà di nuovo il presidente cinese Xi Jinping",
+      "title": "Il ponte di Kerch era un simbolo del regime di Putin",
+      "summary": "Rappresentava l’unità fra Russia e Crimea ed era la via più breve per spostare merci, mezzi e soldati: gli attacchi ucraini l’hanno reso ina…",
+      "fullSummary": "La parziale distruzione del ponte di Kerch rappresenta un rilevante successo militare e simbolico per l’Ucraina. Lunga 19 chilometri e inaugurata nel 2018 da Vladimir Putin alla guida di un camion, l’infrastruttura era costata 3,5 miliardi di dollari e costituiva per la Russia la via più rapida per rifornire la Crimea – occupata e annessa illegalmente nel 2014 – oltre che il principale asse di transito per truppe, armi e merci verso il fronte bellico sud-orientale. Costruito in due anni dalla Stroigazmontazh di Arkady Rotenberg e celebrato dalla propaganda di Mosca come un’opera ultraprotetta e simbolo dell’unità territoriale russa, per l'Ucraina incarnava invece la russificazione forzata della penisola.\n\nDopo settimane di manovre per neutralizzare le difese russe, l'Ucraina ha colpito la struttura il 16 e 17 novembre impiegando armi di propria produzione, tra cui missili Neptune, droni Palianytsia e missili da crociera FP-5 Flamingo realizzati da Fire Point. Gli attacchi hanno distrutto totalmente uno dei due archi metallici e la carreggiata stradale sottostante. I danni alla sezione ferroviaria sono stati invece molto minori, consentendo la ripresa dei treni già dal mercoledì successivo. La caduta dei detriti nel fondale navigabile ha tuttavia bloccato anche il transito marittimo tra il mare d’Azov e il mar Nero.\n\nL'inagibilità del ponte isola la Crimea, già provata durante l'estate da blackout e carenze di carburante, ostacolando anche il rientro in Russia dei cittadini trasferitisi nella penisola dopo il 2014 e contraddicendo la propaganda che la descriveva come una meta tranquilla. L’unico percorso alternativo via terra resta l’autostrada Novorossiya: un itinerario di quasi 700 chilometri attraverso i territori occupati di Donetsk, Zaporizhzhia e Kherson, reso tuttavia pericoloso dai continui attacchi dei droni ucraini. Sebbene la Russia abbia annunciato la futura ricostruzione del ponte, esperti citati dal Kyiv Independent stimano che i lavori richiederanno oltre un anno, mentre la rimozione dei detriti dal canale marittimo dovrebbe richiedere tempi inferiori.",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/17/trump-litigi-cina/"
+      "url": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/"
+    },
+    {
+      "cat": "mondo",
+      "title": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone",
+      "summary": "",
+      "fullSummary": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/18/brasile-tribu-indigena-contatto-umani/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Per Trump, Putin e Xi Jinping conta soprattutto incontrarsi",
+      "summary": "I presidenti di Stati Uniti, Russia e Cina si vedranno giovedì per motivi diversi, e sanno principalmente di cosa è meglio non parlare",
+      "fullSummary": "I presidenti di Stati Uniti, Russia e Cina si vedranno giovedì per motivi diversi, e sanno principalmente di cosa è meglio non parlare",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/18/incontro-trump-putin-xi/"
+    },
+    {
+      "cat": "mondo",
+      "title": "I Democratici hanno vinto persino in Alaska",
+      "summary": "La Democratica Mary Peltola ha sconfitto il senatore uscente Dan Sullivan, in uno stato storicamente e saldamente Repubblicano",
+      "fullSummary": "La Democratica Mary Peltola ha sconfitto il senatore uscente Dan Sullivan, in uno stato storicamente e saldamente Repubblicano",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/18/democratici-alaska-senato-mary-peltola/"
+    },
+    {
+      "cat": "sport",
+      "title": "Sportivi &#8220;brutti&#8221;",
+      "summary": "Tanti profili social, tutti emuli del più famoso dedicato ai calciatori, raccontano lo sport con meme e battute, e a volte fanno informazion…",
+      "fullSummary": "Tanti profili social, tutti emuli del più famoso dedicato ai calciatori, raccontano lo sport con meme e battute, e a volte fanno informazione",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/18/sport-racconto-social-profili-brutti/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il principale sfidante di Gianni Infantino alla presidenza della FIFA",
+      "summary": "Philippe Diallo non è particolarmente noto o apprezzato, ma ha ricevuto il sostegno della UEFA, la quale pure è probabile lo consideri un ri…",
+      "fullSummary": "Philippe Diallo non è particolarmente noto o apprezzato, ma ha ricevuto il sostegno della UEFA, la quale pure è probabile lo consideri un ripiego",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/17/presidenza-fifa-diallo-chi-e-sfidante-infantino-uefa/"
+    },
+    {
+      "cat": "sport",
+      "title": "Tiger Woods tornerà a giocare un torneo professionistico di golf dopo più di due anni",
+      "summary": "",
+      "fullSummary": "Tiger Woods tornerà a giocare un torneo professionistico di golf dopo più di due anni",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/17/tiger-woods-torna-a-giocare-un-torneo-professionistico-di-golf/"
     },
     {
       "cat": "sport",
@@ -74,60 +98,36 @@
       "url": "https://www.ilpost.it/2026/11/17/leihani-zoric-vinto-mondiali-surf-2026/"
     },
     {
-      "cat": "sport",
-      "title": "Fernando Alonso parteciperà al Rally Dakar",
-      "summary": "Con la sua scuderia di Formula 1, assieme a un ex campione del mondo di 52 anni e su una macchina uscita da un videogioco",
-      "fullSummary": "Con la sua scuderia di Formula 1, assieme a un ex campione del mondo di 52 anni e su una macchina uscita da un videogioco",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/17/fernando-alonso-rally-dakar-aston-martin/"
-    },
-    {
-      "cat": "sport",
-      "title": "Victor Wembanyama al centro, tre guardie attorno",
-      "summary": "Cioè giocatori più bassi e creativi: è quello che stanno facendo i San Antonio Spurs in NBA, giocando un basket per il momento efficace",
-      "fullSummary": "Cioè giocatori più bassi e creativi: è quello che stanno facendo i San Antonio Spurs in NBA, giocando un basket per il momento efficace",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/17/san-antonio-spurs-nba-scommessa-tre-guardie-wembanyama-castle-fox-harper/"
-    },
-    {
-      "cat": "sport",
-      "title": "Flavio Cobolli ha perso contro Daniil Medvedev nella sua prima partita delle ATP Finals",
-      "summary": "",
-      "fullSummary": "Flavio Cobolli ha perso contro Daniil Medvedev nella sua prima partita delle ATP Finals",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/16/medvedev-cobolli-prima-partita-atp-finals/"
+      "cat": "scienza",
+      "title": "Un pettine elettrico combatte la calvizie nei topi",
+      "summary": "Un pettine elettrico sviluppato in Cina ha fatto ricrescere quasi il 100% dei peli nei topi in un mese, battendo il minoxidil. Ora si aspett…",
+      "fullSummary": "Un pettine elettrico sviluppato in Cina ha fatto ricrescere quasi il 100% dei peli nei topi in un mese, battendo il minoxidil. Ora si aspettano i test sull’uomo.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/un-pettine-elettrico-combatte-la-calvizie-nei-topi"
     },
     {
       "cat": "scienza",
-      "title": "Cortisolo alto? I sintomi reali e le fake news",
-      "summary": "Quello dei sintomi del cortisolo alto è un trend social che si sta intensidicando: alcuni ricercatori britannici lo hanno analizzato nel det…",
-      "fullSummary": "Quello dei sintomi del cortisolo alto è un trend social che si sta intensidicando: alcuni ricercatori britannici lo hanno analizzato nel dettaglio.",
+      "title": "Vietare i social agli under 16 funziona?",
+      "summary": "Dopo l&#039;entrata in vigore del divieto in Australia, l&#039;86% dei ragazzi tra i 12 e i 16 anni continua a usare le piattaforme: gli esp…",
+      "fullSummary": "Dopo l&#039;entrata in vigore del divieto in Australia, l&#039;86% dei ragazzi tra i 12 e i 16 anni continua a usare le piattaforme: gli esperti spiegano perch&amp;eacute; i blocchi non bastano.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/cortisolo-alto-i-sintomi-reali-e-le-fake-news-che-circolano-sui-social"
+      "url": "https://www.focus.it/scienza/salute/vietare-i-social-agli-under-16-funziona-cosa-dicono-i-primi-dati-e-gli-effetti-a-scuola"
     },
     {
       "cat": "scienza",
-      "title": "Obesità: oltre l&#039;Indice di Massa Corporea",
-      "summary": "Una nuova definizione di obesità che vada oltre l&#039;unico parametro usato finora renderà più facile capire il livello di rischio e indiri…",
-      "fullSummary": "Una nuova definizione di obesità che vada oltre l&#039;unico parametro usato finora renderà più facile capire il livello di rischio e indirizzare le cure.",
+      "title": "Il vortice polare debole: l&#039;impatto sull&#039;Italia",
+      "summary": "La conferma del Met Office britannico: il vortice polare si è indebolito in anticipo, ma sul meteo dell&#039;Europa meridionale non sono pre…",
+      "fullSummary": "La conferma del Met Office britannico: il vortice polare si è indebolito in anticipo, ma sul meteo dell&#039;Europa meridionale non sono previsti grandi cambiamenti.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/obesita-perche-bisogna-andare-oltre-l-indice-di-massa-corporea"
+      "url": "https://www.focus.it/scienza/scienze/il-vortice-polare-si-e-indebolito-impatto-sul-meteo-in-italia"
     },
     {
       "cat": "scienza",
-      "title": "Il misterioso &quot;battito&quot; della rete elettrica",
-      "summary": "Da anni gli esperti registravano sulla rete elettrica un&#039;oscillazione della frequenza ogni 60 secondi. Uno studio ora spiega il motivo:…",
-      "fullSummary": "Da anni gli esperti registravano sulla rete elettrica un&#039;oscillazione della frequenza ogni 60 secondi. Uno studio ora spiega il motivo: milioni di batterie e gruppi di continuit&amp;agrave; sincronizzati sullo stesso secondo.",
+      "title": "Esplosione della nova rimandata al 2027",
+      "summary": "Tutte le finestre temporali ipotizzate finora sono scadute senza che la nova &lt;em&gt;T Coronae Borealis&lt;/em&gt; desse spettacolo, ma pe…",
+      "fullSummary": "Tutte le finestre temporali ipotizzate finora sono scadute senza che la nova &lt;em&gt;T Coronae Borealis&lt;/em&gt; desse spettacolo, ma per la NASA l&#039;eruzione resta vicina: si ipotizza marzo 2027.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/energia/rete-elettrica-europea-ha-uno-strano-battito-ogni-60-secondi-scoperta-la-causa"
-    },
-    {
-      "cat": "scienza",
-      "title": "Ebola in Congo: come tutto è iniziato",
-      "summary": "Nelle fasi iniziali dell&#039;epidemia di Ebola nella Repubblica Democratica del Congo il virus sfuggì al rilevamento anche a causa dei tagl…",
-      "fullSummary": "Nelle fasi iniziali dell&#039;epidemia di Ebola nella Repubblica Democratica del Congo il virus sfuggì al rilevamento anche a causa dei tagli agli aiuti.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/ultima-epidemia-ebola-congo-sorveglianza-fallita"
+      "url": "https://www.focus.it/scienza/spazio/mistero-nova-ritardo-perche-t-coronae-borealis-non-e-ancora-esplosa-e-quando-potremo-vederla"
     },
     {
       "cat": "storia",
