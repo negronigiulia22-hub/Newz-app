@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:43:43.028Z",
+  "generatedAt": "2026-11-18T20:34:59.143Z",
   "items": [
     {
       "cat": "politica",
@@ -35,14 +35,6 @@
     },
     {
       "cat": "mondo",
-      "title": "Il ponte di Kerch era un simbolo del regime di Putin",
-      "summary": "Rappresentava l’unità fra Russia e Crimea ed era la via più breve per spostare merci, mezzi e soldati: gli attacchi ucraini l’hanno reso ina…",
-      "fullSummary": "La parziale distruzione del ponte di Kerch rappresenta un rilevante successo militare e simbolico per l’Ucraina. Lunga 19 chilometri e inaugurata nel 2018 da Vladimir Putin alla guida di un camion, l’infrastruttura era costata 3,5 miliardi di dollari e costituiva per la Russia la via più rapida per rifornire la Crimea – occupata e annessa illegalmente nel 2014 – oltre che il principale asse di transito per truppe, armi e merci verso il fronte bellico sud-orientale. Costruito in due anni dalla Stroigazmontazh di Arkady Rotenberg e celebrato dalla propaganda di Mosca come un’opera ultraprotetta e simbolo dell’unità territoriale russa, per l'Ucraina incarnava invece la russificazione forzata della penisola.\n\nDopo settimane di manovre per neutralizzare le difese russe, l'Ucraina ha colpito la struttura il 16 e 17 novembre impiegando armi di propria produzione, tra cui missili Neptune, droni Palianytsia e missili da crociera FP-5 Flamingo realizzati da Fire Point. Gli attacchi hanno distrutto totalmente uno dei due archi metallici e la carreggiata stradale sottostante. I danni alla sezione ferroviaria sono stati invece molto minori, consentendo la ripresa dei treni già dal mercoledì successivo. La caduta dei detriti nel fondale navigabile ha tuttavia bloccato anche il transito marittimo tra il mare d’Azov e il mar Nero.\n\nL'inagibilità del ponte isola la Crimea, già provata durante l'estate da blackout e carenze di carburante, ostacolando anche il rientro in Russia dei cittadini trasferitisi nella penisola dopo il 2014 e contraddicendo la propaganda che la descriveva come una meta tranquilla. L’unico percorso alternativo via terra resta l’autostrada Novorossiya: un itinerario di quasi 700 chilometri attraverso i territori occupati di Donetsk, Zaporizhzhia e Kherson, reso tuttavia pericoloso dai continui attacchi dei droni ucraini. Sebbene la Russia abbia annunciato la futura ricostruzione del ponte, esperti citati dal Kyiv Independent stimano che i lavori richiederanno oltre un anno, mentre la rimozione dei detriti dal canale marittimo dovrebbe richiedere tempi inferiori.",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/"
-    },
-    {
-      "cat": "mondo",
       "title": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone",
       "summary": "",
       "fullSummary": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone",
@@ -64,6 +56,14 @@
       "fullSummary": "La Democratica Mary Peltola ha sconfitto il senatore uscente Dan Sullivan, in uno stato storicamente e saldamente Repubblicano",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/18/democratici-alaska-senato-mary-peltola/"
+    },
+    {
+      "cat": "mondo",
+      "title": "Il partito di Netanyahu ha perso la presidenza del parlamento israeliano",
+      "summary": "È un primo successo per Gadi Eisenkot, che sta cercando di formare il governo e ora potrà controllare i lavori parlamentari",
+      "fullSummary": "È un primo successo per Gadi Eisenkot, che sta cercando di formare il governo e ora potrà controllare i lavori parlamentari",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/17/opposizione-elegge-presidente-parlamento-israele/"
     },
     {
       "cat": "sport",
@@ -99,6 +99,14 @@
     },
     {
       "cat": "scienza",
+      "title": "La sonda Voyager 1 è a un giorno-luce dalla Terra",
+      "summary": "Dopo quasi 50 anni nello spazio, Voyager 1 ha raggiunto una distanza senza precedenti: 25,9 miliardi di chilometri dalla Terra. Per inviarle…",
+      "fullSummary": "Dopo quasi 50 anni nello spazio, Voyager 1 ha raggiunto una distanza senza precedenti: 25,9 miliardi di chilometri dalla Terra. Per inviarle un messaggio serve ormai un&#039;intera giornata.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/voyager-1-un-giorno-luce-dalla-terra"
+    },
+    {
+      "cat": "scienza",
       "title": "Un pettine elettrico combatte la calvizie nei topi",
       "summary": "Un pettine elettrico sviluppato in Cina ha fatto ricrescere quasi il 100% dei peli nei topi in un mese, battendo il minoxidil. Ora si aspett…",
       "fullSummary": "Un pettine elettrico sviluppato in Cina ha fatto ricrescere quasi il 100% dei peli nei topi in un mese, battendo il minoxidil. Ora si aspettano i test sull’uomo.",
@@ -120,14 +128,6 @@
       "fullSummary": "La conferma del Met Office britannico: il vortice polare si è indebolito in anticipo, ma sul meteo dell&#039;Europa meridionale non sono previsti grandi cambiamenti.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/scienze/il-vortice-polare-si-e-indebolito-impatto-sul-meteo-in-italia"
-    },
-    {
-      "cat": "scienza",
-      "title": "Esplosione della nova rimandata al 2027",
-      "summary": "Tutte le finestre temporali ipotizzate finora sono scadute senza che la nova &lt;em&gt;T Coronae Borealis&lt;/em&gt; desse spettacolo, ma pe…",
-      "fullSummary": "Tutte le finestre temporali ipotizzate finora sono scadute senza che la nova &lt;em&gt;T Coronae Borealis&lt;/em&gt; desse spettacolo, ma per la NASA l&#039;eruzione resta vicina: si ipotizza marzo 2027.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/mistero-nova-ritardo-perche-t-coronae-borealis-non-e-ancora-esplosa-e-quando-potremo-vederla"
     },
     {
       "cat": "storia",
