@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:34:59.143Z",
+  "generatedAt": "2026-11-19T02:56:49.388Z",
   "items": [
     {
       "cat": "politica",
@@ -35,6 +35,14 @@
     },
     {
       "cat": "mondo",
+      "title": "Il ponte di Kerch era un simbolo del regime di Putin",
+      "summary": "Rappresentava l’unità fra Russia e Crimea ed era la via più breve per spostare merci, mezzi e soldati: gli attacchi ucraini l’hanno reso ina…",
+      "fullSummary": "Rappresentava l’unità fra Russia e Crimea ed era la via più breve per spostare merci, mezzi e soldati: gli attacchi ucraini l’hanno reso inagibile",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/"
+    },
+    {
+      "cat": "mondo",
       "title": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone",
       "summary": "",
       "fullSummary": "In Brasile dei membri di una popolazione indigena isolata sono entrati in contatto con alcune persone",
@@ -56,14 +64,6 @@
       "fullSummary": "La Democratica Mary Peltola ha sconfitto il senatore uscente Dan Sullivan, in uno stato storicamente e saldamente Repubblicano",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/18/democratici-alaska-senato-mary-peltola/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Il partito di Netanyahu ha perso la presidenza del parlamento israeliano",
-      "summary": "È un primo successo per Gadi Eisenkot, che sta cercando di formare il governo e ora potrà controllare i lavori parlamentari",
-      "fullSummary": "È un primo successo per Gadi Eisenkot, che sta cercando di formare il governo e ora potrà controllare i lavori parlamentari",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/17/opposizione-elegge-presidente-parlamento-israele/"
     },
     {
       "cat": "sport",
