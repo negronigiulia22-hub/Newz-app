@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:50:12.956Z",
+  "generatedAt": "2026-11-20T19:56:12.425Z",
   "items": [
     {
       "cat": "politica",
@@ -35,67 +35,83 @@
     },
     {
       "cat": "mondo",
-      "title": "Fingere un’emergenza per non far copiare gli studenti",
-      "summary": "Il governo sudcoreano ha fatto suonare il sistema di allerta sui cellulari poco prima dell’esame più importante dell’anno",
-      "fullSummary": "Il governo sudcoreano ha fatto suonare il sistema di allerta sui cellulari poco prima dell’esame più importante dell’anno",
+      "title": "Le Brigate Internazionali dividono Madrid anche dopo novant’anni",
+      "summary": "Con discussioni ricorrenti sull'opportunità di celebrare i volontari stranieri durante la guerra civile, e di continuare a cercare le loro f…",
+      "fullSummary": "Con discussioni ricorrenti sull'opportunità di celebrare i volontari stranieri durante la guerra civile, e di continuare a cercare le loro fosse comuni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/19/corea-del-sud-suneung-esame-controlli/"
+      "url": "https://www.ilpost.it/2026/11/20/brigate-internazionali-spagna-madrid/"
     },
     {
       "cat": "mondo",
-      "title": "La Commissione Europea ha subìto un attacco informatico",
+      "title": "Il territorio polacco è stato colpito da almeno un missile lanciato dalla Russia durante un grosso attacco contro l&#8217;Ucraina",
       "summary": "",
-      "fullSummary": "La Commissione Europea ha subìto un attacco informatico",
+      "fullSummary": "Il territorio polacco è stato colpito da almeno un missile lanciato dalla Russia durante un grosso attacco contro l&#8217;Ucraina",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/19/attacco-informatico-commissione-europea/"
+      "url": "https://www.ilpost.it/2026/11/20/polonia-missili-droni-russia-ucraina/"
     },
     {
       "cat": "mondo",
-      "title": "Il Myanmar è stato condannato per il genocidio dei rohingya",
-      "summary": "Era a processo alla Corte internazionale di giustizia, in un procedimento storico destinato ad avere conseguenze su casi simili",
-      "fullSummary": "Era a processo alla Corte internazionale di giustizia, in un procedimento storico destinato ad avere conseguenze su casi simili",
+      "title": "La compagnia aerea tedesca Lufthansa ha detto di voler eliminare mille posti di lavoro",
+      "summary": "",
+      "fullSummary": "La compagnia aerea tedesca Lufthansa ha detto di voler eliminare mille posti di lavoro",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/19/sentenza-myanmar-rohingya-genocidio/"
+      "url": "https://www.ilpost.it/2026/11/20/lufthansa-elimina-1000-posti-di-lavoro/"
     },
     {
       "cat": "mondo",
-      "title": "Il parlamento della Danimarca ha ratificato l’accordo per la sicurezza fatto con Stati Uniti e Groenlandia, che entrerà così in vigore",
+      "title": "Il nuovo aereo presidenziale del Ghana è diventato un caso politico",
+      "summary": "È costato 55 milioni di euro, in un paese ancora alle prese con gli effetti della grave crisi economica",
+      "fullSummary": "È costato 55 milioni di euro, in un paese ancora alle prese con gli effetti della grave crisi economica",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/20/ghana-aereo-presidenziale/"
+    },
+    {
+      "cat": "sport",
+      "title": "Flavio Cobolli ha perso anche la sua terza partita alle ATP Finals di tennis, contro Carlos Alcaraz",
       "summary": "",
-      "fullSummary": "Il parlamento della Danimarca ha ratificato l’accordo per la sicurezza fatto con Stati Uniti e Groenlandia, che entrerà così in vigore",
+      "fullSummary": "Flavio Cobolli ha perso anche la sua terza partita alle ATP Finals di tennis, contro Carlos Alcaraz",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/19/accordo-sicurezza-stati-uniti-groenlandia-danimarca-ratificato-definitivamente/"
+      "url": "https://www.ilpost.it/2026/11/20/cobolli-alcaraz-atp-finals-risultato/"
     },
     {
       "cat": "sport",
-      "title": "La furbata di Magnus Carlsen per rimanere primo al mondo negli scacchi",
-      "summary": "Ha rinunciato a giocare due partite, perché perderle a tavolino non toglie punteggio nel ranking: un gesto antisportivo, secondo molti",
-      "fullSummary": "Ha rinunciato a giocare due partite, perché perderle a tavolino non toglie punteggio nel ranking: un gesto antisportivo, secondo molti",
+      "title": "La nuova favorita per la Coppa del Mondo di sci",
+      "summary": "Non Shiffrin, non Brignone e non Gut-Behrami: è la giovane Emma Aicher, che fa tutte le gare e pure bene",
+      "fullSummary": "Non Shiffrin, non Brignone e non Gut-Behrami: è la giovane Emma Aicher, che fa tutte le gare e pure bene",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/19/magnus-carlsen-scacchi-total-chess-budapest-2026/"
+      "url": "https://www.ilpost.it/2026/11/20/emma-aicher-favorita-coppa-mondo-sci-alpino-2026-2027/"
     },
     {
       "cat": "sport",
-      "title": "Potremo vedere come batte il cuore dei piloti di Formula 1",
-      "summary": "Dalla prossima stagione, ma Max Verstappen non è d'accordo",
-      "fullSummary": "Dalla prossima stagione, ma Max Verstappen non è d'accordo",
+      "title": "Le ATP Finals senza Jannik Sinner",
+      "summary": "Al palazzetto sono comunque quasi sold out, ma in televisione vengono viste molto meno",
+      "fullSummary": "Al palazzetto sono comunque quasi sold out, ma in televisione vengono viste molto meno",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/19/battito-cuore-piloti-formula-1-max-verstappen-precedenti/"
+      "url": "https://www.ilpost.it/2026/11/20/atp-finals-senza-jannik-sinner/"
     },
     {
       "cat": "sport",
-      "title": "Come funziona la FIFA",
-      "summary": "Dovrebbe essere un'organizzazione democratica e senza scopo di lucro, ma nei fatti non è proprio così",
-      "fullSummary": "Dovrebbe essere un'organizzazione democratica e senza scopo di lucro, ma nei fatti non è proprio così",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/19/come-funziona-la-fifa/"
-    },
-    {
-      "cat": "sport",
-      "title": "Il tennista Flavio Cobolli ha perso contro Frances Tiafoe ed è stato eliminato dalle ATP Finals",
+      "title": "I tennisti italiani convocati per la Coppa Davis della prossima settimana",
       "summary": "",
-      "fullSummary": "Il tennista Flavio Cobolli ha perso contro Frances Tiafoe ed è stato eliminato dalle ATP Finals",
+      "fullSummary": "I tennisti italiani convocati per la Coppa Davis della prossima settimana",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/18/cobolli-eliminazione-atp-finals/"
+      "url": "https://www.ilpost.it/2026/11/20/convocati-italiani-coppa-davis/"
+    },
+    {
+      "cat": "scienza",
+      "title": "L&#039;Alzheimer tocca anche un&#039;area sottovalutata",
+      "summary": "Alterazioni di ritmi circadiani e metabolismo caratterizzano le prime fasi dell&#039;Alzheimer: uno studio sull&#039;ipotalamo ne spiega le …",
+      "fullSummary": "Alterazioni di ritmi circadiani e metabolismo caratterizzano le prime fasi dell&#039;Alzheimer: uno studio sull&#039;ipotalamo ne spiega le basi biologiche.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/l-alzheimer-interessa-anche-l-ipotalamo-e-i-segnali-si-vedono-da-subito"
+    },
+    {
+      "cat": "scienza",
+      "title": "Le meteo-foto più belle del 2026",
+      "summary": "Una cascata di nebbia a Maiorca vince il Weather Photographer of the Year 2026. Guarda le foto premiate, dai fulmini su New York all&#039;An…",
+      "fullSummary": "Una cascata di nebbia a Maiorca vince il Weather Photographer of the Year 2026. Guarda le foto premiate, dai fulmini su New York all&#039;Antartide.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/weather-photographer-year-2026-foto-vincitrici"
     },
     {
       "cat": "scienza",
@@ -114,20 +130,20 @@
       "url": "https://www.focus.it/scienza/spazio/i-motori-della-sonda-hayabusa-2-invecchiano-la-jaxa-cambia-rotta-il-nuovo-bersaglio-e-l-asteroide-2015-bm510"
     },
     {
-      "cat": "scienza",
-      "title": "Cosa dicono i rumori del nostro corpo",
-      "summary": "Cuore, intestino, articolazioni e vie respiratorie producono rumori che, oltre a creare qualche imbarazzo, forniscono indizi preziosi sul no…",
-      "fullSummary": "Cuore, intestino, articolazioni e vie respiratorie producono rumori che, oltre a creare qualche imbarazzo, forniscono indizi preziosi sul nostro stato di salute: imparare ad ascoltarli &amp;egrave; importante.",
+      "cat": "storia",
+      "title": "Il nuovo numero da leggere... senza fretta!",
+      "summary": "&lt;span data-path-to-node=&quot;1,2,0,0&quot;&gt;Dagli orologi atomici ai segreti del panettone, passando per la Fomo e le spedizioni tra i…",
+      "fullSummary": "&lt;span data-path-to-node=&quot;1,2,0,0&quot;&gt;Dagli orologi atomici ai segreti del panettone, passando per la Fomo e le spedizioni tra i ghiacci: cosa trovi nel nuovo numero di Focus in edicola da leggere con calma&lt;/span&gt;&lt;span data-path-to-node=&quot;1,2,0,2&quot;&gt;.&lt;/span&gt;",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/rutti-starnuti-e-peti-cosa-dicono-i-rumori-del-nostro-corpo-e-perche-ascoltarli-fa-bene-al-cervello"
+      "url": "https://www.focus.it/cultura/curiosita/il-nuovo-focus-in-edicola-e-un-viaggio-nel-mistero-del-tempo-da-leggere-senza-fretta"
     },
     {
-      "cat": "scienza",
-      "title": "Editing genetico: un tragico caso in Cina",
-      "summary": "Un&#039;indagine sull&#039;esito drammatico di un trial di editing genetico in Cina ha portato alla luce un lassismo diffuso nei controlli e…",
-      "fullSummary": "Un&#039;indagine sull&#039;esito drammatico di un trial di editing genetico in Cina ha portato alla luce un lassismo diffuso nei controlli e segnali ignorati.",
+      "cat": "storia",
+      "title": "Qual era la lingua più parlata nell’Impero romano?",
+      "summary": "Nell&#039;Impero romano esistevano due lingue ufficiali: il latino, considerato poco pi&amp;ugrave; che una lingua da contadini, e il greco,…",
+      "fullSummary": "Nell&#039;Impero romano esistevano due lingue ufficiali: il latino, considerato poco pi&amp;ugrave; che una lingua da contadini, e il greco, preferito negli ambienti colti. Almeno fino allo scisma che divise in due l&#039;Impero.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/bambina-morta-durante-una-terapia-sperimentale-di-editing-genetico-terremoto-istituzionale-in-cina"
+      "url": "https://www.focus.it/cultura/storia/qual-era-la-lingua-piu-parlata-nell-impero-romano"
     },
     {
       "cat": "storia",
@@ -144,22 +160,6 @@
       "fullSummary": "Un viaggio nella storia delle malattie pi&amp;ugrave; letali, dal vaiolo eradicato alla tubercolosi fino al ritorno del morbillo in Italia: ecco come vaccini e antibiotici hanno salvato 154 milioni di vite e perch&amp;eacute; non bisogna abbassare la guardia.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/storia/dalla-peste-al-morbillo-la-lunga-battaglia-contro-le-malattie-infettive-che-minacciano-ancora-oggi"
-    },
-    {
-      "cat": "storia",
-      "title": "Perché si dice “anno sabbatico”?",
-      "summary": "Dalla tradizione ebraica dello &lt;em&gt;shabbat&lt;/em&gt; al congedo per la ricerca universitaria: ecco perch&amp;eacute; l&#039;anno sabb…",
-      "fullSummary": "Dalla tradizione ebraica dello &lt;em&gt;shabbat&lt;/em&gt; al congedo per la ricerca universitaria: ecco perch&amp;eacute; l&#039;anno sabbatico, il settimo anno di pausa previsto nelle leggi di Mos&amp;egrave;, &amp;egrave; arrivato fino a noi.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/perche-si-dice-anno-sabbatico"
-    },
-    {
-      "cat": "storia",
-      "title": "Com&#039;è nato l&#039;insegnante di sostegno in Italia?",
-      "summary": "Dalle prime intuizioni di Antonio Gonnelli-Cioni e Maria Montessori alla gestione moderna di BES e DSA: origini e aumento delle certificazio…",
-      "fullSummary": "Dalle prime intuizioni di Antonio Gonnelli-Cioni e Maria Montessori alla gestione moderna di BES e DSA: origini e aumento delle certificazioni nella scuola italiana.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/dall-ortofrenia-alle-diagnosi-di-dsa-com-e-nato-l-insegnante-di-sostegno-in-italia"
     },
     {
       "cat": "tech",
