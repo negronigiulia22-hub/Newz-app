@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-22T11:18:32.948Z",
+  "generatedAt": "2026-11-22T19:21:11.054Z",
   "items": [
     {
       "cat": "politica",
       "title": "La maggioranza si è divisa in un voto sui libri scolastici",
       "summary": "Fratelli d’Italia e Forza Italia si sono scontrati duramente su un emendamento al “decreto scuola”, che però alla fine è passato lo stesso",
-      "fullSummary": "Fratelli d’Italia e Forza Italia si sono scontrati duramente su un emendamento al “decreto scuola”, che però alla fine è passato lo stesso",
+      "fullSummary": "Al Senato la maggioranza di centrodestra si è divisa in occasione del voto su un emendamento al cosiddetto “decreto scuola”. La proposta, presentata dalle senatrici Ella Bucalo e Anna Maria Fallucchi di Fratelli d’Italia, impone alle case editrici di rendere disponibili i libri scolastici e universitari anche in formato digitale, alla metà del prezzo cartaceo e con la facoltà di stamparli. Nonostante il parere contrario precedentemente espresso dalla commissione Bilancio e il voto contrario di Forza Italia, l’emendamento è stato approvato con 84 voti favorevoli, 76 contrari e un astenuto, grazie all’appoggio determinante dei senatori di Azione, partito di opposizione guidato da Carlo Calenda.\n\nLo scontro all’interno della coalizione è stato acceso. Da parte di Fratelli d’Italia, la responsabile della segreteria politica Arianna Meloni ha descritto la misura come una tutela del diritto allo studio capace di far risparmiare alle famiglie circa 200 euro all'anno per ciascun figlio. Al contrario, Forza Italia – su cui esercita una forte influenza Marina Berlusconi, presidente del gruppo editoriale Mondadori – ha contestato la reale efficacia economica del provvedimento, evidenziando i costi vivi per stampa e rilegatura e mettendo in guardia dai rischi pedagogici legati all'uso esclusivo degli schermi. Anche il settore editoriale, attraverso l’Associazione Italiana Editori presieduta da Innocenzo Cipolletta, e le organizzazioni sindacali si sono opposti, rilevando che le versioni digitali vengono adottate dai docenti solo nel 3,6 per cento dei casi.\n\nPer scongiurare una sconfitta politica esplicita, il governo ha evitato di dare indicazioni di voto. Nonostante il clima teso scaturito dal dissenso formalizzato dalla senatrice Stefania Craxi, in occasione del voto finale sull'intero decreto la maggioranza si è ricompattata: Forza Italia ha votato a favore insieme al centrodestra, mentre Azione si è schierata contro. Il provvedimento è stato così licenziato dal Senato con 80 voti favorevoli, 46 contrari e un astenuto, ed è ora atteso all'esame della Camera.",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/19/governo-maggioranza-decreto-scuola-libri-digitali-senato/"
     },
@@ -35,67 +35,75 @@
     },
     {
       "cat": "mondo",
-      "title": "Il governo di Haiti si è accordato per costruire nuove prigioni con El Salvador, che sta facendo una campagna militare sull&#8217;isola",
+      "title": "I Democratici avranno un bel problema",
+      "summary": "Abbassare i prezzi è la promessa con cui hanno vinto le elezioni di metà mandato: ma tra il dire e il fare...",
+      "fullSummary": "Abbassare i prezzi è la promessa con cui hanno vinto le elezioni di metà mandato: ma tra il dire e il fare...",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/22/democratici-abbassare-costo-della-vita/"
+    },
+    {
+      "cat": "mondo",
+      "title": "La COP31 non è riuscita ad approvare un accordo",
+      "summary": "L'Unione Europea e altri paesi si sono opposti al testo finale, che non citava i combustibili fossili",
+      "fullSummary": "L'Unione Europea e altri paesi si sono opposti al testo finale, che non citava i combustibili fossili",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/22/cop31-scontro-su-accordo/"
+    },
+    {
+      "cat": "mondo",
+      "title": "L’ICE ha arrestato due persone che stavano salendo su un aereo all’aeroporto di Seattle",
       "summary": "",
-      "fullSummary": "Il governo di Haiti si è accordato per costruire nuove prigioni con El Salvador, che sta facendo una campagna militare sull&#8217;isola",
+      "fullSummary": "L’ICE ha arrestato due persone che stavano salendo su un aereo all’aeroporto di Seattle",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/21/haiti-accordo-el-salvador-prigioni/"
+      "url": "https://www.ilpost.it/2026/11/22/ice-arresto-due-persone-imbarchi-aeroporto-seattle/"
     },
     {
       "cat": "mondo",
-      "title": "Come funzioneranno i visti agevolati per giovani tra Regno Unito e Unione Europea",
-      "summary": "Potranno riceverli 100mila europei ogni anno, ma non saranno disponibili da subito",
-      "fullSummary": "Potranno riceverli 100mila europei ogni anno, ma non saranno disponibili da subito",
+      "title": "In Iraq le forze governative sono entrate dove comanda Kataib Hezbollah",
+      "summary": "Cioè la più potente milizia irachena sostenuta dall'Iran: non succedeva da 12 anni",
+      "fullSummary": "Cioè la più potente milizia irachena sostenuta dall'Iran: non succedeva da 12 anni",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/21/nuovi-visti-giovani-regno-unito-unione-europea/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Chi protesta contro Pedro Sánchez arriva sempre in questa strada",
-      "summary": "È calle de Ferraz, la sede del Partito Socialista, dove venerdì sera si sono visti i nostalgici del franchismo",
-      "fullSummary": "È calle de Ferraz, la sede del Partito Socialista, dove venerdì sera si sono visti i nostalgici del franchismo",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/21/ferraz-madrid-manifestazioni/"
-    },
-    {
-      "cat": "mondo",
-      "title": "Tre poliziotti francesi sono stati condannati a cinque anni di carcere per l’aggressione al produttore musicale Michel Zecler",
-      "summary": "",
-      "fullSummary": "Tre poliziotti francesi sono stati condannati a cinque anni di carcere per l’aggressione al produttore musicale Michel Zecler",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/21/francia-poliziotti-condannati-carcere-aggressione-michel-zecler/"
+      "url": "https://www.ilpost.it/2026/11/22/iraq-forze-governo-entrano-territorio-kataib-hezbollah/"
     },
     {
       "cat": "sport",
-      "title": "Carlos Alcaraz ha battuto Ben Shelton ed è in finale alle ATP Finals di tennis",
-      "summary": "",
-      "fullSummary": "Carlos Alcaraz ha battuto Ben Shelton ed è in finale alle ATP Finals di tennis",
+      "title": "Marc Márquez ha vinto la MotoGP per l&#8217;ottava volta",
+      "summary": "In un colpo solo ha eguagliato il record di Giacomo Agostini e superato Valentino Rossi",
+      "fullSummary": "In un colpo solo ha eguagliato il record di Giacomo Agostini e superato Valentino Rossi",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/21/ben-shelton-carlos-alcaraz-semifinali-atp-finals/"
+      "url": "https://www.ilpost.it/2026/11/22/marquez-vittoria-moto-gp-ottava-volta/"
     },
     {
       "cat": "sport",
-      "title": "Marc Márquez è caduto durante la gara sprint del Gran Premio di Portogallo: gli mancavano pochi giri per vincere la MotoGP",
+      "title": "Max Verstappen ha vinto un entusiasmante Gran Premio di Formula 1 a Las Vegas",
+      "summary": "Per una volta ci sono stati molti sorpassi (352!) e colpi di scena, mentre le Ferrari si sono complicate la gara a vicenda",
+      "fullSummary": "Per una volta ci sono stati molti sorpassi (352!) e colpi di scena, mentre le Ferrari si sono complicate la gara a vicenda",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/22/max-verstappen-gran-premio-formula-1-las-vegas-come-andato-kimi-antonelli-ferrari/"
+    },
+    {
+      "cat": "sport",
+      "title": "Carlos Alcaraz e Alexander Zverev sono in finale alle ATP Finals",
+      "summary": "Si sono qualificati dopo due semifinali piuttosto equilibrate, rispettivamente contro Ben Shelton e Daniil Medvedev",
+      "fullSummary": "Si sono qualificati dopo due semifinali piuttosto equilibrate, rispettivamente contro Ben Shelton e Daniil Medvedev",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/21/carlos-alcaraz-alexander-zverev-finale-atp-finals/"
+    },
+    {
+      "cat": "sport",
+      "title": "Marc Márquez è caduto durante la gara sprint del Gran Premio del Portogallo: gli mancavano pochi giri per vincere la MotoGP",
       "summary": "",
-      "fullSummary": "Marc Márquez è caduto durante la gara sprint del Gran Premio di Portogallo: gli mancavano pochi giri per vincere la MotoGP",
+      "fullSummary": "Marc Márquez è caduto durante la gara sprint del Gran Premio del Portogallo: gli mancavano pochi giri per vincere la MotoGP",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/21/marc-marquez-caduto-sprint-gran-premio-portogallo-motogp/"
     },
     {
-      "cat": "sport",
-      "title": "Dal 2030 le macchine di Formula 1 saranno più rumorose",
-      "summary": "Torneranno i vecchi e apprezzati motori a otto cilindri: alcuni piloti ne sono già entusiasti",
-      "fullSummary": "Torneranno i vecchi e apprezzati motori a otto cilindri: alcuni piloti ne sono già entusiasti",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/21/formula-1-torna-motori-v8-fia/"
-    },
-    {
-      "cat": "sport",
-      "title": "Flavio Cobolli ha perso anche la sua terza partita alle ATP Finals di tennis, contro Carlos Alcaraz",
-      "summary": "",
-      "fullSummary": "Flavio Cobolli ha perso anche la sua terza partita alle ATP Finals di tennis, contro Carlos Alcaraz",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/20/cobolli-alcaraz-atp-finals-risultato/"
+      "cat": "scienza",
+      "title": "Gli anziani di oggi hanno una memoria migliore",
+      "summary": "Chi entra oggi nell&#039;età avanzata lo fa mantenendo più a lungo memoria e altri funzioni cognitive intatte rispetto alle precedenti gener…",
+      "fullSummary": "Chi entra oggi nell&#039;età avanzata lo fa mantenendo più a lungo memoria e altri funzioni cognitive intatte rispetto alle precedenti generazioni.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/chi-entra-oggi-nella-vecchiaia-lo-fa-con-una-memoria-migliore-rispetto-ai-suoi-genitori"
     },
     {
       "cat": "scienza",
@@ -120,14 +128,6 @@
       "fullSummary": "Alterazioni di ritmi circadiani e metabolismo caratterizzano le prime fasi dell&#039;Alzheimer: uno studio sull&#039;ipotalamo ne spiega le basi biologiche.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/l-alzheimer-interessa-anche-l-ipotalamo-e-i-segnali-si-vedono-da-subito"
-    },
-    {
-      "cat": "scienza",
-      "title": "Le meteo-foto più belle del 2026",
-      "summary": "Una cascata di nebbia a Maiorca vince il Weather Photographer of the Year 2026. Guarda le foto premiate, dai fulmini su New York all&#039;An…",
-      "fullSummary": "Una cascata di nebbia a Maiorca vince il Weather Photographer of the Year 2026. Guarda le foto premiate, dai fulmini su New York all&#039;Antartide.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/scienze/weather-photographer-year-2026-foto-vincitrici"
     },
     {
       "cat": "storia",
