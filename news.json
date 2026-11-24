@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T09:23:36.640Z",
+  "generatedAt": "2026-11-24T22:10:31.624Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Il fatto che De Gennaro fosse spiato nel suo ufficio non è una cosa da poco",
+      "summary": "Perché il suo ufficio era nel Centro Studi Americani di Roma, un posto MOLTO particolare",
+      "fullSummary": "Perché il suo ufficio era nel Centro Studi Americani di Roma, un posto MOLTO particolare",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/24/de-gennaro-intercettazioni-microspie-centro-studi-americani/"
+    },
+    {
+      "cat": "politica",
+      "title": "Il discusso ruolo della commissione Antimafia nell&#8217;inchiesta su De Gennaro",
+      "summary": "La maggioranza di destra aveva appoggiato e dato risalto alle indagini della procura di Caltanissetta, anche per convenienza politica",
+      "fullSummary": "La maggioranza di destra aveva appoggiato e dato risalto alle indagini della procura di Caltanissetta, anche per convenienza politica",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/24/commissione-antimafia-gianni-de-gennaro-indagine/"
+    },
+    {
+      "cat": "politica",
+      "title": "Le accuse a Calogero Pisano, deputato di Fratelli d&#8217;Italia",
+      "summary": "Il gip di Agrigento ha chiesto l’autorizzazione agli arresti domiciliari, in un’inchiesta su finanziamenti pubblici irregolari",
+      "fullSummary": "Il gip di Agrigento ha chiesto l’autorizzazione agli arresti domiciliari, in un’inchiesta su finanziamenti pubblici irregolari",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/24/calogero-pisano-fratelli-ditalia-arresto-giunta-autorizzazioni-parlamento/"
+    },
     {
       "cat": "politica",
       "title": "La maggioranza si è divisa in un voto sui libri scolastici",
@@ -10,60 +34,52 @@
       "url": "https://www.ilpost.it/2026/11/19/governo-maggioranza-decreto-scuola-libri-digitali-senato/"
     },
     {
-      "cat": "politica",
-      "title": "Secondo Repubblica la procura di Roma ha aperto un’indagine senza ipotesi di reato su Futuro Nazionale",
+      "cat": "mondo",
+      "title": "In Francia il politico di estrema destra Éric Zemmour è stato condannato per aver minimizzato la Shoah",
       "summary": "",
-      "fullSummary": "Secondo Repubblica la procura di Roma ha aperto un’indagine senza ipotesi di reato su Futuro Nazionale",
+      "fullSummary": "In Francia il politico di estrema destra Éric Zemmour è stato condannato per aver minimizzato la Shoah",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/18/secondo-repubblica-la-procura-di-roma-ha-aperto-unindagine-senza-ipotesi-di-reato-su-futuro-nazionale/"
-    },
-    {
-      "cat": "politica",
-      "title": "Tra il governo e le banche butta male, anzi malissimo",
-      "summary": "Lo Stato ha deciso unilateralmente di non ripagare l'anno prossimo un debito con le banche da 20,5 miliardi, e non è nemmeno l'unica questio…",
-      "fullSummary": "Lo Stato ha deciso unilateralmente di non ripagare l'anno prossimo un debito con le banche da 20,5 miliardi, e non è nemmeno l'unica questione",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/18/tassa-banche-extraprofitti-messina-orcel-superbonus-manovra/"
-    },
-    {
-      "cat": "politica",
-      "title": "Cosa c&#8217;è nella proposta della maggioranza per vietare i social ai minori di 13 anni",
-      "summary": "Come verrebbe verificata l'età, cosa cambierebbe per chi ha fino a 16 anni e cosa ancora non è stato deciso",
-      "fullSummary": "Come verrebbe verificata l'età, cosa cambierebbe per chi ha fino a 16 anni e cosa ancora non è stato deciso",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/18/proposta-maggioranza-divieto-social-network-minori-emendamento/"
+      "url": "https://www.ilpost.it/2026/11/24/in-francia-il-politico-di-estrema-destra-eric-zemmour-e-stato-condannato-per-aver-minimizzato-la-shoah/"
     },
     {
       "cat": "mondo",
-      "title": "Perché l&#8217;India non riesce proprio a ridurre l&#8217;inquinamento?",
-      "summary": "In molte città c’è una nebbia grigia e l’aria è irrespirabile, di nuovo",
-      "fullSummary": "In molte città c’è una nebbia grigia e l’aria è irrespirabile, di nuovo",
+      "title": "I risultati di tre anni di Milei per l’economia argentina",
+      "summary": "Per un po' le politiche del presidente ultraliberista hanno portato un miglioramento, poi le cose sono tornate a peggiorare: nel 2027 si vot…",
+      "fullSummary": "Per un po' le politiche del presidente ultraliberista hanno portato un miglioramento, poi le cose sono tornate a peggiorare: nel 2027 si vota",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/23/india-inquinamento-motivi-risposte/"
+      "url": "https://www.ilpost.it/2026/11/24/economia-argentina-peggiorata-milei/"
     },
     {
       "cat": "mondo",
-      "title": "La Corte Suprema spagnola ha infine applicato l’amnistia a Carles Puigdemont dopo una lunga controversia legale",
-      "summary": "",
-      "fullSummary": "La Corte Suprema spagnola ha infine applicato l’amnistia a Carles Puigdemont dopo una lunga controversia legale",
+      "title": "Il piano di Chamonix per ridurre il turismo",
+      "summary": "Il comune francese ai piedi del Monte Bianco vuole introdurre un limite al numero di visitatori in alcune zone molto frequentate",
+      "fullSummary": "Il comune francese ai piedi del Monte Bianco vuole introdurre un limite al numero di visitatori in alcune zone molto frequentate",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/23/puigdemont-amnistia/"
+      "url": "https://www.ilpost.it/2026/11/24/piano-chamonix-limita-turismo/"
     },
     {
       "cat": "mondo",
-      "title": "Vox è soprattutto Santiago Abascal",
-      "summary": "È di gran lunga il politico più potente e carismatico del partito di estrema destra spagnolo, e per questo è un po' ovunque in campagna elet…",
-      "fullSummary": "È di gran lunga il politico più potente e carismatico del partito di estrema destra spagnolo, e per questo è un po' ovunque in campagna elettorale",
+      "title": "Cosa dicono gli ultimi sondaggi per le elezioni spagnole",
+      "summary": "I Socialisti del primo ministro Pedro Sánchez stanno recuperando, ma non abbastanza per vincere contro le destre: si vota domenica",
+      "fullSummary": "I Socialisti del primo ministro Pedro Sánchez stanno recuperando, ma non abbastanza per vincere contro le destre: si vota domenica",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/23/vox-santiago-abascal-potere/"
+      "url": "https://www.ilpost.it/2026/11/24/sondaggi-spagna-finali/"
     },
     {
-      "cat": "mondo",
-      "title": "Gisèle Pelicot vuole denunciare una casa editrice per aver usato alcune sue foto intime per promuovere un libro",
-      "summary": "",
-      "fullSummary": "Gisèle Pelicot vuole denunciare una casa editrice per aver usato alcune sue foto intime per promuovere un libro",
+      "cat": "sport",
+      "title": "L’operazione più chiacchierata dello sport italiano",
+      "summary": "Quella al ginocchio di Jannik Sinner, in Finlandia, avvenuta stamattina: ne parlano tutti, tranne lui",
+      "fullSummary": "Quella al ginocchio di Jannik Sinner, in Finlandia, avvenuta stamattina: ne parlano tutti, tranne lui",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/23/gisele-pelicot-vuole-denunciare-una-casa-editrice-per-aver-usato-alcune-sue-foto-intime-per-promuovere-un-libro/"
+      "url": "https://www.ilpost.it/2026/11/24/sinner-operazione-ginocchio-oggi-cos-ha/"
+    },
+    {
+      "cat": "sport",
+      "title": "Il Senegal ha vinto la Coppa d&#8217;Africa, dieci mesi dopo aver giocato la finale",
+      "summary": "Il TAS di Losanna ha accolto il ricorso della squadra: aveva vinto sul campo, ma la Confederazione africana aveva assegnato la vittoria al M…",
+      "fullSummary": "Il TAS di Losanna ha accolto il ricorso della squadra: aveva vinto sul campo, ma la Confederazione africana aveva assegnato la vittoria al Marocco",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/24/coppa-africa-tas-vittoria-marocco-senegal/"
     },
     {
       "cat": "sport",
@@ -82,20 +98,20 @@
       "url": "https://www.ilpost.it/2026/11/23/calcio-mondiali-femminili-2031-2035/"
     },
     {
-      "cat": "sport",
-      "title": "Jannik Sinner sarà operato al ginocchio destro martedì, dice Sky Sport",
-      "summary": "",
-      "fullSummary": "Jannik Sinner sarà operato al ginocchio destro martedì, dice Sky Sport",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/23/sinner-operazione-ginocchio/"
+      "cat": "scienza",
+      "title": "Il caso della donna che andava &quot;in letargo&quot;",
+      "summary": "&lt;p&gt;Per trent&#039;anni una donna &amp;egrave; entrata in uno stato simile al letargo durante l&#039;inverno. L&#039;analisi del tessut…",
+      "fullSummary": "&lt;p&gt;Per trent&#039;anni una donna &amp;egrave; entrata in uno stato simile al letargo durante l&#039;inverno. L&#039;analisi del tessuto cerebrale ha rivelato una drastica riduzione di una proteina chiave per le sinapsi e la perdita di specifici ormoni nell&#039;orologio biologico.&lt;/p&gt;",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/scienze/la-storia-della-donna-che-andava-in-letargo"
     },
     {
-      "cat": "sport",
-      "title": "Tra Leclerc e Hamilton va sempre peggio",
-      "summary": "Le loro Ferrari si sono di nuovo toccate durante un Gran Premio, e secondo il capo della scuderia la situazione sta diventando «ingestibile»",
-      "fullSummary": "Le loro Ferrari si sono di nuovo toccate durante un Gran Premio, e secondo il capo della scuderia la situazione sta diventando «ingestibile»",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/23/leclerc-hamilton-ferrari/"
+      "cat": "scienza",
+      "title": "Pianeta X2: il mondo nascosto oltre Nettuno",
+      "summary": "Uno studio simulato su 4,5 miliardi di anni ipotizza un pianeta grande fino a due volte la Terra nascosto oltre Nettuno: il pianeta X2 che s…",
+      "fullSummary": "Uno studio simulato su 4,5 miliardi di anni ipotizza un pianeta grande fino a due volte la Terra nascosto oltre Nettuno: il pianeta X2 che spiegherebbe le orbite anomale dei corpi ghiacciati pi&amp;ugrave; remoti.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/spazio/potrebbe-esserci-un-nono-pianeta-oltre-l-orbita-di-nettuno-l-ipotesi-sul-pianeta-x2"
     },
     {
       "cat": "scienza",
@@ -114,20 +130,20 @@
       "url": "https://www.focus.it/scienza/spazio/bepicolombo-e-finalmente-in-orbita-attorno-a-mercurio-ma-c-e-un-imprevisto-un-problema-software-accorcia-la-manovra"
     },
     {
-      "cat": "scienza",
-      "title": "Un parente del Viagra rallenta l&#039;Alzheimer?",
-      "summary": "Una pillola che rilassa i vasi sanguigni sembra rallentare la progressione dell&#039;Alzheimer, ma solo in pazienti che non usano altri farm…",
-      "fullSummary": "Una pillola che rilassa i vasi sanguigni sembra rallentare la progressione dell&#039;Alzheimer, ma solo in pazienti che non usano altri farmaci.",
+      "cat": "storia",
+      "title": "Da quando abbiamo paura del diavolo?",
+      "summary": "Quasi assente nel Vecchio Testamento, il diavolo si afferm&amp;ograve; solo con il cristianesimo, ma ha antenati mesopotamici, persiani e gr…",
+      "fullSummary": "Quasi assente nel Vecchio Testamento, il diavolo si afferm&amp;ograve; solo con il cristianesimo, ma ha antenati mesopotamici, persiani e greci. Prima di diventare una creatura mostruosa nel Medioevo, fu immaginato dai primi cristiani come un essere angelico.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/un-farmaco-che-imita-il-viagra-potrebbe-rallentare-l-alzheimer"
+      "url": "https://www.focus.it/cultura/storia/da-quando-abbiamo-paura-del-diavolo"
     },
     {
-      "cat": "scienza",
-      "title": "Gli anziani di oggi hanno una memoria migliore",
-      "summary": "Chi entra oggi nell&#039;età avanzata lo fa mantenendo più a lungo memoria e altri funzioni cognitive intatte rispetto alle precedenti gener…",
-      "fullSummary": "Chi entra oggi nell&#039;età avanzata lo fa mantenendo più a lungo memoria e altri funzioni cognitive intatte rispetto alle precedenti generazioni.",
+      "cat": "storia",
+      "title": "Quando cadde Babilonia? Forse nel 1587 a.C.",
+      "summary": "Uno studio su PNAS misura il carbonio 14 negli anelli di antiche travi turche e propone di spostare la caduta di Babilonia dal 1595 al 1587 …",
+      "fullSummary": "Uno studio su PNAS misura il carbonio 14 negli anelli di antiche travi turche e propone di spostare la caduta di Babilonia dal 1595 al 1587 a.C. circa.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/chi-entra-oggi-nella-vecchiaia-lo-fa-con-una-memoria-migliore-rispetto-ai-suoi-genitori"
+      "url": "https://www.focus.it/cultura/storia/caduta-di-babilonia-la-data-dei-libri-di-scuola-cambia"
     },
     {
       "cat": "storia",
@@ -146,20 +162,12 @@
       "url": "https://www.focus.it/cultura/curiosita/il-nuovo-focus-in-edicola-e-un-viaggio-nel-mistero-del-tempo-da-leggere-senza-fretta"
     },
     {
-      "cat": "storia",
-      "title": "Qual era la lingua più parlata nell’Impero romano?",
-      "summary": "Nell&#039;Impero romano esistevano due lingue ufficiali: il latino, considerato poco pi&amp;ugrave; che una lingua da contadini, e il greco,…",
-      "fullSummary": "Nell&#039;Impero romano esistevano due lingue ufficiali: il latino, considerato poco pi&amp;ugrave; che una lingua da contadini, e il greco, preferito negli ambienti colti. Almeno fino allo scisma che divise in due l&#039;Impero.",
+      "cat": "tech",
+      "title": "Androidi, nel 2083 saranno 10 miliardi?",
+      "summary": "Secondo uno studio matematico tra meno di 60 anni potrebbero esserci tanti androidi quanti umani. Ma affinché questo avvenga, dovranno inizi…",
+      "fullSummary": "Secondo uno studio matematico tra meno di 60 anni potrebbero esserci tanti androidi quanti umani. Ma affinché questo avvenga, dovranno iniziare ad autoprodursi.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/storia/qual-era-la-lingua-piu-parlata-nell-impero-romano"
-    },
-    {
-      "cat": "storia",
-      "title": "Il cibo dello Spazio ha cambiato le nostre tavole",
-      "summary": "Dai tubetti di carne consumati dagli astronauti alle serre verticali per Marte, la necessit&amp;agrave; di nutrire gli astronauti ha trasfor…",
-      "fullSummary": "Dai tubetti di carne consumati dagli astronauti alle serre verticali per Marte, la necessit&amp;agrave; di nutrire gli astronauti ha trasformato il modo in cui mangiamo: cos&amp;igrave; sono nati i protocolli di sicurezza alimentare Haccp.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/alimentazione-astronauti-cambiato-modo-mangiare-terra"
+      "url": "https://www.focus.it/tecnologia/innovazione/androidi-nel-2083-potrebbero-esisterne-10-miliardi"
     },
     {
       "cat": "tech",
@@ -184,14 +192,6 @@
       "fullSummary": "Nel 2013 un ragazzo attaccò otto domini legati alla NASA, mentre nel 2023 un gruppo di hacker italiani violò un satellite, ma con finalità diverse.",
       "source": "Focus.it",
       "url": "https://www.focus.it/tecnologia/innovazione/esistono-anche-gruppi-hacker-italiani"
-    },
-    {
-      "cat": "tech",
-      "title": "L&#039;IA fa resuscitare i VHS?",
-      "summary": "Per gestire la fame di dati dell&#039;IA, i data center riscoprono i vantaggi dei nastri magnetici VHS: consumi energetici azzerati a riposo…",
-      "fullSummary": "Per gestire la fame di dati dell&#039;IA, i data center riscoprono i vantaggi dei nastri magnetici VHS: consumi energetici azzerati a riposo, protezione dai ransomware e capacit&amp;agrave; di archiviare fino a 40 terabyte.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/tecnologia/hi-tech/l-intelligenza-artificiale-fa-resuscitare-i-nastri-magnetici-il-ritorno-della-tecnologia-delle-vhs"
     }
   ]
 }
