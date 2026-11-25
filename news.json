@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-24T22:10:31.624Z",
+  "generatedAt": "2026-11-25T07:49:43.553Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Anche quest&#8217;anno non poteva mancare un condono edilizio",
+      "summary": "La destra sta provando a inserirlo in legge di bilancio e i partiti al governo si stanno rincorrendo per intestarselo",
+      "fullSummary": "La destra sta provando a inserirlo in legge di bilancio e i partiti al governo si stanno rincorrendo per intestarselo",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/24/condono-legge-di-bilancio-2027-emendamenti/"
+    },
     {
       "cat": "politica",
       "title": "Il fatto che De Gennaro fosse spiato nel suo ufficio non è una cosa da poco",
@@ -26,50 +34,42 @@
       "url": "https://www.ilpost.it/2026/11/24/calogero-pisano-fratelli-ditalia-arresto-giunta-autorizzazioni-parlamento/"
     },
     {
-      "cat": "politica",
-      "title": "La maggioranza si è divisa in un voto sui libri scolastici",
-      "summary": "Fratelli d’Italia e Forza Italia si sono scontrati duramente su un emendamento al “decreto scuola”, che però alla fine è passato lo stesso",
-      "fullSummary": "Fratelli d’Italia e Forza Italia si sono scontrati duramente su un emendamento al “decreto scuola”, che però alla fine è passato lo stesso",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/19/governo-maggioranza-decreto-scuola-libri-digitali-senato/"
-    },
-    {
       "cat": "mondo",
-      "title": "In Francia il politico di estrema destra Éric Zemmour è stato condannato per aver minimizzato la Shoah",
+      "title": "Due agenzie di intelligence statunitensi hanno subito un attacco informatico",
       "summary": "",
-      "fullSummary": "In Francia il politico di estrema destra Éric Zemmour è stato condannato per aver minimizzato la Shoah",
+      "fullSummary": "Due agenzie di intelligence statunitensi hanno subito un attacco informatico",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/in-francia-il-politico-di-estrema-destra-eric-zemmour-e-stato-condannato-per-aver-minimizzato-la-shoah/"
+      "url": "https://www.ilpost.it/2026/11/24/cia-attacco-informatico/"
     },
     {
       "cat": "mondo",
-      "title": "I risultati di tre anni di Milei per l’economia argentina",
-      "summary": "Per un po' le politiche del presidente ultraliberista hanno portato un miglioramento, poi le cose sono tornate a peggiorare: nel 2027 si vot…",
-      "fullSummary": "Per un po' le politiche del presidente ultraliberista hanno portato un miglioramento, poi le cose sono tornate a peggiorare: nel 2027 si vota",
+      "title": "Un tribunale statunitense ha dichiarato Huawei colpevole di frode bancaria e furto di segreti industriali",
+      "summary": "",
+      "fullSummary": "Un tribunale statunitense ha dichiarato Huawei colpevole di frode bancaria e furto di segreti industriali",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/economia-argentina-peggiorata-milei/"
+      "url": "https://www.ilpost.it/2026/11/24/huawei-colpevole/"
     },
     {
       "cat": "mondo",
-      "title": "Il piano di Chamonix per ridurre il turismo",
-      "summary": "Il comune francese ai piedi del Monte Bianco vuole introdurre un limite al numero di visitatori in alcune zone molto frequentate",
-      "fullSummary": "Il comune francese ai piedi del Monte Bianco vuole introdurre un limite al numero di visitatori in alcune zone molto frequentate",
+      "title": "21 persone sono tenute in ostaggio in un supermercato di Cartagena, in Colombia",
+      "summary": "",
+      "fullSummary": "21 persone sono tenute in ostaggio in un supermercato di Cartagena, in Colombia",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/piano-chamonix-limita-turismo/"
+      "url": "https://www.ilpost.it/2026/11/24/ostaggi-supermercato-cartagena/"
     },
     {
       "cat": "mondo",
-      "title": "Cosa dicono gli ultimi sondaggi per le elezioni spagnole",
-      "summary": "I Socialisti del primo ministro Pedro Sánchez stanno recuperando, ma non abbastanza per vincere contro le destre: si vota domenica",
-      "fullSummary": "I Socialisti del primo ministro Pedro Sánchez stanno recuperando, ma non abbastanza per vincere contro le destre: si vota domenica",
+      "title": "Nicolas Sarkozy e Carla Bruni saranno processati con l’accusa di aver corrotto un testimone",
+      "summary": "",
+      "fullSummary": "Nicolas Sarkozy e Carla Bruni saranno processati con l’accusa di aver corrotto un testimone",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/sondaggi-spagna-finali/"
+      "url": "https://www.ilpost.it/2026/11/24/processo-sarkozy-bruni/"
     },
     {
       "cat": "sport",
       "title": "L’operazione più chiacchierata dello sport italiano",
-      "summary": "Quella al ginocchio di Jannik Sinner, in Finlandia, avvenuta stamattina: ne parlano tutti, tranne lui",
-      "fullSummary": "Quella al ginocchio di Jannik Sinner, in Finlandia, avvenuta stamattina: ne parlano tutti, tranne lui",
+      "summary": "Quella al ginocchio di Jannik Sinner, in Finlandia, avvenuta stamattina: ne ha parlato anche lui",
+      "fullSummary": "Quella al ginocchio di Jannik Sinner, in Finlandia, avvenuta stamattina: ne ha parlato anche lui",
       "source": "Il Post",
       "url": "https://www.ilpost.it/2026/11/24/sinner-operazione-ginocchio-oggi-cos-ha/"
     },
@@ -99,6 +99,14 @@
     },
     {
       "cat": "scienza",
+      "title": "Violenza sulle donne: il primo soccorso pubblico",
+      "summary": "Nel 1996 a Milano apriva il primo soccorso pubblico per le vittime di violenza sulle donne: le novità storiche introdotte da Alessandra Kust…",
+      "fullSummary": "Nel 1996 a Milano apriva il primo soccorso pubblico per le vittime di violenza sulle donne: le novità storiche introdotte da Alessandra Kustermann.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/violenza-sulle-donne-le-novita-del-primo-soccorso-pubblico"
+    },
+    {
+      "cat": "scienza",
       "title": "Il caso della donna che andava &quot;in letargo&quot;",
       "summary": "&lt;p&gt;Per trent&#039;anni una donna &amp;egrave; entrata in uno stato simile al letargo durante l&#039;inverno. L&#039;analisi del tessut…",
       "fullSummary": "&lt;p&gt;Per trent&#039;anni una donna &amp;egrave; entrata in uno stato simile al letargo durante l&#039;inverno. L&#039;analisi del tessuto cerebrale ha rivelato una drastica riduzione di una proteina chiave per le sinapsi e la perdita di specifici ormoni nell&#039;orologio biologico.&lt;/p&gt;",
@@ -120,14 +128,6 @@
       "fullSummary": "Uno studio sull&#039;importanza del riposo per gli equilibri chimici del cervello potrebbe spiegare perché gli atleti soffrano spesso di ansia o insonnia.",
       "source": "Focus.it",
       "url": "https://www.focus.it/scienza/salute/l-allenamento-eccessivo-e-senza-pause-manda-il-cervello-in-tilt"
-    },
-    {
-      "cat": "scienza",
-      "title": "BepiColombo in orbita attorno a Mercurio",
-      "summary": "Dopo otto anni nello spazio, la missione BepiColombo ha raggiunto Mercurio: un&#039;anomalia software ha per&amp;ograve; accorciato la manov…",
-      "fullSummary": "Dopo otto anni nello spazio, la missione BepiColombo ha raggiunto Mercurio: un&#039;anomalia software ha per&amp;ograve; accorciato la manovra d&#039;ingresso e ora si valutano i possibili effetti sul resto del viaggio.",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/spazio/bepicolombo-e-finalmente-in-orbita-attorno-a-mercurio-ma-c-e-un-imprevisto-un-problema-software-accorcia-la-manovra"
     },
     {
       "cat": "storia",
