@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-25T07:49:43.553Z",
+  "generatedAt": "2026-11-25T19:06:29.463Z",
   "items": [
+    {
+      "cat": "politica",
+      "title": "Come il centrosinistra potrebbe mettersi d&#8217;accordo sull&#8217;Ucraina",
+      "summary": "Tutto ruota attorno a questioni più semantiche che di sostanza, anche perché di armi l'Italia ne manda già poche",
+      "fullSummary": "Tutto ruota attorno a questioni più semantiche che di sostanza, anche perché di armi l'Italia ne manda già poche",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/25/accordo-ucraina-campo-largo-centrosinistra/"
+    },
+    {
+      "cat": "politica",
+      "title": "Forse torna “Opzione Donna”",
+      "summary": "Cioè la misura che consente ad alcune categorie di lavoratrici di andare in pensione in anticipo, e che non era stata rinnovata lo scorso an…",
+      "fullSummary": "Cioè la misura che consente ad alcune categorie di lavoratrici di andare in pensione in anticipo, e che non era stata rinnovata lo scorso anno",
+      "source": "Il Post",
+      "url": "https://www.ilpost.it/2026/11/25/legge-di-bilancio-2027-opzione-donna-emendamenti/"
+    },
     {
       "cat": "politica",
       "title": "Anche quest&#8217;anno non poteva mancare un condono edilizio",
@@ -18,84 +34,76 @@
       "url": "https://www.ilpost.it/2026/11/24/de-gennaro-intercettazioni-microspie-centro-studi-americani/"
     },
     {
-      "cat": "politica",
-      "title": "Il discusso ruolo della commissione Antimafia nell&#8217;inchiesta su De Gennaro",
-      "summary": "La maggioranza di destra aveva appoggiato e dato risalto alle indagini della procura di Caltanissetta, anche per convenienza politica",
-      "fullSummary": "La maggioranza di destra aveva appoggiato e dato risalto alle indagini della procura di Caltanissetta, anche per convenienza politica",
+      "cat": "mondo",
+      "title": "La Corea del Nord ha espulso uno degli ultimi diplomatici europei",
+      "summary": "Il capo dell'ufficio svizzero: c'entra l'accusa di ospitare bambini ucraini rapiti dai russi, ma non solo",
+      "fullSummary": "Il capo dell'ufficio svizzero: c'entra l'accusa di ospitare bambini ucraini rapiti dai russi, ma non solo",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/commissione-antimafia-gianni-de-gennaro-indagine/"
-    },
-    {
-      "cat": "politica",
-      "title": "Le accuse a Calogero Pisano, deputato di Fratelli d&#8217;Italia",
-      "summary": "Il gip di Agrigento ha chiesto l’autorizzazione agli arresti domiciliari, in un’inchiesta su finanziamenti pubblici irregolari",
-      "fullSummary": "Il gip di Agrigento ha chiesto l’autorizzazione agli arresti domiciliari, in un’inchiesta su finanziamenti pubblici irregolari",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/calogero-pisano-fratelli-ditalia-arresto-giunta-autorizzazioni-parlamento/"
+      "url": "https://www.ilpost.it/2026/11/25/corea-del-nord-svizzera/"
     },
     {
       "cat": "mondo",
-      "title": "Due agenzie di intelligence statunitensi hanno subito un attacco informatico",
-      "summary": "",
-      "fullSummary": "Due agenzie di intelligence statunitensi hanno subito un attacco informatico",
+      "title": "Gli Stati Uniti hanno annunciato nuovi dazi contro decine di paesi",
+      "summary": "Tra cui la Cina e i paesi dell'Unione Europea: non sono ancora attivi e ci sono ancora cose poco chiare",
+      "fullSummary": "Tra cui la Cina e i paesi dell'Unione Europea: non sono ancora attivi e ci sono ancora cose poco chiare",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/cia-attacco-informatico/"
+      "url": "https://www.ilpost.it/2026/11/25/stati-uniti-dazi-novembre-2026/"
     },
     {
       "cat": "mondo",
-      "title": "Un tribunale statunitense ha dichiarato Huawei colpevole di frode bancaria e furto di segreti industriali",
-      "summary": "",
-      "fullSummary": "Un tribunale statunitense ha dichiarato Huawei colpevole di frode bancaria e furto di segreti industriali",
+      "title": "Dieci anni dopo, l&#8217;accordo di pace in Colombia sta funzionando poco",
+      "summary": "Quello tra governo e FARC, che oggi viene progressivamente svuotato dal presidente di destra Abelardo de la Espriella",
+      "fullSummary": "Quello tra governo e FARC, che oggi viene progressivamente svuotato dal presidente di destra Abelardo de la Espriella",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/huawei-colpevole/"
+      "url": "https://www.ilpost.it/2026/11/25/colombia-pace-farc-espriella/"
     },
     {
       "cat": "mondo",
-      "title": "21 persone sono tenute in ostaggio in un supermercato di Cartagena, in Colombia",
+      "title": "Il Brasile ha ritirato l&#8217;ambasciatore in Argentina perché il ministero degli Esteri argentino aveva messo in dubbio l&#8217;elezione di Lula",
       "summary": "",
-      "fullSummary": "21 persone sono tenute in ostaggio in un supermercato di Cartagena, in Colombia",
+      "fullSummary": "Il Brasile ha ritirato l&#8217;ambasciatore in Argentina perché il ministero degli Esteri argentino aveva messo in dubbio l&#8217;elezione di Lula",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/ostaggi-supermercato-cartagena/"
+      "url": "https://www.ilpost.it/2026/11/25/brasile-ritiro-ambasciatore-argentina/"
     },
     {
-      "cat": "mondo",
-      "title": "Nicolas Sarkozy e Carla Bruni saranno processati con l’accusa di aver corrotto un testimone",
+      "cat": "sport",
+      "title": "La NBA investirà almeno 10 miliardi di euro per il suo nuovo campionato di basket in Europa",
       "summary": "",
-      "fullSummary": "Nicolas Sarkozy e Carla Bruni saranno processati con l’accusa di aver corrotto un testimone",
+      "fullSummary": "La NBA investirà almeno 10 miliardi di euro per il suo nuovo campionato di basket in Europa",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/processo-sarkozy-bruni/"
+      "url": "https://www.ilpost.it/2026/11/25/nba-eurolega-2027-10-miliardi-euro-fiba-nba-europe/"
     },
     {
       "cat": "sport",
-      "title": "L’operazione più chiacchierata dello sport italiano",
-      "summary": "Quella al ginocchio di Jannik Sinner, in Finlandia, avvenuta stamattina: ne ha parlato anche lui",
-      "fullSummary": "Quella al ginocchio di Jannik Sinner, in Finlandia, avvenuta stamattina: ne ha parlato anche lui",
+      "title": "Federica Brignone si ritira",
+      "summary": "Per il troppo male alla gamba, ma prima farà un’ultima gara: è la sciatrice italiana più vincente di sempre",
+      "fullSummary": "Per il troppo male alla gamba, ma prima farà un’ultima gara: è la sciatrice italiana più vincente di sempre",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/sinner-operazione-ginocchio-oggi-cos-ha/"
+      "url": "https://www.ilpost.it/2026/11/25/federica-brignone-ritiro-sci-ultima-gara/"
     },
     {
       "cat": "sport",
-      "title": "Il Senegal ha vinto la Coppa d&#8217;Africa, dieci mesi dopo aver giocato la finale",
-      "summary": "Il TAS di Losanna ha accolto il ricorso della squadra: aveva vinto sul campo, ma la Confederazione africana aveva assegnato la vittoria al M…",
-      "fullSummary": "Il TAS di Losanna ha accolto il ricorso della squadra: aveva vinto sul campo, ma la Confederazione africana aveva assegnato la vittoria al Marocco",
+      "title": "Pep Guardiola ha detto che «quasi si vergognava» a rifiutare il ruolo di allenatore dell&#8217;Italia",
+      "summary": "Quando in estate glielo proposero Paolo Maldini e Leonardo: sono passati pochi mesi, ma nel frattempo sono cambiate molte cose",
+      "fullSummary": "Quando in estate glielo proposero Paolo Maldini e Leonardo: sono passati pochi mesi, ma nel frattempo sono cambiate molte cose",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/24/coppa-africa-tas-vittoria-marocco-senegal/"
+      "url": "https://www.ilpost.it/2026/11/25/pep-guardiola-nazionale-italia-no-vergogna/"
     },
     {
       "cat": "sport",
-      "title": "Il ritorno sul ring di Clemente Russo è durato poco",
-      "summary": "Ha perso abbastanza velocemente, ma ha dato alla boxe italiana una visibilità che non aveva da tempo",
-      "fullSummary": "Ha perso abbastanza velocemente, ma ha dato alla boxe italiana una visibilità che non aveva da tempo",
+      "title": "Un’altra Copa América di calcio negli Stati Uniti",
+      "summary": "Per la seconda volta consecutiva il più importante torneo tra squadre sudamericane non sarà in Sudamerica",
+      "fullSummary": "Per la seconda volta consecutiva il più importante torneo tra squadre sudamericane non sarà in Sudamerica",
       "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/23/clemente-russo-ritorno-el-maghraby/"
+      "url": "https://www.ilpost.it/2026/11/25/copa-america-di-calcio-stati-uniti/"
     },
     {
-      "cat": "sport",
-      "title": "I Mondiali femminili di calcio del 2031 si giocheranno tra Stati Uniti, Messico, Giamaica e Costa Rica",
-      "summary": "",
-      "fullSummary": "I Mondiali femminili di calcio del 2031 si giocheranno tra Stati Uniti, Messico, Giamaica e Costa Rica",
-      "source": "Il Post",
-      "url": "https://www.ilpost.it/2026/11/23/calcio-mondiali-femminili-2031-2035/"
+      "cat": "scienza",
+      "title": "Gaza oggi: una terra desolata e tossica",
+      "summary": "Un rapporto di Oxfam denuncia la contaminazione di acqua, suoli e aria lasciata dall&#039;occupazione israeliana. Intanto a Gaza dilaga la m…",
+      "fullSummary": "Un rapporto di Oxfam denuncia la contaminazione di acqua, suoli e aria lasciata dall&#039;occupazione israeliana. Intanto a Gaza dilaga la meningite.",
+      "source": "Focus.it",
+      "url": "https://www.focus.it/scienza/salute/gaza-oggi-e-una-terra-desolata-e-tossica-epicentro-di-epidemie"
     },
     {
       "cat": "scienza",
@@ -122,12 +130,12 @@
       "url": "https://www.focus.it/scienza/spazio/potrebbe-esserci-un-nono-pianeta-oltre-l-orbita-di-nettuno-l-ipotesi-sul-pianeta-x2"
     },
     {
-      "cat": "scienza",
-      "title": "Allenarsi troppo fa male al cervello",
-      "summary": "Uno studio sull&#039;importanza del riposo per gli equilibri chimici del cervello potrebbe spiegare perché gli atleti soffrano spesso di ans…",
-      "fullSummary": "Uno studio sull&#039;importanza del riposo per gli equilibri chimici del cervello potrebbe spiegare perché gli atleti soffrano spesso di ansia o insonnia.",
+      "cat": "storia",
+      "title": "Prima e dopo 24 ore in pronto soccorso",
+      "summary": "All&#039;ingresso lo sguardo &amp;egrave; disteso, ventiquattro ore dopo restano occhiaie e il peso delle emergenze notturne. Nato nel 2014 …",
+      "fullSummary": "Nel maggio del 2014, Leticia Ruiz Rivera, all'epoca medico specializzando nel reparto di Medicina Interna dell'Ospedale Universitario San Cecilio di Granada e appassionata di fotografia, ha ideato il progetto fotografico *Límites* (Limiti). L'iniziativa nasceva con l'obiettivo di mostrare cosa accade all'interno di un pronto soccorso durante un turno di 24 ore senza violare la riservatezza dei pazienti, testimoniando le loro vicende attraverso i segni impressi sui volti dei sanitari.\n\nAll'invito dell'autrice hanno risposto esclusivamente medici in formazione specialistica: diciannove colleghi e la stessa dottoressa, per un complesso di quaranta ritratti in bianco e nero stampati su carta baritata. Le immagini accostavano il \"prima\" e il \"dopo\" il servizio: all'ingresso i volti apparivano distesi e carichi di energia, mentre all'uscita mostravano occhiaie profonde, capelli arruffati e l'evidente stanchezza legata alle emergenze e alla sofferenza vissuta durante la notte. Esposta inizialmente presso la Facoltà di Medicina di Granada, la mostra intendeva rivelare la dimensione umana della professione per contrastarne la disumanizzazione.\n\nL'opera ha inoltre richiamato l'attenzione sulle criticità lavorative nell'Andalusia del 2014, caratterizzata da tagli alla sanità pubblica e dalla prospettiva di disoccupazione o precariato per i giovani medici costretti a turni estenuanti. Il progetto ha riscosso una vasta eco mediatica su emittenti e testate come ABC, RTVE ed *El País*, che lo ha descritto come esempio di fotografia terapeutica legata allo stress sul lavoro. \n\nDopo aver circolato a livello internazionale nel 2016, nel giugno del 2017 *Límites* è tornato protagonista con un'esposizione presso la Escuela Andaluza de Salud Pública di Granada, ripresa da *El HuffPost*. A oltre dieci anni dalla realizzazione, queste immagini testimoniano in modo pionieristico, ben prima della pandemia, le fragilità dei sistemi sanitari, il fenomeno del burnout ospedaliero e la silenziosa resistenza fisica ed emotiva di chi opera quotidianamente nell'emergenza.",
       "source": "Focus.it",
-      "url": "https://www.focus.it/scienza/salute/l-allenamento-eccessivo-e-senza-pause-manda-il-cervello-in-tilt"
+      "url": "https://www.focus.it/cultura/arte/cosa-cambia-sul-viso-di-un-medico-dopo-24-ore-in-corsia-la-storia-di-l-mites"
     },
     {
       "cat": "storia",
@@ -152,14 +160,6 @@
       "fullSummary": "Non sappiamo ancora cosa sia esattamente e nemmeno se esista davvero: il mito del Santo Graal ha assunto mille forme diverse con possibili tracce nascoste anche in Italia, tra Torino, Genova e Bari.",
       "source": "Focus.it",
       "url": "https://www.focus.it/cultura/mistero/che-cos-e-santo-graal-dove-potrebbe-trovarsi"
-    },
-    {
-      "cat": "storia",
-      "title": "Il nuovo numero da leggere... senza fretta!",
-      "summary": "&lt;span data-path-to-node=&quot;1,2,0,0&quot;&gt;Dagli orologi atomici ai segreti del panettone, passando per la Fomo e le spedizioni tra i…",
-      "fullSummary": "&lt;span data-path-to-node=&quot;1,2,0,0&quot;&gt;Dagli orologi atomici ai segreti del panettone, passando per la Fomo e le spedizioni tra i ghiacci: cosa trovi nel nuovo numero di Focus in edicola da leggere con calma&lt;/span&gt;&lt;span data-path-to-node=&quot;1,2,0,2&quot;&gt;.&lt;/span&gt;",
-      "source": "Focus.it",
-      "url": "https://www.focus.it/cultura/curiosita/il-nuovo-focus-in-edicola-e-un-viaggio-nel-mistero-del-tempo-da-leggere-senza-fretta"
     },
     {
       "cat": "tech",
